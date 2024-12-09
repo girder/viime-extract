@@ -1,0 +1,838 @@
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 0}
+
+Metabolomics analysis reveals dysregulation in one carbon metabolism
+in Friedreich Ataxia
+Thomas M. O'Connella,b,c,⁎, David L. Logsdonb,c,R .M a r kP a y n ed
+a Department of Otolaryngology-Head & Neck Surgery, Indiana University School of Medicine, Indianapolis, IN, United States of America
+b Department of Anatomy, Cell Biology & Physiology, Indiana University School of Medicine, Indianapolis, IN, United States of America
+c Indiana Center for Musculoskeletal Health, Indiana University School of Medicine, Indianapolis, IN, United States of America
+d Department of Pediatrics, Division of Cardiology, and Herman B Wells Center for Pediatric Research, Indiana University School of Medicine, Indianapolis, IN, United States of America
+abstractarticle info
+Article history:
+Received 24 February 2022
+Received in revised form 14 May 2022
+Accepted 5 June 2022
+Available online 13 June 2022
+Friedreich Ataxia (FA) is a rare and often fatal autosomal recessive disease in which a mitochondrial protein,
+frataxin (FXN), is severely reduced in all tissues. With loss of FXN, mitochondrial metabolism is severely
+disrupted. Multiple therapeutic approaches are in development, but a key limitation is the lack of biomarkers
+reﬂecting the activity of FXN in a timely fashion. We predicted this dysregulated metabolism would present a
+unique metabolite proﬁle in blood of FA patients versus Controls (Con). Plasma from 10 FA and 11 age and sex
+matched Con subjects was analyzed by targeted mass spectrometry and untargeted NMR. This combined ap-
+proach yielded quantitative measurements for 540 metabolites and found 59 unique metabolites (55 from MS
+and 4 from NMR) that were signiﬁcantly different between cohorts. Correlation-based network analysis revealed
+several clusters of pathway related metabolites including a cluster associated with one‑carbon (1C) metabolism
+composed of formate, sarcosine, hypoxanthine, and homocysteine. Receiver operator characteristics analyses
+demonstrated an excellent ability to discriminate between Con and FA with AUC values >0.95. These results
+are theﬁrst reported metabolomic analyses of human patients with FA. The metabolic perturbations, especially
+those related to 1C metabolism, may serve as a valuable biomarker panel of disease progression and response
+to therapy. The identiﬁcation of dysregulated 1C metabolism may also inform the search for new therapeutic tar-
+gets related to this pathway.
+© 2022 Published by Elsevier Inc.
+Keywords:
+Friedreich Ataxia
+Metabolomics
+Biomarkers
+One‑carbon metabolism
+1. Introduction
+Friedreich Ataxia (FA) [OMIM 229300] is a rare mitochondrial disor-
+der that results in a progressive neuro- and cardio-degenerative disease
+and typically begins in childhood. It is caused by the low expression of a
+small mitochondrial protein, frataxin (FXN), and leads to loss of motor
+skills and a cardiomyopathy within 10–15 years of diagnosis [1]. Pa-
+tients develop a primary neurodegeneration of the dorsal root ganglia
+(DRG) leading to the hallmark clinicalﬁndings of progressive ataxia
+and debilitating scoliosis [2,3]. A signiﬁcant percentage of patients will
+also develop a severe hypertrophic cardiomyopathy leading to death
+in the 3rd to 5th decade of life [4,5].
+Although it is the most common inherited ataxia in humans, it is a
+rare disease with a prevalence of approximately 1 in 50,000 Caucasians,
+and a population estimated at <6000 in the United States. Inheritance is
+autosomal recessive with equal frequency in males and females [6]a n d
+a carrier frequency of 1:60 to 1:120 [7–10]. The gene defect was identi-
+ﬁed in 1996 as a large GAA triplet expansion, frequently >800 repeats,
+in the ﬁrst intron of the human FXN gene (FRDA) on chromosome
+9q21.11 [11]. There is a correlation between GAA repeat number and
+the onset and severity of clinical symptoms with higher repeat numbers
+being associated with earlier onset and more rapid rate of disease pro-
+gression [12,13].
+The exact function of frataxin is not fully established [14] but it is
+known to play a signiﬁcant role in iron metabolism, iron storage, and
+iron‑sulfur (Fe/S) cluster biogenesis with numerous downstream effects
+including alterations to cellular energy metabolism [15]. The Fe/S pro-
+teins are ubiquitous components that have a diverse set of functions
+and are found in virtually all living cells. A number of enzymes that
+are critical to cellular energy metabolism are dependent on Fe/S clusters
+including mitochondrial electron transport chain complexes I, II, and III,
+aconitase in the Krebs Cycle, and electron transferﬂavoprotein (ETF). In
+its absence or with reduced levels, ATP production within mitochondria
+Molecular Genetics and Metabolism 136 (2022) 306–314
+⁎ Corresponding author at: Department of Otolaryngology-Head & Neck Surgery,
+Indiana University School of Medicine, 1300 W. Michigan St, Suite 400, Indianapolis, IN
+46202, United States of America.
+E-mail address:thoconne@iu.edu(T.M. O'Connell).
+https://doi.org/10.1016/j.ymgme.2022.06.002
+1096-7192/© 2022 Published by Elsevier Inc.
+Contents lists available atScienceDirect
+Molecular Genetics and Metabolism
+journal homepage: www.elsevier.com/locate/ymgme
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 1}
+
+is severely decreased with multiple metabolic effects [16,17] and signif-
+icant alterations in nuclear gene expression [18].
+The resulting defect in the electron transport chain and Krebs Cycle
+also causes a disruption in the NAD/NADH ratio [16], which is associated
+with heavy acetylation of multiple proteins throughout the mitochon-
+drial matrix [19]. This may be associated with impaired oxidation of
+fatty acids and a shift to glycolysis in energy dependent tissues, such
+as heart [17,20].
+Several new therapeutic approaches are now in clinical trials includ-
+ing Etravirine (NCT04273165), and Resveratrol (NCT03933163) (see
+listing at https://www.curefa.org/pipeline ). A major challenge for
+these trials is the inability to quickly monitor a biochemical response
+to the intervention. In the absence of an easily assayable function for
+FXN, it is difﬁcult to measure the pharmacodynamic response to the
+therapeutic drug to establish a dose-response relationship. Thus, trials
+have used clinical endpoints, such as the modiﬁed Friedreich's Ataxia
+Rating Scale (mFARS), but power analyses and recent assessment of
+progression characteristics have shown that trials using these endpoints
+need to be conducted for at least 1 to 2 years [21]. What is needed to ac-
+celerate drug discovery are a set of biomarkers that represent the de-
+ranged pathophysiology in FA and can rapidly and quantitatively
+detect the efﬁcacy of an intervention.
+The ﬁeld of metabolomics involves the comprehensive analysis of
+small molecules reﬂecting the substrates, intermediates, and products
+of cellular metabolism [22]. Given the severe metabolic perturbations
+predicted and observed in FA, it is surprising that metabolomics analy-
+ses have not been applied to human FA subjects before now. Using a
+comprehensive, multi-platform metabolomics approach our laboratory
+has found a highly distinctive metabolic signature in FA patients includ-
+ing speciﬁc alterations to one‑carbon (1C) metabolism related path-
+ways. Importantly, this metabolite panel could accurately distinguish
+controls from FA patients with high sensitivity and speciﬁcity suggest-
+ing this may have signiﬁcant potential to serve as a biomarker panel
+to report on disease progression and therapeutic interventions. Receiver
+operator characteristics analysis of the top 10 biomarkers yielded an
+area under the curve of 0.96 (CI = 0.75–1.0). This is theﬁrst report of
+perturbations to 1C metabolism pathway in FA. The mechanisms by
+which this dysregulated pathway impacts the disease state, including
+mitochondrial dysfunction and ultimately heart failure, are completely
+unexplored.
+2. Results
+The study cohort was composed of 11 healthy controls (Con) and 10
+patients with Friedreich Ataxia (FA). Patient characteristics for all sub-
+jects in the study are shown inTable 1. Of the FA subjects, 70% were
+on one or more cardiac medications includingβ-blockers, calcium chan-
+nel blockers, or diuretics. Two FA subjects were also on medications to
+control angina. No FA or Con subjects were on medication for diabetes.
+Two FA subjects were on chronic medications for muscle spasm or pain,
+and 60% of FA subjects were on a medication intended to help slow the
+advance or treat the neurologic symptom of FA including Idebenone and
+one subject who was also on selegiline. The Con subjects were on none
+of these medications. The FA cohort was composed of 9 Caucasian and 1
+Black subjects, whereas the Con cohort was composed of 11 Caucasian
+subjects. For the FA cohort, the average GAA repeat length on the
+shorter allele ranged from 158 repeats to >800, with an average of
+612 repeats. The age at FA diagnosis ranged from 5 yr (GAA repeat
+400) to 23 yr (GAA repeat = 549), with an average age at diagnosis of
+14.1 ± 5.9 yr. There were no signiﬁcant differences in age, sex, weight,
+height, or BMI between the groups.
+2.1. Metabolomics analysis yields distinct metabolic phenotype in FA pa-
+tients
+Metabolic proﬁling of serum from all subjects in this study was car-
+ried out using a comprehensive, multi-platform approach that included
+a targeted mass spectrometry (MS) platform and an untargeted nuclear
+magnetic resonance (NMR)-based platform. The combined approach
+yielded quantitative measurements of 540 metabolites and found 59
+unique metabolites (55 from MS and 4 from NMR) that were signiﬁ-
+cantly different between the control and FA groups. A heatmap of the
+metabolites is shown inFig. 1revealing distinct metabolite patterns
+for the Con compared with the FA.
+To better represent the magnitude and signiﬁcance of the speciﬁc
+changes, a set of volcano plots are shown inFig. 2.T or e d u c ec r o w d i n g
+in the plots, the dataset was divided into the 23 hydrophilic metabolites
+and the 36 lipid-related metabolites.Fig. 2A shows the hydrophilic
+Table 1
+Patient characteristics for all subjects in the study.
+Parameter Con ( n = 11) FA ( n = 10)
+Age (yr) 28 ± 8.7 23.3 ± 5.4
+Sex 6F/5M 5F/5M
+Wt (kg) 74.2 ± 10.8 75.7 ± 21.1
+Ht (cm) 170.4 ± 11.1 187.8 ± 8.3
+BMI (kg/M2) 25.8 ± 6.3 25.3 ± 5.5
+Baseline Medications
+Cardiac 0% 70%
+Pain 0% 20%
+FA speciﬁc 0% 60%
+Con FA
+Fig. 1.Heatmap of signiﬁcant metabolites in control and FA subjects. Metabolites are rep-
+resented as z-scores with red indicating higher levels and blue indicating lower levels.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+307
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 2}
+
+metabolites. The main plot shows metabolites with both positive and
+negative fold changes while the expansion shows that the three most
+signiﬁcantly altered metabolites in terms of both fold change and signif-
+icance are sarcosine, hypoxanthine and formate.Supplemental Table 1
+lists the log2 fold changes and Wilcoxonp- v a l u e sf o rt h e s em e t a b o l i t e s .
+The individual metabolite differences are shown as boxplots inSupple-
+mental Fig. 1.
+Fig. 2B shows the volcano plot for the 36 lipid-related species.
+The expansion shows the two most signiﬁcantly altered lipids are a
+cholesterol ester having an unsaturated 20 carbon fatty acid chain
+Fig. 2.Volcano plot of Signiﬁcant Metabolites (A) 23 hydrophilic metabolites with expansion of the three most signiﬁcantly altered metabolites and (B) 36 lipid related metabolites with
+expansion of two most signiﬁcantly perturbed lipid species. The red shaded region highlights the 14 TGs and two DGs which are all signiﬁcantly increased except for TG_6 (TG(18:1,26:0).
+See supplementary Table 2 for the full names of the lipid metabolites along with log2 fold changes andp-values.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+308
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 3}
+
+and a dihydroceramide with 18 and 22 carbon unsaturated fatty acid
+chains. The main plot shows that most of the lipids are triglycerides
+(TG) or phosphocholines (PC). To minimize overlap of the labels, the
+TGs and PCs were numbered. The fold change and signiﬁcance values
+along with the full metabolite names are included inSupplemental
+Table 2. With one exception (TG_6), all of the triglycerides are
+elevated in the FA patients while all of the phosphocholines are
+decreased.
+Note that in addition to the Wilcoxon analysis we also applied the
+Bonferroni and Benjamini-Hochberg multiple testing criteria. With
+those analyses, one metabolite, a cholesterol ester, CE(20:0) had signif-
+icant p-value of 0.019. The metabolites sarcosine and formate had
+Bonferroni correctedp-values of 0.052 and 0.059 respectively. Given
+the large number of metabolites measured and the relatively small
+number of samples, these multiple testing corrections are quite aggres-
+sive and may not be appropriate for a study of this size. The correlation
+analyses described ahead will add conﬁdence and biological plausibility
+to the biomarkers.
+To search for patterns among the altered metabolites, a Pearson cor-
+relation matrix was calculated to identify clusters of correlated metabo-
+lites. Supplemental Fig. 2shows a correlogram where the correlations
+that meet a p-value signiﬁcance threshold of 0.05 are shown with pos-
+itive correlations in blue and negative correlation in red. This plot
+makes it clear that the TG and PC lipids have strong inter-correlations.
+Near the center is a set of metabolites that includes hypoxanthine, for-
+mate, sarcosine, hydroxypropionylcarnitine (C3.OH) and homocysteine.
+These metabolites show signiﬁcant positive correlations to many of the
+PCs along with negative correlations to a cluster of metabolites at
+the bottom of the chart which includes acetate, dodecanedioc acid
+(DiCA.12.0), indoxylsulfate (Ind.SO4), arginine, glucose and carnitine
+(C0). This latter cluster also shows signiﬁcant negative correlations
+with many of the PCs.
+2.2. Network community analysis identiﬁes altered one‑carbon metabolism
+In order to further understand the patterns of metabolite changes, a
+correlation-based network community analysis was carried out using
+the Girvan-Newman algorithm [23]. In this approach, the metabolites
+are the network nodes and the network edges (connections between
+nodes) are the Pearson correlations. The algorithm detects communities
+by iteratively removing edges from the graph to break it down into
+smaller, highly connected pieces i.e., communities. In the context of
+metabolomics, this approach is intended to reveal clusters of metabo-
+lites that are highly correlated and thus could represent speciﬁc path-
+ways. Note that not all of the signiﬁcantly altered metabolites are
+shown in the network community diagram as the algorithm did not
+ﬁnd sufﬁcient connections for some metabolites to be included in a
+community.
+The network community analysis diagram generated using all 59
+of the signiﬁcant metabolites is shown inSupplemental Fig. 3.T h e
+algorithm detected four distinct communities whose members are
+listed inSupplemental Table 2. It is clear that that the second com-
+munity (blue) is dominated by PCs and the fourth community
+(green) is dominated by TGs. To simplify the network, the lipids
+were excluded. Fig. 3shows this reduced network community dia-
+gram which identiﬁed ﬁve communities. The community shown in
+green contains arginine, glucose and carnitine. The latter two metab-
+olites play a major role in carbohydrate and fatty acid metabolism.
+The community shown in gray contains glutamate and acetate,
+which also have a relationship with energy metabolism. The commu-
+nity shown in red contains the amino acids lysine and histidine and
+the community in yellow contain contains the branched chain
+amino acids, leucine and valine. The largest community shown in
+blue forms a dense network of 10 metabolites. This community in-
+cludes formate, sarcosine, hypoxanthine, choline, homocysteine,
+threonine, ornithine, lactate, hydroxypropionylcarnitine (C3.OH)
+and succinate. Theﬁrst ﬁve of these metabolites suggest a connection
+to one‑carbon metabolism.
+2.3. Metabolite proﬁles provide accurate discrimination of FA patients from
+controls
+A primary goal of this study was to develop a metabolic bio-
+marker panel that could be used to distinguish FA patients from
+controls. The composition of the panel would help identify the met-
+abolic defects in FA and this panel could then be used to quickly
+monitor disease progression and the ef ﬁcacy of therapeutic
+interventions. To evaluate the ability of this biomarker panel to
+distinguish between control and FA patients, a receiver operating
+characteristic (ROC) analyses were carried out. Using Monte-Carlo
+cross validation along with classiﬁcation and feature ranking using
+Random Forests, the ROC curves shown inFig. 4 were generated.
+The curves include those made using the entire set of 59 metabolites
+along with various feature ranked subsets down to only three me-
+tabolites. The performance of the biomarker panel is evaluated by
+the areas under the curve (AUC) with a value of 1 being perfect clas-
+siﬁcation and 0.5 being random. Each of the curves, including the
+one generated using only three metabolites provides excellent dis-
+crimination with a mean AUC value >0.95. The conﬁdence intervals
+also indicated excellent performance with the lowest value in the
+series being 0.685 when only three metabolites (formate, choles-
+terol ester 20:0 and sarcosine) were used.
+In its current form, the biomarker panel shows a sensitivity of >0.9
+with a speciﬁcity of about 0.8, indicating a strong ability to accurately
+detect the true-positives while minimizing false positives. This being
+said, this assay must be validated in a much larger cohort in order to
+evaluate clinical utility. Furthermore, the biomarker panel must be
+tested for the ability to rapidly respond to therapeutic interventions in
+order to satisfy one of the crucial unmet clinical needs.
+Fig. 3.Correlation Network Community Diagram of the hydrophilic metabolites. The
+Girvan-Newman algorithm applied to a Pearson correlation matrix identify highly con-
+nected subgraphs representing communities of metabolites. The analysis revealsﬁve com-
+munities indicated by the colors. The metabolite composition of the largest community
+suggests perturbations to 1C metabolism. Non-standard metabolite abbreviations include
+C0, carnitine; Ace, acetate; Orn, ornithine, Sarc, sarcosine; Form, formate; Suc, succinate;
+C3:OH, hydroxypropionlycarnitine; Hxan, hypoxanthine; HCys, homocysteine; Chol, cho-
+line and Lac, lactate.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+309
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 4}
+
+3. Discussion
+FA is fundamentally a metabolic disease with systemic impact and is
+especially disruptive for the heart and nervous system. Given the role
+that FXN is predicted to have in the biosynthesis of ubiquitous
+iron‑sulfur clusters and the potential for reduced FXN to profoundly
+alter cellular metabolism, it is surprising that there has been little appli-
+cation of metabolomics analyses to this disease. To our knowledge there
+have been two applications of metabolomics to FA to date, both using
+animal models. In the study by Martin et al., a metabolomics analyses
+on murine hearts in a model of FA cardiomyopathy revealed altered en-
+ergy metabolism including increasedﬂux through glucose utilizing
+pathways and altered phosphocreatine/ATP and phosphocreatine/crea-
+tine ratios [17]. This study also revealed that supplementation with the
+NAD precursor, nicotinamide mononucleotide (NMN) was able to re-
+duce the energetic dependence upon glycolysis and increase the oxida-
+tive utilization of glucose.
+In a second study focused on the neurodegeneration in FA, Hayashi
+et al., used a targeted tandem MS method to measure a panel of oxylipins
+in cerebellar samples [24]. Their studies revealed that reduced expres-
+sion of frataxin leads to an elevation of COX-2 mediated oxylipin synthe-
+sis, stimulated by increases in transcription factors as a result of increase
+in reactive oxygen species (ROS). The role of ROS in FA is well established
+and several in vitro studies using cultured cells from FA patients have
+shown that treatment with SS-31, a mitochondrial targeting peptide
+with antioxidant properties, along with iron chelators including deferox-
+amine and BAPTA-AM, mitigated cellular dysfunctions in FAﬁbroblasts
+[25,26]. Clinical trials in the past have logically included antioxidants
+and iron chelation [27,28]. Although they have shown mild biochemical
+improvement [29], they have not been clinically effective [30].
+Very early biochemical studies in FA patients suggested that pyru-
+vate metabolism along with alterations in taurine andβ-alanine were
+characteristic of FA [31]. The perturbations in pyruvate metabolism
+were not observed in all patients, but found in a signiﬁcant subset.
+Our results also showed signiﬁcant changes in glucose and pyruvate
+levels. The predisposition of FA patients to diabetes may be related to
+theseﬁnding. Both taurine andβ-alanine were included in our analyses,
+but neither showed a signiﬁcant difference.
+In this study, we present theﬁrst application of metabolomics to
+human FA patients. Our multi-platform, mass spectrometry and NMR-
+based approach provided a unique and comprehensive picture of the
+serum metabolome including a wide range of lipids as well as hydro-
+philic metabolites. Overall, we found an intriguing association of many
+of the most signiﬁcantly altered metabolites with pathways involved
+in one‑carbon metabolism including the folate cycle, methionine sal-
+vage, and purine nucleotide salvage and synthesis. The pathway dia-
+gram shown inFig. 5shows the relationship between these pathways
+and our metabolomicsﬁndings.
+The majorﬁndings from the lipids were the signiﬁcant decreases in
+phosphocholines and the increases in triglycerides. Elevated triglycer-
+ides are a consistent feature in FA patients [32,33]. Even though none
+of the FA subjects had overt diabetes, some of this dyslipidemia could
+be the result of a pre-diabetic state given that the FA subjects had signif-
+icantly higher serum glucose levels (Supplemental Fig. 1). It is known
+that there is an increased prevalence of diabetes in FA patients [34,35].
+The observation of signiﬁcantly reduced PCs is a more novelﬁnding.
+Phosphatidylcholine synthesis is thought to be the largest 1C sink in
+adult mammals [36]. As shown inFig. 5, the reduced levels of choline
+(log2FC =−0.362, p = 0.009) could lead to the reduction in the PCs.
+Note that mammalian cells cannot synthesize choline and therefore it
+comes from the diet. The reduced levels therefore indicated increased
+usage although decreased dietary absorption must also be considered.
+Another potential fate of choline is transformation to betaine to enable
+the synthesis of methionine from homocysteine. Maintaining the me-
+thionine levels and thus appropriate levels of S-adenosylmethionine
+(SAM) and S-adenosylhomocysteine (SAH) in the methionine salvage
+pathway is critical to preserving the methylating capacity of the cells
+[36]. The reduced levels of homocysteine (logFC =−0.548, p =
+0.036) observed would also be consistent with dysregulation in the
+methionine salvage pathway.
+The two metabolites with the most signiﬁcance alterations are
+formate (log2FC =−1.170, p = 0.0001) and sarcosine (log2FC =
+1–0.841, p = 0.0001). As shown inFig. 5,o n e‑carbon units can be gen-
+erated in the mitochondria in the folate cycle from the amino acids, ser-
+ine and glycine, as well as the choline metabolites, sarcosine and
+dimethylglycine. These reactions ultimately generate formate that can
+function as an inter-organ and inter-organelle shuttle of one‑carbon
+units. The mitochondrial transformation of tetrahydrofolate (THF) to
+5,10-methylene-THF can be coupled to the demethylation of serine or
+sarcosine to glycine via serine hydroxymethyltransferase (SHMT) or
+sarcosine dehydrogenase (SDH). Further transformation by methylene-
+tetrahydrofolate dehydrogenase 2 (MTHFD2) yields 10-formyl-THF
+which is then converted back to THF with the release of formate by
+the action of methylenetetrahydrofolate dehydrogenase (MTHFD1L).
+The signiﬁcant reduction in circulating formate found in FA patients is
+highly suggestive of dysregulated folate metabolism.
+There are also non-folate-dependent pathways that can generate
+formate including the catabolism of threonine and kynurenine, peroxi-
+somal β-oxidation of branched chain fatty acids, and cytochrome P-450
+mediated demethylation and oxidation reactions [37]. No differences in
+the levels of kynurenine were observed. The levels of threonine are in-
+deed reduced in FA patients, which may indicate some contribution
+from this pathway (see,Supplemental Table 1,L o g 2 F C=−0.437,
+p = 0.014). The oxidation of branched chain fatty acids would be ex-
+pected to be dependent primarily upon dietary sources of these fatty
+acids which would not likely be different in the FA and Con groups.
+Thus, it appears more plausible that the reduced formate levels are the
+result of folate cycle dysregulation.
+It is interesting to note that the serine levels in the FA patients were
+not signiﬁcantly altered. Serine is a major source of formate produced in
+mitochondria which is then released into the cytosol. As shown inFig. 5,
+in the cytosol, the transformation of 5,10-methylene-THF back to THF is
+coupled to the resynthesis of serine from glycine via serine hydroxy-
+methyltransferase 1 (SHMT2). The ability of the folate cycle to consume
+Fig. 4.Receiver operating characteristic curves for FA biomarkers. Legend lists the number
+of metabolites included in the model, the AUCs and the conﬁdence intervals.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+310
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 5}
+
+serine in the mitochondria and resynthesize it in the cytosol may play a
+role in the maintenance of serine levels, even under the conditions of a
+dysregulation of 1C metabolism.
+The reduced levels of sarcosine also suggest perturbations in 1C me-
+tabolism. Sarcosine can be derived from the catabolism of choline which
+is coupled to the remethylation of homocysteine to methionine. In this
+process, choline is transformed to betaine aldehyde via choline dehy-
+drogenase. This is followed by the action of aldehyde dehydrogenase
+yielding betaine. Betaine homocysteine-S-methyltransferase (BHMT)
+converts betaine and homocysteine to methionine and dimethylglycine.
+Finally, dimethylglycine is converted to sarcosine via dimethylglycine
+dehydrogenase. Sarcosine can then donate its methyl group to THF
+forming 5,10-methylene THF. Reduced levels of sarcosine could there-
+fore lead to a reduction in folate 1C units.
+Interestingly, dimethylglycine dehydrogenase (DMGDH), as well
+as sarcosine dehydrogenase (SDH), are both coupled to the electron
+transfer ﬂavoproteins (ETF) [38]. ETFs are a group of Fe/S containing
+proteins that are electron acceptors of several dehydrogenases and
+feed electrons to ETF:ubiquinone oxidoreductase (ETF:QO) complex
+in the electron transport chain. Thus, dysregulation of DMGDH due
+to impaired Fe/S biogenesis may be a factor in the reduced sarcosine
+levels. Sarcosine can also be generated by the transformation of me-
+thionine derived SAM to SAH which is coupled to glycine- N-
+methyltransferase GNMT) which donates a methyl group to glycine
+forming sarcosine.
+As there is no established essential function for sarcosine, the func-
+tion of GNMT may not be to generate sarcosine, but to regulate the
+levels of SAM and SAH [39]. The overall SAM/SAH ratio is sometimes
+considered to be an index of the methylating capacity of the cell. The
+dysregulated sarcosine levels could lead to wide ranging dysregulation
+in cellular methylation reactions.
+Purine nucleotide synthesis is connected to the folate cycle through
+the reaction of 10-formyl-THF with ribose-5-phosphate to form inosine
+monophosphate (IMP), which goes on to form other purine nucleotides;
+see Fig. 5. Given a potential deﬁcit in the production of 10-formyl-THF by
+a dysregulated folate cycle, purine nucleotide synthesis may be deﬁcient
+as well. Another potential resource for purine nucleotide synthesis is
+through the salvage pathway involving the conversion of hypoxanthine
+(HXan) to IMP via hypoxanthine-guanine phosphoribosyltransferase
+(HPRT1). The reduced levels of HXan (see Supplementary Table 1,
+log2FC =−1.650, p = 0.0004) would be consistent with an attempt of
+the purine salvage pathway to support purine nucleotide synthesis dur-
+ing a deﬁcit of 10-formyl-THF.
+Another potential fate of hypoxanthine is the degradation to xan-
+thine via xanthine oxidase (XO) and then to uric acid (UA). In support
+of this hypothesis, Schirinzi et al., reported an increase in serum UA in
+a study comparing 19 FA patients with 26 controls [40]. Circulating UA
+can have a beneﬁcial antioxidant functions that may be consistent
+with the established oxidative stress associated with FA [40]. Con-
+versely, elevated UA has also been suggested to act as a biomarker of
+ATP consumption, particularly under conditions of energy crisis as
+might be expected to occur in the FA heart.
+3.1. Mitochondrial dysfunction as a driver of dysregulation in one-carbon
+metabolism
+Several recent studies have revealed metabolic signatures of mi-
+tochondrial dysfunction in genetic disorders. In a study of Leigh
+Syndrome, a mitochondrial respiratory chain disease, Legault
+et al., found several signiﬁcant metabolic perturbations including
+alterations in amino acid catabolism linked to NADH status and
+NAD+ biosynthesis [ 41]. Interestingly, Sharma et al., also found
+metabolic perturbations associated with NADH/NAD+ metabolism
+in another genetic mitochondrial disorder, m.3243A > G variant of
+mitochondrial encephalopathy lactic acidosis and stroke-like epi-
+sodes (MELAS) [42].
+A strong connection between mitochondrial functioning and 1C
+metabolism has been shown in several recent studies. In an elegant
+SHMT2
+SDH
+MTHFD2
+MTHFD1L
+5,10-me-THF
+5,10-me-THF
+10-formyl-THF10-formyl-THF
+MTHFD1
+MTHFD1
+SHMT1
+Gly
+Ser
+Ser
+Sarc
+MitochondriaCytosol
+Folate
+Cycle
+MTHFR
+5-me-THF
+MTR
+Met
+Gly
+GCS
+Formate
+THF
+BHMT
+Betaine
+DMG
+HCys
+Choline
+Phosphocholine
+PCs
+DMG
+Sarc
+SAM
+SAH
+Methionine 
+Salvage
+Rib-5P
+IMP HXan
+Xan Uric 
+Acid*
+Purine 
+Salvage
+Purine 
+Nucleo/g415de Cycle
+HPRT1
+XO -Hist
+Gly
+Sarc
+DMGDH
+GNMT
+Fig. 5.Speciﬁc perturbations to 1C metabolism and related pathways. The pathway diagram shows the inter-relationship of three key components of 1C metabolism including the folate
+cycle, purine nucleotide metabolism and methionine salvage. Metabolites in blue were altered in the serum of FA patients. Metabolite names: DMG, dimethylglycine; Gly, glycine; HCys,
+homocysteine; Hist, histamine; HXan, hypoxanthine; IMP, inosine monophosphate; Met, methionine; 5,10-me-THF, 5,10-methylene-THF; PCs, phosphocholines; Rib-5P, ribose-5-phos-
+phate; Ser, serine; SAH, S-adenosylhomocysteine; SAH, S-adenosylmethionine; Sarc, sarcosine; THF, tetrahydrofolate; Xan, xanthine.*Note, uric acid was not detected by our study, but was
+shown to be altered by Schirinzi, et al. [39]. Enzyme names: BHMT, betaine hydroxymethyltransferase; DMGDH, dimethylglycinedehydrogenase; GNMT, glycine-N-methyltransferase;
+HPRT1, hypoxanthine phosphoribosyltransferase 1; MTHFD, methylenetetrahydrofolate dehydrogenase; MTHFR, methylenetetrahydrofolate reductase; MTR, methionine synthase;
+SDH, sarcosine dehydrogenase; SHMT, serine hydroxymethyltransferase; XO, xanthine oxidase.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+311
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 6}
+
+study by Bao et al., cells were generated with a dominant negative
+mutant of DNA polymerase gamma, thereby stopping replication of
+mtDNA and leading to the depletion of components of oxidative
+phosphorylation [43]. They demonstrated that lesioning the respira-
+tory chain impaired mitochondrial production of formate from ser-
+ine and that in some cells, respiratory chain inhibition leads to
+growth defects upon withdrawal of serine that were rescued with
+purine or formate supplementation.
+In a study of cultured cancer cells, Meisner et al., showed that most of
+the serine derived one carbon units are released from the cells as for-
+mate and depend upon reverse 10-formyl-THF activity. Formate release
+was coupled to mitochondrial complex I activity and it was found that
+both serine starvation and complex I inhibition led to reduced formate
+synthesis [44].
+4. Summary
+In this study, the population of FA subjects was composed of 45% fe-
+male, 55% male participants, and 55% were on cardiac medications (all
+were of the long-actingβ-blocker class of medicines). Yet despite the
+variability in sex and medication proﬁles, and variability in cardiac func-
+tion, several metabolites for the FA subjects had remarkably narrow
+standard deviations (Supplemental Fig. 1), such as formate and
+sarcosine. This would again suggest that the 1C metabolic pathway is
+speciﬁcally impacted by loss of FXN in FA and may represent both a di-
+agnostic biomarker as well as a therapeutic target in this disease. In par-
+ticular, the potential of these metabolites to serve as biomarkers
+reﬂective of therapeutic intervention cannot be overstated. There are
+currently no biochemical assays reﬂective of the FA disease that have
+high enough speciﬁcity, or rapid enough response, to serve as a bio-
+marker for a therapeutic drug trial or intervention. Thus, it will be difﬁ-
+cult to evaluate drug dose and toxicity response for new therapeutics if
+the evaluation must depend only on changes in the clinical condition
+over an extended period of time.
+We have demonstrated that FA is characterized by a distinct set of
+metabolic perturbations that have the capacity to provide clear and
+accurate discrimination between FA patients and controls. The
+strengths of this study include: 1) strikingly clear metabolomic proﬁles
+even with a small cohort size. 2) clear implication for disruption of
+one‑carbon metabolism, which may be both a therapeutic target as
+well as a diagnostic biomarker. 3) potential for development of a bio-
+marker panel capable of rapid response to therapeutic intervention.
+Weaknesses in this study include: 1) small cohort sizes, which prevents
+signiﬁcant correlation with GAA repeat numbers or clinical correlation,
+such as heart failure. 2) lack of children in the study. 3) lack of longitu-
+dinal sampling and follow up to determine if the metabolic proﬁle
+changes over time or correlates with worsening of the disease. 4) al-
+though unlikely, the possible impact of various medications on the FA
+subjects cannot be ignored.
+Because our analyses focused on plasma, this limits our ability to as-
+cribe these metabolic defects to any particular organ system at this time.
+We know that FA has profound and pleotropic effects on the brain and
+nervous system, heart, skeletal muscle, liver, and other high-energy de-
+pendent organs such as eye. Thus, the next steps in this study will be the
+retro-translation of theseﬁndings to preclinical models including the
+use of well-established murine models of FA. This would enable a
+focus on the perturbations in individual organs to provide a more de-
+tailed mechanistic picture of the metabolic derangements of FA. It
+would also allow determination of response to a therapeutic interven-
+tion, which would support advancement to clinical trials. Finally, these
+data strongly require evaluation of their diagnostic biomarker perfor-
+mance in a much larger patient cohort in order to validate theseﬁnd-
+ings. The results of this pilot study are theﬁrst to show the diagnostic
+potential of metabolic proﬁles for FA and point to dysregulated 1C met-
+abolic pathways as potential new targets for FA therapeutics.
+5. Materials and methods
+5.1. Study cohort
+This study was reviewed and approved by the Indiana University
+School of Medicine Institutional Review Board. Volunteers were
+prospectively recruited by advertising and theﬁrst 10 FA subjects
+meeting study criteria were enrolled. Inclusion criteria for the FA
+subjects included a diagnosis of Friedreich Ataxia based on genetic
+analysis, 18 yr or older at time of consent, must not be pregnant,
+and have no history of coronary artery disease. Inclusion criteria
+for 11 control (Con) subjects were the same except they must not
+have a diagnosis of FA or other systemic disease such as diabetes.
+All participants gave written informed consent for their participa-
+tion in the study, and the studywas conducted according to the
+Helsinki principles.
+Biometric data for subjects included age, sex, height, weight, and
+body mass index (BMI) calculated as kg/M2. Medications of the FA and
+Con subjects were recorded. Bloods for metabolomics analysis were
+drawn into EDTA tubes, spun, and plasma was aliquoted and stored
+frozen (−80 °C) until use.
+5.2. NMR-based metabolomics
+Samples for NMR analyses were prepared using established proto-
+cols [45]. NMR data were acquired on a Bruker AVANCE III, 700 MHz
+NMR equipped with a cryogenically-cooled probe. Spectra were col-
+lected with a 1D NOESY pulse sequence covering 12 ppm. The spectra
+were digitized with 32,768 points during a 3.9 s acquisition time. The
+mixing time was set to 100 ms, and the relaxation delay between
+scans was set to 2.0 s. The untargeted NMR analyses quantiﬁed 26 me-
+tabolites. The data was processed and analyzed using the Chenomx
+NMR Processor and Proﬁlers software packages (Chenomx Inc., Edmon-
+ton, Alberta, Canada).
+5.3. Targeted MS-based metabolomics
+The targeted MS experiments used the Biocrates Q500 kit (Biocrates
+AG. Innsbruck, Austria) run on an AB Sciex 5500 QTRAP with an Agilent
+1290 UPLC. Preparation of serum samples followed vendor protocols.
+This assay yielded quantitative measures of 495 metabolites. Data pro-
+cessing was carried out using the Biocrates MetIDQ software. Metabo-
+lites with concentrations of zero in >50% of the samples were excluded.
+5.4. Data integration and biomarker analysis
+Integration, statistical analysis and visualization of the metabolo-
+mics data was carried out using the VIIME platform (www.viime.
+org)[ 46] along with custom scripts written in the R programming
+language [47].The network correlation analyses and correlogram
+were generate using the corrplot package in R. The network commu-
+nity analysis utilized the visualization capabilities in the igraph
+package. The receiver operator characteristic (ROC) analysis was
+carried out in MetaboAnalyst (version 5.0) [48] using the multivari-
+ate exploratory analysis functions. Brieﬂy, ROC curves were gener-
+ated by Monte-Carlo cross- validation with classi ﬁcation and
+ranking carried out using the Random Forests algorithm including
+two latent variables.
+Author contributions
+TMO and RMP conceived and designed the research, DLL collected
+and processed the data, TMO performed the analyses, TMO and RMP
+wrote the manuscript. All authors read and approved the manuscript.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+312
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 7}
+
+Funding
+RMP is supported by a Grant from NHLBI 1P01HL134599. TMO is
+supported by Grants from NIAMS, P01AG039355 and P30AR072581.
+Support for this work was also provided in part by the Herman B
+Wells Center from the Riley Children's Foundation (RMP),
+Ethical approval
+All procedures performed in studies involving human partici-
+pants were in accordance with the ethical standards of the institu-
+tional and/or national rese arch committee and with the 1964
+Helsinki declaration and its later amendments or comparable ethi-
+cal standards.
+Declaration of Competing Interest
+Dr. Payne is a consultant for Larimar Therapeutics, Inc., which had no
+participation or input in this project. Dr. O'Connell declares no conﬂicts
+of interest.
+Acknowledgements
+The authors are grateful for the expertise of Peter Thompson,
+PhD at the Molecular Education, Technology and Research Innova-
+tion Center at North Carolina State University in collecting the
+NMR spectra.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online athttps://doi.
+org/10.1016/j.ymgme.2022.06.002.
+References
+[1] M. Pandolfo, Friedreich ataxia: the clinical picture, J. Neurol. 256 (Suppl. 1) (2009)
+3–8.
+[2] P.L. Reddy, R.P. Grewal, Friedreich’s ataxia: a clinical and genetic analysis, Clin.
+Neurol. Neurosurg. 109 (2007) 200–202.
+[3] I. De Biase, A. Rasmussen, D. Endres, S. Al-Mahdawi, A. Monticelli, S. Cocozza, M.
+Pook, S.I. Bidichandani, Progressive GAA expansions in dorsal root ganglia of
+Friedreich’s ataxia patients, Ann. Neurol. 61 (2007) 55–60.
+[4] A.Y. Tsou, E.K. Paulsen, S.J. Lagedrost, S.L. Perlman, K.D. Mathews, G.R. Wilmot, B.
+Ravina, A.H. Koeppen, D.R. Lynch, Mortality in friedreich ataxia, J. Neurol. Sci. 307
+(2011) 46–49.
+[5] R.L. Hewer, Study of fatal cases of Friedreich's ataxia, BMJ (1968) 649–652 Clinical
+research ed 3.
+[6] L. Schols, G. Amoiridis, H. Przuntek, G. Frank, J.T. Epplen, C. Epplen, Friedreich's
+ataxia: revision of the phenotype according to molecular genetics, Brain 120
+(1997) 2131–2140.
+[7] A. Filla, G. De Michele, R. Marconi, L. Bucci, C. Carillo, A.E. Castellano, L. Iorio, C.
+Kniahynicki, F. Rossi, G. Campanella, Prevalence of hereditary ataxias and spastic
+paraplegias in Molise, a region of Italy, J. Neurol. 239 (1992) 351–353.
+[8] G. Romeo, P. Menozzi, A. Ferlini, S. Fadda, S. Di Donato, G. Uziel, B. Lucci, L.
+Capodaglio, A. Filla, G. Campanella, Incidence of Friedreich ataxia in Italy estimated
+from consanguineous marriages, Am. J. Hum. Genet. 35 (1983) 523–529.
+[9] H. Skre, Friedreich's ataxia in Western Norway, Clin. Genet. 7 (1975) 287–298.
+[10] C. Epplen, J.T. Epplen, G. Frank, B. Miterski, E.J. Santos, L. Schols, Differential stability
+of the (GAA)n tract in the Friedreich ataxia (STM7) gene, Hum. Genet. 99 (1997)
+834–836.
+[11] V. Campuzano, L. Montermini, M.D. Molto, L. Pianese, M. Cossee, F. Cavalcanti, E.
+Monros, F. Rodius, F. Duclos, A. Monticelli, F. Zara, J. Canizares, H. Koutnikova, S.I.
+Bidichandani, C. Gellera, A. Brice, P. Trouillas, G. De Michele, A. Filla, R. De Frutos,
+F. Palau, P.I. Patel, S. Di Donato, J.L. Mandel, S. Cocozza, M. Koenig, M. Pandolfo,
+Friedreich's ataxia: autosomal recessive disease caused by an intronic GAA triplet
+repeat expansion, Science 271 (1996) 1423–1427.
+[12] L. Montermini, A. Richter, K. Morgan, C.M. Justice, D. Julien, B. Castellotti, J. Mercier, J.
+Poirier, F. Capozzoli, J.P. Bouchard, B. Lemieux, J. Mathieu, M. Vanasse, M.H. Seni, G.
+Graham, F. Andermann, E. Andermann, S.B. Melancon, B.J. Keats, S. Di Donato, M.
+Pandolfo, Phenotypic variability in Friedreich ataxia: role of the associated GAA trip-
+let repeat expansion, Ann. Neurol. 41 (1997) 675–682.
+[13] A. Filla, G. De Michele, F. Cavalcanti, L. Pianese, A. Monticelli, G. Campanella, S.
+Cocozza, The relationship between trinucleotide (GAA) repeat length and clinical
+features in Friedreich ataxia am, J. Hum. Genet. 59 (1996) 554–560.
+[14] A. Pastore, H. Puccio, Frataxin: a protein in search for a function, J. Neurochem. 126
+(Suppl. 1) (2013) 43–52.
+[15] N.G. Fox, X. Yu, X. Feng, H.J. Bailey, A. Martelli, J.F. Nabhan, C. Strain-Damerell, C.
+Bulawa, W.W. Yue, S. Han, Structure of the human frataxin-bound iron-sulfur clus-
+ter assembly complex provides insight into its activation mechanism, Nat. Commun.
+10 (2019) 2210.
+[16] G.R. Wagner, P.M. Pride, C.M. Babbey, R.M. Payne, Friedreich’sa t a x i ar e v e a l sam e c h -
+anism for coordinate regulation of oxidative metabolism via feedback inhibition of
+the SIRT3 deacetylase, Hum. Mol. Genet. 21 (2012) 2688–2697.
+[17] A.S. Martin, D.M. Abraham, K.A. Hershberger, D.P. Bhatt, L. Mao, H. Cui, J. Liu, X. Liu,
+M.J. Muehlbauer, P.A. Grimsrud, J.W. Locasale, R.M. Payne, M.D. Hirschey, Nicotin-
+amide mononucleotide requires SIRT3 to improve cardiac function and bioenerget-
+ics in a Friedreich's ataxia cardiomyopathy model, JCI Insight. 2 (2017).
+[18] A.C. Haugen, N.A. Di Prospero, J.S. Parker, R.D. Fannin, J. Chou, J.N. Meyer, C. Halweg,
+J.B. Collins, A. Durr, K. Fischbeck, B. Van Houten, Altered gene expression and DNA
+damage in peripheral blood cells from Friedreich’s ataxia patients: cellular model
+of pathology, PLoS Genet. 6 (2010), e1000812.
+[19] G.R. Wagner, R.M. Payne, Widespread and enzyme-independent Nepsilon-
+acetylation and Nepsilon-succinylation of proteins in the chemical conditions of
+the mitochondrial matrix, J. Biol. Chem. 288 (2013) 29036–29045.
+[20] A.R. Stram, G.R. Wagner, B.D. Fogler, P.M. Pride, M.D. Hirschey, R.M. Payne, Progres-
+sive mitochondrial protein lysine acetylation and heart failure in a model of
+Friedreich's ataxia cardiomyopathy, PLoS One 12 (2017), e0178354.
+[21] K. Reetz, I. Dogan, R.D. Hilgers, P. Giunti, M.H. Parkinson, C. Mariotti, L. Nanetti, A.
+Durr, C. Ewenczyk, S. Boesch, W. Nachbauer, T. Klopstock, C. Stendel, F.J. Rodriguez
+de Rivera Garrido, C. Rummey, L. Schols, S.N. Hayer, T. Klockgether, I. Giordano, C.
+Didszun, M. Rai, M. Pandolfo, J.B. Schulz, E.s. group, progression characteristics of
+the European Friedreich’s Ataxia consortium for translational studies (EFACTS): a
+4-year cohort study, Lancet Neurol. 20 (2021) 362–372.
+[22] C.B. Clish, Metabolomics: an emerging but powerful tool for precision medicine,
+Cold Spring Harb. Mol. Case Stud. 1 (2015), a000588.
+[23] M.E. Newman, M. Girvan, Finding and evaluating community structure in networks,
+Phys. Rev. E Stat. Nonlinear Soft Matter Phys. 69 (2004), 026113.
+[24] G. Hayashi, Y. Shen, T.L. Pedersen, J.W. Newman, M. Pook, G. Cortopassi, Frataxin de-
+ﬁciency increases cyclooxygenase 2 and prostaglandins in cell and animal models of
+Friedreich’s ataxia, Hum. Mol. Genet. 23 (2014) 6838–6847.
+[25] H. Zhao, H. Li, S. Hao, J. Chen, J. Wu, C. Song, M. Zhang, T. Qiao, K. Li, Peptide SS-31
+upregulates frataxin expression and improves the quality of mitochondria: implica-
+tions in the treatment of Friedreich ataxia, Sci. Rep. 7 (2017) 9840.
+[26] A. Wong, J. Yang, P. Cavadini, C. Gellera, B. Lonnerdal, F. Taroni, G. Cortopassi, The
+Friedreich's ataxia mutation confers cellular sensitivity to oxidant stress which is
+rescued by chelators of iron and calcium and inhibitors of apoptosis, Hum. Mol.
+Genet. 8 (1999) 425–430.
+[27] P. Rustin, D. Bonnet, A. Rotig, A. Munnich, D. Sidi, Idebenone treatment in Friedreich
+patients: one-year-long randomized placebo-controlled trial, Neurology 62 (2004)
+524–525 (author reply 525; discussion 525).
+[28] M. Pandolfo, J. Arpa, M.B. Delatycki, K.H. Le Quan Sang, C. Mariotti, A. Munnich, I.
+Sanz-Gallego, G. Tai, M.A. Tarnopolsky, F. Taroni, M. Spino, F. Tricta, Deferiprone in
+Friedreich ataxia: a 6-month randomized controlled trial, Ann. Neurol. 76 (2014)
+509–521.
+[29] P.E. Hart, R. Lodi, B. Rajagopalan, J.L. Bradley, J.G. Crilley, C. Turner, A.M. Blamire, D.
+Manners, P. Styles, A.H. Schapira, J.M. Cooper, Antioxidant treatment of patients
+with Friedreich ataxia: four-year follow-up, Arch. Neurol. 62 (2005) 621–626.
+[30] K. Burk, Friedreich Ataxia: current status and future prospects, Cerebellum Ataxias 4
+(2017) 4.
+[31] B. A, Friedreich's Ataxia 1976 An overview, Can. J. Neurosci. 3 (1976) 389–397.
+[32] Y.S. Huang, A.C. Nestruck, A. Barbeau, J.P. Bouchard, J. Davignon, Plasma lipids and
+lipoproteins in Friedreich’s ataxia and familial spastic ataxia–evidence for an abnor-
+mal composition of high density lipoproteins, Can J. Neurol. Sci. 5 (1978) 149–156.
+[33] Q. Wang, L. Guo, C.J. Strawser, L.A. Hauser, W.T. Hwang, N.W. Snyder, D.R. Lynch, C.
+Mesaros, I.A. Blair, Low apolipoprotein A-I levels in Friedreich’s ataxia and in
+frataxin-deﬁcient cells: implications for therapy, PLoS One 13 (2018), e0192779.
+[34] M. Cnop, H. Mulder, M. Igoillo-Esteve, Diabetes in Friedreich ataxia, J. Neurochem.
+126 (Suppl. 1) (2013) 94–102.
+[35] G. Finocchiaro, G. Baio, P. Micossi, G. Pozza, S. di Donato, Glucose metabolism alter-
+ations in Friedreich's ataxia, Neurology 38 (1988) 1292–1296.
+[36] L.M. Stead, J.T. Brosnan, M.E. Brosnan, D.E. Vance, R.L. Jacobs, Is it time to reevaluate
+methyl balance in humans? Am. J. Clin. Nutr. 83 (2006) 5–10.
+[37] G.S. Ducker, J.D. Rabinowitz, One-carbon metabolism in health and disease, Cell
+Metab. 25 (2017) 27–42.
+[38] B.J. Henriques, R. Katrine Jentoft Olsen, C.M. Gomes, P. Bross, Electron transferﬂavo-
+protein and its role in mitochondrial energy metabolism in health and disease, Gene
+776 (2021), 145407.
+[39] Z. Luka, S.H. Mudd, C. Wagner, Glycine N-methyltransferase and regulation of S-
+adenosylmethionine levels, J. Biol. Chem. 284 (2009) 22507–22511.
+[40] T. Schirinzi, G. Vasco, G. Zanni, S. Petrillo, F. Piemonte, E. Castelli, E.S. Bertini, Serum
+uric acid in Friedreich Ataxia, Clin. Biochem. 54 (2018) 139–141.
+[41] J. Thompson Legault, L. Strittmatter, J. Tardif, R. Sharma, V. Tremblay-Vaillancourt, C.
+Aubut, G. Boucher, C.B. Clish, D. Cyr, C. Daneault, P.J. Waters, L. Consortium, L.
+Vachon, C. Morin, C. Laprise, J.D. Rioux, V.K. Mootha, C. Des Rosiers, A metabolic sig-
+nature of mitochondrial dysfunction revealed through a monogenic form of leigh
+syndrome, Cell Rep. 13 (2015) 981–989.
+[42] R. Sharma, B. Reinstadler, K. Engelstad, O.S. Skinner, E. Stackowitz, R.G. Haller, C.B.
+Clish, K. Pierce, M.A. Walker, R. Fryer, D. Oglesbee, X. Mao, D.C. Shungu, A. Khatri,
+M. Hirano, D.C. De Vivo, V.K. Mootha, Circulating markers of NADH-reductive stress
+correlate with mitochondrial disease severity, J. Clin. Invest. 131 (2021).
+[43] X.R. Bao, S.E. Ong, O. Goldberger, J. Peng, R. Sharma, D.A. Thompson, S.B. Vafai, A.G.
+Cox, E. Marutani, F. Ichinose, W. Goessling, A. Regev, S.A. Carr, C.B. Clish, V.K.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+313
+
+{'source': 'MolGenetMetab_136_306_2022.pdf', 'page': 8}
+
+Mootha, Mitochondrial dysfunction remodels one-carbon metabolism in human
+cells, eLife 5 (2016).
+[44] J. Meiser, S. Tumanov, O. Maddocks, C.F. Labuschagne, D. Athineos, N. Van Den
+Broek, G.M. Mackay, E. Gottlieb, K. Blyth, K. Vousden, J.J. Kamphorst, A. Vazquez, Ser-
+ine one-carbon catabolism with formate overﬂow, Sci. Adv. 2 (2016), e1601273.
+[45] O. Beckonert, H.C. Keun, T.M. Ebbels, J. Bundy, E. Holmes, J.C. Lindon, J.K. Nicholson,
+Metabolic proﬁling, metabolomic and metabonomic procedures for NMR spectros-
+copy of urine, plasma, serum and tissue extracts, Nat. Protoc. 2 (2007) 2692–2703.
+[46] R. Choudhury, J. Beezley, B. Davis, J. Tomeck, S. Gratzl, L. Golzarri-Arroyo, J. Wan, D.
+Raftery, J. Baumes, T.M. O'Connell, Viime: visualization and integration of metabolo-
+mics experiments, J. Open Source Software 5 (2020) 2410–2423.
+[47] R Core Team, R: A Language and Environment for Statistical Computing, R Founda-
+tion for Statistical Computing, Vienna, Austria, 2017https://www.r-project.org/.
+[48] J. Chong, O. Soufan, C. Li, I. Caraus, S. Li, G. Bourque, D.S. Wishart, J. Xia, Metabo-
+Analyst 4.0: towards more transparent and integrative metabolomics analysis,
+Nucleic Acids Res. 46 (2018) W486–W494.
+T.M. O'Connell, D.L. Logsdon and R.M. Payne Molecular Genetics and Metabolism 136 (2022) 306–314
+314
