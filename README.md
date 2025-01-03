@@ -9,3 +9,9 @@ pip install python-dotenv pydantic openai
 ```
 
 Run the notebook either with `jupyter notebook` or Jupyter Lab with `jupyter lab`.
+
+You will need to have an OpenAI API key in order to use the notebooks and query OpenAI. Add that to a `.env` file at the root of the `viime-extract` project as follows:
+
+```
+OPENAI_API_KEY=<YOUR OPENAI API KEY>
+```
