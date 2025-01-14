@@ -91,6 +91,7 @@ def parse_args() -> ProgArgs:
     )
     parser.add_argument("pdf_file", type=Path, help="The PDF file to parse")
     parser.add_argument(
+        "-c",
         "--config",
         type=Path,
         help="The TOML config file to use",
