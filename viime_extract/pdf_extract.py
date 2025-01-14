@@ -1,17 +1,10 @@
-from pathlib import Path
-
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders.base import BaseLoader
+from langchain_core.documents.base import Document
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_core.documents.base import Document
+from langchain_text_splitters.base import TextSplitter
 
-from viime_extract.schema import ArticleMeta, ArticleKeyWords, Article
-
-
-def iter_pdf_pages(pdf_path: Path):
-    loader = PyPDFLoader(pdf_path)
-    yield from loader.lazy_load()
+from viime_extract.schema import Article, ArticleKeyWords, ArticleMeta
 
 
 def extract_article_metadata(pages: list[Document], model: BaseChatModel):
@@ -39,7 +32,9 @@ mentioned entity. You will be evaluated on the quality and completeness of the e
     return model.with_structured_output(ArticleMeta).invoke(prompt)
 
 
-def extract_article_keywords(pages: list[Document], model: BaseChatModel):
+def extract_article_keywords(
+    pages: list[Document], model: BaseChatModel, splitter: TextSplitter
+):
     template = ChatPromptTemplate(
         [
             (
@@ -61,14 +56,7 @@ to include an entity with an "unknown" identified than to omit it entirely.""",
         ]
     )
 
-    splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-        model_name=model.model_name,
-        chunk_size=1024,
-        chunk_overlap=128,
-    )
-
     keywords = ArticleKeyWords()
-
     for text_chunk in splitter.split_documents(pages):
         prompt = template.invoke({"article_contents": text_chunk})
         response = model.with_structured_output(ArticleKeyWords).invoke(prompt)
@@ -78,8 +66,13 @@ to include an entity with an "unknown" identified than to omit it entirely.""",
     return keywords
 
 
-def extract_article_from_pdf(pdf_file: Path, model: BaseChatModel):
-    pages = list(iter_pdf_pages(pdf_file))
+def extract_article_from_document_loader(
+    *,
+    model: BaseChatModel,
+    splitter: TextSplitter,
+    doc_loader: BaseLoader,
+):
+    pages = list(doc_loader.lazy_load())
     meta = extract_article_metadata(pages, model)
-    keywords = extract_article_keywords(pages, model)
+    keywords = extract_article_keywords(pages, model, splitter)
     return Article(meta=meta, keywords=keywords)
