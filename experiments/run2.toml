@@ -1,0 +1,11 @@
+model_name = "gpt-4o-mini-2024-07-18"
+temperature = 0
+
+[pdf_loader]
+class_name = "PDFPlumberLoader"
+
+[text_splitter]
+class_name = "RecursiveCharacterTextSplitter"
+from_tiktoken_encoder = true
+chunk_size = 768
+chunk_overlap = 64

@@ -1,0 +1,11 @@
+model_name = "gpt-4o-2024-08-06"
+temperature = 0
+
+[pdf_loader]
+class_name = "PyPDFLoader"
+
+[text_splitter]
+class_name = "RecursiveCharacterTextSplitter"
+from_tiktoken_encoder = true
+chunk_size = 1024
+chunk_overlap = 128
