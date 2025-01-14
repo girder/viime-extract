@@ -6,7 +6,16 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        # Add your dependencies here
+        'pypdf',
+        'pdfplumber',
+        'python-dotenv',
+        'pydantic',
+        'tiktoken',
+        'langchain',
+        'langchain-core',
+        'langchain-community',
+        'langchain-openai',
+        'langchain-text-splitters',
     ],
     entry_points={
         'console_scripts': [
