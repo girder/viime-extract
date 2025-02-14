@@ -126,6 +126,7 @@ def main(args: ProgArgs):
         doc_loader=TextFileDocumentLoader(args.file),
         model=model,
         splitter=config.text_splitter.create_splitter(),
+        without_references=config.extractor.without_references,
     )
     article_json = article.model_dump_json(indent=2)
 
