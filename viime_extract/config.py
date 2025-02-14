@@ -53,8 +53,13 @@ class TextSplitterConfig(BaseModel):
         )
 
 
+class ExtractorConfig(BaseModel):
+    without_references: bool = False
+
+
 class Config(BaseModel):
     model_name: str = "gpt-4o"
     temperature: float = 0
     pdf_loader: PDFLoaderConfig = Field(default_factory=PDFLoaderConfig)
     text_splitter: TextSplitterConfig = Field(default_factory=TextSplitterConfig)
+    extractor: ExtractorConfig = Field(default_factory=ExtractorConfig)
