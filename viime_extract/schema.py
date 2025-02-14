@@ -31,9 +31,9 @@ class Metabolite(BaseModel):
     """
 
     name: str = Field(..., title="Name", description="The name of the metabolite.")
-    chebi_id: Optional[str] = Field(
-        ..., title="ChEBI ID", description="The ChEBI ID of the metabolite."
-    )
+    # chebi_id: Optional[str] = Field(
+    #     ..., title="ChEBI ID", description="The ChEBI ID of the metabolite."
+    # )
 
 
 class Protein(BaseModel):
@@ -42,9 +42,9 @@ class Protein(BaseModel):
     """
 
     name: str = Field(..., title="Name", description="The name of the protein.")
-    uniprot_id: Optional[str] = Field(
-        ..., title="UniProt ID", description="The UniProt ID of the protein."
-    )
+    # uniprot_id: Optional[str] = Field(
+    #     ..., title="UniProt ID", description="The UniProt ID of the protein."
+    # )
 
 
 class Gene(BaseModel):
@@ -53,9 +53,9 @@ class Gene(BaseModel):
     """
 
     name: str = Field(..., title="Name", description="The name of the gene.")
-    entrez_id: Optional[str] = Field(
-        ..., title="Entrez ID", description="The Entrez ID of the gene."
-    )
+    # entrez_id: Optional[str] = Field(
+    #     ..., title="Entrez ID", description="The Entrez ID of the gene."
+    # )
 
 
 class Pathway(BaseModel):
@@ -64,9 +64,9 @@ class Pathway(BaseModel):
     """
 
     name: str = Field(..., title="Name", description="The name of the pathway.")
-    kegg_id: Optional[str] = Field(
-        ..., title="KEGG ID", description="The KEGG ID of the pathway."
-    )
+    # kegg_id: Optional[str] = Field(
+    #     ..., title="KEGG ID", description="The KEGG ID of the pathway."
+    # )
 
 
 # class Drug(BaseModel):
@@ -83,9 +83,9 @@ class Drug(BaseModel):
     """
 
     name: str = Field(..., title="Drug name", description="The name of the drug.")
-    pubchem_id: Optional[str] = Field(
-        ..., title="Drug PubChem ID", description="The PubChem ID of the drug."
-    )
+    # pubchem_id: Optional[str] = Field(
+    #     ..., title="Drug PubChem ID", description="The PubChem ID of the drug."
+    # )
 
 
 class Disease(BaseModel):
@@ -94,32 +94,32 @@ class Disease(BaseModel):
     """
 
     name: str = Field(..., title="Name", description="The name of the disease.")
-    doid_id: Optional[str] = Field(
-        ..., title="DOID ID", description="The DOID ID of the disease."
-    )
-    inhibiting_drugs: List[Drug] = Field(
-        ..., title="Inhibiting drugs", description="The drugs inhibiting the disease."
-    )
-    associated_genes: List[Gene] = Field(
-        ...,
-        title="Associated genes",
-        description="The genes associated with the disease.",
-    )
-    associated_proteins: List[Protein] = Field(
-        ...,
-        title="Associated proteins",
-        description="The proteins associated with the disease.",
-    )
-    associated_metabolites: List[Metabolite] = Field(
-        ...,
-        title="Associated metabolites",
-        description="The metabolites associated with the disease.",
-    )
-    associated_pathways: List[Pathway] = Field(
-        ...,
-        title="Associated pathways",
-        description="The pathways associated with the disease.",
-    )
+    # doid_id: Optional[str] = Field(
+    #     ..., title="DOID ID", description="The DOID ID of the disease."
+    # )
+    # inhibiting_drugs: List[Drug] = Field(
+    #     ..., title="Inhibiting drugs", description="The drugs inhibiting the disease."
+    # )
+    # associated_genes: List[Gene] = Field(
+    #     ...,
+    #     title="Associated genes",
+    #     description="The genes associated with the disease.",
+    # )
+    # associated_proteins: List[Protein] = Field(
+    #     ...,
+    #     title="Associated proteins",
+    #     description="The proteins associated with the disease.",
+    # )
+    # associated_metabolites: List[Metabolite] = Field(
+    #     ...,
+    #     title="Associated metabolites",
+    #     description="The metabolites associated with the disease.",
+    # )
+    # associated_pathways: List[Pathway] = Field(
+    #     ...,
+    #     title="Associated pathways",
+    #     description="The pathways associated with the disease.",
+    # )
 
 
 # class Regulation(BaseModel):
