@@ -65,6 +65,9 @@ def main(args: ProgArgs):
         doc_loader=config.pdf_loader.create_loader(args.pdf_file),
         model=model,
         splitter=config.text_splitter.create_splitter(),
+        detect_references_prompt=config.prompts.detect_references,
+        article_metadata_prompt=config.prompts.article_metadata,
+        article_keywords_prompt=config.prompts.article_keywords,
         without_references=config.extractor.without_references,
     )
     article_json = article.model_dump_json(indent=2)

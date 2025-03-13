@@ -1,8 +1,37 @@
 import langchain_text_splitters
 from langchain_community import document_loaders
 from langchain_community.document_loaders.base import BaseLoader
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters.base import TextSplitter
 from pydantic import BaseModel, Field, field_validator
+
+
+class Prompt:
+    system: str
+    user: str
+
+    def get_template(self):
+        return ChatPromptTemplate(
+            [
+                ("system", self.system),
+                ("user", self.user),
+            ]
+        )
+
+
+class ArticleMetadataPrompt(Prompt, BaseModel): ...
+
+
+class ArticleKeywordsPrompt(Prompt, BaseModel): ...
+
+
+class DetectReferencesPrompt(Prompt, BaseModel): ...
+
+
+class PromptsConfig(BaseModel):
+    article_metadata: ArticleMetadataPrompt
+    article_keywords: ArticleKeywordsPrompt
+    detect_references: DetectReferencesPrompt
 
 
 class PDFLoaderConfig(BaseModel):
@@ -60,6 +89,7 @@ class ExtractorConfig(BaseModel):
 class Config(BaseModel):
     model_name: str = "gpt-4o"
     temperature: float = 0
+    prompts: PromptsConfig = Field(default_factory=PromptsConfig)
     pdf_loader: PDFLoaderConfig = Field(default_factory=PDFLoaderConfig)
     text_splitter: TextSplitterConfig = Field(default_factory=TextSplitterConfig)
     extractor: ExtractorConfig = Field(default_factory=ExtractorConfig)

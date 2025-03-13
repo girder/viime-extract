@@ -113,11 +113,11 @@ def main(args: ProgArgs):
     if not args.file.is_file():
         raise UserInputError(f'"{args.pdf_file}" is not a file')
 
-    config = Config()
-
     if args.config:
         with open(args.config, "rb") as fp:
             config = Config.model_validate(tomllib.load(fp))
+    else:
+        config = Config()
 
     logger.info('Extracting structured information from "%s"', args.file)
 
@@ -126,6 +126,9 @@ def main(args: ProgArgs):
         doc_loader=TextFileDocumentLoader(args.file),
         model=model,
         splitter=config.text_splitter.create_splitter(),
+        detect_references_prompt=config.prompts.detect_references,
+        article_metadata_prompt=config.prompts.article_metadata,
+        article_keywords_prompt=config.prompts.article_keywords,
         without_references=config.extractor.without_references,
     )
     article_json = article.model_dump_json(indent=2)
