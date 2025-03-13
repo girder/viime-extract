@@ -10,7 +10,7 @@ from langchain_openai import ChatOpenAI
 
 sys.path.append(str(Path(__file__).parent / ".."))
 
-from viime_extract.pdf_extract import extract_article_from_document_loader
+from viime_extract.extract import extract_article_from_document_loader
 from viime_extract.config import Config
 
 logging.basicConfig(level=logging.INFO)
