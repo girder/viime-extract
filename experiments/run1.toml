@@ -9,3 +9,43 @@ class_name = "RecursiveCharacterTextSplitter"
 from_tiktoken_encoder = true
 chunk_size = 1024
 chunk_overlap = 128
+
+[prompts]
+
+[prompts.article_metadata]
+system = '''
+You are an expert in extracting structured information from medical journal articles. Present the extracted information in a clear, structured format. Be comprehensive and extract every single mentioned entity. You will be evaluated on the quality and completeness of the extracted information.
+'''
+user = '''
+Please extract the title, authors, journal title, publication year, journal volume, DOI ID, and pubmed ID from the following journal article:
+
+Text: """
+{article_contents}
+"""
+'''
+
+[prompts.article_keywords]
+system = '''
+You are an expert in extracting structured information from medical journal articles. Present the extracted information in a clear, structured format. Be comprehensive and extract every single mentioned entity. You will be evaluated on the quality and completeness of the extracted information.
+
+If you are not confident in the identifier for an entity, you can specify it as "unknown". It is better to include an entity with an "unknown" identified than to omit it entirely.
+'''
+user = '''
+Please extract the metabolites, proteins, genes, pathways, drugs, and diseases mentioned in the following journal article:
+
+Text: """
+{article_contents}
+"""
+'''
+
+[prompts.detect_references]
+system = '''
+You are an expert in extracting structured information from medical journal articles. Present the extracted information in a clear, structured format. Be comprehensive and extract every single reference. You will be evaluated on the quality and completeness of the extracted information. If you are unsure if an entry is a reference, then do not include it.
+'''
+user = '''
+Please list any references in this journal article, if there are any present:
+
+Text: """
+{article_contents}
+"""
+'''
