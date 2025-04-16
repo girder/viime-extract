@@ -52,11 +52,11 @@ def main(args: ProgArgs):
     if not args.pdf_file.is_file():
         raise UserInputError(f'"{args.pdf_file}" is not a file')
 
-    config = Config()
+    if not args.config:
+        raise UserInputError("Config file is required")
 
-    if args.config:
-        with open(args.config, "rb") as fp:
-            config = Config.model_validate(tomllib.load(fp))
+    with open(args.config, "rb") as fp:
+        config = Config.model_validate(tomllib.load(fp))
 
     logger.info('Extracting structured information from "%s"', args.pdf_file)
 
