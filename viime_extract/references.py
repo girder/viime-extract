@@ -45,7 +45,11 @@ class References(BaseModel):
 
     @property
     def complete_references(self):
-        return [r for r in self.references if not r.incomplete]
+        return (
+            []
+            if self.references is None
+            else [r for r in self.references if not r.incomplete]
+        )
 
 
 def extract_references(page: Document, model: BaseChatModel, prompt: Prompt):
