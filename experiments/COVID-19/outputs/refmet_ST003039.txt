@@ -1,0 +1,78 @@
+Input name	Standardized name	Formula	Exact mass	Super class	Main class	Sub class	Pubchem CID	CHEBI_ID	HMDB_ID	LM_ID	KEGG_ID	INCHI_KEY	 REFMET_ID
+1,3-Dimethyluracil	1,3-Dimethyluracil	C6H8N2O2	140.0586	Nucleic acids	Pyrimidines	Other pyrimidines	70122	74763	HMDB0002144			JSDBKAHWADVXFU-UHFFFAOYSA-N	RM0109158
+2,4-Diaminobutyric acid	2,4-Diaminobutyric acid	C4H10N2O2	118.0742	Fatty Acyls	Fatty acids	Amino FA	134490	48950	HMDB0006284		C03283	OGNSCSPNOLGXSM-VKHMYHEASA-N	RM0152377
+3,4-Dihydroxymandelic acid	3,4-Dihydroxymandelic acid	C8H8O5	184.0372	Organic acids	Phenylpropanoids	Cinnamic acids	85782	27637	HMDB0001866		C05580	RGHMISIYKIHAJW-UHFFFAOYSA-N	RM0136121
+3-Methylxanthine	3-Methylxanthine	C6H6N4O2	166.0491	Nucleic acids	Purines	Xanthines	70639	62207	HMDB0001886		C16357	GMSNIKWWOQHZGF-UHFFFAOYSA-N	RM0157839
+5-Methoxytryptophol	5-Methoxytryptophol	C11H13NO2	191.0946	Alkaloids	Tryptophan alkaloids	Simple indole alkaloids	12835	89851	HMDB0001896			QLWKTGDEPLRFAT-UHFFFAOYSA-N	RM0108608
+6-(Methylamino) purine	6-Methyladenine	C6H7N5	149.0701	Nucleic acids	Purines	Aminopurines	67955	28871	HMDB0002099		C08434	CKOMXBHMKXXTNW-UHFFFAOYSA-N	RM0136159
+Androstenedione	Androstenedione	C19H26O2	286.1933	Sterol Lipids	Steroids	C19 Steroids	6128	16422	HMDB0000053	LMST02020007	C00280	AEMFNILZOJDQLW-QAGGRKNESA-N	RM0159794
+Aspartyl-lysine	Asp-Lys	C10H19N3O5	261.1325	Organic acids	Amino acids and peptides	Dipeptides	6427003	73829	HMDB0004987			OAMLVOVXNKILLQ-BQBZGAKWSA-N	RM0139062
+Butanone	Butanone	C4H8O	72.0575	Organic oxygen compounds	Carbonyl compounds	Ketones	6569	28398	HMDB0000474	LMFA12000043	C02845	ZWEHNKRNPOVVGH-UHFFFAOYSA-N	RM0135018
+Canavanine	Canavanine	C5H12N4O3	176.0909	Organic acids	Amino acids and peptides	Amino acids	439202	405237	HMDB0002706		C00308	FSBIGDSBMBYOPN-VKHMYHEASA-N	RM0132194
+Cortisol	Cortisol	C21H30O5	362.2093	Sterol Lipids	Steroids	C21 Steroids	5754	17650	HMDB0000063	LMST02030001	C00735	JYGXADMDTFJGBT-VWUMJDOOSA-N	RM0135767
+Coumarin	Coumarin	C9H6O2	146.0368	Polyketides	Flavonoids	Coumarins	323	28794	HMDB0001218		C05851	ZYGHJZDHTFUPRJ-UHFFFAOYSA-N	RM0037517
+Deoxycholic acid glycine conjugate	Glycodeoxycholic acid	C26H43NO5	449.3141	Sterol Lipids	Bile acids	C24 Bile acids	3035026	27471	HMDB0000631	LMST05030006	C05464	WVULKSPCQVQLCU-BUXLTGKBSA-N	RM0125880
+Dihydrothymine	Dihydrothymine	C5H8N2O2	128.0586	Organoheterocyclic compounds	Cyclic ureas	Ureides	93556	27468	HMDB0304210		C00906	NBAKTGXDIBVZOO-UHFFFAOYSA-N	RM0135880
+Ethanolamine	Ethanolamine	C2H7NO	61.0528	Organic nitrogen compounds	Amines	1,2-aminoalcohols	700	16000	HMDB0000149		C00189	HZAXFHJVJLSVMW-UHFFFAOYSA-N	RM0040238
+Glycocholic acid	Glycocholic acid	C26H43NO6	465.3090	Sterol Lipids	Bile acids	C24 Bile acids	10140	17687	HMDB0000138	LMST05030001	C01921	RFDAIACWWDREDC-FRVQLJSFSA-N	RM0135849
+Guanosine 5′-triphosphate	-						-	-	-	-	-	-	-
+L-Dopa	DOPA	C9H11NO4	197.0688	Organic acids	Amino acids and peptides	Amino acids	6047	15765	HMDB0000181		C00355	WTDRDQBEARUVNC-LURJTMIESA-N	RM0138924
+L-Kynurenine	Kynurenine	C10H12N2O3	208.0848	Organic acids	Amino acids and peptides	Amino acids	161166	16946	HMDB0000684		C00328	YGPSJZOEDVAXAB-QMMMGPOBSA-N	RM0132226
+L-histidine	Histidine	C6H9N3O2	155.0695	Organic acids	Amino acids and peptides	Amino acids	6274	15971	HMDB0000177		C00135	HNDVDQJCIGZPNO-YFKPBYRVSA-N	RM0129894
+Neopterin	Neopterin	C9H11N5O4	253.0811	Organoheterocyclic compounds	Pterins	Biopterins	135408877		HMDB0000845		C05926	BMQYVXCPAOLZOK-UHFFFAOYSA-N	RM0029599
+Nutriacholic acid	7-Ketolithocholic acid	C24H38O4	390.2770	Sterol Lipids	Bile acids	C24 Bile acids	444262	82679	HMDB0000467	LMST04010150		DXOCDBGWDZAYRQ-AURDAFMXSA-N	RM0135821
+Phosphocreatine	Phosphocreatine	C4H10N3O5P	211.0358	Organic acids	Amino acids and peptides	Amino acids	9548602	17287	HMDB0001511		C02305	DRBBFCLWYRJSJZ-UHFFFAOYSA-N	RM0009827
+Pyridoxal	Pyridoxal	C8H9NO3	167.0582	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	1050	17310	HMDB0001545		C00250	RADKZDMFGJYCBB-UHFFFAOYSA-N	RM0156676
+Quinaldic acid	Quinaldic acid	C10H7NO2	173.0477	Alkaloids	Anthranilic acid alkaloids	Acridone alkaloids	7124	18386	HMDB0000842		C06325	LOAUVZALPPNFOQ-UHFFFAOYSA-N	RM0162650
+Ribose	Ribose	C5H10O5	150.0528	Carbohydrates	Monosaccharides	Pentoses	5779	47013	HMDB0000283		C00121	HMFHBZSHGGEWLO-SOOFDHNKSA-N	RM0006551
+Saccharopine	Saccharopine	C11H20N2O6	276.1321	Organic acids	Amino acids and peptides	Amino acids	160556	16927	HMDB0000279		C00449	ZDGJAHTZVHVLOT-YUMQZZPRSA-N	RM0042980
+Serotonin	Serotonin	C10H12N2O	176.0950	Alkaloids	Tryptophan alkaloids	Tryptamines	5202	28790	HMDB0000259		C00780	QZAYGJVTTNCVMB-UHFFFAOYSA-N	RM0050344
+Sphinganine	Sphinganine	C18H39NO2	301.2981	Sphingolipids	Sphingoid bases	Sphinganines	91486	16566	HMDB0000269	LMSP01020001	C00836	OTKJDMGTUTTYMP-ZWKOTPCHSA-N	RM0135445
+Sphingosine	Sphingosine	C18H37NO2	299.2824	Sphingolipids	Sphingoid bases	Sphingosines	5280335	16393	HMDB0000252	LMSP01010001	C00319	WWUZIQQURGPMPG-KRWOKUGFSA-N	RM0135443
+Succinylacetone	Succinylacetone	C7H10O4	158.0579	Organic acids	Keto acids	Medium-chain keto acids	5312	87897	HMDB0000635			WYEPBHZLDUPIOD-UHFFFAOYSA-N	RM0028431
+Syringic acid	Syringic acid	C9H10O5	198.0528	Benzenoids	Benzenes	Hydroxybenzoic acids	10742	68329	HMDB0002085		C10833	JMSVCTWVEWCHDZ-UHFFFAOYSA-N	RM0013064
+Testosterone	Testosterone	C19H28O2	288.2089	Sterol Lipids	Steroids	C19 Steroids	6013	17347	HMDB0000234	LMST02020002	C00535	MUMGGOZAMZWBJJ-DYKIIFRCSA-N	RM0018331
+Uracil	Uracil	C4H4N2O2	112.0273	Nucleic acids	Pyrimidines	Other pyrimidines	1174	17568	HMDB0000300		C00106	ISAKRJDGNUQOIC-UHFFFAOYSA-N	RM0135934
+Urocanic acid	Urocanic acid	C6H6N2O2	138.0429	Alkaloids	Histidine alkaloids	Imidazole alkaloids	736715	30817	HMDB0000301		C00785	LOIYMIARKYCTBW-OWOJBTEDSA-N	RM0135935
+Xanthine	Xanthine	C5H4N4O2	152.0334	Nucleic acids	Purines	Xanthines	1188	17712	HMDB0000292		C00385	LRFVTYWOQMYALW-UHFFFAOYSA-N	RM0135930
+acetonitrile	Acetonitrile	C2H3N	41.0265	Organic nitrogen compounds	Cyanides	Nitriles	6342	38472	HMDB0061869			WEVYAHXRMPXWCK-UHFFFAOYSA-N	RM0051115
+acetonitrile (ACN)	-						-	-	-	-	-	-	-
+androstenedione	Androstenedione	C19H26O2	286.1933	Sterol Lipids	Steroids	C19 Steroids	6128	16422	HMDB0000053	LMST02020007	C00280	AEMFNILZOJDQLW-QAGGRKNESA-N	RM0159794
+arginine	Arginine	C6H14N4O2	174.1117	Organic acids	Amino acids and peptides	Amino acids	6322	16467	HMDB0000517		C00062	ODKSFYDXXFIFQN-BYPYZUCNSA-N	RM0135963
+aspartate	Aspartic acid	C4H7NO4	133.0375	Organic acids	Amino acids and peptides	Amino acids	5960	17053	HMDB0000191		C00049	CKLJMWTZIZZHCS-REOHCLBHSA-N	RM0135905
+aspartyl-lysine	Asp-Lys	C10H19N3O5	261.1325	Organic acids	Amino acids and peptides	Dipeptides	6427003	73829	HMDB0004987			OAMLVOVXNKILLQ-BQBZGAKWSA-N	RM0139062
+beta-alanine	beta-Alanine	C3H7NO2	89.0477	Organic acids	Amino acids and peptides	Amino acids	239	16958	HMDB0000056		C00099	UCMIRNVEIXFBKS-UHFFFAOYSA-N	RM0021629
+betaine	Betaine	C5H11NO2	117.0790	Organic acids	Amino acids and peptides	Amino acids	247	17750	HMDB0000043			KWIUHFFTVRNATP-UHFFFAOYSA-N	RM0135869
+butanone	Butanone	C4H8O	72.0575	Organic oxygen compounds	Carbonyl compounds	Ketones	6569	28398	HMDB0000474	LMFA12000043	C02845	ZWEHNKRNPOVVGH-UHFFFAOYSA-N	RM0135018
+citrulline	Citrulline	C6H13N3O3	175.0957	Organic acids	Amino acids and peptides	Amino acids	9750	16349	HMDB0000904		C00327	RHGKLRLOHDJJDR-BYPYZUCNSA-N	RM0136022
+cortisol	Cortisol	C21H30O5	362.2093	Sterol Lipids	Steroids	C21 Steroids	5754	17650	HMDB0000063	LMST02030001	C00735	JYGXADMDTFJGBT-VWUMJDOOSA-N	RM0135767
+deoxycholic acid glycine conjugate	Glycodeoxycholic acid	C26H43NO5	449.3141	Sterol Lipids	Bile acids	C24 Bile acids	3035026	27471	HMDB0000631	LMST05030006	C05464	WVULKSPCQVQLCU-BUXLTGKBSA-N	RM0125880
+ethanolamine	Ethanolamine	C2H7NO	61.0528	Organic nitrogen compounds	Amines	1,2-aminoalcohols	700	16000	HMDB0000149		C00189	HZAXFHJVJLSVMW-UHFFFAOYSA-N	RM0040238
+formic acid	Formic acid	CH2O2	46.0055	Organic acids	Carboxylic acids	Carboxylic acids	284	30751	HMDB0000142		C00058	BDAGIHXWWSANSR-UHFFFAOYSA-N	RM0135892
+histidine	Histidine	C6H9N3O2	155.0695	Organic acids	Amino acids and peptides	Amino acids	6274	15971	HMDB0000177		C00135	HNDVDQJCIGZPNO-YFKPBYRVSA-N	RM0129894
+indolelactic acid	Indolelactic acid	C11H11NO3	205.0739	Alkaloids	Tryptophan alkaloids	Indolecarboxylic acids	676158	55528	HMDB0000671			XGILAAMKEQUXLS-SNVBAGLBSA-N	RM0044363
+isovalerylcarnitine	CAR 4:0;3Me	C12H23NO4	245.1627	Fatty Acyls	Fatty esters	Acyl carnitines	169235	70819	HMDB0000688	LMFA07070077		IGQBPDJNUXPEMT-SNVBAGLBSA-N	RM0154016
+kynurenines	-						-	-	-	-	-	-	-
+lysine	Lysine	C6H14N2O2	146.1055	Organic acids	Amino acids and peptides	Amino acids	5962	18019	HMDB0000182		C00047	KDXKERNSBIXSRK-YFKPBYRVSA-N	RM0135903
+m-Coumaric acid	trans-m-Coumaric acid	C9H8O3	164.0473	Organic acids	Phenylpropanoids	Cinnamic acids	637541	32357	HMDB0001713		C12621	KKSDGJDHHZEWEP-SNAWJCMRSA-N	RM0136110
+melatonin	Melatonin	C13H16N2O2	232.1212	Alkaloids	Tryptophan alkaloids	Tryptamines	896	16796	HMDB0001389		C01598	DRLFMBDRBRZALE-UHFFFAOYSA-N	RM0028432
+methanol	Methanol	CH4O	32.0262	Organic oxygen compounds	Primary alcohols	Primary alcohols	887	17790	HMDB0001875		C00132	OKKJLVBELUTLKV-UHFFFAOYSA-N	RM0017835
+neopterin	Neopterin	C9H11N5O4	253.0811	Organoheterocyclic compounds	Pterins	Biopterins	135408877		HMDB0000845		C05926	BMQYVXCPAOLZOK-UHFFFAOYSA-N	RM0029599
+nitric oxide	-						-	-	-	-	-	-	-
+p-Octopamine	Octopamine	C8H11NO2	153.0790	Alkaloids	Tyrosine alkaloids	Phenylethylamines	440266	44715	HMDB0004825		C04227	QHGUCRYDKWKLMG-QMMMGPOBSA-N	RM0021577
+purine	Purine	C5H4N4	120.0436	Nucleic acids	Purines	Other purines	1044	17258	HMDB0001366		C15587	KDCGOANMDULRCW-UHFFFAOYSA-N	RM0032998
+purine nucleotides	-						-	-	-	-	-	-	-
+pyridoxal	Pyridoxal	C8H9NO3	167.0582	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	1050	17310	HMDB0001545		C00250	RADKZDMFGJYCBB-UHFFFAOYSA-N	RM0156676
+ribose	Ribose	C5H10O5	150.0528	Carbohydrates	Monosaccharides	Pentoses	5779	47013	HMDB0000283		C00121	HMFHBZSHGGEWLO-SOOFDHNKSA-N	RM0006551
+serotonin	Serotonin	C10H12N2O	176.0950	Alkaloids	Tryptophan alkaloids	Tryptamines	5202	28790	HMDB0000259		C00780	QZAYGJVTTNCVMB-UHFFFAOYSA-N	RM0050344
+sodium formate	Formic acid	CH2O2	46.0055	Organic acids	Carboxylic acids	Carboxylic acids	284	30751	HMDB0000142		C00058	BDAGIHXWWSANSR-UHFFFAOYSA-N	RM0135892
+spermidine	Spermidine	C7H19N3	145.1579	Alkaloids	Ornithine alkaloids	Polyamines	1102	16610	HMDB0001257		C00315	ATHGHQPFGPMSJY-UHFFFAOYSA-N	RM0041813
+spermine	Spermine	C10H26N4	202.2157	Alkaloids	Ornithine alkaloids	Polyamines	1103	15746	HMDB0001256		C00750	PFNFFQXMRSDOHW-UHFFFAOYSA-N	RM0033343
+sphinganine	Sphinganine	C18H39NO2	301.2981	Sphingolipids	Sphingoid bases	Sphinganines	91486	16566	HMDB0000269	LMSP01020001	C00836	OTKJDMGTUTTYMP-ZWKOTPCHSA-N	RM0135445
+sphingolipids	-						-	-	-	-	-	-	-
+sphingosine	Sphingosine	C18H37NO2	299.2824	Sphingolipids	Sphingoid bases	Sphingosines	5280335	16393	HMDB0000252	LMSP01010001	C00319	WWUZIQQURGPMPG-KRWOKUGFSA-N	RM0135443
+sphingosine-1-phosphate	Sphingosine 1-phosphate	C18H38NO5P	379.2488	Sphingolipids	Sphingoid bases	Sphingoid base 1-P	5283560	37550	HMDB0000277	LMSP01050001	C06124	DUYSYHSSBDVJSM-KRWOKUGFSA-N	RM0138834
+syringic acid	Syringic acid	C9H10O5	198.0528	Benzenoids	Benzenes	Hydroxybenzoic acids	10742	68329	HMDB0002085		C10833	JMSVCTWVEWCHDZ-UHFFFAOYSA-N	RM0013064
+tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+urocanic acid	Urocanic acid	C6H6N2O2	138.0429	Alkaloids	Histidine alkaloids	Imidazole alkaloids	736715	30817	HMDB0000301		C00785	LOIYMIARKYCTBW-OWOJBTEDSA-N	RM0135935
+vitamin B6	Pyridoxine	C8H11NO3	169.0739	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	1054	16709	HMDB0000239		C00314	LXNHXLLTXMVWPM-UHFFFAOYSA-N	RM0156792

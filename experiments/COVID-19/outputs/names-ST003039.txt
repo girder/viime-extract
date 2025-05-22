@@ -1,0 +1,63 @@
+1,3-Dimethyluracil
+2,4-Diaminobutyric acid
+3,4-Dihydroxymandelic acid
+3-Methylxanthine
+5-Methoxytryptophol
+6-(Methylamino) purine
+acetonitrile
+acetonitrile (ACN)
+Androstenedione
+arginine
+aspartate
+Aspartyl-lysine
+beta-alanine
+betaine
+Butanone
+Canavanine
+citrulline
+Cortisol
+Coumarin
+Deoxycholic acid glycine conjugate
+Dihydrothymine
+Ethanolamine
+formic acid
+Glycocholic acid
+Guanosine 5′-triphosphate
+histidine
+indolelactic acid
+isovalerylcarnitine
+kynurenines
+L-Dopa
+L-histidine
+L-Kynurenine
+lysine
+m-Coumaric acid
+melatonin
+methanol
+neopterin
+nitric oxide
+Nutriacholic acid
+p-Octopamine
+Phosphocreatine
+purine
+purine nucleotides
+pyridoxal
+Quinaldic acid
+Ribose
+Saccharopine
+Serotonin
+sodium formate
+spermidine
+spermine
+sphinganine
+sphingolipids
+sphingosine
+sphingosine-1-phosphate
+Succinylacetone
+syringic acid
+Testosterone
+tryptophan
+Uracil
+Urocanic acid
+vitamin B6
+Xanthine

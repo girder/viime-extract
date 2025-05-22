@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "title": "Plasma metabolome and cytokine profile reveal glycylproline modulating antibody fading in convalescent COVID-19 patients",
+    "journal": "PNAS",
+    "year": 2022,
+    "volume": "119",
+    "pubmed_id": "e2117089119",
+    "doi_id": "10.1073/pnas.2117089119",
+    "authors": [
+      {
+        "firstname": "Zhu",
+        "middle_initial": "Y",
+        "surname": "Yang",
+        "affiliation": "a,b,c"
+      },
+      {
+        "firstname": "Di",
+        "middle_initial": "W",
+        "surname": "Wu",
+        "affiliation": "d,e"
+      },
+      {
+        "firstname": "Shanxin",
+        "middle_initial": "L",
+        "surname": "Lu",
+        "affiliation": "a,b"
+      },
+      {
+        "firstname": "Yang",
+        "middle_initial": "Q",
+        "surname": "Qiu",
+        "affiliation": "d,e"
+      },
+      {
+        "firstname": "Zhengyi",
+        "middle_initial": "H",
+        "surname": "Hua",
+        "affiliation": "a,b"
+      },
+      {
+        "firstname": "Fancheng",
+        "middle_initial": "T",
+        "surname": "Tan",
+        "affiliation": "a,b"
+      },
+      {
+        "firstname": "Cixiong",
+        "middle_initial": "Z",
+        "surname": "Zhang",
+        "affiliation": "a"
+      },
+      {
+        "firstname": "Lei",
+        "middle_initial": "Z",
+        "surname": "Zhang",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Ding-Yu",
+        "middle_initial": "Z",
+        "surname": "Zhang",
+        "affiliation": "e,f"
+      },
+      {
+        "firstname": "Xi",
+        "middle_initial": "Z",
+        "surname": "Zhou",
+        "affiliation": "d,e,f"
+      },
+      {
+        "firstname": "Zongwei",
+        "middle_initial": "C",
+        "surname": "Cai",
+        "affiliation": "c"
+      },
+      {
+        "firstname": "You",
+        "middle_initial": "S",
+        "surname": "Shang",
+        "affiliation": "e,f,g"
+      },
+      {
+        "firstname": "Shu-Hai",
+        "middle_initial": "L",
+        "surname": "Lin",
+        "affiliation": "a,b"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "glycylproline"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "DPP4 inhibitors"
+      },
+      {
+        "name": "glycylproline"
+      },
+      {
+        "name": "long-chain acylcarnitines"
+      },
+      {
+        "name": "glycylproline"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "Dipeptidyl peptidase 4 (DPP4)"
+      },
+      {
+        "name": "interleukin-6 (IL-6)"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "interferon γ (IFNγ)"
+      },
+      {
+        "name": "C-X-C motif chemokine ligand 10 (CXCL10)"
+      },
+      {
+        "name": "monocyte chemoattractant protein-1 (MCP1)"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "IL-12p40"
+      },
+      {
+        "name": "IL-1RA"
+      },
+      {
+        "name": "M-CSF"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "IL-5"
+      },
+      {
+        "name": "MIP-1δ"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "CAR18:0"
+      },
+      {
+        "name": "AMP"
+      },
+      {
+        "name": "isocitrate"
+      },
+      {
+        "name": "Lys"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "Pro"
+      },
+      {
+        "name": "palmitate"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "CO"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "isocitrate"
+      },
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "stearylcarnitine"
+      },
+      {
+        "name": "oleylcarnitine"
+      },
+      {
+        "name": "linoleylcarnitine"
+      },
+      {
+        "name": "AMP"
+      },
+      {
+        "name": "dipeptide gly-pro"
+      },
+      {
+        "name": "Shikimate"
+      },
+      {
+        "name": "p-Hydroxyphenylacetate"
+      },
+      {
+        "name": "CAR18:1"
+      },
+      {
+        "name": "CAR18:0"
+      },
+      {
+        "name": "CAR18:2"
+      },
+      {
+        "name": "CAR16:0"
+      },
+      {
+        "name": "Succinate"
+      },
+      {
+        "name": "Isocitrate"
+      },
+      {
+        "name": "Lys"
+      },
+      {
+        "name": "Oleate"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "CAR10:0"
+      },
+      {
+        "name": "CARDC5:0"
+      },
+      {
+        "name": "FAC19:1"
+      },
+      {
+        "name": "Undecylenate"
+      },
+      {
+        "name": "Butyrate"
+      },
+      {
+        "name": "5-Dodecenoate"
+      },
+      {
+        "name": "Gly-pro"
+      },
+      {
+        "name": "AMP"
+      },
+      {
+        "name": "CAR8:0"
+      },
+      {
+        "name": "Fumarate"
+      },
+      {
+        "name": "Butyrate"
+      },
+      {
+        "name": "CAR6:0"
+      },
+      {
+        "name": "decanoylcarnitine (CAR10:0)"
+      },
+      {
+        "name": "CAR18:0"
+      },
+      {
+        "name": "CAR18:1"
+      },
+      {
+        "name": "CAR18:2"
+      },
+      {
+        "name": "fatty acid (C19:1)"
+      },
+      {
+        "name": "glycylproline"
+      },
+      {
+        "name": "sitagliptin"
+      },
+      {
+        "name": "N-benzyloxycarbonyl-L-proline"
+      },
+      {
+        "name": "proline"
+      },
+      {
+        "name": "4-hydroxyphenylpyruvic acid"
+      },
+      {
+        "name": "palmitate"
+      },
+      {
+        "name": "creatine"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "GMP"
+      },
+      {
+        "name": "b-Neu5Ac"
+      },
+      {
+        "name": "R5P"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "sitagliptin"
+      },
+      {
+        "name": "IL-12p40"
+      },
+      {
+        "name": "IL-12"
+      },
+      {
+        "name": "IL-23"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "Lys"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "succinate"
+      },
+      {
+        "name": "p-hydroxyphenylacetate"
+      },
+      {
+        "name": "gluconolactone"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "TNFSF10"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "sitagliptin"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "adenosine deaminase"
+      },
+      {
+        "name": "gly-pro"
+      },
+      {
+        "name": "AMP"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "succinate"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "F6P"
+      },
+      {
+        "name": "G6P"
+      },
+      {
+        "name": "xylose"
+      },
+      {
+        "name": "R5P"
+      },
+      {
+        "name": "fumarate"
+      },
+      {
+        "name": "malate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+(E)-11-Octadecenoic acid
+(E)-Oleic acid
+(R*,S*)-3,8-Dioxa-2,9-disiladecane
+1,4-Butanediol
+1-stearoyl-rac-glycerol
+11-Octadecenoic acid
+2,2,9,9-tetramethyl-5,6-bis[(trimethylsilyl)oxy]
+2,3-butanediol
+2-(methoxyimino)-3-methyl-.trimethylsilylester
+2-Aminobutyric Acid
+2-Hydroxy-3-glutarate
+2-Hydroxy-3-L-alanine
+2-Hydroxy-3-methylbutyric acid
+2-hydroxybutyric acid
+2-hydroxyisovaleric acid
+3-hydroxyproline
+4-Hydroxy-D-proline
+acetyl-CoA
+Alpha-Hydroxybutyric Acid
+Alpha-ketoglutaric acid
+Amine
+Amino Acid
+Aminoacyl-tRNA
+arginine
+aspartic acid
+azelaic acid
+Butanoic acid
+Carbamate
+Carnitine
+Carnitine Esters
+chloroquine
+cholesterol
+cis-4-Hydroxy-D-proline
+cis-D-glyceraldehyde
+citrate
+citric acid
+citrulline
+corticoids
+corticosteroids
+cysteine
+cysteine glutathione disulfide
+cysteine-glutathione disulfide
+cysteineglutathione disulfide
+Cytosine
+D-alanyl-D-valine
+D-glucarate
+elaidic acid
+erythritol
+EtOH
+Fatty Acids
+Fibroblast growth factor
+formamide
+glucarate
+glucuronic acid
+Glutamine
+glutathione disulfide
+Glyceraldehyde
+glyceric acid
+glycerol monostearate
+Glycyl-L-leucine
+GSH
+Hepatocyte Growth Factor (HGF)
+HGF
+hydroxychloroquine
+Iminodiacetic Acid
+Indoleamine-pyrrole 2,3-dioxygenase
+interferon beta
+IP-10
+isocitric acid
+Isoleucine
+Kynurenic Acid
+Kynurenine
+L-acetylcarnitine
+L-alanine
+L-arginine
+L-carnitine
+L-cysteine
+L-cystine
+L-glucarate
+L-glutamic acid
+L-glutamine
+L-glycine
+L-histidine
+L-kynurenine
+L-kynurenine/L-tryptophan ratio
+L-lactic acid
+L-leucine
+L-Malic Acid
+L-phenylalanine
+L-proline
+L-serine
+L-threonine
+L-tryptophan
+L-tyrosine
+L-valine
+Lactate
+lactic acid
+malic acid
+Medium-Chain Fatty Acids
+MeOH
+methyl stearate
+methylbutyric acid
+methylstearate
+Modified Amino Acids
+monosaccharides
+monosaccharides A
+monosaccharides E
+Monosaccharides F
+monostearin
+myo-inositol
+Myristic acid
+N,N-dimethylglycine
+N2-Acetyl-L-Lysine
+Neopterin
+Nicotinamide
+NT-proBNP
+octanoic acid
+Oleic acid
+Oxoglutaric acid
+Pentanoic acid
+Pentanoic acid 2-[(trimethylsilyl)oxy]-
+phenylalanine
+pyruvate
+reduced glutathione
+ribavirin
+serine
+supplemental oxygen
+Tocilizumab
+Trans-3-hydroxyproline
+trans-4-hydroxyproline
+trimethylsilyl ester
+Tris(trimethylsilyl)carbamate
+tryptophan
+vaccenic acid
+xanthotoxin

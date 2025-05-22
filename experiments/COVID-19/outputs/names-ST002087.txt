@@ -1,0 +1,73 @@
+16 metabolites
+3-hydroxybutyric acid
+74 lipoprotein components
+acetic acid
+acetoacetic acid
+acetone
+acetyl-CoA
+alanine
+ApoA1
+ApoA1-HDL
+ApoA2-HDL
+ApoB-VLDL
+ApoB100/ApoA1 ratio
+apolipoprotein A1
+apolipoprotein A2
+Chol
+Chol-HDL
+Chol-LDL
+Chol-LDL4
+Chol-LDL5
+cholesterol
+citrate
+COVID-19
+creatine
+EDTA
+formate
+free Chol
+free cholesterol
+FreeChol-HDL
+FreeChol-LDL4
+FreeChol-LDL5
+glucose
+glutamate
+glutamine
+GlycA
+GlycB
+glycine
+glycoproteins
+HDL cholesterol
+histidine
+isoleucine
+ketone bodies
+lactic acid
+LDL cholesterol
+LDL1
+LDL2
+LDL3
+leucine
+lipoproteins
+mannose
+metabolites
+methionine
+NMR
+NOESY
+Ph
+phenylalanine
+phospholipids
+PL-HDL
+PL-LDL4
+PL-LDL5
+PostCOVID-19
+pyruvate
+sodium phosphate buffer
+sodium trimethylsilyl[2,2,3,3−2H]propionate
+succinate
+TG
+TG-HDL
+TG-LDL
+total cholesterol
+total TG content
+triglycerides
+tyrosine
+valine

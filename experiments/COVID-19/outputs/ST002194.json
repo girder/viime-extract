@@ -1,0 +1,937 @@
+{
+  "meta": {
+    "title": "Metabolic Profiling at COVID-19 Onset Shows Disease Severity and Sex-Specific Dysregulation",
+    "journal": "Frontiers in Immunology",
+    "year": 2022,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.3389/fimmu.2022.925558",
+    "authors": [
+      {
+        "firstname": "Francisco C.",
+        "middle_initial": null,
+        "surname": "Ceballos",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Ana",
+        "middle_initial": null,
+        "surname": "Virseda-Berdices",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Salvador",
+        "middle_initial": null,
+        "surname": "Resino",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Pablo",
+        "middle_initial": null,
+        "surname": "Ryan",
+        "affiliation": "Department of Infectious Diseases, Hospital Universitario Infanta Leonor, Madrid, Spain"
+      },
+      {
+        "firstname": "Oscar",
+        "middle_initial": "Martínez-González",
+        "surname": "Martínez-González",
+        "affiliation": "Critical Care Department, Hospital Universitario del Tajo, Aranjuez, Spain"
+      },
+      {
+        "firstname": "Felipe",
+        "middle_initial": "Pérez-García",
+        "surname": "Pérez-García",
+        "affiliation": "Clinical Microbiology Department, Hospital Universitario Príncipe de Asturias, Alcala de Henares, Spain"
+      },
+      {
+        "firstname": "María",
+        "middle_initial": "Martin-Vicente",
+        "surname": "Martin-Vicente",
+        "affiliation": "Centro de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, Spain"
+      },
+      {
+        "firstname": "Oscar",
+        "middle_initial": "Brochado-Kith",
+        "surname": "Brochado-Kith",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Rafael",
+        "middle_initial": null,
+        "surname": "Blancas",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Sofía",
+        "middle_initial": "Bartolome-Sánchez",
+        "surname": "Bartolome-Sánchez",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Erick Joan",
+        "middle_initial": "Vidal-Alcántara",
+        "surname": "Vidal-Alcántara",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Oihane Elena",
+        "middle_initial": "Albóniga-Díez",
+        "surname": "Albóniga-Díez",
+        "affiliation": "Centro de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, Spain"
+      },
+      {
+        "firstname": "Juan",
+        "middle_initial": "Cuadros-González",
+        "surname": "Cuadros-González",
+        "affiliation": "Clinical Microbiology Department, Hospital Universitario Príncipe de Asturias, Alcala de Henares, Spain"
+      },
+      {
+        "firstname": "Natalia",
+        "middle_initial": "Blanca-Lopez",
+        "surname": "Blanca-Lopez",
+        "affiliation": "Department of Infectious Diseases, Hospital Universitario Infanta Leonor, Madrid, Spain"
+      },
+      {
+        "firstname": "Isidoro",
+        "middle_initial": "Martínez",
+        "surname": "Martínez",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "Ignacio",
+        "middle_initial": "Ramirez Martinez-Acitores",
+        "surname": "Ramirez Martinez-Acitores",
+        "affiliation": "Critical Care Department, Hospital Universitario del Tajo, Aranjuez, Spain"
+      },
+      {
+        "firstname": "Coral",
+        "middle_initial": null,
+        "surname": "Barbas",
+        "affiliation": "Centro de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC), Instituto de Salud Carlos III, Madrid, Spain"
+      },
+      {
+        "firstname": "Amanda",
+        "middle_initial": "Fernández-Rodríguez",
+        "surname": "Fernández-Rodríguez",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      },
+      {
+        "firstname": "María Ángeles",
+        "middle_initial": "Jiménez-Sousa",
+        "surname": "Jiménez-Sousa",
+        "affiliation": "Unit of Viral Infection and Immunity, National Center for Microbiology (CNM), Health Institute Carlos III (ISCIII), Madrid, Spain"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "Aminoacyl-tRNA"
+      },
+      {
+        "name": "Indoleamine-pyrrole 2,3-dioxygenase"
+      },
+      {
+        "name": "Fibroblast growth factor"
+      },
+      {
+        "name": "GSH"
+      },
+      {
+        "name": "reduced glutathione"
+      },
+      {
+        "name": "Tocilizumab"
+      },
+      {
+        "name": "interferon beta"
+      },
+      {
+        "name": "corticoids"
+      },
+      {
+        "name": "ribavirin"
+      },
+      {
+        "name": "MeOH"
+      },
+      {
+        "name": "EtOH"
+      },
+      {
+        "name": "tocilizumab"
+      },
+      {
+        "name": "corticosteroids"
+      },
+      {
+        "name": "supplemental oxygen"
+      },
+      {
+        "name": "chloroquine"
+      },
+      {
+        "name": "hydroxychloroquine"
+      },
+      {
+        "name": "L-phenylalanine"
+      },
+      {
+        "name": "L-tyrosine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-alanine"
+      },
+      {
+        "name": "L-glutamine"
+      },
+      {
+        "name": "L-serine"
+      },
+      {
+        "name": "L-glycine"
+      },
+      {
+        "name": "L-cysteine"
+      },
+      {
+        "name": "L-arginine"
+      },
+      {
+        "name": "L-valine"
+      },
+      {
+        "name": "L-leucine"
+      },
+      {
+        "name": "D-glucarate"
+      },
+      {
+        "name": "L-histidine"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "L-phenylalanine"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "monosaccharides E"
+      },
+      {
+        "name": "monosaccharides A"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "D-glucarate"
+      },
+      {
+        "name": "cysteine glutathione disulfide"
+      },
+      {
+        "name": "L-cystine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "L-valine"
+      },
+      {
+        "name": "L-leucine"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "vaccenic acid"
+      },
+      {
+        "name": "elaidic acid"
+      },
+      {
+        "name": "N,N-dimethylglycine"
+      },
+      {
+        "name": "2,3-butanediol"
+      },
+      {
+        "name": "L-lactic acid"
+      },
+      {
+        "name": "aspartic acid"
+      },
+      {
+        "name": "L-glutamine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "2-hydroxyisovaleric acid"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "glyceric acid"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "isocitric acid"
+      },
+      {
+        "name": "cysteine"
+      },
+      {
+        "name": "glutathione disulfide"
+      },
+      {
+        "name": "L-glycine"
+      },
+      {
+        "name": "monostearin"
+      },
+      {
+        "name": "methylstearate"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "glycerol monostearate"
+      },
+      {
+        "name": "11-Octadecenoic acid"
+      },
+      {
+        "name": "L-leucine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "HGF"
+      },
+      {
+        "name": "Monostearin"
+      },
+      {
+        "name": "Butanoic acid"
+      },
+      {
+        "name": "Alpha-ketoglutaric acid"
+      },
+      {
+        "name": "2-Hydroxy-3-methylbutyric acid"
+      },
+      {
+        "name": "Pentanoic acid"
+      },
+      {
+        "name": "1,4-Butanediol"
+      },
+      {
+        "name": "Oleic acid"
+      },
+      {
+        "name": "Elaidic acid"
+      },
+      {
+        "name": "Vaccenic acid"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "Vaccenic acid"
+      },
+      {
+        "name": "(E)-11-Octadecenoic acid"
+      },
+      {
+        "name": "Elaidic acid"
+      },
+      {
+        "name": "(E)-Oleic acid"
+      },
+      {
+        "name": "Butanoic acid"
+      },
+      {
+        "name": "2-(methoxyimino)-3-methyl-.trimethylsilylester"
+      },
+      {
+        "name": "Monostearin"
+      },
+      {
+        "name": "1-stearoyl-rac-glycerol"
+      },
+      {
+        "name": "L-leucine"
+      },
+      {
+        "name": "Isoleucine"
+      },
+      {
+        "name": "Trans-3-hydroxyproline"
+      },
+      {
+        "name": "trans-4-hydroxyproline"
+      },
+      {
+        "name": "cis-4-Hydroxy-D-proline"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "Glycerol monostearate"
+      },
+      {
+        "name": "L-cysteine"
+      },
+      {
+        "name": "Glyceraldehyde"
+      },
+      {
+        "name": "Myristic acid"
+      },
+      {
+        "name": "D-alanyl-D-valine"
+      },
+      {
+        "name": "Monosaccharides F"
+      },
+      {
+        "name": "Citric acid"
+      },
+      {
+        "name": "D-glucarate"
+      },
+      {
+        "name": "L-proline"
+      },
+      {
+        "name": "L-alanine"
+      },
+      {
+        "name": "L-histidine"
+      },
+      {
+        "name": "Phenylalanine"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "xanthotoxin"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "acetyl-CoA"
+      },
+      {
+        "name": "Oxoglutaric acid"
+      },
+      {
+        "name": "Alpha-ketoglutaric acid"
+      },
+      {
+        "name": "2-Hydroxyisovaleric acid"
+      },
+      {
+        "name": "2-Hydroxy-3-methylbutyric acid"
+      },
+      {
+        "name": "Pentanoic acid 2-[(trimethylsilyl)oxy]-"
+      },
+      {
+        "name": "trimethylsilyl ester"
+      },
+      {
+        "name": "Trans-3-hydroxyproline"
+      },
+      {
+        "name": "trans-4-hydroxyproline"
+      },
+      {
+        "name": "cis-4-Hydroxy-D-proline"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "L-carnitine"
+      },
+      {
+        "name": "L-acetylcarnitine"
+      },
+      {
+        "name": "xanthotoxin"
+      },
+      {
+        "name": "glucarate"
+      },
+      {
+        "name": "L-glycine"
+      },
+      {
+        "name": "Alpha-ketoglutaric acid"
+      },
+      {
+        "name": "2-Hydroxyisovaleric acid"
+      },
+      {
+        "name": "2-Hydroxy-3-L-alanine"
+      },
+      {
+        "name": "L-cysteine"
+      },
+      {
+        "name": "L-threonine"
+      },
+      {
+        "name": "methylbutyric acid"
+      },
+      {
+        "name": "Pentanoic acid"
+      },
+      {
+        "name": "Trans-3-hydroxyproline"
+      },
+      {
+        "name": "trans-4-hydroxyproline"
+      },
+      {
+        "name": "cis-D-glyceraldehyde"
+      },
+      {
+        "name": "4-Hydroxy-D-proline"
+      },
+      {
+        "name": "Isocitric Acid"
+      },
+      {
+        "name": "Citric Acid"
+      },
+      {
+        "name": "D-Alanyl-D-Valine"
+      },
+      {
+        "name": "Glycyl-L-leucine"
+      },
+      {
+        "name": "N2-Acetyl-L-Lysine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "L-cysteine"
+      },
+      {
+        "name": "glycerol monostearate"
+      },
+      {
+        "name": "methyl stearate"
+      },
+      {
+        "name": "monostearin"
+      },
+      {
+        "name": "L-phenylalanine"
+      },
+      {
+        "name": "azelaic acid"
+      },
+      {
+        "name": "myristic acid"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "Monostearin"
+      },
+      {
+        "name": "1-stearoyl-rac-glycerol"
+      },
+      {
+        "name": "Isocitric Acid"
+      },
+      {
+        "name": "Citric Acid"
+      },
+      {
+        "name": "D-Alanyl-D-Valine"
+      },
+      {
+        "name": "Glycyl-L-leucine"
+      },
+      {
+        "name": "N2-Acetyl-L-Lysine"
+      },
+      {
+        "name": "Lactic Acid"
+      },
+      {
+        "name": "Iminodiacetic Acid"
+      },
+      {
+        "name": "L-Tryptophan"
+      },
+      {
+        "name": "Carnitine"
+      },
+      {
+        "name": "2-Aminobutyric Acid"
+      },
+      {
+        "name": "Phenylalanine"
+      },
+      {
+        "name": "Tris(trimethylsilyl)carbamate"
+      },
+      {
+        "name": "Oxoglutaric Acid"
+      },
+      {
+        "name": "Alpha-ketoglutaric Acid"
+      },
+      {
+        "name": "2-Hydroxyisovaleric Acid"
+      },
+      {
+        "name": "2-Hydroxy-3-glutarate"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "L-alanine"
+      },
+      {
+        "name": "L-histidine"
+      },
+      {
+        "name": "L-glucarate"
+      },
+      {
+        "name": "L-cysteine"
+      },
+      {
+        "name": "L-cystine"
+      },
+      {
+        "name": "cysteine-glutathione disulfide"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "aspartic acid"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "myo-inositol"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "L-serine"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-glycine"
+      },
+      {
+        "name": "L-alanine"
+      },
+      {
+        "name": "malic acid"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "L-proline"
+      },
+      {
+        "name": "L-glutamic acid"
+      },
+      {
+        "name": "L-lactic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "L-kynurenine/L-tryptophan ratio"
+      },
+      {
+        "name": "monosaccharides"
+      },
+      {
+        "name": "glyceric acid"
+      },
+      {
+        "name": "erythritol"
+      },
+      {
+        "name": "glucuronic acid"
+      },
+      {
+        "name": "D-glucarate"
+      },
+      {
+        "name": "octanoic acid"
+      },
+      {
+        "name": "2-hydroxybutyric acid"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "1,4-Butanediol"
+      },
+      {
+        "name": "(R*,S*)-3,8-Dioxa-2,9-disiladecane"
+      },
+      {
+        "name": "2,2,9,9-tetramethyl-5,6-bis[(trimethylsilyl)oxy]"
+      },
+      {
+        "name": "Carbamate"
+      },
+      {
+        "name": "Tris(trimethylsilyl)carbamate"
+      },
+      {
+        "name": "3-hydroxyproline"
+      },
+      {
+        "name": "trans-3-hydroxyproline"
+      },
+      {
+        "name": "trans-4-hydroxyproline"
+      },
+      {
+        "name": "cis-4-Hydroxy-D-proline"
+      },
+      {
+        "name": "L-tryptophan"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "aspartic acid"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "cysteineglutathione disulfide"
+      },
+      {
+        "name": "L-glycine"
+      },
+      {
+        "name": "L-serine"
+      },
+      {
+        "name": "formamide"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Nicotinamide"
+      },
+      {
+        "name": "Cytosine"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Fatty Acids"
+      },
+      {
+        "name": "Modified Amino Acids"
+      },
+      {
+        "name": "Xanthotoxin"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "L-Carnitine"
+      },
+      {
+        "name": "Carnitine Esters"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Amine"
+      },
+      {
+        "name": "Amino Acid"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Hepatocyte Growth Factor (HGF)"
+      },
+      {
+        "name": "Citric Acid"
+      },
+      {
+        "name": "L-Malic Acid"
+      },
+      {
+        "name": "Erythritol"
+      },
+      {
+        "name": "Glutamine"
+      },
+      {
+        "name": "Medium-Chain Fatty Acids"
+      },
+      {
+        "name": "Alpha-Hydroxybutyric Acid"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Lactate"
+      },
+      {
+        "name": "Arginine"
+      },
+      {
+        "name": "Citrulline"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenic Acid"
+      }
+    ]
+  }
+}

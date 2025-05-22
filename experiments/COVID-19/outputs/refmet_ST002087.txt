@@ -1,0 +1,79 @@
+Input name	Standardized name	Formula	Exact mass	Super class	Main class	Sub class	Pubchem CID	CHEBI_ID	HMDB_ID	LM_ID	KEGG_ID	INCHI_KEY	 REFMET_ID
+16 metabolites	-						-	-	-	-	-	-	-
+3-hydroxybutyric acid	3-Hydroxybutyric acid	C4H8O3	104.0473	Fatty Acyls	Fatty acids	Hydroxy FA	441	20067	HMDB0000357	LMFA01050005	C01089	WHBMMWSBFZVSSR-UHFFFAOYSA-N	RM0153056
+74 lipoprotein components	-						-	-	-	-	-	-	-
+ApoA1	-						-	-	-	-	-	-	-
+ApoA1-HDL	-						-	-	-	-	-	-	-
+ApoA2	-						-	-	-	-	-	-	-
+ApoA2-HDL	-						-	-	-	-	-	-	-
+ApoB-VLDL	-						-	-	-	-	-	-	-
+ApoB100	-						-	-	-	-	-	-	-
+Chol	Cholesterol	C27H46O	386.3549	Sterol Lipids	Sterols	Cholesterols	5997	16113	HMDB0000067	LMST01010001	C00187	HVYWMOMLDIMFJA-DPAQBDIFSA-N	RM0135639
+Chol-HDL	-						-	-	-	-	-	-	-
+Chol-LDL	-						-	-	-	-	-	-	-
+Chol-LDL4	-						-	-	-	-	-	-	-
+Chol-LDL5	-						-	-	-	-	-	-	-
+EDTA	Edetic acid	C10H16N2O8	292.0907	Organic acids	Carboxylic acids	Tetracarboxylic acids	6049	4735	HMDB0015109		C00284	KCXVZYZYPLLWCC-UHFFFAOYSA-N	RM0030846
+FreeChol-HDL	-						-	-	-	-	-	-	-
+FreeChol-LDL4	-						-	-	-	-	-	-	-
+FreeChol-LDL5	-						-	-	-	-	-	-	-
+GlycA	Glycocholic acid	C26H43NO6	465.3090	Sterol Lipids	Bile acids	C24 Bile acids	10140	17687	HMDB0000138	LMST05030001	C01921	RFDAIACWWDREDC-FRVQLJSFSA-N	RM0135849
+GlycB	-						-	-	-	-	-	-	-
+HDL	-						-	-	-	-	-	-	-
+HDL cholesterol	-						-	-	-	-	-	-	-
+LDL	-						-	-	-	-	-	-	-
+LDL cholesterol	-						-	-	-	-	-	-	-
+LDL1	-						-	-	-	-	-	-	-
+LDL2	-						-	-	-	-	-	-	-
+LDL3	-						-	-	-	-	-	-	-
+LDL4	-						-	-	-	-	-	-	-
+LDL5	-						-	-	-	-	-	-	-
+NMR	-						-	-	-	-	-	-	-
+NOESY	-						-	-	-	-	-	-	-
+PL-HDL	-						-	-	-	-	-	-	-
+PL-LDL4	-						-	-	-	-	-	-	-
+PL-LDL5	-						-	-	-	-	-	-	-
+Ph	-						-	-	-	-	-	-	-
+Random Forest (RF)	-						-	-	-	-	-	-	-
+TG	-						-	-	-	-	-	-	-
+TG-HDL	-						-	-	-	-	-	-	-
+TG-LDL	-						-	-	-	-	-	-	-
+VLDL	-						-	-	-	-	-	-	-
+acetic acid	Acetic acid	C2H4O2	60.0211	Fatty Acyls	Fatty acids	Saturated FA	176	15366	HMDB0000042	LMFA01010002	C00033	QTBSBXVTEAMEQO-UHFFFAOYSA-N	RM0153572
+acetoacetic acid	Acetoacetic acid	C4H6O3	102.0317	Fatty Acyls	Fatty acids	Oxo FA	96	15344	HMDB0000060	LMFA01060003	C00164	WDJHALXBUFZDSR-UHFFFAOYSA-N	RM0153222
+acetone	Acetone	C3H6O	58.0419	Organic oxygen compounds	Carbonyl compounds	Ketones	180	15347	HMDB0001659	LMFA12000057	C00207	CSCPPACGZOOCGX-UHFFFAOYSA-N	RM0135019
+acetyl-CoA	Acetyl-CoA	C23H38N7O17P3S	809.1258	Fatty Acyls	Fatty esters	Acyl CoAs	444493	15351	HMDB0001206	LMFA07050281	C00024	ZSLZBFCDCINBPY-ZSJPKINUSA-N	RM0073686
+alanine	Alanine	C3H7NO2	89.0477	Organic acids	Amino acids and peptides	Amino acids	5950	16977	HMDB0000161		C00041	QNAYBMKLOCPYGJ-REOHCLBHSA-N	RM0135898
+apolipoprotein A1	-						-	-	-	-	-	-	-
+apolipoprotein A2	-						-	-	-	-	-	-	-
+cholesterol	Cholesterol	C27H46O	386.3549	Sterol Lipids	Sterols	Cholesterols	5997	16113	HMDB0000067	LMST01010001	C00187	HVYWMOMLDIMFJA-DPAQBDIFSA-N	RM0135639
+citrate	Citric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	311	30769	HMDB0000094		C00158	KRKNYBCHXYNGOX-UHFFFAOYSA-N	RM0135884
+creatine	Creatine	C4H9N3O2	131.0695	Organic acids	Amino acids and peptides	Amino acids	586	16919	HMDB0000064		C00300	CVSVTCORWBXHQV-UHFFFAOYSA-N	RM0135876
+formate	Formic acid	CH2O2	46.0055	Organic acids	Carboxylic acids	Carboxylic acids	284	30751	HMDB0000142		C00058	BDAGIHXWWSANSR-UHFFFAOYSA-N	RM0135892
+free Chol	-						-	-	-	-	-	-	-
+free cholesterol	Cholesterol	C27H46O	386.3549	Sterol Lipids	Sterols	Cholesterols	5997	16113	HMDB0000067	LMST01010001	C00187	HVYWMOMLDIMFJA-DPAQBDIFSA-N	RM0135639
+glucose	Glucose	C6H12O6	180.0634	Carbohydrates	Monosaccharides	Hexoses	5793	4167	HMDB0304632		C00031	WQZGKKKJIJFFOK-GASJEMHNSA-N	RM0135901
+glutamate	Glutamic acid	C5H9NO4	147.0532	Organic acids	Amino acids and peptides	Amino acids	33032	16015	HMDB0000148		C00025	WHUUTDBJXJRKMK-VKHMYHEASA-N	RM0135893
+glutamine	Glutamine	C5H10N2O3	146.0691	Organic acids	Amino acids and peptides	Amino acids	5961	18050	HMDB0000641		C00064	ZDXPYRJPNDTMRX-VKHMYHEASA-N	RM0012560
+glycine	Glycine	C2H5NO2	75.0320	Organic acids	Amino acids and peptides	Amino acids	750	15428	HMDB0000123		C00037	DHMQDGOQFOQNFH-UHFFFAOYSA-N	RM0135888
+glycoproteins	-						-	-	-	-	-	-	-
+histidine	Histidine	C6H9N3O2	155.0695	Organic acids	Amino acids and peptides	Amino acids	6274	15971	HMDB0000177		C00135	HNDVDQJCIGZPNO-YFKPBYRVSA-N	RM0129894
+isoleucine	Isoleucine	C6H13NO2	131.0946	Organic acids	Amino acids and peptides	Amino acids	6306	17191	HMDB0000172	LMFA01100047	C00407	AGPKZVBTJJNPAG-WHFBIAKZSA-N	RM0134975
+ketone bodies	-						-	-	-	-	-	-	-
+lactic acid	Lactic acid	C3H6O3	90.0317	Organic acids	Short-chain acids	Short-chain acids	107689	422	HMDB0000190		C00186	JVTAAEKCZFNVCJ-REOHCLBHSA-N	RM0135904
+leucine	Leucine	C6H13NO2	131.0946	Organic acids	Amino acids and peptides	Amino acids	6106	15603	HMDB0000687		C00123	ROHFNLRQFUQHCH-YFKPBYRVSA-N	RM0136379
+lipoproteins	-						-	-	-	-	-	-	-
+mannose	Mannose	C6H12O6	180.0634	Carbohydrates	Monosaccharides	Hexoses	18950	4208	HMDB0000169		C00159	WQZGKKKJIJFFOK-QTVWNMPRSA-N	RM0135630
+metabolites	-						-	-	-	-	-	-	-
+methionine	Methionine	C5H11NO2S	149.0511	Organic acids	Amino acids and peptides	Amino acids	6137	16643	HMDB0000696		C00073	FFEARJCKVFRZRR-BYPYZUCNSA-N	RM0161726
+phenylalanine	Phenylalanine	C9H11NO2	165.0790	Organic acids	Amino acids and peptides	Amino acids	6140	17295	HMDB0000159		C00079	COLNVLDHVKWLRT-QMMMGPOBSA-N	RM0135897
+phospholipids	-						-	-	-	-	-	-	-
+pyruvate	Pyruvic acid	C3H4O3	88.0160	Organic acids	Short-chain acids	Short-chain acids	1060	32816	HMDB0000243	LMFA01060077	C00022	LCTONWCANYUPML-UHFFFAOYSA-N	RM0134967
+sodium phosphate buffer	-						-	-	-	-	-	-	-
+sodium trimethylsilyl[2,2,3,3−2H]propionate (TMSP)	-						-	-	-	-	-	-	-
+succinate	Succinic acid	C4H6O4	118.0266	Organic acids	TCA acids	TCA acids	1110	15741	HMDB0000254	LMFA01170043	C00042	KDYFGRWQOYBRFD-UHFFFAOYSA-N	RM0134982
+total TG content	-						-	-	-	-	-	-	-
+total cholesterol	-						-	-	-	-	-	-	-
+triglycerides	-						-	-	-	-	-	-	-
+tyrosine	Tyrosine	C9H11NO3	181.0739	Organic acids	Amino acids and peptides	Amino acids	6057	17895	HMDB0000158		C00082	OUYCCCASQSFEME-QMMMGPOBSA-N	RM0135896
+valine	Valine	C5H11NO2	117.0790	Organic acids	Amino acids and peptides	Amino acids	6287	16414	HMDB0000883		C00183	KZSNJWFQEVHDMF-BYPYZUCNSA-N	RM0136018

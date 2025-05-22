@@ -1,0 +1,78 @@
+4-hydroxyphenylpyruvic acid
+5-Dodecenoate
+acylcarnitines
+adenosine deaminase
+AMP
+b-Neu5Ac
+butyrate
+C-X-C motif chemokine ligand 10 (CXCL10)
+CA
+CAR10:0
+CAR16:0
+CAR18:0
+CAR18:1
+CAR18:2
+CAR6:0
+CAR8:0
+CARDC5:0
+CCL5
+citrate
+CO
+creatine
+CXCL10
+decanoylcarnitine (CAR10:0)
+DHA
+dipeptide gly-pro
+Dipeptidyl peptidase 4 (DPP4)
+DPP4
+DPP4 inhibitors
+F6P
+FAC19:1
+fatty acid (C19:1)
+Fumarate
+G6P
+gluconolactone
+glucose
+gly-pro
+glycylproline
+GMP
+ICAM-1
+IFNγ
+IL-12
+IL-12p40
+IL-15
+IL-1RA
+IL-1β
+IL-23
+IL-5
+IL-6
+IL-8
+interferon γ (IFNγ)
+interleukin-6 (IL-6)
+isocitrate
+lactate
+linoleylcarnitine
+long-chain acylcarnitines
+Lys
+lysine
+M-CSF
+malate
+MIP-1δ
+monocyte chemoattractant protein-1 (MCP1)
+N-benzyloxycarbonyl-L-proline
+Oleate
+oleylcarnitine
+p-Hydroxyphenylacetate
+palmitate
+Pro
+proline
+R5P
+Shikimate
+sitagliptin
+stearylcarnitine
+Succinate
+TNF
+TNF-α
+TNFSF10
+Undecylenate
+xylose

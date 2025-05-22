@@ -1,0 +1,82 @@
+Input name	Standardized name	Formula	Exact mass	Super class	Main class	Sub class	Pubchem CID	CHEBI_ID	HMDB_ID	LM_ID	KEGG_ID	INCHI_KEY	 REFMET_ID
+2′-O-methylation	-						-	-	-	-	-	-	-
+3-hydroxy-3-methylglutarate	3-Hydroxymethylglutaric acid	C6H10O5	162.0528	Fatty Acyls	Fatty acids	Dicarboxylic acids	1662	16831	HMDB0000355		C03761	NPOAOTPXWNWTSH-UHFFFAOYSA-N	RM0155771
+3-methyl-2-oxobutyrate	Ketoisovaleric acid	C5H8O3	116.0473	Fatty Acyls	Fatty acids	Branched FA	49	16530	HMDB0000019	LMFA01020274	C00141	QHKABHOOEWYVLI-UHFFFAOYSA-N	RM0153610
+3-ureidopropionate	Ureidopropionic acid	C4H8N2O3	132.0535	Organic nitrogen compounds	Organonitrogen compounds	Ureas	111	18261	HMDB0000026		C02642	JSJWCHRYRHKBBW-UHFFFAOYSA-N	RM0135867
+4-methyl-2-oxopentanoate	Ketoleucine	C6H10O3	130.0630	Organic acids	Keto acids	Short-chain keto acids	70	48430	HMDB0000695		C00233	BKAJNAXTPSGJCU-UHFFFAOYSA-N	RM0135977
+ClyO	-						-	-	-	-	-	-	-
+CoOlitVeIsD	-						-	-	-	-	-	-	-
+Cytidine	Cytidine	C9H13N3O5	243.0855	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	6175	17562	HMDB0000089		C00475	UHDGCWIWMRVCDJ-XVFCMESISA-N	RM0138922
+Kynurenine	Kynurenine	C10H12N2O3	208.0848	Organic acids	Amino acids and peptides	Amino acids	161166	16946	HMDB0000684		C00328	YGPSJZOEDVAXAB-QMMMGPOBSA-N	RM0132226
+N1-methyladenosine	1-Methyladenosine	C11H15N5O4	281.1124	Nucleic acids	Purines	Purine ribonucleosides	27476	16020	HMDB0003331		C02494	GFYLSDSUCHVORB-IOSLPCCCSA-N	RM0156409
+N4-acetylcytidine	N4-Acetylcytidine	C11H15N3O6	285.0961	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	107461	70989	HMDB0005923			NIDVTARKFBZMOT-PEBGCTIMSA-N	RM0136296
+N6-methyladenosine	N6-Methyladenosine	C11H15N5O4	281.1124	Nucleic acids	Purines	Purine ribonucleosides	102175	21891	HMDB0004044			VQAYFKKCNSOZKM-IOSLPCCCSA-N	RM0156410
+Nn-cmovetehreydlaidnen	-						-	-	-	-	-	-	-
+Nucleotide	-						-	-	-	-	-	-	-
+Phospholipid	-						-	-	-	-	-	-	-
+Sphingolipids	-						-	-	-	-	-	-	-
+Tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+Uridine	Uridine	C9H12N2O6	244.0695	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	6029	16704	HMDB0000296		C00299	DRTQHJPVMGBUCF-XVFCMESISA-N	RM0135933
+VsiIgD	-						-	-	-	-	-	-	-
+aconitate	trans-Aconitic acid	C6H6O6	174.0164	Organic acids	Carboxylic acids	Tricarboxylic acids	444212	32806	HMDB0000958		C02341	GTZCVFVGUGFEME-HNQUOIGGSA-N	RM0118176
+acute metabolites	-						-	-	-	-	-	-	-
+amines	-						-	-	-	-	-	-	-
+amino acids	-						-	-	-	-	-	-	-
+bile acid	-						-	-	-	-	-	-	-
+bile acids	-						-	-	-	-	-	-	-
+carbohydrates	-						-	-	-	-	-	-	-
+ceramides	-						-	-	-	-	-	-	-
+cofactors and vitamins	-						-	-	-	-	-	-	-
+cystathionine	Cystathionine	C7H14N2O4S	222.0674	Organic acids	Amino acids and peptides	Amino acids	439258	17482	HMDB0000099		C02291	ILRYLPWNYFXEMH-WHFBIAKZSA-N	RM0135885
+cytidine	Cytidine	C9H13N3O5	243.0855	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	6175	17562	HMDB0000089		C00475	UHDGCWIWMRVCDJ-XVFCMESISA-N	RM0138922
+cytosine	Cytosine	C4H5N3O	111.0433	Nucleic acids	Pyrimidines	Pyrimidones	597	16040	HMDB0000630		C00380	OPTASPLRGRRNAP-UHFFFAOYSA-N	RM0050550
+dehydroepiandrosteronesulfate	Dehydroepiandrosterone sulfate	C19H28O5S	368.1657	Sterol Lipids	Steroids	C19 Steroids	12594	16814	HMDB0001032	LMST05020010	C04555	CZWCKYRVOZZJNM-USOAJAOKSA-N	RM0028118
+energy	-						-	-	-	-	-	-	-
+ethycyorvoaxriniaeb	-						-	-	-	-	-	-	-
+ethylmalonate	Ethylmalonic acid	C5H8O4	132.0423	Fatty Acyls	Fatty acids	Dicarboxylic acids	11756	741548	HMDB0000622	LMFA01170105		UKFXDFUAPNAMPJ-UHFFFAOYSA-N	RM0153926
+fat-soluble vitamins A	-						-	-	-	-	-	-	-
+fat-soluble vitamins E	-						-	-	-	-	-	-	-
+formiminoglutamate	Formiminoglutamic acid	C6H10N2O4	174.0641	Organic acids	Amino acids and peptides	Amino acids	439233	7274	HMDB0000854		C00439	NRXIKWMTVXPVEF-BYPYZUCNSA-N	RM0136010
+free fatty acids	-						-	-	-	-	-	-	-
+glucose metabolites	-						-	-	-	-	-	-	-
+heme	Heme	C34H32FeN4O4	616.1773	Organoheterocyclic compounds	Metallotetrapyrroles	Metalloporphyrins	26945	26355	HMDB0003178		C00032	KABFMIBPWCXCRK-RGGAHWMASA-L	RM0137318
+histidine	Histidine	C6H9N3O2	155.0695	Organic acids	Amino acids and peptides	Amino acids	6274	15971	HMDB0000177		C00135	HNDVDQJCIGZPNO-YFKPBYRVSA-N	RM0129894
+homoarginine	Homoarginine	C7H16N4O2	188.1273	Organic acids	Amino acids and peptides	Amino acids	9085	27747	HMDB0000670		C01924	QUOGESRFPZDMMT-YFKPBYRVSA-N	RM0135972
+kynurenate	Kynurenic acid	C10H7NO3	189.0426	Alkaloids	Anthranilic acid alkaloids	Acridone alkaloids	3845	18344	HMDB0000715		C01717	HCZHHEIFKROPDY-UHFFFAOYSA-N	RM0032431
+kynurenine	Kynurenine	C10H12N2O3	208.0848	Organic acids	Amino acids and peptides	Amino acids	161166	16946	HMDB0000684		C00328	YGPSJZOEDVAXAB-QMMMGPOBSA-N	RM0132226
+lingering metabolites	-						-	-	-	-	-	-	-
+lipids	-						-	-	-	-	-	-	-
+lyso-phosphatidyl-cholines	-						-	-	-	-	-	-	-
+lyso-phosphatidylcholine	-						-	-	-	-	-	-	-
+lyso-phosphatidylcholines	-						-	-	-	-	-	-	-
+mannose	Mannose	C6H12O6	180.0634	Carbohydrates	Monosaccharides	Hexoses	18950	4208	HMDB0000169		C00159	WQZGKKKJIJFFOK-QTVWNMPRSA-N	RM0135630
+metabolites	-						-	-	-	-	-	-	-
+metabolome	-						-	-	-	-	-	-	-
+methylmalonate	Methylmalonic acid	C4H6O4	118.0266	Fatty Acyls	Fatty acids	Dicarboxylic acids	487	30860	HMDB0000202	LMFA01170118	C02170	ZIYVHBGGAOATLY-UHFFFAOYSA-N	RM0152460
+nicotinamide riboside	Nicotinamide riboside	C11H15N2O5	255.0981	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	439924	15927	HMDB0000855		C03150	JLEBZPBDRKPWTD-TURQNECASA-O	RM0156507
+nonpolar lipids	-						-	-	-	-	-	-	-
+nucleotides	-						-	-	-	-	-	-	-
+partially characterized molecules	-						-	-	-	-	-	-	-
+peptides	-						-	-	-	-	-	-	-
+persistently affected metabolites	-						-	-	-	-	-	-	-
+phosphatidyl-choline	-						-	-	-	-	-	-	-
+phosphatidylcholines	-						-	-	-	-	-	-	-
+polar metabolites	-						-	-	-	-	-	-	-
+predisposition metabolites	-						-	-	-	-	-	-	-
+proline	Proline	C5H9NO2	115.0633	Organic acids	Amino acids and peptides	Amino acids	145742	17203	HMDB0000162		C00148	ONIBWKKTOPOVIA-BYPYZUCNSA-N	RM0135899
+proline-related amino acids	-						-	-	-	-	-	-	-
+pseudouridine	Pseudouridine	C9H12N2O6	244.0695	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	15047	17802	HMDB0000767		C02067	PTJWIQPHWPFNBW-GBNDHIKLSA-N	RM0033386
+quinolinate	Quinolinic acid	C7H5NO4	167.0219	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	1066	16675	HMDB0000232		C03722	GJAWHXHKYYXBSV-UHFFFAOYSA-N	RM0135916
+secondary bile acids	-						-	-	-	-	-	-	-
+sphingolipids	-						-	-	-	-	-	-	-
+sphingomyelin	SM 18:1;O2/18:0	C41H83N2O6P	730.5989	Sphingolipids	Phosphosphingolipids	SM	6453725	83358	HMDB0001348	LMSP03010001	C00550	LKQLRGMMMAHREN-YJFXYUILSA-N	RM0135541
+sphingomyelins	-						-	-	-	-	-	-	-
+thyroxine	Thyroxine	C15H11I4NO4	776.6867	Organic acids	Amino acids and peptides	Amino acids	5819	18332	HMDB0000248		C01829	XUIIKFGFIJCVMT-LBPRGKRZSA-N	RM0135922
+transient metabolites	-						-	-	-	-	-	-	-
+tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+unknown	-						-	-	-	-	-	-	-
+uracil	Uracil	C4H4N2O2	112.0273	Nucleic acids	Pyrimidines	Other pyrimidines	1174	17568	HMDB0000300		C00106	ISAKRJDGNUQOIC-UHFFFAOYSA-N	RM0135934
+urea cycle metabolites	-						-	-	-	-	-	-	-
+uridine	Uridine	C9H12N2O6	244.0695	Nucleic acids	Pyrimidines	Pyrimidine ribonucleosides	6029	16704	HMDB0000296		C00299	DRTQHJPVMGBUCF-XVFCMESISA-N	RM0135933
+xenobiotics	-						-	-	-	-	-	-	-
+yNw4e	-						-	-	-	-	-	-	-

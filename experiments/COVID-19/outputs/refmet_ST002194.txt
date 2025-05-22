@@ -1,0 +1,155 @@
+Input name	Standardized name	Formula	Exact mass	Super class	Main class	Sub class	Pubchem CID	CHEBI_ID	HMDB_ID	LM_ID	KEGG_ID	INCHI_KEY	 REFMET_ID
+(E)-11-Octadecenoic acid	-						-	-	-	-	-	-	-
+(E)-Oleic acid	Elaidic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	637517	27997	HMDB0000573	LMFA01030073	C01712	ZQPPMHVWECSIRJ-MDZDMXLPSA-N	RM0153285
+(R*,S*)-3,8-Dioxa-2,9-disiladecane	-						-	-	-	-	-	-	-
+1,4-Butanediol	-						-	-	-	-	-	-	-
+1-stearoyl-rac-glycerol	MG 18:0	C21H42O4	358.3083	Glycerolipids	Monoradylglycerols	MAG							RM0075519
+11-Octadecenoic acid	trans-Vaccenic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	5281127	28727	HMDB0003231	LMFA01030077	C08367	UWHZIFQPPBDJPM-BQYQJAHWSA-N	RM0152793
+2,2,9,9-tetramethyl-5,6-bis[(trimethylsilyl)oxy]	-						-	-	-	-	-	-	-
+2,3-butanediol	2,3-Butanediol	C4H10O2	90.0681	Organic oxygen compounds	Alcohols and polyols	1,2-diols	225936	16982	HMDB0033007		C03044	OWBTYPJTUOEWEK-QWWZWVQMSA-N	RM0118136
+2-(methoxyimino)-3-methyl-.trimethylsilylester	-						-	-	-	-	-	-	-
+2-Aminobutyric Acid	2-Aminobutyric acid	C4H9NO2	103.0633	Organic acids	Amino acids and peptides	Amino acids							RM0162502
+2-Hydroxy-3-L-alanine	-						-	-	-	-	-	-	-
+2-Hydroxy-3-glutarate	-						-	-	-	-	-	-	-
+2-Hydroxy-3-methylbutyric acid	2-Hydroxy-3-methylbutyric acid	C5H10O3	118.0630	Fatty Acyls	Fatty acids	Hydroxy FA	853180	60631	HMDB0000407	LMFA01050390		NGEWQZIDQIYUNV-BYPYZUCNSA-N	RM0153673
+2-Hydroxyisovaleric Acid	2-Hydroxy-3-methylbutyric acid	C5H10O3	118.0630	Fatty Acyls	Fatty acids	Hydroxy FA	853180	60631	HMDB0000407	LMFA01050390		NGEWQZIDQIYUNV-BYPYZUCNSA-N	RM0153673
+2-hydroxybutyric acid	2-Hydroxybutyric acid	C4H8O3	104.0473	Fatty Acyls	Fatty acids	Hydroxy FA	11266	1148	HMDB0000008	LMFA01050004	C05984	AFENDNXGAFYKQO-UHFFFAOYSA-N	RM0153654
+2-hydroxyisovaleric acid	2-Hydroxy-3-methylbutyric acid	C5H10O3	118.0630	Fatty Acyls	Fatty acids	Hydroxy FA	853180	60631	HMDB0000407	LMFA01050390		NGEWQZIDQIYUNV-BYPYZUCNSA-N	RM0153673
+3-hydroxyproline	cis-3-Hydroxyproline	C5H9NO3	131.0582	Organic acids	Amino acids and peptides	Amino acids	11137200	88157	HMDB0002113		C01157	BJBUEDPLEOHJGE-IUYQGCFVSA-N	RM0131918
+4-Hydroxy-D-proline	-						-	-	-	-	-	-	-
+Alpha-Hydroxybutyric Acid	2-Hydroxybutyric acid	C4H8O3	104.0473	Fatty Acyls	Fatty acids	Hydroxy FA	11266	1148	HMDB0000008	LMFA01050004	C05984	AFENDNXGAFYKQO-UHFFFAOYSA-N	RM0153654
+Alpha-ketoglutaric Acid	2-Oxoglutaric acid	C5H6O5	146.0215	Organic acids	TCA acids	TCA acids	51	30915	HMDB0000208		C00026	KPGXRSRHYNQIFN-UHFFFAOYSA-N	RM0135911
+Amine	-						-	-	-	-	-	-	-
+Amino Acid	-						-	-	-	-	-	-	-
+Aminoacyl-tRNA	-						-	-	-	-	-	-	-
+Arginine	Arginine	C6H14N4O2	174.1117	Organic acids	Amino acids and peptides	Amino acids	6322	16467	HMDB0000517		C00062	ODKSFYDXXFIFQN-BYPYZUCNSA-N	RM0135963
+Butanoic acid	Butyric acid	C4H8O2	88.0524	Fatty Acyls	Fatty acids	Saturated FA	264	30772	HMDB0000039	LMFA01010004	C00246	FERIUCNNQQJTOY-UHFFFAOYSA-N	RM0153517
+Carbamate	Carbamic acid	CH3NO2	61.0164	Organic oxygen compounds	Carbonyl compounds	Carbamates	277	28616	HMDB0003551		C01563	KXDHJXZQYSOELW-UHFFFAOYSA-N	RM0136236
+Carnitine	Carnitine	C7H15NO3	161.1052	Organic nitrogen compounds	Carnitines	Carnitines	10917	16347	HMDB0000062		C00487	PHIQHXFUZVPYII-ZCFIWIBFSA-N	RM0008606
+Carnitine Esters	-						-	-	-	-	-	-	-
+Citric Acid	Citric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	311	30769	HMDB0000094		C00158	KRKNYBCHXYNGOX-UHFFFAOYSA-N	RM0135884
+Citrulline	Citrulline	C6H13N3O3	175.0957	Organic acids	Amino acids and peptides	Amino acids	9750	16349	HMDB0000904		C00327	RHGKLRLOHDJJDR-BYPYZUCNSA-N	RM0136022
+Cytosine	Cytosine	C4H5N3O	111.0433	Nucleic acids	Pyrimidines	Pyrimidones	597	16040	HMDB0000630		C00380	OPTASPLRGRRNAP-UHFFFAOYSA-N	RM0050550
+D-Alanyl-D-Valine	-						-	-	-	-	-	-	-
+D-glucarate	Glucaric acid	C6H10O8	210.0376	Carbohydrates	Monosaccharides	Sugar acids	33037	16002	HMDB0000663	LMFA01170108	C00818	DSLZVSRJTYRBFB-LLEIAEIESA-N	RM0153927
+Elaidic acid	Elaidic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	637517	27997	HMDB0000573	LMFA01030073	C01712	ZQPPMHVWECSIRJ-MDZDMXLPSA-N	RM0153285
+Erythritol	Erythritol	C4H10O4	122.0579	Carbohydrates	Monosaccharides	Sugar alcohols	222285	17113	HMDB0002994		C00503	UNXHWFMMPAWVPI-ZXZARUISSA-N	RM0136218
+EtOH	-						-	-	-	-	-	-	-
+Fatty Acids	-						-	-	-	-	-	-	-
+Fibroblast growth factor	-						-	-	-	-	-	-	-
+GSH	Glutathione	C10H17N3O6S	307.0838	Organic acids	Amino acids and peptides	Tripeptides	124886	16856	HMDB0000125		C00051	RWSXRVCMGQZWBV-WDSKDSINSA-N	RM0135889
+Glutamine	Glutamine	C5H10N2O3	146.0691	Organic acids	Amino acids and peptides	Amino acids	5961	18050	HMDB0000641		C00064	ZDXPYRJPNDTMRX-VKHMYHEASA-N	RM0012560
+Glyceraldehyde	Glyceraldehyde	C3H6O3	90.0317	Carbohydrates	Monosaccharides	Trioses	79014	17378	HMDB0001051			MNQZXJOMYWMBOU-VKHMYHEASA-N	RM0034698
+Glycerol monostearate	-						-	-	-	-	-	-	-
+Glycyl-L-leucine	Gly-Leu	C8H16N2O3	188.1161	Organic acids	Amino acids and peptides	Dipeptides	92843	73514	HMDB0000759		C02155	DKEXFJVMVGETOO-LURJTMIESA-N	RM0129881
+HGF	-						-	-	-	-	-	-	-
+Hepatocyte Growth Factor (HGF)	-						-	-	-	-	-	-	-
+IP-10	-						-	-	-	-	-	-	-
+Iminodiacetic Acid	Iminodiacetic acid	C4H7NO4	133.0375	Organic acids	Amino acids and peptides	Amino acids	8897	24786	HMDB0011753		C19911	NBZBKCUXIYYUSX-UHFFFAOYSA-N	RM0136360
+Indoleamine-pyrrole 2,3-dioxygenase	-						-	-	-	-	-	-	-
+Isocitric Acid	Isocitric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	5318532	151	HMDB0001874		C00311	ODBLHEXUDAPZAU-ZAFYKAAXSA-N	RM0050098
+Isoleucine	Isoleucine	C6H13NO2	131.0946	Organic acids	Amino acids and peptides	Amino acids	6306	17191	HMDB0000172	LMFA01100047	C00407	AGPKZVBTJJNPAG-WHFBIAKZSA-N	RM0134975
+Kynurenic Acid	Kynurenic acid	C10H7NO3	189.0426	Alkaloids	Anthranilic acid alkaloids	Acridone alkaloids	3845	18344	HMDB0000715		C01717	HCZHHEIFKROPDY-UHFFFAOYSA-N	RM0032431
+Kynurenine	Kynurenine	C10H12N2O3	208.0848	Organic acids	Amino acids and peptides	Amino acids	161166	16946	HMDB0000684		C00328	YGPSJZOEDVAXAB-QMMMGPOBSA-N	RM0132226
+L-Carnitine	Carnitine	C7H15NO3	161.1052	Organic nitrogen compounds	Carnitines	Carnitines	10917	16347	HMDB0000062		C00487	PHIQHXFUZVPYII-ZCFIWIBFSA-N	RM0008606
+L-Malic Acid	Malic acid	C4H6O5	134.0215	Organic acids	TCA acids	TCA acids	222656	30797	HMDB0000156		C00149	BJEPYKJPYRNKOW-REOHCLBHSA-N	RM0135894
+L-Tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+L-acetylcarnitine	CAR 2:0	C9H17NO4	203.1158	Fatty Acyls	Fatty esters	Acyl carnitines	18230	86045	HMDB0240771	LMFA07070049		RDHQFKQIGNGIED-QMMMGPOBSA-N	RM0154009
+L-alanine	Alanine	C3H7NO2	89.0477	Organic acids	Amino acids and peptides	Amino acids	5950	16977	HMDB0000161		C00041	QNAYBMKLOCPYGJ-REOHCLBHSA-N	RM0135898
+L-arginine	Arginine	C6H14N4O2	174.1117	Organic acids	Amino acids and peptides	Amino acids	6322	16467	HMDB0000517		C00062	ODKSFYDXXFIFQN-BYPYZUCNSA-N	RM0135963
+L-carnitine	Carnitine	C7H15NO3	161.1052	Organic nitrogen compounds	Carnitines	Carnitines	10917	16347	HMDB0000062		C00487	PHIQHXFUZVPYII-ZCFIWIBFSA-N	RM0008606
+L-cysteine	Cysteine	C3H7NO2S	121.0198	Organic acids	Amino acids and peptides	Amino acids	5862	35235	HMDB0000574		C00097	XUJNEKJLAYXESH-REOHCLBHSA-N	RM0129784
+L-cystine	Cystine	C6H12N2O4S2	240.0239	Organic acids	Amino acids and peptides	Amino acids	67678	16283	HMDB0000192		C00491	LEVWYRKDKASIDU-IMJSIDKUSA-N	RM0135906
+L-glucarate	-						-	-	-	-	-	-	-
+L-glutamic acid	Glutamic acid	C5H9NO4	147.0532	Organic acids	Amino acids and peptides	Amino acids	33032	16015	HMDB0000148		C00025	WHUUTDBJXJRKMK-VKHMYHEASA-N	RM0135893
+L-glutamine	Glutamine	C5H10N2O3	146.0691	Organic acids	Amino acids and peptides	Amino acids	5961	18050	HMDB0000641		C00064	ZDXPYRJPNDTMRX-VKHMYHEASA-N	RM0012560
+L-glycine	Glycine	C2H5NO2	75.0320	Organic acids	Amino acids and peptides	Amino acids	750	15428	HMDB0000123		C00037	DHMQDGOQFOQNFH-UHFFFAOYSA-N	RM0135888
+L-histidine	Histidine	C6H9N3O2	155.0695	Organic acids	Amino acids and peptides	Amino acids	6274	15971	HMDB0000177		C00135	HNDVDQJCIGZPNO-YFKPBYRVSA-N	RM0129894
+L-kynurenine	Kynurenine	C10H12N2O3	208.0848	Organic acids	Amino acids and peptides	Amino acids	161166	16946	HMDB0000684		C00328	YGPSJZOEDVAXAB-QMMMGPOBSA-N	RM0132226
+L-kynurenine/L-tryptophan ratio	-						-	-	-	-	-	-	-
+L-lactic acid	Lactic acid	C3H6O3	90.0317	Organic acids	Short-chain acids	Short-chain acids	107689	422	HMDB0000190		C00186	JVTAAEKCZFNVCJ-REOHCLBHSA-N	RM0135904
+L-leucine	Leucine	C6H13NO2	131.0946	Organic acids	Amino acids and peptides	Amino acids	6106	15603	HMDB0000687		C00123	ROHFNLRQFUQHCH-YFKPBYRVSA-N	RM0136379
+L-phenylalanine	Phenylalanine	C9H11NO2	165.0790	Organic acids	Amino acids and peptides	Amino acids	6140	17295	HMDB0000159		C00079	COLNVLDHVKWLRT-QMMMGPOBSA-N	RM0135897
+L-proline	Proline	C5H9NO2	115.0633	Organic acids	Amino acids and peptides	Amino acids	145742	17203	HMDB0000162		C00148	ONIBWKKTOPOVIA-BYPYZUCNSA-N	RM0135899
+L-serine	Serine	C3H7NO3	105.0426	Organic acids	Amino acids and peptides	Amino acids	5951	17115	HMDB0000187		C00065	MTCFGRXMJLQNBG-REOHCLBHSA-N	RM0032433
+L-threonine	Threonine	C4H9NO3	119.0582	Organic acids	Amino acids and peptides	Amino acids	6288	16857	HMDB0000167		C00188	AYFVYJQAPQTCCC-GBXIJSLDSA-N	RM0135900
+L-tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+L-tyrosine	Tyrosine	C9H11NO3	181.0739	Organic acids	Amino acids and peptides	Amino acids	6057	17895	HMDB0000158		C00082	OUYCCCASQSFEME-QMMMGPOBSA-N	RM0135896
+L-valine	Valine	C5H11NO2	117.0790	Organic acids	Amino acids and peptides	Amino acids	6287	16414	HMDB0000883		C00183	KZSNJWFQEVHDMF-BYPYZUCNSA-N	RM0136018
+Lactate	Lactic acid	C3H6O3	90.0317	Organic acids	Short-chain acids	Short-chain acids	107689	422	HMDB0000190		C00186	JVTAAEKCZFNVCJ-REOHCLBHSA-N	RM0135904
+Lactic Acid	Lactic acid	C3H6O3	90.0317	Organic acids	Short-chain acids	Short-chain acids	107689	422	HMDB0000190		C00186	JVTAAEKCZFNVCJ-REOHCLBHSA-N	RM0135904
+MeOH	Methanol	CH4O	32.0262	Organic oxygen compounds	Primary alcohols	Primary alcohols	887	17790	HMDB0001875		C00132	OKKJLVBELUTLKV-UHFFFAOYSA-N	RM0017835
+Medium-Chain Fatty Acids	-						-	-	-	-	-	-	-
+Modified Amino Acids	-						-	-	-	-	-	-	-
+Monosaccharides F	-						-	-	-	-	-	-	-
+Monostearin	-						-	-	-	-	-	-	-
+Myristic acid	Myristic acid	C14H28O2	228.2089	Fatty Acyls	Fatty acids	Saturated FA	11005	28875	HMDB0000806	LMFA01010014	C06424	TUNFSRHWOTWDNC-UHFFFAOYSA-N	RM0153483
+N,N-dimethylglycine	Dimethylglycine	C4H9NO2	103.0633	Organic acids	Amino acids and peptides	Amino acids	673	17724	HMDB0000092		C01026	FFDGPVCHZBVARC-UHFFFAOYSA-N	RM0135883
+N2-Acetyl-L-Lysine	N(2)-Acetyllysine	C8H16N2O3	188.1161	Organic acids	Amino acids and peptides	Amino acids	92907	35704	HMDB0000446		C12989	VEYYWZRYIYDQJM-ZETCQYMHSA-N	RM0132215
+NT-proBNP	-						-	-	-	-	-	-	-
+Neopterin	Neopterin	C9H11N5O4	253.0811	Organoheterocyclic compounds	Pterins	Biopterins	135408877		HMDB0000845		C05926	BMQYVXCPAOLZOK-UHFFFAOYSA-N	RM0029599
+Nicotinamide	Niacinamide	C6H6N2O	122.0480	Alkaloids	Pyridine alkaloids	Nicotinic acid alkaloids	936	17154	HMDB0001406		C00153	DFPAKSUCGFBDDF-UHFFFAOYSA-N	RM0156450
+Oleic acid	Oleic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	445639	16196	HMDB0000207	LMFA01030002	C00712	ZQPPMHVWECSIRJ-KTKRTIGZSA-N	RM0151650
+Oxoglutaric Acid	2-Oxoglutaric acid	C5H6O5	146.0215	Organic acids	TCA acids	TCA acids	51	30915	HMDB0000208		C00026	KPGXRSRHYNQIFN-UHFFFAOYSA-N	RM0135911
+Pentanoic acid	Valeric acid	C5H10O2	102.0681	Fatty Acyls	Fatty acids	Saturated FA	7991	17418	HMDB0000892	LMFA01010005	C00803	NQPDZGIKBAWPEJ-UHFFFAOYSA-N	RM0139464
+Pentanoic acid 2-[(trimethylsilyl)oxy]-	-						-	-	-	-	-	-	-
+Phenylalanine	Phenylalanine	C9H11NO2	165.0790	Organic acids	Amino acids and peptides	Amino acids	6140	17295	HMDB0000159		C00079	COLNVLDHVKWLRT-QMMMGPOBSA-N	RM0135897
+Tocilizumab	-						-	-	-	-	-	-	-
+Trans-3-hydroxyproline	-						-	-	-	-	-	-	-
+Tris(trimethylsilyl)carbamate	-						-	-	-	-	-	-	-
+Tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+Vaccenic acid	cis-Vaccenic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	5282761	50464	HMDB0240219	LMFA01030076	C21944	UWHZIFQPPBDJPM-FPLPWBNLSA-N	RM0153621
+Xanthotoxin	Methoxsalen	C12H8O4	216.0423	Polyketides	Flavonoids	Furanocoumarins	4114	18358	HMDB0014693		C01864	QXKHYNVANLEOEG-UHFFFAOYSA-N	RM0186773
+acetyl-CoA	Acetyl-CoA	C23H38N7O17P3S	809.1258	Fatty Acyls	Fatty esters	Acyl CoAs	444493	15351	HMDB0001206	LMFA07050281	C00024	ZSLZBFCDCINBPY-ZSJPKINUSA-N	RM0073686
+arginine	Arginine	C6H14N4O2	174.1117	Organic acids	Amino acids and peptides	Amino acids	6322	16467	HMDB0000517		C00062	ODKSFYDXXFIFQN-BYPYZUCNSA-N	RM0135963
+aspartic acid	Aspartic acid	C4H7NO4	133.0375	Organic acids	Amino acids and peptides	Amino acids	5960	17053	HMDB0000191		C00049	CKLJMWTZIZZHCS-REOHCLBHSA-N	RM0135905
+azelaic acid	Azelaic acid	C9H16O4	188.1049	Fatty Acyls	Fatty acids	Dicarboxylic acids	2266	48131	HMDB0000784	LMFA01170054	C08261	BDJRBEYXGGNYIS-UHFFFAOYSA-N	RM0153048
+chloroquine	-						-	-	-	-	-	-	-
+cholesterol	Cholesterol	C27H46O	386.3549	Sterol Lipids	Sterols	Cholesterols	5997	16113	HMDB0000067	LMST01010001	C00187	HVYWMOMLDIMFJA-DPAQBDIFSA-N	RM0135639
+cis-4-Hydroxy-D-proline	cis-4-Hydroxy-D-proline	C5H9NO3	131.0582	Organic acids	Amino acids and peptides	Amino acids	440014	16231	HMDB0060460		C03440	PMMYEEVYMWASQN-QWWZWVQMSA-N	RM0132213
+cis-D-glyceraldehyde	-						-	-	-	-	-	-	-
+citrate	Citric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	311	30769	HMDB0000094		C00158	KRKNYBCHXYNGOX-UHFFFAOYSA-N	RM0135884
+citric acid	Citric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	311	30769	HMDB0000094		C00158	KRKNYBCHXYNGOX-UHFFFAOYSA-N	RM0135884
+citrulline	Citrulline	C6H13N3O3	175.0957	Organic acids	Amino acids and peptides	Amino acids	9750	16349	HMDB0000904		C00327	RHGKLRLOHDJJDR-BYPYZUCNSA-N	RM0136022
+corticoids	-						-	-	-	-	-	-	-
+corticosteroids	-						-	-	-	-	-	-	-
+cysteine	Cysteine	C3H7NO2S	121.0198	Organic acids	Amino acids and peptides	Amino acids	5862	35235	HMDB0000574		C00097	XUJNEKJLAYXESH-REOHCLBHSA-N	RM0129784
+cysteine glutathione disulfide	S-Glutathionyl-cysteine	C13H22N4O8S2	426.0879	Organic acids	Amino acids and peptides	Oligopeptides	10455148	21264	HMDB0000656		C05526	BNRXZEPOHPEEAS-FXQIFTODSA-N	RM0160927
+cysteine-glutathione disulfide	S-Glutathionyl-cysteine	C13H22N4O8S2	426.0879	Organic acids	Amino acids and peptides	Oligopeptides	10455148	21264	HMDB0000656		C05526	BNRXZEPOHPEEAS-FXQIFTODSA-N	RM0160927
+cysteineglutathione disulfide	S-Glutathionyl-cysteine	C13H22N4O8S2	426.0879	Organic acids	Amino acids and peptides	Oligopeptides	10455148	21264	HMDB0000656		C05526	BNRXZEPOHPEEAS-FXQIFTODSA-N	RM0160927
+elaidic acid	Elaidic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	637517	27997	HMDB0000573	LMFA01030073	C01712	ZQPPMHVWECSIRJ-MDZDMXLPSA-N	RM0153285
+erythritol	Erythritol	C4H10O4	122.0579	Carbohydrates	Monosaccharides	Sugar alcohols	222285	17113	HMDB0002994		C00503	UNXHWFMMPAWVPI-ZXZARUISSA-N	RM0136218
+formamide	Formamide	CH3NO	45.0215	Organic acids	Carboxylic acids	Carboxylic acids	713	16397	HMDB0001536		C00488	ZHNUHDYFZUAESO-UHFFFAOYSA-N	RM0022989
+glucarate	Glucaric acid	C6H10O8	210.0376	Carbohydrates	Monosaccharides	Sugar acids	33037	16002	HMDB0000663	LMFA01170108	C00818	DSLZVSRJTYRBFB-LLEIAEIESA-N	RM0153927
+glucuronic acid	Glucuronic acid	C6H10O7	194.0427	Carbohydrates	Monosaccharides	Sugar acids	94715	47952	HMDB0000127		C00191	AEMOLEFTQBMNLQ-AQKNRBDQSA-N	RM0155912
+glutathione disulfide	Oxidized glutathione	C20H32N6O12S2	612.1520	Organic acids	Amino acids and peptides	Tripeptides	65359	17858	HMDB0003337		C00127	YPZRWBKMTBYPTK-BJDJZHNGSA-N	RM0139022
+glyceric acid	Glyceric acid	C3H6O4	106.0266	Carbohydrates	Monosaccharides	Sugar acids	439194	32398	HMDB0000139		C00258	RBNPOMFGQQGHHO-UWTATZPHSA-N	RM0135902
+glycerol monostearate	-						-	-	-	-	-	-	-
+hydroxychloroquine	Hydroxychloroquine	C18H26ClN3O	335.1764	Organoheterocyclic compounds	Aminoquinolines	Aminoquinolines	3652	5801	HMDB0015549		C07043	XXSMGPRMXLTPCZ-UHFFFAOYSA-N	RM0029948
+interferon beta	-						-	-	-	-	-	-	-
+isocitric acid	Isocitric acid	C6H8O7	192.0270	Organic acids	TCA acids	TCA acids	5318532	151	HMDB0001874		C00311	ODBLHEXUDAPZAU-ZAFYKAAXSA-N	RM0050098
+lactic acid	Lactic acid	C3H6O3	90.0317	Organic acids	Short-chain acids	Short-chain acids	107689	422	HMDB0000190		C00186	JVTAAEKCZFNVCJ-REOHCLBHSA-N	RM0135904
+malic acid	Malic acid	C4H6O5	134.0215	Organic acids	TCA acids	TCA acids	222656	30797	HMDB0000156		C00149	BJEPYKJPYRNKOW-REOHCLBHSA-N	RM0135894
+methyl stearate	Methyl stearate	C19H38O2	298.2872	Fatty Acyls	Fatty esters	Wax monoesters	8201	69188	HMDB0034154	LMFA07010474		HPEUJPJOZXNMSJ-UHFFFAOYSA-N	RM0153843
+methylbutyric acid	Methylbutyric acid	C5H10O2	102.0681	Fatty Acyls	Fatty acids	Branched FA							RM0140437
+methylstearate	Methyl stearate	C19H38O2	298.2872	Fatty Acyls	Fatty esters	Wax monoesters	8201	69188	HMDB0034154	LMFA07010474		HPEUJPJOZXNMSJ-UHFFFAOYSA-N	RM0153843
+monosaccharides	-						-	-	-	-	-	-	-
+monosaccharides A	-						-	-	-	-	-	-	-
+monosaccharides E	-						-	-	-	-	-	-	-
+monostearin	-						-	-	-	-	-	-	-
+myo-inositol	Myo-inositol	C6H12O6	180.0634	Organic oxygen compounds	Alcohols and polyols	Inositols	892	17268	HMDB0000211		C00137	CDAISMWEOUEBRE-GPIVLXJGSA-N	RM0136735
+myristic acid	Myristic acid	C14H28O2	228.2089	Fatty Acyls	Fatty acids	Saturated FA	11005	28875	HMDB0000806	LMFA01010014	C06424	TUNFSRHWOTWDNC-UHFFFAOYSA-N	RM0153483
+octanoic acid	Caprylic acid	C8H16O2	144.1150	Fatty Acyls	Fatty acids	Saturated FA	379	28837	HMDB0000482	LMFA01010008	C06423	WWZKQHOCKIZLMA-UHFFFAOYSA-N	RM0134956
+phenylalanine	Phenylalanine	C9H11NO2	165.0790	Organic acids	Amino acids and peptides	Amino acids	6140	17295	HMDB0000159		C00079	COLNVLDHVKWLRT-QMMMGPOBSA-N	RM0135897
+pyruvate	Pyruvic acid	C3H4O3	88.0160	Organic acids	Short-chain acids	Short-chain acids	1060	32816	HMDB0000243	LMFA01060077	C00022	LCTONWCANYUPML-UHFFFAOYSA-N	RM0134967
+reduced glutathione	Glutathione	C10H17N3O6S	307.0838	Organic acids	Amino acids and peptides	Tripeptides	124886	16856	HMDB0000125		C00051	RWSXRVCMGQZWBV-WDSKDSINSA-N	RM0135889
+ribavirin	Ribavirin	C8H12N4O5	244.0808	Nucleic acids	Purines	Other purines	37542	63580	HMDB0014949			IWUCXVSUMQZMFG-AFCXAGJDSA-N	RM0187648
+serine	Serine	C3H7NO3	105.0426	Organic acids	Amino acids and peptides	Amino acids	5951	17115	HMDB0000187		C00065	MTCFGRXMJLQNBG-REOHCLBHSA-N	RM0032433
+supplemental oxygen	-						-	-	-	-	-	-	-
+tocilizumab	-						-	-	-	-	-	-	-
+trans-3-hydroxyproline	-						-	-	-	-	-	-	-
+trans-4-hydroxyproline	trans-4-Hydroxyproline	C5H9NO3	131.0582	Organic acids	Amino acids and peptides	Amino acids	5810	18095	HMDB0000725		C01157	PMMYEEVYMWASQN-DMTCNVIQSA-N	RM0128618
+trimethylsilyl ester	-						-	-	-	-	-	-	-
+tryptophan	Tryptophan	C11H12N2O2	204.0899	Organic acids	Amino acids and peptides	Amino acids	6305	16828	HMDB0000929		C00078	QIVBCDIJIAJPQS-VIFPVBQESA-N	RM0136024
+vaccenic acid	cis-Vaccenic acid	C18H34O2	282.2559	Fatty Acyls	Fatty acids	Unsaturated FA	5282761	50464	HMDB0240219	LMFA01030076	C21944	UWHZIFQPPBDJPM-FPLPWBNLSA-N	RM0153621
+xanthotoxin	Methoxsalen	C12H8O4	216.0423	Polyketides	Flavonoids	Furanocoumarins	4114	18358	HMDB0014693		C01864	QXKHYNVANLEOEG-UHFFFAOYSA-N	RM0186773

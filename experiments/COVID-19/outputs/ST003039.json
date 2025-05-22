@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "title": "A non-targeted metabolomics comparative study on plasma of pfizer and sinopharm COVID-19 vaccinated individuals, assessed by (TIMS-QTOF) mass spectrometry",
+    "journal": "Heliyon",
+    "year": 2024,
+    "volume": "10",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.heliyon.2024.e35443",
+    "authors": [
+      {
+        "firstname": "Haneen",
+        "middle_initial": "I.",
+        "surname": "Abufares",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Ruba",
+        "middle_initial": "A.",
+        "surname": "Zenati",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Nelson",
+        "middle_initial": "C.",
+        "surname": "Soares",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Waseem",
+        "middle_initial": "El-",
+        "surname": "Huneidi",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Lina",
+        "middle_initial": "A.",
+        "surname": "Dahabiyeh",
+        "affiliation": "School of Pharmacy, The University of Jordan, Amman, 11942, Jordan"
+      },
+      {
+        "firstname": "Hamza",
+        "middle_initial": "M.",
+        "surname": "Al-Hroub",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Mohammad",
+        "middle_initial": "A.Y.",
+        "surname": "Alqudah",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Ahmad",
+        "middle_initial": "Y.",
+        "surname": "Abuhelwa",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Karem",
+        "middle_initial": "H.",
+        "surname": "Alzoub",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Eman",
+        "middle_initial": null,
+        "surname": "Abu-Gharbieh",
+        "affiliation": "School of Pharmacy, The University of Jordan, Amman, 11942, Jordan"
+      },
+      {
+        "firstname": "Wafa’",
+        "middle_initial": null,
+        "surname": "Jehad Hazag",
+        "affiliation": "Al-Quds Medical Labs, AL-Zarqa, Jordan"
+      },
+      {
+        "firstname": "Mohammad",
+        "middle_initial": "A.",
+        "surname": "Fararjeh",
+        "affiliation": "Hamdi Mango Center for Scientific Research, The university of Jordan, Amman, Jordan"
+      },
+      {
+        "firstname": "Bashaer",
+        "middle_initial": null,
+        "surname": "Abu-Irmaileh",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Yasser",
+        "middle_initial": null,
+        "surname": "Bustanji",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      },
+      {
+        "firstname": "Mohammad",
+        "middle_initial": "H.",
+        "surname": "Semreen",
+        "affiliation": "Research Institute of Medical and Health Sciences, University of Sharjah, Sharjah, United Arab Emirates"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "purine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "vitamin B6"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "pyridoxal"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "sphinganine"
+      },
+      {
+        "name": "sphingosine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "pyridoxal"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "methanol"
+      },
+      {
+        "name": "acetonitrile"
+      },
+      {
+        "name": "acetonitrile (ACN)"
+      },
+      {
+        "name": "sodium formate"
+      },
+      {
+        "name": "L-Kynurenine"
+      },
+      {
+        "name": "Ethanolamine"
+      },
+      {
+        "name": "Androstenedione"
+      },
+      {
+        "name": "Serotonin"
+      },
+      {
+        "name": "Deoxycholic acid glycine conjugate"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "3,4-Dihydroxymandelic acid"
+      },
+      {
+        "name": "Urocanic acid"
+      },
+      {
+        "name": "Pyridoxal"
+      },
+      {
+        "name": "Syringic acid"
+      },
+      {
+        "name": "Succinylacetone"
+      },
+      {
+        "name": "Aspartyl-lysine"
+      },
+      {
+        "name": "Phosphocreatine"
+      },
+      {
+        "name": "Canavanine"
+      },
+      {
+        "name": "1,3-Dimethyluracil"
+      },
+      {
+        "name": "5-Methoxytryptophol"
+      },
+      {
+        "name": "1,3-Dimethyluracil"
+      },
+      {
+        "name": "5-Methoxytryptophol"
+      },
+      {
+        "name": "Nutriacholic acid"
+      },
+      {
+        "name": "Dihydrothymine"
+      },
+      {
+        "name": "Saccharopine"
+      },
+      {
+        "name": "Ribose"
+      },
+      {
+        "name": "L-Dopa"
+      },
+      {
+        "name": "3-Methylxanthine"
+      },
+      {
+        "name": "6-(Methylamino) purine"
+      },
+      {
+        "name": "Cortisol"
+      },
+      {
+        "name": "p-Octopamine"
+      },
+      {
+        "name": "Guanosine 5′-triphosphate"
+      },
+      {
+        "name": "Sphingosine"
+      },
+      {
+        "name": "Coumarin"
+      },
+      {
+        "name": "Sphinganine"
+      },
+      {
+        "name": "Xanthine"
+      },
+      {
+        "name": "m-Coumaric acid"
+      },
+      {
+        "name": "Uracil"
+      },
+      {
+        "name": "2,4-Diaminobutyric acid"
+      },
+      {
+        "name": "Butanone"
+      },
+      {
+        "name": "Testosterone"
+      },
+      {
+        "name": "Glycocholic acid"
+      },
+      {
+        "name": "Quinaldic acid"
+      },
+      {
+        "name": "L-Kynurenine"
+      },
+      {
+        "name": "Ethanolamine"
+      },
+      {
+        "name": "Sphinganine"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "Testosterone"
+      },
+      {
+        "name": "Saccharopine"
+      },
+      {
+        "name": "Sphingosine"
+      },
+      {
+        "name": "Succinylacetone"
+      },
+      {
+        "name": "Aspartyl-lysine"
+      },
+      {
+        "name": "Urocanic acid"
+      },
+      {
+        "name": "Ribose"
+      },
+      {
+        "name": "Butanone"
+      },
+      {
+        "name": "3,4-Dihydroxymandelic acid"
+      },
+      {
+        "name": "Syringic acid"
+      },
+      {
+        "name": "Pyridoxal"
+      },
+      {
+        "name": "5-Methoxytryptophol"
+      },
+      {
+        "name": "Phosphocreatine"
+      },
+      {
+        "name": "Canavanine"
+      },
+      {
+        "name": "Nutriacholic acid"
+      },
+      {
+        "name": "Dihydrothymine"
+      },
+      {
+        "name": "1,3-Dimethyluracil"
+      },
+      {
+        "name": "L-Dopa"
+      },
+      {
+        "name": "L-Dopa"
+      },
+      {
+        "name": "Butanone"
+      },
+      {
+        "name": "Coumarin"
+      },
+      {
+        "name": "Xanthine"
+      },
+      {
+        "name": "Uracil"
+      },
+      {
+        "name": "m-Coumaric acid"
+      },
+      {
+        "name": "Glycocholic acid"
+      },
+      {
+        "name": "Sphingosine"
+      },
+      {
+        "name": "2,4-Diaminobutyric acid"
+      },
+      {
+        "name": "Quinaldic acid"
+      },
+      {
+        "name": "L-Kynurenine"
+      },
+      {
+        "name": "Ethanolamine"
+      },
+      {
+        "name": "Testosterone"
+      },
+      {
+        "name": "Sphinganine"
+      },
+      {
+        "name": "Androstenedione"
+      },
+      {
+        "name": "Serotonin"
+      },
+      {
+        "name": "Deoxycholic acid glycine conjugate"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "spermine"
+      },
+      {
+        "name": "betaine"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "3,4-dihydroxymandelic acid"
+      },
+      {
+        "name": "urocanic acid"
+      },
+      {
+        "name": "pyridoxal"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "deoxycholic acid glycine conjugate"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "androstenedione"
+      },
+      {
+        "name": "ethanolamine"
+      },
+      {
+        "name": "cortisol"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "5-methoxytryptophol"
+      },
+      {
+        "name": "melatonin"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "indolelactic acid"
+      },
+      {
+        "name": "isovalerylcarnitine"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "beta-alanine"
+      },
+      {
+        "name": "Sphingosine"
+      },
+      {
+        "name": "sphinganine"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "butanone"
+      },
+      {
+        "name": "ribose"
+      },
+      {
+        "name": "urocanic acid"
+      },
+      {
+        "name": "3,4-dihydroxymandelic acid"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "androstenedione"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "deoxycholic acid glycine conjugate"
+      },
+      {
+        "name": "indolelactic acid"
+      },
+      {
+        "name": "isovalerylcarnitine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "L-histidine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenines"
+      },
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "purine nucleotides"
+      },
+      {
+        "name": "vitamin B6"
+      },
+      {
+        "name": "syringic acid"
+      },
+      {
+        "name": "aspartyl-lysine"
+      },
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "aspartate"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "nitric oxide"
+      },
+      {
+        "name": "sphingosine"
+      },
+      {
+        "name": "sphingosine-1-phosphate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "pyridoxal"
+      },
+      {
+        "name": "5-methoxytryptophol"
+      },
+      {
+        "name": "syringic acid"
+      }
+    ]
+  }
+}

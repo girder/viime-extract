@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "title": "Profiling metabolites and lipoproteins in COMETA, an Italian cohort of COVID-19 patients",
+    "journal": "PLOS PATHOGENS",
+    "year": 2022,
+    "volume": "18",
+    "pubmed_id": "e1010443",
+    "doi_id": "10.1371/journal.ppat.1010443",
+    "authors": [
+      {
+        "firstname": "Veronica",
+        "middle_initial": null,
+        "surname": "Ghini",
+        "affiliation": "Department of Chemistry, University of Florence, Sesto Fiorentino, Italy"
+      },
+      {
+        "firstname": "Gaia",
+        "middle_initial": null,
+        "surname": "Meoni",
+        "affiliation": "Department of Chemistry, University of Florence, Sesto Fiorentino, Italy"
+      },
+      {
+        "firstname": "Lorenzo",
+        "middle_initial": null,
+        "surname": "Pelagatti",
+        "affiliation": "Internal Medicine, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Tommaso",
+        "middle_initial": null,
+        "surname": "Celli",
+        "affiliation": "Internal Medicine, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Francesca",
+        "middle_initial": null,
+        "surname": "Veneziani",
+        "affiliation": "Laboratory of Clinical Pathology, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Fabrizia",
+        "middle_initial": null,
+        "surname": "Petrucci",
+        "affiliation": "Laboratory of Clinical Pathology, San Giovanni di Dio Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Vieri",
+        "middle_initial": null,
+        "surname": "Vannucchi",
+        "affiliation": "Internal Medicine, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Laura",
+        "middle_initial": null,
+        "surname": "Bertini",
+        "affiliation": "Internal Medicine, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Claudio",
+        "middle_initial": null,
+        "surname": "Luchinat",
+        "affiliation": "Department of Chemistry, University of Florence, Sesto Fiorentino, Italy"
+      },
+      {
+        "firstname": "Giancarlo",
+        "middle_initial": null,
+        "surname": "Landini",
+        "affiliation": "Internal Medicine, Santa Maria Nuova Hospital, Florence, Italy"
+      },
+      {
+        "firstname": "Paola",
+        "middle_initial": null,
+        "surname": "Turano",
+        "affiliation": "Department of Chemistry, University of Florence, Sesto Fiorentino, Italy"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "16 metabolites"
+      },
+      {
+        "name": "74 lipoprotein components"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "lipoproteins"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "phospholipids"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "mannose"
+      },
+      {
+        "name": "glycoproteins"
+      },
+      {
+        "name": "isoleucine"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "EDTA"
+      },
+      {
+        "name": "NMR"
+      },
+      {
+        "name": "NOESY"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PostCOVID-19"
+      },
+      {
+        "name": "Chol"
+      },
+      {
+        "name": "free Chol"
+      },
+      {
+        "name": "Ph"
+      },
+      {
+        "name": "TG"
+      },
+      {
+        "name": "LDL1"
+      },
+      {
+        "name": "LDL2"
+      },
+      {
+        "name": "mannose"
+      },
+      {
+        "name": "3-hydroxybutyric acid"
+      },
+      {
+        "name": "acetoacetic acid"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "valine"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "acetic acid"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "phospholipids"
+      },
+      {
+        "name": "total cholesterol"
+      },
+      {
+        "name": "HDL cholesterol"
+      },
+      {
+        "name": "LDL cholesterol"
+      },
+      {
+        "name": "apolipoprotein A1"
+      },
+      {
+        "name": "apolipoprotein A2"
+      },
+      {
+        "name": "free cholesterol"
+      },
+      {
+        "name": "TG-LDL"
+      },
+      {
+        "name": "Chol-HDL"
+      },
+      {
+        "name": "FreeChol-HDL"
+      },
+      {
+        "name": "PL-HDL"
+      },
+      {
+        "name": "ApoA1-HDL"
+      },
+      {
+        "name": "ApoA2-HDL"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "lipoproteins"
+      },
+      {
+        "name": "acetyl-CoA"
+      },
+      {
+        "name": "3-hydroxybutyric acid"
+      },
+      {
+        "name": "acetoacetic acid"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "mannose"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "GlycA"
+      },
+      {
+        "name": "GlycB"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "LDL cholesterol"
+      },
+      {
+        "name": "HDL cholesterol"
+      },
+      {
+        "name": "ApoA1"
+      },
+      {
+        "name": "TG-LDL"
+      },
+      {
+        "name": "LDL1"
+      },
+      {
+        "name": "LDL2"
+      },
+      {
+        "name": "LDL3"
+      },
+      {
+        "name": "TG-HDL"
+      },
+      {
+        "name": "Chol-LDL"
+      },
+      {
+        "name": "ApoB-VLDL"
+      },
+      {
+        "name": "Chol-LDL4"
+      },
+      {
+        "name": "Chol-LDL5"
+      },
+      {
+        "name": "FreeChol-LDL4"
+      },
+      {
+        "name": "FreeChol-LDL5"
+      },
+      {
+        "name": "PL-LDL4"
+      },
+      {
+        "name": "PL-LDL5"
+      },
+      {
+        "name": "ketone bodies"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "valine"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "succinate"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "formate"
+      },
+      {
+        "name": "creatine"
+      },
+      {
+        "name": "mannose"
+      },
+      {
+        "name": "GlycA"
+      },
+      {
+        "name": "GlycB"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "glycine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "total TG content"
+      },
+      {
+        "name": "ApoB100/ApoA1 ratio"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "free cholesterol"
+      },
+      {
+        "name": "phospholipids"
+      },
+      {
+        "name": "alanine"
+      },
+      {
+        "name": "leucine"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "acetyl-CoA"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "sodium phosphate buffer"
+      },
+      {
+        "name": "sodium trimethylsilyl[2,2,3,3−2H]propionate"
+      }
+    ]
+  }
+}

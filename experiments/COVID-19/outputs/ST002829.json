@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Nucleotide, Phospholipid, and Kynurenine Metabolites Are Robustly Associated with COVID-19 Severity and Time of Plasma Sample Collection in a Prospective Cohort Study",
+    "journal": "International Journal of Molecular Sciences",
+    "year": 2024,
+    "volume": "25",
+    "pubmed_id": null,
+    "doi_id": "10.3390/ijms25010346",
+    "authors": [
+      {
+        "firstname": "Haley",
+        "middle_initial": "A.S.",
+        "surname": "Chatelaine",
+        "affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, MD 20850, USA"
+      },
+      {
+        "firstname": "Yulu",
+        "middle_initial": null,
+        "surname": "Chen",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "John",
+        "middle_initial": null,
+        "surname": "Braisted",
+        "affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, MD 20850, USA"
+      },
+      {
+        "firstname": "Su H.",
+        "middle_initial": null,
+        "surname": "Chu",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Qingwen",
+        "middle_initial": null,
+        "surname": "Chen",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Meryl",
+        "middle_initial": null,
+        "surname": "Stav",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Sofina",
+        "middle_initial": null,
+        "surname": "Begum",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Joann",
+        "middle_initial": null,
+        "surname": "Diray-Arce",
+        "affiliation": "Precision Vaccines Program, Boston Children’s Hospital and Department of Pediatrics, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Jaleal",
+        "middle_initial": null,
+        "surname": "Sanjak",
+        "affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, MD 20850, USA"
+      },
+      {
+        "firstname": "Mengna",
+        "middle_initial": null,
+        "surname": "Huang",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Jessica",
+        "middle_initial": null,
+        "surname": "Lasky-Su",
+        "affiliation": "Channing Division of Network Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Ewy",
+        "middle_initial": "A.",
+        "surname": "Mathé",
+        "affiliation": "Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, MD 20850, USA"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Phospholipid"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Nucleotide"
+      },
+      {
+        "name": "Phospholipid"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Sphingolipids"
+      },
+      {
+        "name": "Cytidine"
+      },
+      {
+        "name": "Uridine"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolome"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "lyso-phosphatidylcholines"
+      },
+      {
+        "name": "phosphatidylcholines"
+      },
+      {
+        "name": "cytosine"
+      },
+      {
+        "name": "uridine"
+      },
+      {
+        "name": "bile acids"
+      },
+      {
+        "name": "urea cycle metabolites"
+      },
+      {
+        "name": "predisposition metabolites"
+      },
+      {
+        "name": "acute metabolites"
+      },
+      {
+        "name": "persistently affected metabolites"
+      },
+      {
+        "name": "transient metabolites"
+      },
+      {
+        "name": "lingering metabolites"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "unknown"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "cofactors and vitamins"
+      },
+      {
+        "name": "nucleotides"
+      },
+      {
+        "name": "peptides"
+      },
+      {
+        "name": "partially characterized molecules"
+      },
+      {
+        "name": "carbohydrates"
+      },
+      {
+        "name": "energy"
+      },
+      {
+        "name": "formiminoglutamate"
+      },
+      {
+        "name": "methylmalonate"
+      },
+      {
+        "name": "ethylmalonate"
+      },
+      {
+        "name": "3-hydroxy-3-methylglutarate"
+      },
+      {
+        "name": "aconitate"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "cystathionine"
+      },
+      {
+        "name": "3-ureidopropionate"
+      },
+      {
+        "name": "proline"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "proline-related amino acids"
+      },
+      {
+        "name": "secondary bile acids"
+      },
+      {
+        "name": "fat-soluble vitamins A"
+      },
+      {
+        "name": "fat-soluble vitamins E"
+      },
+      {
+        "name": "mannose"
+      },
+      {
+        "name": "heme"
+      },
+      {
+        "name": "N1-methyladenosine"
+      },
+      {
+        "name": "N4-acetylcytidine"
+      },
+      {
+        "name": "thyroxine"
+      },
+      {
+        "name": "formiminoglutamate"
+      },
+      {
+        "name": "methylmalonate"
+      },
+      {
+        "name": "ethylmalonate"
+      },
+      {
+        "name": "3-hydroxy-3-methylglutarate"
+      },
+      {
+        "name": "aconitate"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "cystathionine"
+      },
+      {
+        "name": "3-ureidopropionate"
+      },
+      {
+        "name": "homoarginine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "4-methyl-2-oxopentanoate"
+      },
+      {
+        "name": "3-methyl-2-oxobutyrate"
+      },
+      {
+        "name": "uridine"
+      },
+      {
+        "name": "bile acid"
+      },
+      {
+        "name": "dehydroepiandrosteronesulfate"
+      },
+      {
+        "name": "proline-related amino acids"
+      },
+      {
+        "name": "secondary bile acids"
+      },
+      {
+        "name": "fat-soluble vitamins A"
+      },
+      {
+        "name": "fat-soluble vitamins E"
+      },
+      {
+        "name": "glucose metabolites"
+      },
+      {
+        "name": "N4-acetylcytidine"
+      },
+      {
+        "name": "N1-methyladenosine"
+      },
+      {
+        "name": "N6-methyladenosine"
+      },
+      {
+        "name": "pseudouridine"
+      },
+      {
+        "name": "2′-O-methylation"
+      },
+      {
+        "name": "ClyO"
+      },
+      {
+        "name": "VsiIgD"
+      },
+      {
+        "name": "Nn-cmovetehreydlaidnen"
+      },
+      {
+        "name": "yNw4e"
+      },
+      {
+        "name": "ethycyorvoaxriniaeb"
+      },
+      {
+        "name": "CoOlitVeIsD"
+      },
+      {
+        "name": "uridine"
+      },
+      {
+        "name": "cytidine"
+      },
+      {
+        "name": "cytosine"
+      },
+      {
+        "name": "uracil"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenate"
+      },
+      {
+        "name": "quinolinate"
+      },
+      {
+        "name": "nicotinamide riboside"
+      },
+      {
+        "name": "lyso-phosphatidyl-cholines"
+      },
+      {
+        "name": "sphingomyelins"
+      },
+      {
+        "name": "phosphatidylcholines"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "phosphatidyl-choline"
+      },
+      {
+        "name": "sphingomyelin"
+      },
+      {
+        "name": "lyso-phosphatidylcholine"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "amines"
+      },
+      {
+        "name": "polar metabolites"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "nonpolar lipids"
+      },
+      {
+        "name": "free fatty acids"
+      },
+      {
+        "name": "bile acids"
+      },
+      {
+        "name": "xenobiotics"
+      }
+    ]
+  }
+}

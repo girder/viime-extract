@@ -4,6 +4,7 @@ from langchain_community.document_loaders.base import BaseLoader
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_text_splitters.base import TextSplitter
 from pydantic import BaseModel, Field, field_validator
+from langchain_docling import DoclingLoader
 
 
 class Prompt:
@@ -40,13 +41,16 @@ class PDFLoaderConfig(BaseModel):
     @field_validator("class_name", mode="after")
     @classmethod
     def is_valid_loader(cls, name: str) -> str:
-        if not hasattr(document_loaders, name):
+        if not hasattr(document_loaders, name) and name not in ("DoclingLoader",):
             raise ValueError(
                 f"{name} is not a valid langchain_community document loader"
             )
         return name
 
     def create_loader(self, *args, **kwargs) -> BaseLoader:
+        if not hasattr(document_loaders, self.class_name):
+            if self.class_name == "DoclingLoader":
+                return DoclingLoader(*args, **kwargs)
         return getattr(document_loaders, self.class_name)(*args, **kwargs)
 
 
