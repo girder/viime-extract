@@ -142,48 +142,48 @@ class ArticleKeyWords(BaseModel):
         description="The metabolites mentioned in the article.",
         default=None,
     )
-    # mentioned_proteins: Optional[List[Protein]] = Field(
-    #     title="Mentioned proteins",
-    #     description="The proteins mentioned in the article.",
-    #     default=None,
-    # )
-    # mentioned_genes: Optional[List[Gene]] = Field(
-    #     title="Mentioned genes",
-    #     description="The genes mentioned in the article.",
-    #     default=None,
-    # )
-    # mentioned_pathways: Optional[List[Pathway]] = Field(
-    #     title="Mentioned pathways",
-    #     description="The metabolitic pathways mentioned in the article.",
-    #     default=None,
-    # )
-    # mentioned_drugs: Optional[List[Drug]] = Field(
-    #     title="Mentioned drugs",
-    #     description="The drugs mentioned in the article.",
-    #     default=None,
-    # )
-    # mentioned_diseases: Optional[List[Disease]] = Field(
-    #     title="Mentioned diseases",
-    #     description="The diseases mentioned in the article.",
-    #     default=None,
-    # )
+    mentioned_proteins: Optional[List[Protein]] = Field(
+        title="Mentioned proteins",
+        description="The proteins mentioned in the article.",
+        default=None,
+    )
+    mentioned_genes: Optional[List[Gene]] = Field(
+        title="Mentioned genes",
+        description="The genes mentioned in the article.",
+        default=None,
+    )
+    mentioned_pathways: Optional[List[Pathway]] = Field(
+        title="Mentioned pathways",
+        description="The metabolitic pathways mentioned in the article.",
+        default=None,
+    )
+    mentioned_drugs: Optional[List[Drug]] = Field(
+        title="Mentioned drugs",
+        description="The drugs mentioned in the article.",
+        default=None,
+    )
+    mentioned_diseases: Optional[List[Disease]] = Field(
+        title="Mentioned diseases",
+        description="The diseases mentioned in the article.",
+        default=None,
+    )
 
     def merge(self, other: "ArticleKeyWords"):
         return ArticleKeyWords(
             mentioned_metabolites=merge_lists(
                 self.mentioned_metabolites, other.mentioned_metabolites
             ),
-            # mentioned_proteins=merge_lists(
-            #     self.mentioned_proteins, other.mentioned_proteins
-            # ),
-            # mentioned_genes=merge_lists(self.mentioned_genes, other.mentioned_genes),
-            # mentioned_pathways=merge_lists(
-            #     self.mentioned_pathways, other.mentioned_pathways
-            # ),
-            # mentioned_drugs=merge_lists(self.mentioned_drugs, other.mentioned_drugs),
-            # mentioned_diseases=merge_lists(
-            #     self.mentioned_diseases, other.mentioned_diseases
-            # ),
+            mentioned_proteins=merge_lists(
+                self.mentioned_proteins, other.mentioned_proteins
+            ),
+            mentioned_genes=merge_lists(self.mentioned_genes, other.mentioned_genes),
+            mentioned_pathways=merge_lists(
+                self.mentioned_pathways, other.mentioned_pathways
+            ),
+            mentioned_drugs=merge_lists(self.mentioned_drugs, other.mentioned_drugs),
+            mentioned_diseases=merge_lists(
+                self.mentioned_diseases, other.mentioned_diseases
+            ),
         )
 
 

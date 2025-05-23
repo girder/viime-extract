@@ -92,6 +92,10 @@ def extract_article_from_document_loader(
             logging.info("Ignoring pages starting with index %d", limit)
         else:
             limit = len(pages)
+
+        if limit == 0:
+            limit = len(pages)
+
         meta_future = executor.submit(
             extract_article_metadata, pages[:limit], model, article_metadata_prompt
         )
