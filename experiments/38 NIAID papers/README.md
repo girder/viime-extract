@@ -24,3 +24,12 @@ Once the extraction results are generated, use `ingest-to-csvs.py` to write out 
 ```bash
 uv run ingest-to-csvs.py output extracted/*.json
 ```
+
+To reformat the data:
+
+```bash
+# as CSV:
+uv run reformat-output.py as-csv -o output.csv extracted/*.json
+# as linkage JSON for layoutr:
+uv run reformat-output.py as-layoutr -o output.json extracted/*.json
+```

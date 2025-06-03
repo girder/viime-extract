@@ -1,0 +1,1058 @@
+{
+  "meta": {
+    "title": "Proteomics of fibrin amyloid microclots in long COVID/post-acute sequelae of COVID-19 (PASC) shows many entrapped pro-inflammatory molecules that may also contribute to a failed fibrinolytic system",
+    "journal": "Cardiovascular Diabetology",
+    "year": 2022,
+    "volume": "21",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s12933-022-01623-4",
+    "authors": [
+      {
+        "firstname": "Arneaux",
+        "middle_initial": null,
+        "surname": "Kruger",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      },
+      {
+        "firstname": "Mare",
+        "middle_initial": null,
+        "surname": "Vlok",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      },
+      {
+        "firstname": "Simone",
+        "middle_initial": null,
+        "surname": "Turner",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      },
+      {
+        "firstname": "Chantelle",
+        "middle_initial": null,
+        "surname": "Venter",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      },
+      {
+        "firstname": "Gert Jacobus",
+        "middle_initial": "Laubscher",
+        "surname": "Laubscher",
+        "affiliation": "Department of Biochemistry and Systems Biology, Institute of Systems, Molecular and Integrative Biology, Faculty of Health and Life Sciences, University of Liverpool, Liverpool L69 7ZB, UK"
+      },
+      {
+        "firstname": "Douglas B.",
+        "middle_initial": null,
+        "surname": "Kell",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      },
+      {
+        "firstname": "Etheresia",
+        "middle_initial": null,
+        "surname": "Pretorius",
+        "affiliation": "Department of Physiological Sciences, Faculty of Science, Stellenbosch University, Private Bag X1 Matieland, Stellenbosch 7602, South Africa"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "serum ferritin"
+      },
+      {
+        "name": "Interleukin-6 (IL-6)"
+      },
+      {
+        "name": "ammonium bicarbonate"
+      },
+      {
+        "name": "Triethyamonium bicarbonate"
+      },
+      {
+        "name": "tris carboxyethyl phosphine"
+      },
+      {
+        "name": "methyl methanethiosulfonate"
+      },
+      {
+        "name": "methanol"
+      },
+      {
+        "name": "trifluoroacetic acid"
+      },
+      {
+        "name": "acetonitrile"
+      },
+      {
+        "name": "Formic acid"
+      },
+      {
+        "name": "serum ferritin"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "Interleukin-6"
+      },
+      {
+        "name": "α-2AP"
+      },
+      {
+        "name": "adiponectin"
+      },
+      {
+        "name": "lysophosphatidic acids (LPAs)"
+      },
+      {
+        "name": "lysophosphatidylinositols (LPIs)"
+      },
+      {
+        "name": "lysophosphatidylcholines (LPCs)"
+      },
+      {
+        "name": "sphingomyelins (SMs)"
+      },
+      {
+        "name": "monosialodihexosyl ganglioside (GM3)"
+      },
+      {
+        "name": "diacylglycerols (DAGs)"
+      },
+      {
+        "name": "diglycerides (DGs)"
+      },
+      {
+        "name": "free fatty acids (FFAs)"
+      },
+      {
+        "name": "triglycerides (TGs)"
+      },
+      {
+        "name": "very low-density lipoproteins (VLDL)"
+      },
+      {
+        "name": "intermediate density lipoproteins (IDL)"
+      },
+      {
+        "name": "low-density lipoproteins (LDL)"
+      },
+      {
+        "name": "high-density lipoproteins (HDL)"
+      },
+      {
+        "name": "Lactoferrin"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein 1"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein 2"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "5-hydroxytryptamine"
+      },
+      {
+        "name": "intermediate density lipoproteins"
+      },
+      {
+        "name": "low-density lipoproteins"
+      },
+      {
+        "name": "high density lipoproteins"
+      },
+      {
+        "name": "total cholesterol"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "triglyceride-rich very low density lipoproteins"
+      },
+      {
+        "name": "acetyl-CoA"
+      },
+      {
+        "name": "ketone bodies"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "glycerophospholipids"
+      },
+      {
+        "name": "fatty acids"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "prostaglandins"
+      },
+      {
+        "name": "leukotrienes"
+      },
+      {
+        "name": "thromboxanes"
+      },
+      {
+        "name": "eicosapentaenoic acid"
+      },
+      {
+        "name": "lipoxins"
+      },
+      {
+        "name": "resolvins"
+      },
+      {
+        "name": "protectins"
+      },
+      {
+        "name": "maresins"
+      },
+      {
+        "name": "docosahexaenoic acid"
+      },
+      {
+        "name": "glycerophospholipids"
+      },
+      {
+        "name": "fatty acids"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "D-Dimer"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "Kallikrein"
+      },
+      {
+        "name": "α(2)-antiplasmin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "Serum Amyloid A"
+      },
+      {
+        "name": "Platelet factor 4"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "α-2 antiplasmin"
+      },
+      {
+        "name": "Kallikrein"
+      },
+      {
+        "name": "C3a"
+      },
+      {
+        "name": "C5a"
+      },
+      {
+        "name": "BNP"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "immunoglobulins"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "amyloid fibrin(ogen) protein"
+      },
+      {
+        "name": "CD62P (platelet surface P-selectin)"
+      },
+      {
+        "name": "immunoglobulins"
+      },
+      {
+        "name": "VWF"
+      },
+      {
+        "name": "plasma Kallikrein"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "VWF"
+      },
+      {
+        "name": "plasma Kallikrein"
+      },
+      {
+        "name": "Platelet Basic Protein"
+      },
+      {
+        "name": "Platelet Factor 4 (PF4)"
+      },
+      {
+        "name": "LPLC1_HUMAN"
+      },
+      {
+        "name": "TRFL_HUMAN"
+      },
+      {
+        "name": "ADIPO_HUMAN"
+      },
+      {
+        "name": "A1AG1_HUMAN"
+      },
+      {
+        "name": "APOC2_HUMAN"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein 2"
+      },
+      {
+        "name": "Inter-alpha-trypsin inhibitor heavy chain H1"
+      },
+      {
+        "name": "Inter-alpha-trypsin inhibitor heavy chain H2"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "Platelet basic protein (LA-PFA4)"
+      },
+      {
+        "name": "α(2)-antiplasmin"
+      },
+      {
+        "name": "Plasma kallikrein"
+      },
+      {
+        "name": "Galectin-3-binding protein"
+      },
+      {
+        "name": "Thrombospondin-1"
+      },
+      {
+        "name": "APOA2_HUMAN"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region B6"
+      },
+      {
+        "name": "Immunoglobulin lambda chain V-V region DEL"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region JON"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region KOL"
+      },
+      {
+        "name": "Immunoglobulin lambda chain V-I region HA"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region BUT"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-IV region Len"
+      },
+      {
+        "name": "Immunoglobulin lambda chain V-I region WAH"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-I region Ni"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "Immunoglobulin alpha-1 chain C region"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region GAL"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-I region HK102 (Fragment)"
+      },
+      {
+        "name": "Immunoglobulin lambda-like polypeptide 5"
+      },
+      {
+        "name": "Immunoglobulin lambda chain V-IV region Hil"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region WEA"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region TUR"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region VG (Fragment)"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region CLL (B chronic lymphocytic leukaemia)"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region POM (plasma membrane)"
+      },
+      {
+        "name": "Immunoglobulin lambda chain V region 4A"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-II region ARH-77"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-I region BAN"
+      },
+      {
+        "name": "Immunoglobulin heavy chain V-III region TRO"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region NG9 (Fragment)"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region B6"
+      },
+      {
+        "name": "IG c1641_light_IGKV1-6_IGKJ4 (Fragment)"
+      },
+      {
+        "name": "IGL c3450_light_IGKV1-39_IGKJ1 (Fragment)"
+      },
+      {
+        "name": "IGH c2558_heavy_IGHV3-20_IGHD2-2_IGHJ2 (Fragment)"
+      },
+      {
+        "name": "IG c945_light_IGKV3-20_IGKJ1 (Fragment)"
+      },
+      {
+        "name": "IG c1248_light_IGLV1-44_IGLJ2 (Fragment)"
+      },
+      {
+        "name": "IGH c2567_heavy_IGHV1-24_IGHD5-18_IGHJ4 (Fragment)"
+      },
+      {
+        "name": "IGL c2854_light_IGLV1-40_IGLJ2 (Fragment)"
+      },
+      {
+        "name": "IGH c1057_heavy_IGHV3-11_IGHD4-23_IGHJ5 (Fragment)"
+      },
+      {
+        "name": "IGL c574_light_IGKV3-15_IGKJ5 (Fragment)"
+      },
+      {
+        "name": "IGL c1790_light_IGKV3-20_IGKJ3 (Fragment)"
+      },
+      {
+        "name": "IGL c977_light_IGKV3-20_IGKJ3 (Fragment)"
+      },
+      {
+        "name": "IGL c3260_light_IGKV4-1_IGKJ1 (Fragment)"
+      },
+      {
+        "name": "A0A5C2G3Y0_HUMAN"
+      },
+      {
+        "name": "A0A5C2GC79_HUMAN"
+      },
+      {
+        "name": "A0A5C2GJK9_HUMAN"
+      },
+      {
+        "name": "A0A5C2GVG8_HUMAN"
+      },
+      {
+        "name": "A0A7S5EWD7_HUMAN"
+      },
+      {
+        "name": "A0A5C2GFW6_HUMAN"
+      },
+      {
+        "name": "A0A5C2G2C3_HUMAN"
+      },
+      {
+        "name": "A0A5C2G2K9_HUMAN"
+      },
+      {
+        "name": "A0A5C2GH36_HUMAN"
+      },
+      {
+        "name": "A0A5C2GYP0_HUMAN"
+      },
+      {
+        "name": "A0A7S5C450_HUMAN"
+      },
+      {
+        "name": "VWF"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "VWF"
+      },
+      {
+        "name": "P-selectin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "proteins related to cellular function"
+      },
+      {
+        "name": "liver protein dysfunction"
+      },
+      {
+        "name": "galectin-3-binding protein"
+      },
+      {
+        "name": "Thrombospondin-1"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein-2"
+      },
+      {
+        "name": "Inter-alpha-trypsin inhibitor heavy chain H1"
+      },
+      {
+        "name": "Inter-alpha-trypsin inhibitor heavy chain 2"
+      },
+      {
+        "name": "LPLC1"
+      },
+      {
+        "name": "Lactotransferrin"
+      },
+      {
+        "name": "Thrombospondin-1"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein-2"
+      },
+      {
+        "name": "Alpha-1-acid glycoprotein 1"
+      },
+      {
+        "name": "ITIH1"
+      },
+      {
+        "name": "ITIH2"
+      },
+      {
+        "name": "Lactotransferrin"
+      },
+      {
+        "name": "Long palate, lung and nasal epithelium carcinoma-associated protein 1 (LPLC1_HUMAN)"
+      },
+      {
+        "name": "factor XII"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "plasminogen"
+      },
+      {
+        "name": "plasmin"
+      },
+      {
+        "name": "plasma kallikrein"
+      },
+      {
+        "name": "serotonin transporter (SERT or 5HTT)"
+      },
+      {
+        "name": "Anti-C1q"
+      },
+      {
+        "name": "anti-β2GP1"
+      },
+      {
+        "name": "anti-BPI"
+      },
+      {
+        "name": "anti-ACE2"
+      },
+      {
+        "name": "Apolipoprotein C-II"
+      },
+      {
+        "name": "Apolipoprotein A-II"
+      },
+      {
+        "name": "Apolipoprotein APOA1"
+      },
+      {
+        "name": "Apolipoprotein APOA2"
+      },
+      {
+        "name": "Apolipoprotein APOH"
+      },
+      {
+        "name": "Apolipoprotein APOL1"
+      },
+      {
+        "name": "Apolipoprotein APOD"
+      },
+      {
+        "name": "Apolipoprotein APOM"
+      },
+      {
+        "name": "Apolipoprotein C-II"
+      },
+      {
+        "name": "Apolipoprotein A-II"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region POM"
+      },
+      {
+        "name": "Immunoglobulin kappa chain V-III region CLL"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ATF6"
+      },
+      {
+        "name": "ITIH1"
+      },
+      {
+        "name": "ITIH2"
+      },
+      {
+        "name": "KLKB1"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "complement cascade"
+      },
+      {
+        "name": "coagulation"
+      },
+      {
+        "name": "lipid metabolism"
+      },
+      {
+        "name": "coagulation pathways"
+      },
+      {
+        "name": "MAPK pathway"
+      },
+      {
+        "name": "mitogen-activated protein kinase (MAPK)"
+      },
+      {
+        "name": "coagulation pathway"
+      },
+      {
+        "name": "bradykinin pathway"
+      },
+      {
+        "name": "coagulation cascade"
+      },
+      {
+        "name": "lipid metabolism"
+      },
+      {
+        "name": "signal transduction"
+      },
+      {
+        "name": "immune activation"
+      },
+      {
+        "name": "inflammatory responses"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "trypsin"
+      },
+      {
+        "name": "Burdick and Jackson"
+      },
+      {
+        "name": "Sigma"
+      },
+      {
+        "name": "Biognosys"
+      },
+      {
+        "name": "Thermo Scientific"
+      },
+      {
+        "name": "Waters"
+      },
+      {
+        "name": "Thioflavin T (ThT)"
+      },
+      {
+        "name": "Heparin"
+      },
+      {
+        "name": "ThT"
+      },
+      {
+        "name": "antihistamine"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "T2DM"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "chronic fatigue"
+      },
+      {
+        "name": "dyspnoea"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "hyperlipidaemia"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Cardiovascular disease"
+      },
+      {
+        "name": "Diabetes"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "hyperlipidaemia"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "hyperlipidaemia"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Hyperlipidaemia"
+      },
+      {
+        "name": "Type 2 diabetes mellitus"
+      },
+      {
+        "name": "Rosacea"
+      },
+      {
+        "name": "Thrombosis"
+      },
+      {
+        "name": "Cardiovascular disease"
+      },
+      {
+        "name": "Psoriasis"
+      },
+      {
+        "name": "Rheumatoid arthritis"
+      },
+      {
+        "name": "Previous stroke"
+      },
+      {
+        "name": "Previous myocardial infarction"
+      },
+      {
+        "name": "Depression"
+      },
+      {
+        "name": "Anxiety"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "type II diabetes mellitus"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "hyperlipidaemia"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "atherosclerosis"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "hyperlipidaemia"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "arterial hypertension"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "B chronic lymphocytic leukaemia"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "coagulopathies"
+      },
+      {
+        "name": "Cardiovascular Disease"
+      },
+      {
+        "name": "Diabetes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "depressed mood"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "systemic lupus erythematosus"
+      },
+      {
+        "name": "antiphospholipid syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "hepatitis C"
+      },
+      {
+        "name": "Ebola virus disease"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "osteoarthritis"
+      },
+      {
+        "name": "chronic hepatitis C infection"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SLE (Systemic Lupus Erythematosus)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+      },
+      {
+        "name": "long COVID"
+      }
+    ]
+  }
+}

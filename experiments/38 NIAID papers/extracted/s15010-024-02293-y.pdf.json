@@ -1,0 +1,926 @@
+{
+  "meta": {
+    "title": "The roles of the kynurenine pathway in COVID‑19 neuropathogenesis",
+    "journal": "Infection",
+    "year": 2024,
+    "volume": "52",
+    "pubmed_id": null,
+    "doi_id": "10.1007/s15010-024-02293-y",
+    "authors": [
+      {
+        "firstname": "Mona",
+        "middle_initial": null,
+        "surname": "Dehhaghi",
+        "affiliation": "Macquarie Medical School, Faculty of Medicine, Health and Human Sciences, Macquarie University, Sydney, NSW, Australia"
+      },
+      {
+        "firstname": "Mostafa",
+        "middle_initial": null,
+        "surname": "Heydari",
+        "affiliation": "Department of Pharmaceutical Nanotechnology, Faculty of Pharmacy, Tehran University of Medical Science, Tehran, Iran"
+      },
+      {
+        "firstname": "Hamed",
+        "middle_initial": null,
+        "surname": "Kazemi Shariat Panahi",
+        "affiliation": "Macquarie Medical School, Faculty of Medicine, Health and Human Sciences, Macquarie University, Sydney, NSW, Australia"
+      },
+      {
+        "firstname": "Sharon R.",
+        "middle_initial": null,
+        "surname": "Lewin",
+        "affiliation": "Department of Infectious Diseases, The University of Melbourne at the Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia"
+      },
+      {
+        "firstname": "Benjamin",
+        "middle_initial": null,
+        "surname": "Heng",
+        "affiliation": "Department of Infectious Diseases, The Alfred Hospital and Monash University, Melbourne, VIC, Australia"
+      },
+      {
+        "firstname": "Bruce J.",
+        "middle_initial": null,
+        "surname": "Brew",
+        "affiliation": "Peter Duncan Neurosciences Unit, St. Vincent’s Centre for Applied Medical Research, Sydney, NSW, Australia"
+      },
+      {
+        "firstname": "Gilles J.",
+        "middle_initial": null,
+        "surname": "Guillemin",
+        "affiliation": "Department of Chemistry, Faculty of Mathematics and Natural Sciences, Institut Pertanian Bogor University, Bogor, Indonesia"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "l-Tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quolinic acid"
+      },
+      {
+        "name": "3-hydroxykynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "picolinic acid"
+      },
+      {
+        "name": "nicotinamide adenine dinucleotide"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "3-HAA"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "NAD +"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "nitric oxide"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "propionate"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "PIC"
+      },
+      {
+        "name": "Trp"
+      },
+      {
+        "name": "indole pyruvate"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "xanthurenic acid (XA)"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "Trp"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "AA"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "PIC"
+      },
+      {
+        "name": "Trp"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "AA"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "ceramide"
+      },
+      {
+        "name": "Trp"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "3-HK"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "NAD +"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "3-HAA"
+      },
+      {
+        "name": "anthranilic acid (AA)"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "gamma-aminobutyric acid (GABA)"
+      },
+      {
+        "name": "neurotoxic metabolites"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "Trp"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "5-hydroxy-N-formylkynurenine"
+      },
+      {
+        "name": "N-formylkynurenine"
+      },
+      {
+        "name": "KP metabolites"
+      },
+      {
+        "name": "PIC"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "SCFAs"
+      },
+      {
+        "name": "KP metabolites"
+      },
+      {
+        "name": "neuroactive metabolites"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "NAD+"
+      },
+      {
+        "name": "nicotinic acid mononucleotide"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "Indoleamine 2,3-dioxygenase 1 (IDO-1)"
+      },
+      {
+        "name": "indoleamine 2,3-dioxygenase 1"
+      },
+      {
+        "name": "Indoleamine-pyrrole 2,3-dioxygenase (IDO-1)"
+      },
+      {
+        "name": "Tryptophan 2,3-dioxygenase (TDO2)"
+      },
+      {
+        "name": "Kynurenine aminotransferase (KATs)"
+      },
+      {
+        "name": "Kynurenine 3-monooxygenase (KMO)"
+      },
+      {
+        "name": "3-hydroxyanthranilate 3,4-dioxygenase (HAAO)"
+      },
+      {
+        "name": "Quinolinate phosphoribosyl transferase (QPRT)"
+      },
+      {
+        "name": "Amino-carboxymuconate-semialdehyde decarboxylase (ACMSD)"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "STAT-1"
+      },
+      {
+        "name": "NF-κB"
+      },
+      {
+        "name": "IRF1"
+      },
+      {
+        "name": "AhR"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "STAT3"
+      },
+      {
+        "name": "α7nAChR"
+      },
+      {
+        "name": "IFN-γR"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "IDO-2"
+      },
+      {
+        "name": "trp-2,3-dioxygenase (TDO)"
+      },
+      {
+        "name": "STAT-1"
+      },
+      {
+        "name": "NF-κB"
+      },
+      {
+        "name": "IRF1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "AhR"
+      },
+      {
+        "name": "STAT3"
+      },
+      {
+        "name": "KAT II"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "TDO"
+      },
+      {
+        "name": "KMO"
+      },
+      {
+        "name": "STAT1"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-12"
+      },
+      {
+        "name": "IL-23"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "AhR"
+      },
+      {
+        "name": "SRC"
+      },
+      {
+        "name": "p23"
+      },
+      {
+        "name": "HSP90"
+      },
+      {
+        "name": "AhR-interacting protein"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "platelet-derived growth factor (PDGF)"
+      },
+      {
+        "name": "GCN2"
+      },
+      {
+        "name": "mTOR"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "TDO"
+      },
+      {
+        "name": "KMO"
+      },
+      {
+        "name": "KAT I"
+      },
+      {
+        "name": "KAT II"
+      },
+      {
+        "name": "KAT III"
+      },
+      {
+        "name": "KAT IV"
+      },
+      {
+        "name": "FoxP3"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "protein particles"
+      },
+      {
+        "name": "IDO"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "HSP90"
+      },
+      {
+        "name": "AIP"
+      },
+      {
+        "name": "p23"
+      },
+      {
+        "name": "TiPARP"
+      },
+      {
+        "name": "IFN-β"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "AHRR"
+      },
+      {
+        "name": "ARNT"
+      },
+      {
+        "name": "spike glycoproteins"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "TLR-2"
+      },
+      {
+        "name": "TLR-4"
+      },
+      {
+        "name": "TLR-7"
+      },
+      {
+        "name": "TLR-8"
+      },
+      {
+        "name": "NF-κB"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "AhR"
+      },
+      {
+        "name": "GCN2 kinase"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "sCD40L"
+      },
+      {
+        "name": "platelet-derived growth factor (PDGFs)"
+      },
+      {
+        "name": "eotaxin"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "STAT3"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "nucleocapsid protein"
+      },
+      {
+        "name": "viral spike protein"
+      },
+      {
+        "name": "tissue factor (TF)"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "MIP-1α"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "IDO-1"
+      },
+      {
+        "name": "QPRTase"
+      },
+      {
+        "name": "PARP-1"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "Kmo"
+      },
+      {
+        "name": "Kmo"
+      },
+      {
+        "name": "IL-22"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IDO-1"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "Kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "serotonin pathway"
+      },
+      {
+        "name": "kynurenine pathway (KP)"
+      },
+      {
+        "name": "cytokine signalling pathways"
+      },
+      {
+        "name": "AhR–IL-6–STAT3 positive feedback loop"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "AhR-STAT3-IL-6 loop"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "IDO-1-KYN-AhR pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "IDO/TDO-AhR signalling pathways"
+      },
+      {
+        "name": "NF-ĸB"
+      },
+      {
+        "name": "AhR-dependent mechanisms"
+      },
+      {
+        "name": "kynurenine pathway (KP)"
+      },
+      {
+        "name": "kynurenine pathway (KP)"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway (KP)"
+      },
+      {
+        "name": "AhR pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "Trp catabolism"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "interferon-β"
+      },
+      {
+        "name": "glucocorticoids"
+      },
+      {
+        "name": "nicotinamide adenine dinucleotide phosphate (NAD(P)H)"
+      },
+      {
+        "name": "rapamycin"
+      },
+      {
+        "name": "triptans"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Post-acute sequelae of COVID (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "multi-organ failure"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of COVID (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "sepsis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neurological conditions"
+      },
+      {
+        "name": "psychiatric conditions"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "acute COVID-19 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "chronic migraine"
+      },
+      {
+        "name": "chronic headache"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "sleep disorder"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "fatigue"
+      },
+      {
+        "name": "shortness of breath"
+      },
+      {
+        "name": "attention disorder"
+      },
+      {
+        "name": "anosmia"
+      },
+      {
+        "name": "memory loss"
+      },
+      {
+        "name": "concentration difficulty"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Epstein-Barr virus (EBV)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Post-Viral Fatigue Syndrome (PVFS)"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "post-traumatic stress disorder (PTSD)"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "major depressive disorder"
+      },
+      {
+        "name": "cytokine-induced depression"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-viral fatigue syndrome"
+      },
+      {
+        "name": "long COVID syndrome"
+      }
+    ]
+  }
+}

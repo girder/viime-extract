@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "title": "Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection",
+    "journal": "BMC Medicine",
+    "year": 2022,
+    "volume": "20",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s12916-021-02228-6",
+    "authors": [
+      {
+        "firstname": "Feargal",
+        "middle_initial": "J.",
+        "surname": "Ryan",
+        "affiliation": "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA 5001, Australia"
+      },
+      {
+        "firstname": "Christopher",
+        "middle_initial": "M.",
+        "surname": "Hope",
+        "affiliation": "Women’s and Children’s Health Network, North Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Makutiro",
+        "middle_initial": "G.",
+        "surname": "Masavuli",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Miriam",
+        "middle_initial": "A.",
+        "surname": "Lynn",
+        "affiliation": "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA 5001, Australia"
+      },
+      {
+        "firstname": "Zelalem",
+        "middle_initial": "A.",
+        "surname": "Mekonnen",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Arthur Eng Lip",
+        "middle_initial": "Yeow",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Pablo",
+        "middle_initial": "Garcia-Valtanen",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Zahraa",
+        "middle_initial": "Al-Delfi",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Jason",
+        "middle_initial": "Gummow",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Catherine",
+        "middle_initial": "Ferguson",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Stephanie",
+        "middle_initial": "O’Connor",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Benjamin",
+        "middle_initial": "A. J.",
+        "surname": "Reddi",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Pravin",
+        "middle_initial": "Hissaria",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "Shaw",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Chuan",
+        "middle_initial": "Kok-Lim",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Jonathan",
+        "middle_initial": "M.",
+        "surname": "Gleadle",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Michael",
+        "middle_initial": "R.",
+        "surname": "Beard",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Simon",
+        "middle_initial": "C.",
+        "surname": "Barry",
+        "affiliation": "Women’s and Children’s Health Network, North Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "Branka",
+        "middle_initial": "Grubor-Bauk",
+        "surname": "",
+        "affiliation": "Viral Immunology Group, Adelaide Medical School, University of Adelaide and Basil Hetzel Institute for Translational Health Research, Adelaide, SA, Australia"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "J.",
+        "surname": "Lynn",
+        "affiliation": "Precision Medicine Theme, South Australian Health and Medical Research Institute, Adelaide, SA 5001, Australia"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "C-reactive protein (CRP)"
+      },
+      {
+        "name": "citric acid"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "SARS-CoV-2 ectodomain"
+      },
+      {
+        "name": "SARS-CoV-2 receptor"
+      },
+      {
+        "name": "plasmacytoid dendritic cells"
+      },
+      {
+        "name": "effector memory CD8+ T cells"
+      },
+      {
+        "name": "RBD"
+      },
+      {
+        "name": "S proteins"
+      },
+      {
+        "name": "Goat anti-Human IgG (H + L) Secondary Antibody, HRP"
+      },
+      {
+        "name": "Mouse Anti-Human IgG1 Fc-HRP"
+      },
+      {
+        "name": "Mouse Anti-Human IgG3 Hinge-HRP"
+      },
+      {
+        "name": "goat anti-human IgM HRP"
+      },
+      {
+        "name": "anti-human IgA HRP antibody"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "anti-Spike"
+      },
+      {
+        "name": "anti-RBD"
+      },
+      {
+        "name": "HBA1"
+      },
+      {
+        "name": "HBA2"
+      },
+      {
+        "name": "HBB"
+      },
+      {
+        "name": "HBD"
+      },
+      {
+        "name": "CD38"
+      },
+      {
+        "name": "CD27"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "CD8"
+      },
+      {
+        "name": "CD3"
+      },
+      {
+        "name": "CD19"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "Anti-Spike IgG1"
+      },
+      {
+        "name": "Anti-Spike IgA"
+      },
+      {
+        "name": "anti-RBD IgG"
+      },
+      {
+        "name": "IgG3"
+      },
+      {
+        "name": "IgM"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "RBD"
+      },
+      {
+        "name": "IgG1"
+      },
+      {
+        "name": "IgG3"
+      },
+      {
+        "name": "IgM"
+      },
+      {
+        "name": "IgA"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "HLA-DR"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "HLA-DR"
+      },
+      {
+        "name": "CD38"
+      },
+      {
+        "name": "CD45RO"
+      },
+      {
+        "name": "CD62L"
+      },
+      {
+        "name": "SARS-CoV-2 Spike"
+      },
+      {
+        "name": "RBD"
+      },
+      {
+        "name": "S100 calcium-binding protein A8"
+      },
+      {
+        "name": "high-mobility group protein 1"
+      },
+      {
+        "name": "granzyme A"
+      },
+      {
+        "name": "Nsp1 protein"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "S100B"
+      },
+      {
+        "name": "platelet factor 4 (PF4)"
+      },
+      {
+        "name": "platelet glycoprotein IX (GP9)"
+      },
+      {
+        "name": "thrombopoietin receptor (MPL)"
+      },
+      {
+        "name": "coagulation factor XIII A chain (F13A1)"
+      },
+      {
+        "name": "Spike protein"
+      },
+      {
+        "name": "RBD"
+      },
+      {
+        "name": "IgA"
+      },
+      {
+        "name": "IgM"
+      },
+      {
+        "name": "IgG1"
+      },
+      {
+        "name": "IgG3"
+      },
+      {
+        "name": "S1 domain"
+      },
+      {
+        "name": "S2 domain"
+      },
+      {
+        "name": "Foxp3"
+      },
+      {
+        "name": "Spike protein"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "anti-receptor-binding domain (RBD)"
+      },
+      {
+        "name": "anti-Spike"
+      },
+      {
+        "name": "genes involved in the interferon response"
+      },
+      {
+        "name": "humoral immunity"
+      },
+      {
+        "name": "GRCh38"
+      },
+      {
+        "name": "Ensembl"
+      },
+      {
+        "name": "TfhR"
+      },
+      {
+        "name": "TfhR2"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "differentially expressed genes"
+      },
+      {
+        "name": "genes involved in oxidative phosphorylation"
+      },
+      {
+        "name": "mitochondrially encoded oxidative phosphorylation genes"
+      },
+      {
+        "name": "nuclear encoded oxidative phosphorylation genes"
+      },
+      {
+        "name": "genes involved in platelet activation"
+      },
+      {
+        "name": "differentially expressed genes (DEGs)"
+      },
+      {
+        "name": "5-azacytidine induced 2"
+      },
+      {
+        "name": "MALAT1"
+      },
+      {
+        "name": "MX1"
+      },
+      {
+        "name": "OAS3"
+      },
+      {
+        "name": "OASL"
+      },
+      {
+        "name": "DE genes"
+      },
+      {
+        "name": "Foxp3"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "immunometabolism"
+      },
+      {
+        "name": "long COVID clinic"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "Gene Set Enrichment Analysis (GSEA)"
+      },
+      {
+        "name": "Blood transcriptional module (BTM)"
+      },
+      {
+        "name": "Gene Set Variation Analysis (GSVA)"
+      },
+      {
+        "name": "REACTOME pathways"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "platelet activation"
+      },
+      {
+        "name": "signaling"
+      },
+      {
+        "name": "aggregation"
+      },
+      {
+        "name": "complement activation"
+      },
+      {
+        "name": "complement activation"
+      },
+      {
+        "name": "innate immune system"
+      },
+      {
+        "name": "neutrophil degranulation"
+      },
+      {
+        "name": "antimicrobial peptides"
+      },
+      {
+        "name": "immune system"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "respiratory electron transport"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "platelet activation, signaling and degranulation"
+      },
+      {
+        "name": "REACTOME pathways"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "platelet-related pathways"
+      },
+      {
+        "name": "rRNA processing"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "transcription/translation signatures"
+      },
+      {
+        "name": "megakaryocyte gene sets"
+      },
+      {
+        "name": "monocyte- and myeloid-related cells"
+      },
+      {
+        "name": "Platelet activation"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "DMSO"
+      },
+      {
+        "name": "PAXgene® Blood RNA kit"
+      },
+      {
+        "name": "1-Step™ Ultra TMB Substrate"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "post COVID-19 condition"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "Post COVID-19 condition"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "fatigue"
+      },
+      {
+        "name": "muscle weakness"
+      },
+      {
+        "name": "sleep difficulties"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "Ebola"
+      },
+      {
+        "name": "SARS-CoV-1"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "autoimmune pathologies"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "thrombocytopenia"
+      },
+      {
+        "name": "severe acute respiratory syndrome coronavirus 1 (SARS-CoV-1)"
+      },
+      {
+        "name": "influenza"
+      },
+      {
+        "name": "Zika virus"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}

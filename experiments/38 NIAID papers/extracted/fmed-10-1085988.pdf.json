@@ -1,0 +1,1064 @@
+{
+  "meta": {
+    "title": "Biomarkers in long COVID-19: A systematic review",
+    "journal": "Frontiers in Medicine",
+    "year": 2023,
+    "volume": "10",
+    "pubmed_id": "1085988",
+    "doi_id": "10.3389/fmed.2023.1085988",
+    "authors": [
+      {
+        "firstname": "Yun-Ju",
+        "middle_initial": null,
+        "surname": "Lai",
+        "affiliation": "Instituto Nacional de Enfermedades Respiratorias (INER), Mexico"
+      },
+      {
+        "firstname": "Shou-Hou",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan"
+      },
+      {
+        "firstname": "Sumatchara",
+        "middle_initial": null,
+        "surname": "Manachevakul",
+        "affiliation": "Graduate Institute of Microbiology, College of Medicine, National Taiwan University, Taipei, Taiwan"
+      },
+      {
+        "firstname": "Te-An",
+        "middle_initial": null,
+        "surname": "Lee",
+        "affiliation": "Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan"
+      },
+      {
+        "firstname": "Chun-Tse",
+        "middle_initial": null,
+        "surname": "Kuo",
+        "affiliation": "Institute of Biomedical Sciences, Academia Sinica, Taipei, Taiwan"
+      },
+      {
+        "firstname": "Dhimiter",
+        "middle_initial": null,
+        "surname": "Bello",
+        "affiliation": "Department of Biomedical and Nutritional Sciences, Zuckerberg College of Health Sciences, University of Massachusetts Lowell, Lowell, MA, United States"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "lactate dehydrogenase (LDH)"
+      },
+      {
+        "name": "Cystatin-C"
+      },
+      {
+        "name": "Quinolinic acid"
+      },
+      {
+        "name": "Sarcosine"
+      },
+      {
+        "name": "S-Sulfocysteine"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "1-Methylnicotinamide"
+      },
+      {
+        "name": "2-Phenylphenol"
+      },
+      {
+        "name": "3,5-Dihydroxybenzoicacid"
+      },
+      {
+        "name": "ADA"
+      },
+      {
+        "name": "ALT"
+      },
+      {
+        "name": "AST"
+      },
+      {
+        "name": "β-glucan"
+      },
+      {
+        "name": "CPA3"
+      },
+      {
+        "name": "Glutamine"
+      },
+      {
+        "name": "Glutamateratio"
+      },
+      {
+        "name": "Indole-3-lacticacid"
+      },
+      {
+        "name": "L-Cystein"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "L-Glutamine"
+      },
+      {
+        "name": "L-Methionine"
+      },
+      {
+        "name": "Ornithine"
+      },
+      {
+        "name": "Pipecolicacid"
+      },
+      {
+        "name": "Quinolinicacid"
+      },
+      {
+        "name": "Quinolinicacid/Tryptophan"
+      },
+      {
+        "name": "Sarcosine"
+      },
+      {
+        "name": "S-Sulfocysteine"
+      },
+      {
+        "name": "ST1A1"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "Tryptase"
+      },
+      {
+        "name": "uPA"
+      },
+      {
+        "name": "1-Methylnicotinamide"
+      },
+      {
+        "name": "3,5-Dihydroxybenzoic acid"
+      },
+      {
+        "name": "Indole-3-lactic acid"
+      },
+      {
+        "name": "L-Cystein"
+      },
+      {
+        "name": "L-Glutamine"
+      },
+      {
+        "name": "L-Methionine"
+      },
+      {
+        "name": "Ornithine"
+      },
+      {
+        "name": "Pipecolic acid"
+      },
+      {
+        "name": "Quinolinic acid"
+      },
+      {
+        "name": "Sarcosine"
+      },
+      {
+        "name": "S-Sulfocysteine"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "1-Methylnicotinamide"
+      },
+      {
+        "name": "3,5-Dihydroxybenzoic acid"
+      },
+      {
+        "name": "Indole-3-lactic acid"
+      },
+      {
+        "name": "L-Cystein"
+      },
+      {
+        "name": "L-Glutamine"
+      },
+      {
+        "name": "L-Methionine"
+      },
+      {
+        "name": "Ornithine"
+      },
+      {
+        "name": "Pipecolic acid"
+      },
+      {
+        "name": "Quinolinic acid"
+      },
+      {
+        "name": "Quinolinic acid/Tryptophan"
+      },
+      {
+        "name": "Sarcosine"
+      },
+      {
+        "name": "S-Sulfocysteine"
+      },
+      {
+        "name": "Tryptase"
+      },
+      {
+        "name": "Glutamine/Glutamate ratio"
+      },
+      {
+        "name": "Taurine"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "neurofilament light chain"
+      },
+      {
+        "name": "glial fibrillary acidic protein"
+      },
+      {
+        "name": "neurofilament light chain"
+      },
+      {
+        "name": "glial fibrillary acidic protein"
+      },
+      {
+        "name": "Interleukin 6"
+      },
+      {
+        "name": "Cytokines"
+      },
+      {
+        "name": "Chemokines"
+      },
+      {
+        "name": "Acute phase protein"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "NT-BNP"
+      },
+      {
+        "name": "OPG"
+      },
+      {
+        "name": "OSM"
+      },
+      {
+        "name": "SIRT2"
+      },
+      {
+        "name": "STAMBP"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "Zonulin"
+      },
+      {
+        "name": "C-reactive protein (CRP)"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "vascular endothelial growth factor (VEGF)"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "CCL3"
+      },
+      {
+        "name": "Platelet derived growth factor BB (PDGF-BB)"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "von Willebrand factor antigen (VWF:Ag)"
+      },
+      {
+        "name": "von Willebrand factor propeptide (VWF:pp)"
+      },
+      {
+        "name": "soluble thrombomodulin (sTM)"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "TGF-β"
+      },
+      {
+        "name": "VWF:ppARTN"
+      },
+      {
+        "name": "α-SMA"
+      },
+      {
+        "name": "STAMBP"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "CASP-8"
+      },
+      {
+        "name": "CST-5"
+      },
+      {
+        "name": "IGFBP-4"
+      },
+      {
+        "name": "SIRT2"
+      },
+      {
+        "name": "MRP8/14"
+      },
+      {
+        "name": "NGAL"
+      },
+      {
+        "name": "OPG"
+      },
+      {
+        "name": "OSM"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "Interferon (IFN) gamma"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "Hemoglobin"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "Tryptase"
+      },
+      {
+        "name": "uPA"
+      },
+      {
+        "name": "Albumin"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "GDNF"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "NGF-β"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "NT-3"
+      },
+      {
+        "name": "pGFAP/pNFL"
+      },
+      {
+        "name": "Ang-2"
+      },
+      {
+        "name": "Col1A2"
+      },
+      {
+        "name": "Col3A1"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "ESR"
+      },
+      {
+        "name": "ET-1"
+      },
+      {
+        "name": "FactorVIII:C"
+      },
+      {
+        "name": "Hemoglobin"
+      },
+      {
+        "name": "MMP-1"
+      },
+      {
+        "name": "MMP-9"
+      },
+      {
+        "name": "MPO"
+      },
+      {
+        "name": "NO"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "sICAM-1"
+      },
+      {
+        "name": "sTM"
+      },
+      {
+        "name": "sVEGFR"
+      },
+      {
+        "name": "sVCAM-1"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "VWF:Ag"
+      },
+      {
+        "name": "VWF:pp"
+      },
+      {
+        "name": "Ab"
+      },
+      {
+        "name": "ARTN"
+      },
+      {
+        "name": "α-SMA"
+      },
+      {
+        "name": "AXIN"
+      },
+      {
+        "name": "CASP-8"
+      },
+      {
+        "name": "CST-5"
+      },
+      {
+        "name": "CystatinC"
+      },
+      {
+        "name": "HsTnT"
+      },
+      {
+        "name": "IGFBP-4"
+      },
+      {
+        "name": "LBP"
+      },
+      {
+        "name": "miRNA21"
+      },
+      {
+        "name": "MRP8/14"
+      },
+      {
+        "name": "NGAL"
+      },
+      {
+        "name": "NT-proBNP/NT-BNP"
+      },
+      {
+        "name": "OPG"
+      },
+      {
+        "name": "OSM"
+      },
+      {
+        "name": "SIRT2"
+      },
+      {
+        "name": "STAMBP"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "Zonulin"
+      },
+      {
+        "name": "Albumin"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "pGFAP/pNFL"
+      },
+      {
+        "name": "sICAM-1"
+      },
+      {
+        "name": "sVCAM-1"
+      },
+      {
+        "name": "sVEGFR"
+      },
+      {
+        "name": "α-SMA"
+      },
+      {
+        "name": "GDNF"
+      },
+      {
+        "name": "NGF-β"
+      },
+      {
+        "name": "NT-3"
+      },
+      {
+        "name": "Ang-2"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "ESR"
+      },
+      {
+        "name": "ET-1"
+      },
+      {
+        "name": "Factor VIII:C"
+      },
+      {
+        "name": "Hemoglobin"
+      },
+      {
+        "name": "CASP-8"
+      },
+      {
+        "name": "CST-5"
+      },
+      {
+        "name": "MMP-1"
+      },
+      {
+        "name": "MMP-9"
+      },
+      {
+        "name": "MPO"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "LBP"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "MRP8/14"
+      },
+      {
+        "name": "NGAL"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "VWF:Ag"
+      },
+      {
+        "name": "OPG"
+      },
+      {
+        "name": "OSM"
+      },
+      {
+        "name": "SIRT2"
+      },
+      {
+        "name": "STAMBP"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "Albumin"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "CCL2"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "NFL"
+      },
+      {
+        "name": "pGFAP/pNFL"
+      },
+      {
+        "name": "ET-1"
+      },
+      {
+        "name": "Hemoglobin"
+      },
+      {
+        "name": "NO"
+      },
+      {
+        "name": "Ab"
+      },
+      {
+        "name": "HsTnT"
+      },
+      {
+        "name": "LBP"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "BNP"
+      },
+      {
+        "name": "ALT"
+      },
+      {
+        "name": "AST"
+      },
+      {
+        "name": "β-glucan"
+      },
+      {
+        "name": "Zonulin"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "ADA"
+      },
+      {
+        "name": "CPA3"
+      },
+      {
+        "name": "CCL3"
+      },
+      {
+        "name": "CCL4"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "GDNF"
+      },
+      {
+        "name": "NGF-β"
+      },
+      {
+        "name": "NT-3"
+      },
+      {
+        "name": "Ang-2"
+      },
+      {
+        "name": "Col1A2"
+      },
+      {
+        "name": "Col3A1"
+      },
+      {
+        "name": "ARTN"
+      },
+      {
+        "name": "α-SMA"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "ST1A1"
+      },
+      {
+        "name": "CXCL1"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "VIII:C"
+      },
+      {
+        "name": "CST-5"
+      },
+      {
+        "name": "Cystatin-C"
+      },
+      {
+        "name": "uPA"
+      },
+      {
+        "name": "CXCL11"
+      },
+      {
+        "name": "Flt3L"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "MMP-1"
+      },
+      {
+        "name": "MMP-9"
+      },
+      {
+        "name": "MPO"
+      },
+      {
+        "name": "IGFBP-4"
+      },
+      {
+        "name": "miRNA21"
+      },
+      {
+        "name": "sICAM-1"
+      },
+      {
+        "name": "sTM"
+      },
+      {
+        "name": "sVCAM-1"
+      },
+      {
+        "name": "MRP8/14"
+      },
+      {
+        "name": "NGAL"
+      },
+      {
+        "name": "IL-1α"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "sVEGFR"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "VWF:Ag"
+      },
+      {
+        "name": "OPG"
+      },
+      {
+        "name": "OSM"
+      },
+      {
+        "name": "SIRT2"
+      },
+      {
+        "name": "IL-7"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-10Rβ"
+      },
+      {
+        "name": "IL-12β"
+      },
+      {
+        "name": "VWF:ppARTN"
+      },
+      {
+        "name": "α-SMA"
+      },
+      {
+        "name": "STAMBP"
+      },
+      {
+        "name": "TNFRSF9"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "AXIN"
+      },
+      {
+        "name": "miRNA21"
+      },
+      {
+        "name": "ST1A1"
+      },
+      {
+        "name": "miRNA21"
+      },
+      {
+        "name": "AXIN"
+      },
+      {
+        "name": "CASP-8"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "anti-inflammatory pathways"
+      },
+      {
+        "name": "anti-fibrotic pathways"
+      },
+      {
+        "name": "Pirfenidone"
+      },
+      {
+        "name": "TGF-β"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Pirfenidone"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Parkinson’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "cytokine release syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-associated pulmonary fibrosis"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "neurodegenerative diseases"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Parkinson’s disease"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Parkinson’s disease"
+      },
+      {
+        "name": "Cardiac symptoms"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Long COVID"
+      }
+    ]
+  }
+}

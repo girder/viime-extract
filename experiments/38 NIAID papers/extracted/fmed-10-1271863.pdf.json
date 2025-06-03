@@ -1,0 +1,1085 @@
+{
+  "meta": {
+    "title": "Clinical and pulmonary function analysis in long-COVID revealed that long-term pulmonary dysfunction is associated with vascular inflammation pathways and metabolic syndrome.",
+    "journal": "Frontiers in Medicine",
+    "year": 2023,
+    "volume": "10",
+    "pubmed_id": null,
+    "doi_id": "10.3389/fmed.2023.1271863",
+    "authors": [
+      {
+        "firstname": "Sergio",
+        "middle_initial": "S",
+        "surname": "Sanhueza",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Mabel A.",
+        "middle_initial": "V",
+        "surname": "Vidal",
+        "affiliation": "Facultad de Ingeniería, Diseño y Arquitectura, Universidad San Sebastián, Concepción, Chile"
+      },
+      {
+        "firstname": "Mauricio A.",
+        "middle_initial": "H",
+        "surname": "Hernandez",
+        "affiliation": "Division of Biotechnology, MELISA Institute, San Pedro de la Paz, Chile"
+      },
+      {
+        "firstname": "Mario E.",
+        "middle_initial": "H",
+        "surname": "Henriquez-Beltran",
+        "affiliation": "Núcleo de Investigación en Ciencias de la Salud, Universidad Adventista de Chile, Chillán, Chile"
+      },
+      {
+        "firstname": "Camilo",
+        "middle_initial": "C",
+        "surname": "Cabrera",
+        "affiliation": "Kinesiology School, Escuela de Kinesiología, Facultad de Salud, Universidad Santo Tomás, Los Ángeles, Chile"
+      },
+      {
+        "firstname": "Romina",
+        "middle_initial": "Q",
+        "surname": "Quiroga",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Bárbara E.",
+        "middle_initial": "A",
+        "surname": "Antilef",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Kevin P.",
+        "middle_initial": "A",
+        "surname": "Aguilar",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Daniela A.",
+        "middle_initial": "C",
+        "surname": "Castillo",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Faryd J.",
+        "middle_initial": "L",
+        "surname": "Llerena",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Marco",
+        "middle_initial": "F",
+        "surname": "Fraga Figueroa",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Mauricio",
+        "middle_initial": "N",
+        "surname": "Nazal",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Eritson",
+        "middle_initial": "C",
+        "surname": "Castro",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Paola",
+        "middle_initial": "L",
+        "surname": "Lagos",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Alexa",
+        "middle_initial": "M",
+        "surname": "Moreno",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Jaime J.",
+        "middle_initial": "L",
+        "surname": "Lastra",
+        "affiliation": "Internal Medicine Department, Hospital Guillermo Grant Benavente and Medicine Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Jorge",
+        "middle_initial": "G",
+        "surname": "Gajardo",
+        "affiliation": "Internal Medicine Department, Hospital Guillermo Grant Benavente and Medicine Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Pamela",
+        "middle_initial": "G",
+        "surname": "Garcés",
+        "affiliation": "Internal Medicine Department, Hospital Guillermo Grant Benavente and Medicine Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Benilde",
+        "middle_initial": "R",
+        "surname": "Riffo",
+        "affiliation": "PreveGen Laboratory, Concepción, Chile"
+      },
+      {
+        "firstname": "Jorge",
+        "middle_initial": "B",
+        "surname": "Buchert",
+        "affiliation": "Department of Pharmacology, Faculty of Biological Sciences, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Rocío",
+        "middle_initial": "S",
+        "surname": "Sanhueza",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Valeska",
+        "middle_initial": "O",
+        "surname": "Ormazába",
+        "affiliation": "Department of Basic-Clinical Oncology, Faculty of Medicine, University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Pablo",
+        "middle_initial": "S",
+        "surname": "Saldivia",
+        "affiliation": "Department of Pharmaceutical Sciences and Technology, Faculty of Chemical and Pharmaceutical Sciences, University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Cristian",
+        "middle_initial": "V",
+        "surname": "Vargas",
+        "affiliation": "Department of Basic-Clinical Oncology, Faculty of Medicine, University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Guillermo",
+        "middle_initial": "N",
+        "surname": "Nourdin",
+        "affiliation": "Exosome Biology Laboratory, Centre for Clinical Diagnostics, UQ Centre for Clinical Research, Royal Brisbane and Women’s Hospital, Medicine and Biomedical Science Faculty, The University of Queensland, Brisbane, QLD, Australia"
+      },
+      {
+        "firstname": "Elard",
+        "middle_initial": "K",
+        "surname": "Koch",
+        "affiliation": "CIBER of Respiratory Diseases (CIBERES), Institute of Health Carlos III, Madrid, Spain"
+      },
+      {
+        "firstname": "Felipe A.",
+        "middle_initial": "Z",
+        "surname": "Zuñiga",
+        "affiliation": "Department of Basic-Clinical Oncology, Faculty of Medicine, University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Liliana",
+        "middle_initial": "L",
+        "surname": "Lamperti",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Paula",
+        "middle_initial": "B",
+        "surname": "Bustos",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Enrique",
+        "middle_initial": "G",
+        "surname": "Guzmán-Gutiérrez",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Pharmacy Faculty, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Claudio A.",
+        "middle_initial": "T",
+        "surname": "Tapia",
+        "affiliation": "CMABío-Bío-Advanced Microscopy Center, University of Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Luciano",
+        "middle_initial": "F",
+        "surname": "Ferrada",
+        "affiliation": "Center for Integrative Biology, Faculty of Sciences, Universidad Mayor, Santiago, Chile"
+      },
+      {
+        "firstname": "Gustavo",
+        "middle_initial": "C",
+        "surname": "Cerda",
+        "affiliation": "Center for Integrative Biology, Faculty of Sciences, Universidad Mayor, Santiago, Chile"
+      },
+      {
+        "firstname": "Ute",
+        "middle_initial": "W",
+        "surname": "Woehlbier",
+        "affiliation": "Faculty of Medicine, Pontifical Catholic University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Erick",
+        "middle_initial": "R",
+        "surname": "Riquelme",
+        "affiliation": "Faculty of Medicine, Pontifical Catholic University of Chile, Santiago, Chile"
+      },
+      {
+        "firstname": "Maria-Isabel",
+        "middle_initial": "Y",
+        "surname": "Yuseff",
+        "affiliation": "Department of Pharmacology and Toxicology, School of Medicine, Indiana University Bloomington, Bloomington, IN, United States"
+      },
+      {
+        "firstname": "Braulio A.",
+        "middle_initial": "M",
+        "surname": "Muñoz Ramirez",
+        "affiliation": "Department of Pharmacology and Toxicology, School of Medicine, Indiana University Bloomington, Bloomington, IN, United States"
+      },
+      {
+        "firstname": "Giovanna",
+        "middle_initial": "L",
+        "surname": "Lombardi",
+        "affiliation": "Peter Gorer Department of Immunobiology, School of Immunology and Microbial Sciences, Faculty of Life Sciences and Medicine, King’s College London, London, United Kingdom"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "D",
+        "surname": "DeGonzalo-Calvo",
+        "affiliation": "CIBER of Respiratory Diseases (CIBERES), Institute of Health Carlos III, Madrid, Spain"
+      },
+      {
+        "firstname": "Carlos",
+        "middle_initial": "S",
+        "surname": "Salomon",
+        "affiliation": "CIBER of Respiratory Diseases (CIBERES), Institute of Health Carlos III, Madrid, Spain"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "plasma glucose"
+      },
+      {
+        "name": "total plasma cholesterol"
+      },
+      {
+        "name": "HDL cholesterol"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "plasma glucose"
+      },
+      {
+        "name": "plasma insulin"
+      },
+      {
+        "name": "total bilirubin"
+      },
+      {
+        "name": "direct bilirubin"
+      },
+      {
+        "name": "indirect bilirubin"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "globulin"
+      },
+      {
+        "name": "alanine aminotransferase"
+      },
+      {
+        "name": "aspartate aminotransferase"
+      },
+      {
+        "name": "gamma glutamyl transferase"
+      },
+      {
+        "name": "alkaline phosphatase"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "phosphorus"
+      },
+      {
+        "name": "calcium"
+      },
+      {
+        "name": "uric acid"
+      },
+      {
+        "name": "cretinemia"
+      },
+      {
+        "name": "ammonium formate"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "ACN"
+      },
+      {
+        "name": "ammonium bicarbonate"
+      },
+      {
+        "name": "DTT"
+      },
+      {
+        "name": "iodoacetamide"
+      },
+      {
+        "name": "ACN"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "fasting blood glucose"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "HDL-cholesterol"
+      },
+      {
+        "name": "fasting blood glucose"
+      },
+      {
+        "name": "BMI"
+      },
+      {
+        "name": "LDL cholesterol"
+      },
+      {
+        "name": "total cholesterol"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "glycosylated hemoglobin"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "serum amyloid A"
+      },
+      {
+        "name": "fibrinogen"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "FcγRIII"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "Nucleocapside"
+      },
+      {
+        "name": "Spike proteins"
+      },
+      {
+        "name": "IL-12"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "CCL2"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "C3a"
+      },
+      {
+        "name": "C4a"
+      },
+      {
+        "name": "C5a"
+      },
+      {
+        "name": "DIA-NN"
+      },
+      {
+        "name": "TIMS-TOF Pro"
+      },
+      {
+        "name": "Bruker Daltonics"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "Chemokines (IL-8, CCL5, CCL2, CXCL9, CXCL10)"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "IL-12"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "CCL2"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "microtubule-associated protein tau"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "FCgamma receptor"
+      },
+      {
+        "name": "Liver X receptor"
+      },
+      {
+        "name": "retinoid X receptor"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "FCgamma receptor"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "IL-6"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "FCGR1A"
+      },
+      {
+        "name": "FCGR2A"
+      },
+      {
+        "name": "FCGR3A"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "vascular inflammation pathways"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "vascular inflammation pathways"
+      },
+      {
+        "name": "vascular inflammation"
+      },
+      {
+        "name": "chemotaxis of phagocytes"
+      },
+      {
+        "name": "microvascular injury"
+      },
+      {
+        "name": "hyperinflammation by immune system dysregulation"
+      },
+      {
+        "name": "thrombosis"
+      },
+      {
+        "name": "cytokine storm"
+      },
+      {
+        "name": "fibrosis"
+      },
+      {
+        "name": "thrombosis"
+      },
+      {
+        "name": "ingenuity pathway analysis"
+      },
+      {
+        "name": "metabolic pathways"
+      },
+      {
+        "name": "chemotaxis of phagocytes"
+      },
+      {
+        "name": "IFN-γ-mediated signaling"
+      },
+      {
+        "name": "chemotaxis of leukocytes"
+      },
+      {
+        "name": "left ventricular dysfunction"
+      },
+      {
+        "name": "blood cell adhesion"
+      },
+      {
+        "name": "leukocyte binding"
+      },
+      {
+        "name": "cardiac dysfunction"
+      },
+      {
+        "name": "FC gamma receptor-mediated phagocytosis pathway"
+      },
+      {
+        "name": "monocyte/macrophage-related pathways"
+      },
+      {
+        "name": "IFN-γ signaling-mediated pathway"
+      },
+      {
+        "name": "FCgamma receptor signaling pathway"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "production of NO"
+      },
+      {
+        "name": "production of ROS"
+      },
+      {
+        "name": "phagocytosis in macrophages and monocytes"
+      },
+      {
+        "name": "CD16-mediated phagocytosis"
+      },
+      {
+        "name": "IFN-γ signaling-mediated network"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "bronchodilator"
+      },
+      {
+        "name": "bronchodilator"
+      },
+      {
+        "name": "salbutamol"
+      },
+      {
+        "name": "metformin"
+      },
+      {
+        "name": "Metformin"
+      },
+      {
+        "name": "ECA/ARA2"
+      },
+      {
+        "name": "Beta blockers"
+      },
+      {
+        "name": "Ca++ blockers"
+      },
+      {
+        "name": "Aldosterone inhibitor"
+      },
+      {
+        "name": "Diuretic drugs"
+      },
+      {
+        "name": "Hyperlipemia drug"
+      },
+      {
+        "name": "Insulin"
+      },
+      {
+        "name": "MAGLUMI 2019-nCoV IgM Kit"
+      },
+      {
+        "name": "MAGLUMI 2019-nCoV IgG Kit"
+      },
+      {
+        "name": "Qubit protein quantification kit"
+      },
+      {
+        "name": "trypsin"
+      },
+      {
+        "name": "LyC"
+      },
+      {
+        "name": "SepPack Vac C18"
+      },
+      {
+        "name": "salbutamol"
+      },
+      {
+        "name": "L-TDP"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Respiratory Diseases"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "pulmonary dysfunction"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "pulmonary dysfunction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19"
+      },
+      {
+        "name": "post-COVID-19 syndrome"
+      },
+      {
+        "name": "long-COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "atrial fibrillation arrhythmia"
+      },
+      {
+        "name": "congenital heart defects"
+      },
+      {
+        "name": "non-alcoholic fatty liver disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "arterial hypertension"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "Type 2 Diabetes Mellitus (T2DM)"
+      },
+      {
+        "name": "heart failure"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease (COPD)"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "chronic kidney disease (CKD)"
+      },
+      {
+        "name": "Atrial fibrillation"
+      },
+      {
+        "name": "arrhythmia"
+      },
+      {
+        "name": "coronary heart disease"
+      },
+      {
+        "name": "stroke"
+      },
+      {
+        "name": "congenital heart defects"
+      },
+      {
+        "name": "non-alcoholic fatty liver disease (NAFLD)"
+      },
+      {
+        "name": "hypothyroidism"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "atrial fibrillation"
+      },
+      {
+        "name": "coronary heart disease"
+      },
+      {
+        "name": "non-alcoholic fatty liver disease"
+      },
+      {
+        "name": "Arterial hypertension"
+      },
+      {
+        "name": "Type 2 Diabetes Mellitus (T2DM)"
+      },
+      {
+        "name": "Chronic Kidney Disease (CKD)"
+      },
+      {
+        "name": "Atrial fibrillation (Afib)"
+      },
+      {
+        "name": "Stroke"
+      },
+      {
+        "name": "Coronary Heart Disease (CHD)"
+      },
+      {
+        "name": "Non-Alcoholic Fatty Liver Disease (NAFLD)"
+      },
+      {
+        "name": "Hypothyroidism"
+      },
+      {
+        "name": "Chronic Obstructive Pulmonary Disease (COPD)"
+      },
+      {
+        "name": "Heart failure"
+      },
+      {
+        "name": "Previous cancer"
+      },
+      {
+        "name": "heart infarction"
+      },
+      {
+        "name": "cardiac infarction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "lung disease"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "coronary infarction"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "coronary infarction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "restrictive lung disease"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "myocardial infarction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes mellitus"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "lipid disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID-19"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "L-TPD"
+      },
+      {
+        "name": "long-COVID"
+      }
+    ]
+  }
+}

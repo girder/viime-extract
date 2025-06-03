@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "Gut Microbiome Composition and Dynamics in Hospitalized COVID-19 Patients and Patients with Post-Acute COVID-19 Syndrome",
+    "journal": "International Journal of Molecular Sciences",
+    "year": 2024,
+    "volume": "25",
+    "pubmed_id": null,
+    "doi_id": "10.3390/ijms25010567",
+    "authors": [
+      {
+        "firstname": "Monta",
+        "middle_initial": null,
+        "surname": "Brīvība",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Laila",
+        "middle_initial": null,
+        "surname": "Silamikele",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Līga",
+        "middle_initial": null,
+        "surname": "Birzniece",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Laura",
+        "middle_initial": null,
+        "surname": "Ansone",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Kaspars",
+        "middle_initial": null,
+        "surname": "Megnis",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Ivars",
+        "middle_initial": null,
+        "surname": "Silamikelis",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Līva",
+        "middle_initial": null,
+        "surname": "Pelcmane",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Daniella",
+        "middle_initial": null,
+        "surname": "Borisova",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Maija",
+        "middle_initial": null,
+        "surname": "Rozenberga",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Lauma",
+        "middle_initial": null,
+        "surname": "Jagare",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Ilze",
+        "middle_initial": null,
+        "surname": "Elbere",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      },
+      {
+        "firstname": "Jānis",
+        "middle_initial": null,
+        "surname": "Klovinš",
+        "affiliation": "Latvian Biomedical Research and Study Centre, LV-1067 Riga, Latvia"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "butyrate"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "propionate"
+      },
+      {
+        "name": "butyrate"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "angiotensin-converting enzyme 2 (ACE2)"
+      },
+      {
+        "name": "Slogn2"
+      },
+      {
+        "name": "LofgFC"
+      },
+      {
+        "name": "Prevotella proteins"
+      },
+      {
+        "name": "angiotensin-converting enzyme 2"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "Prevotella"
+      },
+      {
+        "name": "Bacteroides"
+      },
+      {
+        "name": "Enterococcus"
+      },
+      {
+        "name": "Alistipes"
+      },
+      {
+        "name": "Eubacterium rectale"
+      },
+      {
+        "name": "Roseburia"
+      },
+      {
+        "name": "Lachnospiraceae unclassified"
+      },
+      {
+        "name": "Faecalibacterium prausnitzii"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Remdesivir"
+      },
+      {
+        "name": "Remdesivir"
+      },
+      {
+        "name": "antibiotic therapy"
+      },
+      {
+        "name": "antibiotics"
+      },
+      {
+        "name": "antibiotics"
+      },
+      {
+        "name": "antibiotics"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Post-Acute COVID-19 Syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "bacterial infection"
+      },
+      {
+        "name": "dysbiosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "acute phase"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}

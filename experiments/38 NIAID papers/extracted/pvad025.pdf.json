@@ -1,0 +1,881 @@
+{
+  "meta": {
+    "title": "Vascular mechanisms of post-COVID-19 conditions: Rho-kinase is a novel target for therapy",
+    "journal": "European Heart Journal - Cardiovascular Pharmacotherapy",
+    "year": 2023,
+    "volume": "9",
+    "pubmed_id": null,
+    "doi_id": "10.1093/ehjcvp/pvad025",
+    "authors": [
+      {
+        "firstname": "Robert",
+        "middle_initial": "A.",
+        "surname": "Sykes",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK; West of Scotland Heart and Lung Centre, Golden Jubilee National Hospital, Glasgow, UK"
+      },
+      {
+        "firstname": "Karla",
+        "middle_initial": "B.",
+        "surname": "Neves",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK; Institute of Pharmacy and Biomedical Sciences, University of Strathclyde, Glasgow, UK"
+      },
+      {
+        "firstname": "Rhéure",
+        "middle_initial": null,
+        "surname": "Alves-Lopes",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK"
+      },
+      {
+        "firstname": "Ilaria",
+        "middle_initial": null,
+        "surname": "Caputo",
+        "affiliation": "Università degli Studi di Padova, 35122 Padova, Italy"
+      },
+      {
+        "firstname": "Kirsty",
+        "middle_initial": null,
+        "surname": "Fallon",
+        "affiliation": "Clinical Research Facility, Queen Elizabeth University Hospital, NHS Greater Glasgow & Clyde Health Board, Glasgow, UK"
+      },
+      {
+        "firstname": "Nigel",
+        "middle_initial": "B.",
+        "surname": "Jamieson",
+        "affiliation": "Wolfson Wohl Cancer Research Centre, School of Cancer Sciences, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Anna",
+        "middle_initial": null,
+        "surname": "Kamdar",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK"
+      },
+      {
+        "firstname": "Assya",
+        "middle_initial": null,
+        "surname": "Legrini",
+        "affiliation": "Wolfson Wohl Cancer Research Centre, School of Cancer Sciences, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Holly",
+        "middle_initial": null,
+        "surname": "Leslie",
+        "affiliation": "Wolfson Wohl Cancer Research Centre, School of Cancer Sciences, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Alasdair",
+        "middle_initial": null,
+        "surname": "McIntosh",
+        "affiliation": "Robertson Centre for Biostatistics, School of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Alex",
+        "middle_initial": null,
+        "surname": "McConnachie",
+        "affiliation": "Robertson Centre for Biostatistics, School of Health and Wellbeing, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Andrew",
+        "middle_initial": null,
+        "surname": "Morrow",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK"
+      },
+      {
+        "firstname": "Richard",
+        "middle_initial": "W.",
+        "surname": "McFarlane",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK"
+      },
+      {
+        "firstname": "Kenneth",
+        "middle_initial": null,
+        "surname": "Mangion",
+        "affiliation": "Department of Cardiology, Queen Elizabeth University Hospital, NHS Greater Glasgow and Clyde Health Board, Glasgow, UK"
+      },
+      {
+        "firstname": "John",
+        "middle_initial": null,
+        "surname": "McAbney",
+        "affiliation": "Institute of Biomedical and Life Sciences (FBLS), University of Glasgow, Glasgow G128QQ, UK"
+      },
+      {
+        "firstname": "Augusto",
+        "middle_initial": "C.",
+        "surname": "Montezano",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK; Research Institute of the McGill University Health Centre (RI-MUHC), Montreal, QC H4A 3J1, Canada"
+      },
+      {
+        "firstname": "Rhian",
+        "middle_initial": "M.",
+        "surname": "Touyz",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK; Research Institute of the McGill University Health Centre (RI-MUHC), Montreal, QC H4A 3J1, Canada"
+      },
+      {
+        "firstname": "Colin",
+        "middle_initial": null,
+        "surname": "Wood",
+        "affiliation": "Wolfson Wohl Cancer Research Centre, School of Cancer Sciences, University of Glasgow, Glasgow, UK"
+      },
+      {
+        "firstname": "Colin",
+        "middle_initial": null,
+        "surname": "Berry",
+        "affiliation": "School of Cardiovascular and Metabolic Health, University of Glasgow, UK; Department of Cardiology, Queen Elizabeth University Hospital, NHS Greater Glasgow and Clyde Health Board, Glasgow, UK"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Nitric Oxide"
+      },
+      {
+        "name": "Calcium ion (Ca2+)"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "Total bilirubin"
+      },
+      {
+        "name": "Total cholesterol"
+      },
+      {
+        "name": "Triglycerides"
+      },
+      {
+        "name": "HDL cholesterol"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "Endothelin-1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "ST2"
+      },
+      {
+        "name": "p-selectin"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "Factor VIII"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "sodium nitroprusside"
+      },
+      {
+        "name": "acetylcholine"
+      },
+      {
+        "name": "sphingosine-1-phosphate"
+      },
+      {
+        "name": "thromboxane A2"
+      },
+      {
+        "name": "NO"
+      },
+      {
+        "name": "NO"
+      },
+      {
+        "name": "prostacyclin"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "Angiotensin-Converting Enzyme 2"
+      },
+      {
+        "name": "myosin light chain"
+      },
+      {
+        "name": "Rho-kinase"
+      },
+      {
+        "name": "RhoA"
+      },
+      {
+        "name": "Rho-kinase"
+      },
+      {
+        "name": "myosin light chain"
+      },
+      {
+        "name": "myosin chain"
+      },
+      {
+        "name": "intercellular adhesion molecule 1 (ICAM-1)"
+      },
+      {
+        "name": "vascular cell adhesion molecule 1 (VCAM-1)"
+      },
+      {
+        "name": "C-reactive protein (CRP)"
+      },
+      {
+        "name": "Von Willebrand factor"
+      },
+      {
+        "name": "factor VIII"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "hs-troponin I"
+      },
+      {
+        "name": "VWF:GP1bR"
+      },
+      {
+        "name": "VWF:Ag"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "ET-1"
+      },
+      {
+        "name": "SNP"
+      },
+      {
+        "name": "thromboxane A2"
+      },
+      {
+        "name": "ROCK1"
+      },
+      {
+        "name": "ROCK2"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "VWF:GP1bR"
+      },
+      {
+        "name": "VWF:Ag"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "NT-proBNP"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "Endothelin-1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "ST2"
+      },
+      {
+        "name": "P-selectin"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "Factor VIII"
+      },
+      {
+        "name": "phosphorylated myosin light chain"
+      },
+      {
+        "name": "matrix gla protein"
+      },
+      {
+        "name": "Rho-kinase"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "myosin light chain phosphatase (MLCP)"
+      },
+      {
+        "name": "factor VIII"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "myosin light chain kinase"
+      },
+      {
+        "name": "prostacyclin synthase"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "glutathione peroxidase 3"
+      },
+      {
+        "name": "ET-1"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "factor VIII"
+      },
+      {
+        "name": "protein C"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "myosin phosphatase"
+      },
+      {
+        "name": "prostacyclin synthase"
+      },
+      {
+        "name": "phosphorylated myosin light chain"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "DCN"
+      },
+      {
+        "name": "extracellular membrane gene pathways"
+      },
+      {
+        "name": "NFE2L1"
+      },
+      {
+        "name": "DAG1"
+      },
+      {
+        "name": "MYL2"
+      },
+      {
+        "name": "PPP1R12A"
+      },
+      {
+        "name": "PPP1CA"
+      },
+      {
+        "name": "NOS3"
+      },
+      {
+        "name": "NOX1"
+      },
+      {
+        "name": "NOX3"
+      },
+      {
+        "name": "NOX4"
+      },
+      {
+        "name": "NOX5"
+      },
+      {
+        "name": "NOXO1"
+      },
+      {
+        "name": "NOXA1"
+      },
+      {
+        "name": "DUOX1"
+      },
+      {
+        "name": "DUOX2"
+      },
+      {
+        "name": "ARG1"
+      },
+      {
+        "name": "CYBA"
+      },
+      {
+        "name": "NCF1"
+      },
+      {
+        "name": "NFE2"
+      },
+      {
+        "name": "NFE2L1"
+      },
+      {
+        "name": "NFE2L2"
+      },
+      {
+        "name": "NFE2L3"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "SOD2"
+      },
+      {
+        "name": "SOD3"
+      },
+      {
+        "name": "GPX1"
+      },
+      {
+        "name": "GPX4"
+      },
+      {
+        "name": "GPX5"
+      },
+      {
+        "name": "GPX6"
+      },
+      {
+        "name": "GPX7"
+      },
+      {
+        "name": "GPX8"
+      },
+      {
+        "name": "HMOX1"
+      },
+      {
+        "name": "HMOX2"
+      },
+      {
+        "name": "PRDX1"
+      },
+      {
+        "name": "PRDX2"
+      },
+      {
+        "name": "PRDX4"
+      },
+      {
+        "name": "PRDX5"
+      },
+      {
+        "name": "PRDX6"
+      },
+      {
+        "name": "GUCY1B1"
+      },
+      {
+        "name": "GCK"
+      },
+      {
+        "name": "GCKR"
+      },
+      {
+        "name": "PTS"
+      },
+      {
+        "name": "PCBD2"
+      },
+      {
+        "name": "PCBD1"
+      },
+      {
+        "name": "GCHFR"
+      },
+      {
+        "name": "SPR"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "Calcium Signalling"
+      },
+      {
+        "name": "Rho-kinase"
+      },
+      {
+        "name": "extracellular matrix alteration"
+      },
+      {
+        "name": "proteoglycan synthesis"
+      },
+      {
+        "name": "viral mRNA replication"
+      },
+      {
+        "name": "RhoA/Rho-kinase signalling pathways"
+      },
+      {
+        "name": "Rho-kinase pathway"
+      },
+      {
+        "name": "vascular homeostasis"
+      },
+      {
+        "name": "extracellular matrix regulation"
+      },
+      {
+        "name": "ECM proteoglycans"
+      },
+      {
+        "name": "Rho-kinase pathway"
+      },
+      {
+        "name": "RhoA/Rho-kinase pathway"
+      },
+      {
+        "name": "vascular fibrosis"
+      },
+      {
+        "name": "VSMC dysfunction"
+      },
+      {
+        "name": "viral replication mechanisms"
+      },
+      {
+        "name": "platelet activation"
+      },
+      {
+        "name": "connective tissue organization"
+      },
+      {
+        "name": "tissue morphogenesis"
+      },
+      {
+        "name": "VSMC pathways"
+      },
+      {
+        "name": "oxidative stress-associated pathways"
+      },
+      {
+        "name": "PKC pathway"
+      },
+      {
+        "name": "RhoA/Rho-kinase signaling"
+      },
+      {
+        "name": "endothelium-dependent pathways"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "sodium nitroprusside"
+      },
+      {
+        "name": "acetylcholine"
+      },
+      {
+        "name": "sodium nitroprusside"
+      },
+      {
+        "name": "acetylcholine"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "U46619"
+      },
+      {
+        "name": "acetylcholine"
+      },
+      {
+        "name": "sodium nitroprusside"
+      },
+      {
+        "name": "endothelin-1"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "Rho-kinase inhibitors"
+      },
+      {
+        "name": "Lidocaine"
+      },
+      {
+        "name": "U46619"
+      },
+      {
+        "name": "Hydrogen peroxide"
+      },
+      {
+        "name": "Oxygen"
+      },
+      {
+        "name": "Steroid"
+      },
+      {
+        "name": "Antiviral"
+      },
+      {
+        "name": "Intravenous inotrope"
+      },
+      {
+        "name": "ACh"
+      },
+      {
+        "name": "SNP"
+      },
+      {
+        "name": "U46619"
+      },
+      {
+        "name": "Aspirin"
+      },
+      {
+        "name": "Statin"
+      },
+      {
+        "name": "Beta-blocker"
+      },
+      {
+        "name": "Angiotensin converting enzyme inhibitor"
+      },
+      {
+        "name": "Angiotensin receptor blocker"
+      },
+      {
+        "name": "Oral anticoagulation"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "U46619"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "fasudil"
+      },
+      {
+        "name": "SNP"
+      },
+      {
+        "name": "U46619"
+      },
+      {
+        "name": "fasudil"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "post-COVID-19 conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "post-COVID-19 conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19 conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "microvascular angina"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Hypercholesterolaemia"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes mellitus"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Myopericarditis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Chronic kidney disease"
+      },
+      {
+        "name": "Angina"
+      },
+      {
+        "name": "Myocardial infarction"
+      },
+      {
+        "name": "Stroke or TIA"
+      },
+      {
+        "name": "Peripheral vascular disease"
+      },
+      {
+        "name": "Cardiovascular disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "endothelial dysfunction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Bartter’s syndrome"
+      },
+      {
+        "name": "Gitelman’s syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19 conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19 syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "cardiovascular symptoms"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "post-COVID-19 small artery dysfunction"
+      },
+      {
+        "name": "endothelial dysfunction"
+      },
+      {
+        "name": "cerebral vasospasm"
+      },
+      {
+        "name": "glaucoma"
+      },
+      {
+        "name": "erectile dysfunction"
+      },
+      {
+        "name": "migraine"
+      },
+      {
+        "name": "chronic airway disease"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "post-COVID-19 conditions"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}

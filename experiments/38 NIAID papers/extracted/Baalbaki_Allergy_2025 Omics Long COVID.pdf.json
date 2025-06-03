@@ -1,0 +1,854 @@
+{
+  "meta": {
+    "title": "The Omics Landscape of Long COVID—A Comprehensive Systematic Review to Advance Biomarker, Target and Drug Discovery",
+    "journal": "Allergy",
+    "year": 2025,
+    "volume": "0",
+    "pubmed_id": "10.1111/all.16526",
+    "doi_id": "10.1111/all.16526",
+    "authors": [
+      {
+        "firstname": "Nadia",
+        "middle_initial": null,
+        "surname": "Baalbaki",
+        "affiliation": "Department of Pulmonary Medicine, Amsterdam UMC, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Elise M. A.",
+        "middle_initial": null,
+        "surname": "Slob",
+        "affiliation": "Department of Clinical Pharmacy, Haaglanden Medical Centre, The Hague, the Netherlands"
+      },
+      {
+        "firstname": "Samuel W.",
+        "middle_initial": null,
+        "surname": "Kazer",
+        "affiliation": "Division of Gastroenterology, Hepatology, and Nutrition, Boston Children's Hospital, Boston, Massachusetts, USA"
+      },
+      {
+        "firstname": "Mahmoud I",
+        "middle_initial": "A",
+        "surname": "Abdel-Aziz",
+        "affiliation": "Department of Clinical Pharmacy, Faculty of Pharmacy, Assiut University, Assiut, Egypt"
+      },
+      {
+        "firstname": "Harm Jan",
+        "middle_initial": null,
+        "surname": "Bogaard",
+        "affiliation": "Amsterdam Cardiovascular Sciences Research Institute, Amsterdam UMC, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Korneliusz",
+        "middle_initial": null,
+        "surname": "Golebski",
+        "affiliation": "Amsterdam Institute for Infection and Immunity, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Anke H.",
+        "middle_initial": null,
+        "surname": "Maitland-van der Zee",
+        "affiliation": "Amsterdam Public Health, Amsterdam, the Netherlands"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "microbial-derived metabolite"
+      },
+      {
+        "name": "microbial-derived metabolites"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypaphorine"
+      },
+      {
+        "name": "scimolobateM"
+      },
+      {
+        "name": "estradiol valerate"
+      },
+      {
+        "name": "5-sulfoxymethylfurfural"
+      },
+      {
+        "name": "4-chlorophenylacetic acid"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "catecholamines"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "trimethylamine"
+      },
+      {
+        "name": "phenylacetylglutamine"
+      },
+      {
+        "name": "serum metabolites"
+      },
+      {
+        "name": "estradiol valerate"
+      },
+      {
+        "name": "5-sulfoxymethylfurfural"
+      },
+      {
+        "name": "4-chlorophenylacetic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "lipid oxidation"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "macrophage-derived secreted proteins"
+      },
+      {
+        "name": "acute phase proteins"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "scimotpircsnarT"
+      },
+      {
+        "name": "yspoib"
+      },
+      {
+        "name": "elcsum"
+      },
+      {
+        "name": "sCMBP"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "scimo"
+      },
+      {
+        "name": "scimotpircsnarT"
+      },
+      {
+        "name": "scimolobateM"
+      },
+      {
+        "name": "scimoetorP"
+      },
+      {
+        "name": "sCMBP"
+      },
+      {
+        "name": "eugitaF"
+      },
+      {
+        "name": "CMBP"
+      },
+      {
+        "name": "B2M"
+      },
+      {
+        "name": "BCL2"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "HLA-D RB1"
+      },
+      {
+        "name": "CASP3"
+      },
+      {
+        "name": "EPCAM"
+      },
+      {
+        "name": "KRT19"
+      },
+      {
+        "name": "TGFA"
+      },
+      {
+        "name": "PTN"
+      },
+      {
+        "name": "KIM1"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "HIF1A"
+      },
+      {
+        "name": "HES1"
+      },
+      {
+        "name": "DLL1"
+      },
+      {
+        "name": "SMAD3"
+      },
+      {
+        "name": "SNAI1"
+      },
+      {
+        "name": "SMURF1"
+      },
+      {
+        "name": "TNFSF9"
+      },
+      {
+        "name": "IFNG"
+      },
+      {
+        "name": "RUNX3"
+      },
+      {
+        "name": "WASL"
+      },
+      {
+        "name": "TNFAIP3"
+      },
+      {
+        "name": "ID2"
+      },
+      {
+        "name": "von Willebrand factor (VWF)"
+      },
+      {
+        "name": "platelet factor 4"
+      },
+      {
+        "name": "SERPINE"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "transferrin"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "lipocalin"
+      },
+      {
+        "name": "superoxide dismutase 1"
+      },
+      {
+        "name": "ceruloplasmin"
+      },
+      {
+        "name": "angiopoietin-1"
+      },
+      {
+        "name": "VEGF-A"
+      },
+      {
+        "name": "transferrin"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "lipocalin"
+      },
+      {
+        "name": "superoxide dismutase 1"
+      },
+      {
+        "name": "ceruloplasmin"
+      },
+      {
+        "name": "lipoxygenase"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "IFITM3"
+      },
+      {
+        "name": "lipocalin 2"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "Siruin 1"
+      },
+      {
+        "name": "Natriuretic Peptide B"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Arachidonate 5-Lipoxygenase"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "C5bC6 complexes"
+      },
+      {
+        "name": "C7-containing terminal complement complexes"
+      },
+      {
+        "name": "NR4A1"
+      },
+      {
+        "name": "IFITM3"
+      },
+      {
+        "name": "SARS-CoV-2-specific IgG antibodies"
+      },
+      {
+        "name": "IFN-α"
+      },
+      {
+        "name": "circulating proteome"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "scimoneG"
+      },
+      {
+        "name": "ATP9A"
+      },
+      {
+        "name": "CLOCK"
+      },
+      {
+        "name": "SLC15A14"
+      },
+      {
+        "name": "INSR"
+      },
+      {
+        "name": "GPC5"
+      },
+      {
+        "name": "PXDN"
+      },
+      {
+        "name": "ITGA2"
+      },
+      {
+        "name": "MXRA7"
+      },
+      {
+        "name": "TMEM200A"
+      },
+      {
+        "name": "RNF187"
+      },
+      {
+        "name": "FAT1"
+      },
+      {
+        "name": "NELL2"
+      },
+      {
+        "name": "RAI14"
+      },
+      {
+        "name": "SLC24A2"
+      },
+      {
+        "name": "PPP1R9A"
+      },
+      {
+        "name": "CHRM3"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "D2HDGH"
+      },
+      {
+        "name": "GUCY1A2"
+      },
+      {
+        "name": "PCSK2"
+      },
+      {
+        "name": "CCDC146"
+      },
+      {
+        "name": "PGPEP1"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "HIF1A"
+      },
+      {
+        "name": "HES1"
+      },
+      {
+        "name": "DLL1"
+      },
+      {
+        "name": "SMAD3"
+      },
+      {
+        "name": "SNAI1"
+      },
+      {
+        "name": "SMURF1"
+      },
+      {
+        "name": "TNFSF9"
+      },
+      {
+        "name": "IFNG"
+      },
+      {
+        "name": "RUNX3"
+      },
+      {
+        "name": "WASL"
+      },
+      {
+        "name": "TNFAIP3"
+      },
+      {
+        "name": "ID2"
+      },
+      {
+        "name": "HLA-DR"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "metabolome"
+      },
+      {
+        "name": "transcriptome"
+      },
+      {
+        "name": "proteome"
+      },
+      {
+        "name": "metagenome"
+      },
+      {
+        "name": "amino acid metabolism"
+      },
+      {
+        "name": "energy metabolism"
+      },
+      {
+        "name": "mitochondrial dysfunction"
+      },
+      {
+        "name": "Krebs cycle"
+      },
+      {
+        "name": "complement pathways"
+      },
+      {
+        "name": "mitochondrial dysfunction pathways"
+      },
+      {
+        "name": "platelet-related pathways"
+      },
+      {
+        "name": "metabolic/JNK signaling"
+      },
+      {
+        "name": "inflammation"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "tissue repair"
+      },
+      {
+        "name": "cell senescence"
+      },
+      {
+        "name": "tissue repair pathways"
+      },
+      {
+        "name": "metabolism"
+      },
+      {
+        "name": "regulatory pathways"
+      },
+      {
+        "name": "neurological diseases"
+      },
+      {
+        "name": "cardiometabolic diseases"
+      },
+      {
+        "name": "TGF- signaling"
+      },
+      {
+        "name": "chemotaxis of phagocytes"
+      },
+      {
+        "name": "leukocyte activation"
+      },
+      {
+        "name": "platelet activation"
+      },
+      {
+        "name": "hemostasis"
+      },
+      {
+        "name": "T-cell differentiation"
+      },
+      {
+        "name": "immune responses"
+      },
+      {
+        "name": "proteoglycan synthesis"
+      },
+      {
+        "name": "extracellular matrix alteration"
+      },
+      {
+        "name": "viral mRNA replication"
+      },
+      {
+        "name": "TGF-β"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "HIF-1"
+      },
+      {
+        "name": "HIF-1⍺ pathway"
+      },
+      {
+        "name": "focal adhesion"
+      },
+      {
+        "name": "MET signaling"
+      },
+      {
+        "name": "L1CAM interaction"
+      },
+      {
+        "name": "Notch signaling"
+      },
+      {
+        "name": "TGF-β"
+      },
+      {
+        "name": "TNF-"
+      },
+      {
+        "name": "IFN pathways"
+      },
+      {
+        "name": "cGAS-STING pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "DIVOC"
+      },
+      {
+        "name": "Rho-kinase inhibitors"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "coronavirus disease (COVID-19)"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "myalgic encephalitic/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "acute COVID-19 (AC)"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "AC"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "lacitirc"
+      },
+      {
+        "name": "ytireves esaesid"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "CL"
+      },
+      {
+        "name": "CA"
+      },
+      {
+        "name": "DIVOC"
+      },
+      {
+        "name": "Allergy"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "ytireves"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "pulmonary dysfunction"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "neurological symptoms"
+      },
+      {
+        "name": "fatigue-dominant cohorts"
+      },
+      {
+        "name": "gastrointestinal symptoms"
+      },
+      {
+        "name": "blood-brain barrier dysfunction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "liver cirrhosis"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "psoriasis"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "respiratory LC"
+      },
+      {
+        "name": "gastrointestinal LC"
+      },
+      {
+        "name": "cardiometabolic disease"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "idiopathic pulmonary fibrosis"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "kidney disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer's disease"
+      }
+    ]
+  }
+}

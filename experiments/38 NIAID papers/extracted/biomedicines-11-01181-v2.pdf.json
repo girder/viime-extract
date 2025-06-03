@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "title": "COVID-19, Blood Lipid Changes, and Thrombosis",
+    "journal": "Biomedicines",
+    "year": 2023,
+    "volume": "11",
+    "pubmed_id": null,
+    "doi_id": "10.3390/biomedicines11041181",
+    "authors": [
+      {
+        "firstname": "Akhlaq A.",
+        "middle_initial": "F.",
+        "surname": "Farooqui",
+        "affiliation": "Department of Molecular and Cellular Biochemistry, Ohio State University, Columbus, OH 43210, USA"
+      },
+      {
+        "firstname": "Tahira",
+        "middle_initial": null,
+        "surname": "Farooqui",
+        "affiliation": "Department of Molecular and Cellular Biochemistry, Ohio State University, Columbus, OH 43210, USA"
+      },
+      {
+        "firstname": "Grace Y.",
+        "middle_initial": "S.",
+        "surname": "Sun",
+        "affiliation": "Department of Biochemistry, University of Missouri, Columbia, MO 65211, USA"
+      },
+      {
+        "firstname": "Teng-Nan",
+        "middle_initial": null,
+        "surname": "Lin",
+        "affiliation": "Institute of Biomedical Sciences, Academia Sinica, Taipei 11929, Taiwan"
+      },
+      {
+        "firstname": "Daniel B. L.",
+        "middle_initial": null,
+        "surname": "Teh",
+        "affiliation": "Department of Ophthalmology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore 119260, Singapore"
+      },
+      {
+        "firstname": "Wei-Yi",
+        "middle_initial": null,
+        "surname": "Ong",
+        "affiliation": "Department of Anatomy, Yong Loo Lin School of Medicine, National University of Singapore, Singapore 119260, Singapore"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "lysophosphatidylcholine"
+      },
+      {
+        "name": "lysophosphatidic acid"
+      },
+      {
+        "name": "platelet activating factor"
+      },
+      {
+        "name": "platelet activating factor (PAF)"
+      },
+      {
+        "name": "lysophosphatidic acid (LPA)"
+      },
+      {
+        "name": "C16:0 ceramide"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "P-selectin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "plasminogen"
+      },
+      {
+        "name": "plasmin"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "cell-free DNA"
+      },
+      {
+        "name": "MPO-DNA"
+      },
+      {
+        "name": "citrullinated histone H3 (Cit-H3)"
+      },
+      {
+        "name": "hypochlorous acid (HOCl)"
+      },
+      {
+        "name": "platelet activating factor (PAF)"
+      },
+      {
+        "name": "LPA"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "lysophosphatidic acid"
+      },
+      {
+        "name": "thromboxane A2"
+      },
+      {
+        "name": "plasminogen activator inhibitor"
+      },
+      {
+        "name": "phosphatidylcholine"
+      },
+      {
+        "name": "phosphatidylethanolamine"
+      },
+      {
+        "name": "ARA"
+      },
+      {
+        "name": "oleic acid"
+      },
+      {
+        "name": "lysophosphatidylethanolamine"
+      },
+      {
+        "name": "ARA"
+      },
+      {
+        "name": "lysophosphatidylethanolamine"
+      },
+      {
+        "name": "acyl-carnitine"
+      },
+      {
+        "name": "oxylipins"
+      },
+      {
+        "name": "sphingolipid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "5-hydroxy-6E,8Z,11Z,14Z-eicosatetraenoic acid"
+      },
+      {
+        "name": "11-hydroxy-5Z,8Z,12E,14Z-eicosatetraenoic acid"
+      },
+      {
+        "name": "acetylcholine"
+      },
+      {
+        "name": "linoleic acid"
+      },
+      {
+        "name": "Arachidonic acid (ARA)"
+      },
+      {
+        "name": "Docosahexaenoic acid (DHA)"
+      },
+      {
+        "name": "prostaglandin D2"
+      },
+      {
+        "name": "2-oxoamide GK241"
+      },
+      {
+        "name": "Arachidonic acid"
+      },
+      {
+        "name": "Lipoxin A4"
+      },
+      {
+        "name": "PGE2"
+      },
+      {
+        "name": "Leukotriene A4"
+      },
+      {
+        "name": "Lipoxin A4"
+      },
+      {
+        "name": "PGE2"
+      },
+      {
+        "name": "PGH2"
+      },
+      {
+        "name": "acetoacetic acid"
+      },
+      {
+        "name": "3-hydroxybutyric acid"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "2-hydroxybutyric acid"
+      },
+      {
+        "name": "lysophosphatidylinositol"
+      },
+      {
+        "name": "C16:0 ceramide"
+      },
+      {
+        "name": "phosphatidylinositol"
+      },
+      {
+        "name": "C18:1 ceramide"
+      },
+      {
+        "name": "dihydrosphingosine"
+      },
+      {
+        "name": "lysophosphatidylglycerol"
+      },
+      {
+        "name": "phosphatidylglycerol"
+      },
+      {
+        "name": "lysophospholipids"
+      },
+      {
+        "name": "LysoPC"
+      },
+      {
+        "name": "LysoPE"
+      },
+      {
+        "name": "lyso-PAF"
+      },
+      {
+        "name": "PAF"
+      },
+      {
+        "name": "LPA"
+      },
+      {
+        "name": "C18:1 ceramide"
+      },
+      {
+        "name": "dihydrosphingosine"
+      },
+      {
+        "name": "lysophosphatidylglycerol"
+      },
+      {
+        "name": "phosphatidylglycerol"
+      },
+      {
+        "name": "C16:0 ceramide"
+      },
+      {
+        "name": "ARA"
+      },
+      {
+        "name": "TxA2"
+      },
+      {
+        "name": "PGG"
+      },
+      {
+        "name": "PGH2"
+      },
+      {
+        "name": "TxB2"
+      },
+      {
+        "name": "PGE2"
+      },
+      {
+        "name": "PGD2"
+      },
+      {
+        "name": "11-dehydro-TxB2"
+      },
+      {
+        "name": "LPA18:1"
+      },
+      {
+        "name": "LPA20:4"
+      },
+      {
+        "name": "PLA2"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "Lysophosphatidic Acid"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "ARA"
+      },
+      {
+        "name": "lysophospholipids"
+      },
+      {
+        "name": "PGs"
+      },
+      {
+        "name": "TxA"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "secretory phospholipase A IIA"
+      },
+      {
+        "name": "autotaxin"
+      },
+      {
+        "name": "angiotensin-converting enzyme 2"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "interferon-γ"
+      },
+      {
+        "name": "secretory phospholipase A (sPLA -IIA)"
+      },
+      {
+        "name": "PLA2G2A"
+      },
+      {
+        "name": "tissue-type plasminogen activator (tPA)"
+      },
+      {
+        "name": "urokinase-type plasminogen activator (uPA)"
+      },
+      {
+        "name": "plasminogen activator inhibitor (PAI-1)"
+      },
+      {
+        "name": "vitronectin"
+      },
+      {
+        "name": "spike protein S1"
+      },
+      {
+        "name": "complement 3"
+      },
+      {
+        "name": "prothrombin"
+      },
+      {
+        "name": "myeloperoxidase (MPO)"
+      },
+      {
+        "name": "elastase"
+      },
+      {
+        "name": "sPLA -IIA"
+      },
+      {
+        "name": "sPLA -IID"
+      },
+      {
+        "name": "sPLA-IIA"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "TNF-α"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein S1 subunit"
+      },
+      {
+        "name": "cPLA2"
+      },
+      {
+        "name": "sPLA2"
+      },
+      {
+        "name": "sPLA -IID"
+      },
+      {
+        "name": "sPLA -IIA"
+      },
+      {
+        "name": "SARS-CoV-2 main protease"
+      },
+      {
+        "name": "Lipoxygenase"
+      },
+      {
+        "name": "Hydroxyprostaglandin dehydrogenase"
+      },
+      {
+        "name": "5-lipoxygenase (ALOX5)"
+      },
+      {
+        "name": "cytochrome P450"
+      },
+      {
+        "name": "COX-2"
+      },
+      {
+        "name": "galectin-1"
+      },
+      {
+        "name": "galectin-3"
+      },
+      {
+        "name": "hydroxyprostaglandin-dehydrogenase"
+      },
+      {
+        "name": "PGI2"
+      },
+      {
+        "name": "syndecan-1"
+      },
+      {
+        "name": "autotaxin (ATX)"
+      },
+      {
+        "name": "serine palmitoyltransferase long chain 3 subunit (SPTLC3)"
+      },
+      {
+        "name": "serine palmitoyltransferase long chain 2 subunit (SPTLC2)"
+      },
+      {
+        "name": "thromboxane synthase"
+      },
+      {
+        "name": "cyclooxygenase 2 (COX2)"
+      },
+      {
+        "name": "thromboxane prostanoid receptor (TP)"
+      },
+      {
+        "name": "phospholipase A"
+      },
+      {
+        "name": "blood coagulation factor Xa"
+      },
+      {
+        "name": "sPLA -IID"
+      },
+      {
+        "name": "tissue plasminogen activator (tPA)"
+      },
+      {
+        "name": "sPLA-IIA"
+      },
+      {
+        "name": "MPO-DNA"
+      },
+      {
+        "name": "citrullinated histone H3"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "Platelet Factor 4"
+      },
+      {
+        "name": "COX-2"
+      },
+      {
+        "name": "LOX"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "PLA2G7"
+      },
+      {
+        "name": "ALOX5"
+      },
+      {
+        "name": "ALOX12"
+      },
+      {
+        "name": "apoE"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "Toll-like receptor activation"
+      },
+      {
+        "name": "NOD-like receptor signaling"
+      },
+      {
+        "name": "phospholipase A"
+      },
+      {
+        "name": "cyclooxygenase"
+      },
+      {
+        "name": "ACE2/Angiotensin-(1-7)/Mas receptor signalling axis"
+      },
+      {
+        "name": "phospholipid metabolism"
+      },
+      {
+        "name": "arginine metabolism"
+      },
+      {
+        "name": "sphingolipid metabolism"
+      },
+      {
+        "name": "phospholipid metabolism"
+      },
+      {
+        "name": "inflammatory pathways"
+      },
+      {
+        "name": "glycerophospholipid metabolic pathway"
+      },
+      {
+        "name": "amino acid metabolic pathway"
+      },
+      {
+        "name": "metabolic pathways involving linoleic acid"
+      },
+      {
+        "name": "remodelling pathway"
+      },
+      {
+        "name": "Coagulation Pathway"
+      },
+      {
+        "name": "coagulation pathway"
+      },
+      {
+        "name": "immunothrombosis"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "anti-inflammatory drugs"
+      },
+      {
+        "name": "U0126"
+      },
+      {
+        "name": "indoxam"
+      },
+      {
+        "name": "asapiprant"
+      },
+      {
+        "name": "2-oxoamide GK241"
+      },
+      {
+        "name": "Montelukast"
+      },
+      {
+        "name": "ramatroban"
+      },
+      {
+        "name": "montelukast"
+      },
+      {
+        "name": "Iloprost"
+      },
+      {
+        "name": "omega-3 fatty acids"
+      },
+      {
+        "name": "Dexamethasone"
+      },
+      {
+        "name": "ramatroban"
+      },
+      {
+        "name": "Dexamethasone"
+      },
+      {
+        "name": "pipedimic acid"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "coagulopathy"
+      },
+      {
+        "name": "thrombosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19-associated coagulopathy (CAC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Acute Respiratory Distress Syndrome (ARDS)"
+      },
+      {
+        "name": "COVID-19-Associated Coagulopathy (CAC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19-associated coagulopathy"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "MIS-C"
+      },
+      {
+        "name": "thrombotic microangiopathy"
+      },
+      {
+        "name": "macrophage activation syndrome"
+      },
+      {
+        "name": "atherosclerosis"
+      },
+      {
+        "name": "metabolic syndrome"
+      },
+      {
+        "name": "SARS-CoV-1 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute multisystem inflammatory syndrome (MIS-C)"
+      },
+      {
+        "name": "ischemic stroke"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19 vasculopathy"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "MIS-C"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19-associated hyperinflammatory/thrombotic state"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "infectious diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "severe sepsis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "infectious diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "thrombosis"
+      },
+      {
+        "name": "stroke"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "heart disease"
+      },
+      {
+        "name": "hypercholesterolemia"
+      },
+      {
+        "name": "atrial fibrillation"
+      },
+      {
+        "name": "cerebrovascular diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute pulmonary embolism"
+      },
+      {
+        "name": "ischemic stroke"
+      },
+      {
+        "name": "cerebral vasculitis"
+      },
+      {
+        "name": "cerebrovascular diseases"
+      },
+      {
+        "name": "ischemic stroke"
+      },
+      {
+        "name": "hemorrhagic stroke"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "severe sepsis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute ischemic stroke"
+      },
+      {
+        "name": "intracerebral haemorrhage"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "diabetes mellitus"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "venous thromboembolic events"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "antiphospholipid syndrome (APS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "stroke"
+      },
+      {
+        "name": "severe infection"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2408 @@
+{
+  "meta": {
+    "title": "Fibrin drives thromboinflammation and neuropathology in COVID-19",
+    "journal": "Nature",
+    "year": 2024,
+    "volume": "633",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41586-024-07873-4",
+    "authors": [
+      {
+        "firstname": "Jae Kyu",
+        "middle_initial": null,
+        "surname": "Ryu",
+        "affiliation": "1,2,3"
+      },
+      {
+        "firstname": "Zhaoqi",
+        "middle_initial": null,
+        "surname": "Yan",
+        "affiliation": "1,2,23"
+      },
+      {
+        "firstname": "Mauricio",
+        "middle_initial": null,
+        "surname": "Montano",
+        "affiliation": "4,5,23"
+      },
+      {
+        "firstname": "Elif G.",
+        "middle_initial": null,
+        "surname": "Sozmen",
+        "affiliation": "1,2,3,23"
+      },
+      {
+        "firstname": "Karuna",
+        "middle_initial": null,
+        "surname": "Dixit",
+        "affiliation": "1,2,23"
+      },
+      {
+        "firstname": "Rahul K.",
+        "middle_initial": null,
+        "surname": "Suryawanshi",
+        "affiliation": "4,23"
+      },
+      {
+        "firstname": "Yusuke",
+        "middle_initial": null,
+        "surname": "Matsui",
+        "affiliation": "4,5"
+      },
+      {
+        "firstname": "Ekram",
+        "middle_initial": null,
+        "surname": "Helmy",
+        "affiliation": "4,5"
+      },
+      {
+        "firstname": "Prashant",
+        "middle_initial": null,
+        "surname": "Kaushal",
+        "affiliation": "6,7"
+      },
+      {
+        "firstname": "Sara K.",
+        "middle_initial": null,
+        "surname": "Makanani",
+        "affiliation": "6,7"
+      },
+      {
+        "firstname": "Thomas J.",
+        "middle_initial": null,
+        "surname": "Deerinck",
+        "affiliation": "8"
+      },
+      {
+        "firstname": "Anke",
+        "middle_initial": null,
+        "surname": "Meyer-Franke",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Pamela E.",
+        "middle_initial": null,
+        "surname": "Rios Coronado",
+        "affiliation": "9"
+      },
+      {
+        "firstname": "Troy N.",
+        "middle_initial": null,
+        "surname": "Trevino",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Min-Gyoung",
+        "middle_initial": null,
+        "surname": "Shin",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Reshmi",
+        "middle_initial": null,
+        "surname": "Tognatta",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Yixin",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Renaud",
+        "middle_initial": null,
+        "surname": "Schuck",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Lucas",
+        "middle_initial": null,
+        "surname": "Le",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Hisao",
+        "middle_initial": null,
+        "surname": "Miyajima",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Andrew S.",
+        "middle_initial": null,
+        "surname": "Mendiola",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Nikhita",
+        "middle_initial": null,
+        "surname": "Arun",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Brandon",
+        "middle_initial": null,
+        "surname": "Guo",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Taha Y.",
+        "middle_initial": null,
+        "surname": "Taha",
+        "affiliation": "4,5"
+      },
+      {
+        "firstname": "Ayushi",
+        "middle_initial": null,
+        "surname": "Agrawal",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Eilidh",
+        "middle_initial": null,
+        "surname": "MacDonald",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Oliver",
+        "middle_initial": null,
+        "surname": "Aries",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Aaron",
+        "middle_initial": null,
+        "surname": "Yan",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Olivia",
+        "middle_initial": null,
+        "surname": "Weaver",
+        "affiliation": "1,2,11"
+      },
+      {
+        "firstname": "Mark A.",
+        "middle_initial": null,
+        "surname": "Petersen",
+        "affiliation": "1,2,11"
+      },
+      {
+        "firstname": "Rosa",
+        "middle_initial": null,
+        "surname": "Meza Acevedo",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "María del Pilar S.",
+        "middle_initial": null,
+        "surname": "Alzamora",
+        "affiliation": "1,2"
+      },
+      {
+        "firstname": "Reuben",
+        "middle_initial": null,
+        "surname": "Thomas",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Michela",
+        "middle_initial": null,
+        "surname": "Traglia",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Valentina L.",
+        "middle_initial": null,
+        "surname": "Kouznetsova",
+        "affiliation": "12,13"
+      },
+      {
+        "firstname": "Igor F.",
+        "middle_initial": null,
+        "surname": "Tsigelny",
+        "affiliation": "1,12,13,14"
+      },
+      {
+        "firstname": "Alexander R.",
+        "middle_initial": null,
+        "surname": "Pico",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Kristy",
+        "middle_initial": null,
+        "surname": "Red-Horse",
+        "affiliation": "9,15,16"
+      },
+      {
+        "firstname": "Mark H.",
+        "middle_initial": null,
+        "surname": "Ellisman",
+        "affiliation": "8,14"
+      },
+      {
+        "firstname": "Nevan J.",
+        "middle_initial": null,
+        "surname": "Krogan",
+        "affiliation": "10,17,18,19"
+      },
+      {
+        "firstname": "Mehdi",
+        "middle_initial": null,
+        "surname": "Bouhaddou",
+        "affiliation": "6,7"
+      },
+      {
+        "firstname": "Melanie",
+        "middle_initial": null,
+        "surname": "Ott",
+        "affiliation": "4,5,19,20,21"
+      },
+      {
+        "firstname": "Warner C.",
+        "middle_initial": null,
+        "surname": "Greene",
+        "affiliation": "4,5,20,22"
+      },
+      {
+        "firstname": "Katerina",
+        "middle_initial": null,
+        "surname": "A Kassoglou",
+        "affiliation": "1,2,3"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "4-hydroxynonenal"
+      },
+      {
+        "name": "HEPES"
+      },
+      {
+        "name": "NaCl"
+      },
+      {
+        "name": "CaCl2"
+      },
+      {
+        "name": "imidazole"
+      },
+      {
+        "name": "HEPES"
+      },
+      {
+        "name": "NaCl"
+      },
+      {
+        "name": "BSA"
+      },
+      {
+        "name": "TMB"
+      },
+      {
+        "name": "Tetrahydrofuran"
+      },
+      {
+        "name": "dichloromethane"
+      },
+      {
+        "name": "benzyl alcohol"
+      },
+      {
+        "name": "benzyl benzoate"
+      },
+      {
+        "name": "ethyl cinnamate"
+      },
+      {
+        "name": "HEPES"
+      },
+      {
+        "name": "NaCl"
+      },
+      {
+        "name": "CaCl"
+      },
+      {
+        "name": "sodium dodecyl sulfate"
+      },
+      {
+        "name": "Sudan Black"
+      },
+      {
+        "name": "sucrose"
+      },
+      {
+        "name": "BSA"
+      },
+      {
+        "name": "Triton X-100"
+      },
+      {
+        "name": "guanidine hydrochloride"
+      },
+      {
+        "name": "tris-(2-carboxyethyl)"
+      },
+      {
+        "name": "TFA"
+      },
+      {
+        "name": "acetonitrile"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "acetonitrile"
+      },
+      {
+        "name": "xylene"
+      },
+      {
+        "name": "ethanol"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "sodium bicarbonate"
+      },
+      {
+        "name": "4-HNE"
+      },
+      {
+        "name": "4-HNE"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "trimeric spike protein"
+      },
+      {
+        "name": "spike"
+      },
+      {
+        "name": "spike S1(N501Y)"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike"
+      },
+      {
+        "name": "β-chain"
+      },
+      {
+        "name": "γ-chain"
+      },
+      {
+        "name": "Fibrin"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "Fibrin"
+      },
+      {
+        "name": "Plasmin"
+      },
+      {
+        "name": "SARS-CoV-2 spike-binding protein"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "CD11b"
+      },
+      {
+        "name": "CD18"
+      },
+      {
+        "name": "gp91phox"
+      },
+      {
+        "name": "MAP2K3"
+      },
+      {
+        "name": "MAP2K6"
+      },
+      {
+        "name": "MAPKAPK3"
+      },
+      {
+        "name": "MAPKAPK5"
+      },
+      {
+        "name": "RAF1"
+      },
+      {
+        "name": "RPS6KB1"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "granzyme B"
+      },
+      {
+        "name": "Tnfsf18"
+      },
+      {
+        "name": "Ifnb1"
+      },
+      {
+        "name": "Il24"
+      },
+      {
+        "name": "Ifit3"
+      },
+      {
+        "name": "Il1rn"
+      },
+      {
+        "name": "Rsad2"
+      },
+      {
+        "name": "Timp1"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Il21r"
+      },
+      {
+        "name": "Ccl19"
+      },
+      {
+        "name": "Csf3"
+      },
+      {
+        "name": "Ccr5"
+      },
+      {
+        "name": "Tnfrsf12a"
+      },
+      {
+        "name": "Ccl2"
+      },
+      {
+        "name": "Myc"
+      },
+      {
+        "name": "Cxcr3"
+      },
+      {
+        "name": "Ptafr"
+      },
+      {
+        "name": "Hmox1"
+      },
+      {
+        "name": "Myd88"
+      },
+      {
+        "name": "Klrb1a"
+      },
+      {
+        "name": "Il10ra"
+      },
+      {
+        "name": "H2.T23"
+      },
+      {
+        "name": "Mmp3"
+      },
+      {
+        "name": "Prf1"
+      },
+      {
+        "name": "Il31ra"
+      },
+      {
+        "name": "Ncr1"
+      },
+      {
+        "name": "Gbp5"
+      },
+      {
+        "name": "Klra9"
+      },
+      {
+        "name": "Il6"
+      },
+      {
+        "name": "Gzma"
+      },
+      {
+        "name": "Il27"
+      },
+      {
+        "name": "Asb2"
+      },
+      {
+        "name": "Il11"
+      },
+      {
+        "name": "Saa1"
+      },
+      {
+        "name": "NES"
+      },
+      {
+        "name": "Trim17"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "IRF7"
+      },
+      {
+        "name": "Tnfsf9"
+      },
+      {
+        "name": "Ifit2"
+      },
+      {
+        "name": "Lif"
+      },
+      {
+        "name": "Irf5"
+      },
+      {
+        "name": "Cish"
+      },
+      {
+        "name": "Mx1"
+      },
+      {
+        "name": "Tnfsf18"
+      },
+      {
+        "name": "Ifnb1"
+      },
+      {
+        "name": "Il24"
+      },
+      {
+        "name": "Ifit3"
+      },
+      {
+        "name": "Il1rn"
+      },
+      {
+        "name": "Rsad2"
+      },
+      {
+        "name": "Timp1"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Il21r"
+      },
+      {
+        "name": "Ccl19"
+      },
+      {
+        "name": "Csf3"
+      },
+      {
+        "name": "Ccr5"
+      },
+      {
+        "name": "Tnfrsf12a"
+      },
+      {
+        "name": "Ccl2"
+      },
+      {
+        "name": "Myc"
+      },
+      {
+        "name": "Cxcr3"
+      },
+      {
+        "name": "Ifit2"
+      },
+      {
+        "name": "Ifit3b"
+      },
+      {
+        "name": "Irf5"
+      },
+      {
+        "name": "Myd88"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Tnfsf9"
+      },
+      {
+        "name": "Il1rn"
+      },
+      {
+        "name": "Lif"
+      },
+      {
+        "name": "Prf1"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "N proteins"
+      },
+      {
+        "name": "gp91phox"
+      },
+      {
+        "name": "Env protein"
+      },
+      {
+        "name": "Gzmb"
+      },
+      {
+        "name": "Gzmc"
+      },
+      {
+        "name": "Crtam"
+      },
+      {
+        "name": "Ccl3"
+      },
+      {
+        "name": "Ifng"
+      },
+      {
+        "name": "Csf2"
+      },
+      {
+        "name": "Hmox1"
+      },
+      {
+        "name": "Prdx1"
+      },
+      {
+        "name": "Selenos"
+      },
+      {
+        "name": "Bhlhe40"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Il2ra"
+      },
+      {
+        "name": "Ccl4"
+      },
+      {
+        "name": "Nr4a3"
+      },
+      {
+        "name": "Tnfrsf9"
+      },
+      {
+        "name": "Eif4ebp1"
+      },
+      {
+        "name": "Mac2"
+      },
+      {
+        "name": "Mrpl17"
+      },
+      {
+        "name": "Mrpl23"
+      },
+      {
+        "name": "Mrps28"
+      },
+      {
+        "name": "Rps27l"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "5B8 anti-fibrin antibody"
+      },
+      {
+        "name": "calbindin"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "Havcr2"
+      },
+      {
+        "name": "Serpinb9b"
+      },
+      {
+        "name": "Ccl3"
+      },
+      {
+        "name": "Ccl9"
+      },
+      {
+        "name": "Csf2"
+      },
+      {
+        "name": "Ifng"
+      },
+      {
+        "name": "Lta"
+      },
+      {
+        "name": "Spp1"
+      },
+      {
+        "name": "Tnfsf4"
+      },
+      {
+        "name": "Tnfsf8"
+      },
+      {
+        "name": "Hmox1"
+      },
+      {
+        "name": "Prdx1"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "Bhlhe40"
+      },
+      {
+        "name": "Capg"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "F2rl2"
+      },
+      {
+        "name": "Hopx"
+      },
+      {
+        "name": "Il2ra"
+      },
+      {
+        "name": "Irf8"
+      },
+      {
+        "name": "Rgs16"
+      },
+      {
+        "name": "Rnh1"
+      },
+      {
+        "name": "Tgm2"
+      },
+      {
+        "name": "Xbp1"
+      },
+      {
+        "name": "Atf3"
+      },
+      {
+        "name": "Ccl4"
+      },
+      {
+        "name": "Cdkn1a"
+      },
+      {
+        "name": "Fosl1"
+      },
+      {
+        "name": "Gem"
+      },
+      {
+        "name": "Nr4a3"
+      },
+      {
+        "name": "Sqstm1"
+      },
+      {
+        "name": "Tnfrsf9"
+      },
+      {
+        "name": "Eif4ebp1"
+      },
+      {
+        "name": "Mrpl17"
+      },
+      {
+        "name": "Mrpl23"
+      },
+      {
+        "name": "Mrps28"
+      },
+      {
+        "name": "Rps27l"
+      },
+      {
+        "name": "gp91phox"
+      },
+      {
+        "name": "NeuN"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "Mac2"
+      },
+      {
+        "name": "gp91phox"
+      },
+      {
+        "name": "granzyme"
+      },
+      {
+        "name": "IBA1"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "IBA1"
+      },
+      {
+        "name": "granzyme"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "calbindin"
+      },
+      {
+        "name": "IgG2b 5B8"
+      },
+      {
+        "name": "IPAD2caM"
+      },
+      {
+        "name": "IPADemyznarG 5"
+      },
+      {
+        "name": "IORrepsllec"
+      },
+      {
+        "name": "IPADxohp19pG"
+      },
+      {
+        "name": "IORrepRIemyznarG"
+      },
+      {
+        "name": "NueN"
+      },
+      {
+        "name": "1ABI"
+      },
+      {
+        "name": "86DC"
+      },
+      {
+        "name": "IPADnidniblaC"
+      },
+      {
+        "name": "IPADNueN"
+      },
+      {
+        "name": "soruen"
+      },
+      {
+        "name": "citcalyhporP"
+      },
+      {
+        "name": "citueparehT"
+      },
+      {
+        "name": "myelin basic protein (MBP)"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein S1"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "Traf6"
+      },
+      {
+        "name": "Xaf1"
+      },
+      {
+        "name": "Ifit1"
+      },
+      {
+        "name": "Ifit3"
+      },
+      {
+        "name": "MyD"
+      },
+      {
+        "name": "hx58"
+      },
+      {
+        "name": "Bst2"
+      },
+      {
+        "name": "Gbp3"
+      },
+      {
+        "name": "Irf7"
+      },
+      {
+        "name": "Tlr7"
+      },
+      {
+        "name": "Plat"
+      },
+      {
+        "name": "Plg"
+      },
+      {
+        "name": "Ctsg"
+      },
+      {
+        "name": "Il16"
+      },
+      {
+        "name": "Ccl12"
+      },
+      {
+        "name": "Ccl17"
+      },
+      {
+        "name": "Irf"
+      },
+      {
+        "name": "C"
+      },
+      {
+        "name": "x3cr1"
+      },
+      {
+        "name": "Hpgd"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "platelet factor 4"
+      },
+      {
+        "name": "antiplasmin"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "integrin αMβ2"
+      },
+      {
+        "name": "SARS-CoV-2 recombinant trimeric spike protein"
+      },
+      {
+        "name": "spike"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "plasminogen"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "Recombinant SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "recombinant spike"
+      },
+      {
+        "name": "S1(N501Y)"
+      },
+      {
+        "name": "rabbit polyclonal anti-6× His tag antibody"
+      },
+      {
+        "name": "goat anti-rabbit IgG H&L (conjugated with horse radish peroxidase, HRP)"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike Glycoprotein Variant S1(N501Y)"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "SARS-CoV-2 spike"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike (S2)"
+      },
+      {
+        "name": "anti-human fibrinogen"
+      },
+      {
+        "name": "anti-p24 Gag"
+      },
+      {
+        "name": "anti-Vpr"
+      },
+      {
+        "name": "5B8-huFc"
+      },
+      {
+        "name": "transmembrane protease serine 2 (TMPRSS2)"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike"
+      },
+      {
+        "name": "trimeric spike"
+      },
+      {
+        "name": "HRP-coupled anti-His tag antibody"
+      },
+      {
+        "name": "5B8-huFc"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "plasmin"
+      },
+      {
+        "name": "anti-spike antibody"
+      },
+      {
+        "name": "anti-fibrinogen antibody"
+      },
+      {
+        "name": "HRP-conjugated anti-rabbit"
+      },
+      {
+        "name": "anti-sheep"
+      },
+      {
+        "name": "IBA1"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "calbindin"
+      },
+      {
+        "name": "NeuN"
+      },
+      {
+        "name": "SARS-CoV-2 trimeric spike glycoprotein"
+      },
+      {
+        "name": "nucleocapsid"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "gp91phox"
+      },
+      {
+        "name": "Mac2"
+      },
+      {
+        "name": "NKp46"
+      },
+      {
+        "name": "granzyme A"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "5B8-huFc antibody"
+      },
+      {
+        "name": "F(ab′)2-donkey anti-human IgG"
+      },
+      {
+        "name": "anti-fibrin antibody 5B817"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "IBA1"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "NeuN"
+      },
+      {
+        "name": "myelin basic protein"
+      },
+      {
+        "name": "calbindin"
+      },
+      {
+        "name": "5B8-huFc antibody"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "Fibrinogen"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "granzyme B"
+      },
+      {
+        "name": "Ki-67"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "CD11b"
+      },
+      {
+        "name": "CD335"
+      },
+      {
+        "name": "protein"
+      },
+      {
+        "name": "CD335"
+      },
+      {
+        "name": "CD54"
+      },
+      {
+        "name": "CD314"
+      },
+      {
+        "name": "NK1.1"
+      },
+      {
+        "name": "CD3"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "Trem2"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Spp1"
+      },
+      {
+        "name": "IBA1"
+      },
+      {
+        "name": "APOBEC3G"
+      },
+      {
+        "name": "interferon-λ"
+      },
+      {
+        "name": "p75 neurotrophin receptor"
+      },
+      {
+        "name": "p75 neurotrophin receptor"
+      },
+      {
+        "name": "p75NTR"
+      },
+      {
+        "name": "Interleukin-15"
+      },
+      {
+        "name": "Interleukin-10"
+      },
+      {
+        "name": "Spike protein"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "5B8-huFc"
+      },
+      {
+        "name": "huIgG1"
+      },
+      {
+        "name": "Iba-1"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "Spike protein"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "Mac-2"
+      },
+      {
+        "name": "gp91-phox"
+      },
+      {
+        "name": "granzyme B"
+      },
+      {
+        "name": "IFN-γ"
+      },
+      {
+        "name": "NKp46"
+      },
+      {
+        "name": "NKG2D"
+      },
+      {
+        "name": "CD54"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "gp91-phox"
+      },
+      {
+        "name": "Spike"
+      },
+      {
+        "name": "p24 Gag"
+      },
+      {
+        "name": "Vpr"
+      },
+      {
+        "name": "gp91-phox"
+      },
+      {
+        "name": "Mac-2"
+      },
+      {
+        "name": "Iba-1"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "NK1.1"
+      },
+      {
+        "name": "5B8-huFc"
+      },
+      {
+        "name": "fibrin(ogen)"
+      },
+      {
+        "name": "MBP"
+      },
+      {
+        "name": "Iba-1"
+      },
+      {
+        "name": "Mac-2"
+      },
+      {
+        "name": "gp91-phox"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Mrpl17"
+      },
+      {
+        "name": "Mrpl23"
+      },
+      {
+        "name": "Ifit2"
+      },
+      {
+        "name": "Ifit3b"
+      },
+      {
+        "name": "Irf5"
+      },
+      {
+        "name": "Myd88"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Tnfsf9"
+      },
+      {
+        "name": "Il1rn"
+      },
+      {
+        "name": "Lif"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Ifit2"
+      },
+      {
+        "name": "Ifit3b"
+      },
+      {
+        "name": "Irf5"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Klrb1a"
+      },
+      {
+        "name": "Klra9"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Gzmb"
+      },
+      {
+        "name": "Gzmc"
+      },
+      {
+        "name": "Crtam"
+      },
+      {
+        "name": "Ccl3"
+      },
+      {
+        "name": "Ifng"
+      },
+      {
+        "name": "Csf2"
+      },
+      {
+        "name": "Hmox1"
+      },
+      {
+        "name": "Prdx1"
+      },
+      {
+        "name": "Selenos"
+      },
+      {
+        "name": "Bhlhe40"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Il2ra"
+      },
+      {
+        "name": "Ccl4"
+      },
+      {
+        "name": "Nr4a3"
+      },
+      {
+        "name": "Tnfrsf9"
+      },
+      {
+        "name": "Eif4ebp1"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Il17c"
+      },
+      {
+        "name": "Ifna2"
+      },
+      {
+        "name": "Il22"
+      },
+      {
+        "name": "Il16"
+      },
+      {
+        "name": "Cxcl10"
+      },
+      {
+        "name": "Ccl12"
+      },
+      {
+        "name": "Ccl17"
+      },
+      {
+        "name": "Ifit1"
+      },
+      {
+        "name": "Ifit3"
+      },
+      {
+        "name": "Ifi44"
+      },
+      {
+        "name": "Irf7"
+      },
+      {
+        "name": "Ifitm3"
+      },
+      {
+        "name": "Tlr7"
+      },
+      {
+        "name": "Il6ra"
+      },
+      {
+        "name": "Il17rc"
+      },
+      {
+        "name": "Plat"
+      },
+      {
+        "name": "Plg"
+      },
+      {
+        "name": "Cx3cr1"
+      },
+      {
+        "name": "Irf3"
+      },
+      {
+        "name": "Hpgd"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "SARS-CoV-2,Wuhan‐Hu‐1 ectodomain spike gene"
+      },
+      {
+        "name": "ectodomain spike gene"
+      },
+      {
+        "name": "K18-hACE2"
+      },
+      {
+        "name": "TMPRESS2-ACE2"
+      },
+      {
+        "name": "NK cells"
+      },
+      {
+        "name": "fibrin"
+      },
+      {
+        "name": "macrophage"
+      },
+      {
+        "name": "N5"
+      },
+      {
+        "name": "Trem2"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Spp1"
+      },
+      {
+        "name": "Trem2"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Spp1"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fggγ390-396A"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fggγ390–396A"
+      },
+      {
+        "name": "Fga"
+      },
+      {
+        "name": "Fgg"
+      },
+      {
+        "name": "Trem2"
+      },
+      {
+        "name": "Cst7"
+      },
+      {
+        "name": "Spp1"
+      },
+      {
+        "name": "K18-hACE2"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "GSEA"
+      },
+      {
+        "name": "JAK–STAT"
+      },
+      {
+        "name": "p38 MAP kinase"
+      },
+      {
+        "name": "MTOR–S6K"
+      },
+      {
+        "name": "LCK"
+      },
+      {
+        "name": "innate immunity"
+      },
+      {
+        "name": "Gene set enrichment analysis (GSEA)"
+      },
+      {
+        "name": "Cytosolic DNA-sensing pathway"
+      },
+      {
+        "name": "Type I interferon signalling"
+      },
+      {
+        "name": "JAK–STAT pathway"
+      },
+      {
+        "name": "NF-κB pathway"
+      },
+      {
+        "name": "Haeme metabolism"
+      },
+      {
+        "name": "Ion homeostasis"
+      },
+      {
+        "name": "KRAS signalling"
+      },
+      {
+        "name": "Myogenesis"
+      },
+      {
+        "name": "Keratinization"
+      },
+      {
+        "name": "Muscle contraction"
+      },
+      {
+        "name": "Regulation of autophagy"
+      },
+      {
+        "name": "Inflammatory responses"
+      },
+      {
+        "name": "COVID-19 lung pathology"
+      },
+      {
+        "name": "SARS-CoV and innate immunity"
+      },
+      {
+        "name": "Cilium development"
+      },
+      {
+        "name": "JAK–STAT pathway"
+      },
+      {
+        "name": "NF-κB pathway"
+      },
+      {
+        "name": "MAPK signalling"
+      },
+      {
+        "name": "type I IFN signalling"
+      },
+      {
+        "name": "thromboinflammation"
+      },
+      {
+        "name": "immune pathways"
+      },
+      {
+        "name": "IL-2 signalling"
+      },
+      {
+        "name": "NF-κB signalling"
+      },
+      {
+        "name": "translation"
+      },
+      {
+        "name": "IL-15 pathway"
+      },
+      {
+        "name": "MAPK cascade"
+      },
+      {
+        "name": "NF-κB signalling"
+      },
+      {
+        "name": "Response to type II interferon"
+      },
+      {
+        "name": "Inflammatory response"
+      },
+      {
+        "name": "Leukocyte cell–cell adhesion"
+      },
+      {
+        "name": "Viral process"
+      },
+      {
+        "name": "Response to lipid"
+      },
+      {
+        "name": "thromboinflammatory pathway"
+      },
+      {
+        "name": "proliferation"
+      },
+      {
+        "name": "IL-6 signalling"
+      },
+      {
+        "name": "chemotaxis"
+      },
+      {
+        "name": "response to type I IFNs"
+      },
+      {
+        "name": "MAPK pathway"
+      },
+      {
+        "name": "phosphoproteomic signal transduction pathways"
+      },
+      {
+        "name": "Type I IFN signalling"
+      },
+      {
+        "name": "Coagulation"
+      },
+      {
+        "name": "Chemotaxis"
+      },
+      {
+        "name": "Homeostasis"
+      },
+      {
+        "name": "Hallmark"
+      },
+      {
+        "name": "Canonical pathways"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "REACTOME"
+      },
+      {
+        "name": "WikiPathways"
+      },
+      {
+        "name": "interferon network"
+      },
+      {
+        "name": "fibrin(ogen) via the integrin receptor αMβ2/2"
+      },
+      {
+        "name": "PDE4/cAMP/PKA pathway"
+      },
+      {
+        "name": "TGF-β signaling"
+      },
+      {
+        "name": "Type I interferon induction and signalling during SARS-CoV-2 infection - Homo sapiens"
+      },
+      {
+        "name": "neuroinflammation"
+      },
+      {
+        "name": "down-regulated pathways"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "monoclonal antibody"
+      },
+      {
+        "name": "5B8-huFc"
+      },
+      {
+        "name": "hIgG1"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "anti-NK1.1"
+      },
+      {
+        "name": "IgG2a"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "ChAdOx1 nCoV-19"
+      },
+      {
+        "name": "COVID-19 vaccines"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "TMB"
+      },
+      {
+        "name": "hydrochloric acid"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "Alexa 647"
+      },
+      {
+        "name": "Alexa-647 fibrinogen"
+      },
+      {
+        "name": "Alexa Fluor 647"
+      },
+      {
+        "name": "Alexa-546-labelled human fibrinogen"
+      },
+      {
+        "name": "Immobilon Forte Western HRP substrate"
+      },
+      {
+        "name": "polyethyleneimine (PEI)"
+      },
+      {
+        "name": "Avicel"
+      },
+      {
+        "name": "ketamine"
+      },
+      {
+        "name": "xylazine"
+      },
+      {
+        "name": "EDTA-free Halt protease inhibitor"
+      },
+      {
+        "name": "plasmin"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "isoflurane"
+      },
+      {
+        "name": "phorbol 12-myristate 13-acetate"
+      },
+      {
+        "name": "ionomycin"
+      },
+      {
+        "name": "brefeldin A"
+      },
+      {
+        "name": "TFA"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "LIVE/DEAD Fixable Aqua Dead Cell Stain Kit"
+      },
+      {
+        "name": "RNeasy Plus Mini Kit"
+      },
+      {
+        "name": "RNeasy Plus Micro Kit"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "RNeasy FFPE Kit"
+      },
+      {
+        "name": "Sigma Aldrich"
+      },
+      {
+        "name": "Thermo Fisher Scientific"
+      },
+      {
+        "name": "Bruker Daltonics"
+      },
+      {
+        "name": "Bruker"
+      },
+      {
+        "name": "isoflurane"
+      },
+      {
+        "name": "avertin"
+      },
+      {
+        "name": "RNAScope Target Retrieval Solution"
+      },
+      {
+        "name": "RNAScope Protease Plus reagent"
+      },
+      {
+        "name": "RNAScope Multiplex Fluorescent Reagent Kit v2"
+      },
+      {
+        "name": "TSA Vivid Fluorophore"
+      },
+      {
+        "name": "aducanumab"
+      },
+      {
+        "name": "fibrin immunotherapy"
+      },
+      {
+        "name": "Vir Biotechnology"
+      },
+      {
+        "name": "F. Hoffmann-La Roche"
+      },
+      {
+        "name": "Rezo Therapeutics"
+      },
+      {
+        "name": "Maze Therapeutics"
+      },
+      {
+        "name": "Tenaya Therapeutics"
+      },
+      {
+        "name": "GEn1E Lifesciences"
+      },
+      {
+        "name": "Interline Therapeutics"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "IgG2b"
+      },
+      {
+        "name": "5B8"
+      },
+      {
+        "name": "IgG2b"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "neurodegenerative diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "thromboembolic diseases"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "inflammatory diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "progressive fibrotic lung disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Ciliopathy"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "fibrinogen-induced encephalomyelitis"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Beta infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "autoimmune conditions"
+      },
+      {
+        "name": "neurodegeneration"
+      },
+      {
+        "name": "haematological conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "multiple sclerosis"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "colitis"
+      },
+      {
+        "name": "periodontitis"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "acute ischemic stroke"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19 brain pathology"
+      },
+      {
+        "name": "COVID-19 lung pathology"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "neurodegeneration"
+      },
+      {
+        "name": "thromboinflammation"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "autoimmunity"
+      },
+      {
+        "name": "demyelination"
+      },
+      {
+        "name": "thromboembolic complications"
+      },
+      {
+        "name": "cardiovascular complications"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "severe COVID-19"
+      },
+      {
+        "name": "cognitive disorders"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dementia"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Beta infection"
+      },
+      {
+        "name": "Delta infection"
+      },
+      {
+        "name": "HIV-1"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "SARS-CoV-2 B.1.351"
+      },
+      {
+        "name": "SARS-CoV-2 B.1.617.2"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "uninfected mice"
+      },
+      {
+        "name": "Multiple Sclerosis"
+      },
+      {
+        "name": "spontaneous bleeding events"
+      },
+      {
+        "name": "fibrinogen deficiency"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neuroinflammation"
+      },
+      {
+        "name": "cerebral malaria"
+      },
+      {
+        "name": "malaria-associated acute respiratory distress syndrome"
+      },
+      {
+        "name": "neuroinflammation"
+      },
+      {
+        "name": "insulin resistance"
+      },
+      {
+        "name": "COVID-induced thromboinflammation"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "Beta infection"
+      },
+      {
+        "name": "Beta infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      }
+    ]
+  }
+}

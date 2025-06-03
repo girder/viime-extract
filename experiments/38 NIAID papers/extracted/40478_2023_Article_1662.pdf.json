@@ -1,0 +1,1259 @@
+{
+  "meta": {
+    "title": "Post-COVID exercise intolerance is associated with capillary alterations and immune dysregulations in skeletal muscles",
+    "journal": "Acta Neuropathologica Communications",
+    "year": 2023,
+    "volume": "11",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s40478-023-01662-2",
+    "authors": [
+      {
+        "firstname": "Tom",
+        "middle_initial": null,
+        "surname": "Aschman",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Emanuel",
+        "middle_initial": null,
+        "surname": "Wyler",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Oliver",
+        "middle_initial": null,
+        "surname": "Baum",
+        "affiliation": "3"
+      },
+      {
+        "firstname": "Andreas",
+        "middle_initial": null,
+        "surname": "Hentschel",
+        "affiliation": "4"
+      },
+      {
+        "firstname": "Rebekka",
+        "middle_initial": null,
+        "surname": "Rust",
+        "affiliation": "5,10"
+      },
+      {
+        "firstname": "Franziska",
+        "middle_initial": null,
+        "surname": "Legler",
+        "affiliation": "5"
+      },
+      {
+        "firstname": "Corinna",
+        "middle_initial": null,
+        "surname": "Preusse",
+        "affiliation": "1,6"
+      },
+      {
+        "firstname": "Lil",
+        "middle_initial": "Meyer‑Arndt",
+        "surname": "",
+        "affiliation": "5"
+      },
+      {
+        "firstname": "Ivana",
+        "middle_initial": null,
+        "surname": "Büttnerova",
+        "affiliation": "7"
+      },
+      {
+        "firstname": "Alexandra",
+        "middle_initial": null,
+        "surname": "Förster",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Derya",
+        "middle_initial": null,
+        "surname": "Cengiz",
+        "affiliation": "8"
+      },
+      {
+        "firstname": "Luiz Gustavo",
+        "middle_initial": null,
+        "surname": "Teixeira Alves",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Julia",
+        "middle_initial": null,
+        "surname": "Schneider",
+        "affiliation": "9"
+      },
+      {
+        "firstname": "Claudia",
+        "middle_initial": null,
+        "surname": "Kedor",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Judith",
+        "middle_initial": null,
+        "surname": "Bellmann‑Strobl",
+        "affiliation": "5"
+      },
+      {
+        "firstname": "Aminaa",
+        "middle_initial": null,
+        "surname": "Sanchin",
+        "affiliation": "11"
+      },
+      {
+        "firstname": "Hans‑Hilmar",
+        "middle_initial": null,
+        "surname": "Goebel",
+        "affiliation": "1,12"
+      },
+      {
+        "firstname": "Markus",
+        "middle_initial": null,
+        "surname": "Landthaler",
+        "affiliation": "2,13"
+      },
+      {
+        "firstname": "Victor",
+        "middle_initial": null,
+        "surname": "Corman",
+        "affiliation": "9"
+      },
+      {
+        "firstname": "Andreas",
+        "middle_initial": null,
+        "surname": "Roos",
+        "affiliation": "14,15"
+      },
+      {
+        "firstname": "Frank L.",
+        "middle_initial": null,
+        "surname": "Heppner",
+        "affiliation": "1,16,17"
+      },
+      {
+        "firstname": "Helena",
+        "middle_initial": null,
+        "surname": "Radbruch",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Friedemann",
+        "middle_initial": null,
+        "surname": "Paul",
+        "affiliation": "5,18"
+      },
+      {
+        "firstname": "Carmen",
+        "middle_initial": null,
+        "surname": "Scheibenbogen",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Nora F.",
+        "middle_initial": null,
+        "surname": "Dengler",
+        "affiliation": "11"
+      },
+      {
+        "firstname": "Werner",
+        "middle_initial": null,
+        "surname": "Stenzel",
+        "affiliation": "1"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "creatine kinase"
+      },
+      {
+        "name": "Muscle Fat Fraction (MFF)"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "acetonitrile"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "complement system related proteins"
+      },
+      {
+        "name": "C D169+ macrophages"
+      },
+      {
+        "name": "complement pathway-related proteins"
+      },
+      {
+        "name": "anti-S1"
+      },
+      {
+        "name": "anti-N"
+      },
+      {
+        "name": "CK"
+      },
+      {
+        "name": "ANA"
+      },
+      {
+        "name": "Vastus lateralis"
+      },
+      {
+        "name": "Semitendinosus"
+      },
+      {
+        "name": "Semimembranosus"
+      },
+      {
+        "name": "Biceps femoris"
+      },
+      {
+        "name": "Creatine kinase"
+      },
+      {
+        "name": "anti-PM-Scl75"
+      },
+      {
+        "name": "anti-PL-12"
+      },
+      {
+        "name": "anti-PM-Scl100"
+      },
+      {
+        "name": "anti-S-IgG"
+      },
+      {
+        "name": "anti-N-IgG"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "MHC-class-I"
+      },
+      {
+        "name": "Interferon-induced GTP-binding protein Mx1"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "CD169"
+      },
+      {
+        "name": "CD206"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "CD8"
+      },
+      {
+        "name": "MHC class I"
+      },
+      {
+        "name": "Adenosine 5’‑TriPhosphatase"
+      },
+      {
+        "name": "Sialoadhesin"
+      },
+      {
+        "name": "Major histocompatibility complex class I"
+      },
+      {
+        "name": "TAGLN2"
+      },
+      {
+        "name": "CALR"
+      },
+      {
+        "name": "HBG1"
+      },
+      {
+        "name": "IGHV3-74"
+      },
+      {
+        "name": "RCN1"
+      },
+      {
+        "name": "EIF4B"
+      },
+      {
+        "name": "CFD"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "F11"
+      },
+      {
+        "name": "F9"
+      },
+      {
+        "name": "CFD"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "F11"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "PROC"
+      },
+      {
+        "name": "APOB"
+      },
+      {
+        "name": "F9"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "VCL"
+      },
+      {
+        "name": "KRT2"
+      },
+      {
+        "name": "JUP"
+      },
+      {
+        "name": "APOA1"
+      },
+      {
+        "name": "LYZ"
+      },
+      {
+        "name": "FLNA"
+      },
+      {
+        "name": "ALDOA"
+      },
+      {
+        "name": "IGHV3−15"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "CA2"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "ADAMTS4"
+      },
+      {
+        "name": "MMP3"
+      },
+      {
+        "name": "ANGPTL7"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "SIGLEC1"
+      },
+      {
+        "name": "CD163"
+      },
+      {
+        "name": "LYVE1"
+      },
+      {
+        "name": "CD86"
+      },
+      {
+        "name": "ITGAM"
+      },
+      {
+        "name": "CFD"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "F11"
+      },
+      {
+        "name": "F9"
+      },
+      {
+        "name": "PROC"
+      },
+      {
+        "name": "VCL"
+      },
+      {
+        "name": "FLNA"
+      },
+      {
+        "name": "JUP"
+      },
+      {
+        "name": "APOB"
+      },
+      {
+        "name": "APOA1"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "COL4A2"
+      },
+      {
+        "name": "NID1"
+      },
+      {
+        "name": "HSPG2"
+      },
+      {
+        "name": "LAMC1"
+      },
+      {
+        "name": "LAMA2"
+      },
+      {
+        "name": "LAMB2"
+      },
+      {
+        "name": "MYH2"
+      },
+      {
+        "name": "SGCB"
+      },
+      {
+        "name": "CD169/SIGLEC1"
+      },
+      {
+        "name": "collagen IV"
+      },
+      {
+        "name": "laminins"
+      },
+      {
+        "name": "nidogens"
+      },
+      {
+        "name": "heparan sulfate proteoglycans"
+      },
+      {
+        "name": "tumor necrosis factor alpha (TNFA)"
+      },
+      {
+        "name": "C1q"
+      },
+      {
+        "name": "C1q"
+      },
+      {
+        "name": "trypsin"
+      },
+      {
+        "name": "protease inhibitor (Roche)"
+      },
+      {
+        "name": "TCEP"
+      },
+      {
+        "name": "IAA"
+      },
+      {
+        "name": "MHC class I"
+      },
+      {
+        "name": "MHC class II"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "CD8"
+      },
+      {
+        "name": "NKp46"
+      },
+      {
+        "name": "Siglec-1/CD169"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "CD206"
+      },
+      {
+        "name": "TIF1γ"
+      },
+      {
+        "name": "MDA5"
+      },
+      {
+        "name": "signal recognition particle"
+      },
+      {
+        "name": "Mi2"
+      },
+      {
+        "name": "isoleucyl-transfer RNA synthetase"
+      },
+      {
+        "name": "glycyl-tRNA synthetase"
+      },
+      {
+        "name": "threonyl-tRNA synthetase"
+      },
+      {
+        "name": "alanyl-tRNA synthetase"
+      },
+      {
+        "name": "histidyl-tRNA synthetase"
+      },
+      {
+        "name": "small ubiquitin-like modifier-1 activating enzyme"
+      },
+      {
+        "name": "Ku"
+      },
+      {
+        "name": "PM75"
+      },
+      {
+        "name": "PM100"
+      },
+      {
+        "name": "Ro52"
+      },
+      {
+        "name": "MASP1"
+      },
+      {
+        "name": "MASP2"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "CR1"
+      },
+      {
+        "name": "C6"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "CFI"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C9"
+      },
+      {
+        "name": "C8A"
+      },
+      {
+        "name": "CR2"
+      },
+      {
+        "name": "CFHR5"
+      },
+      {
+        "name": "C4B"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "MBL2"
+      },
+      {
+        "name": "C8B"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C8G"
+      },
+      {
+        "name": "IFNAR1"
+      },
+      {
+        "name": "STAT1"
+      },
+      {
+        "name": "EIF2AK2"
+      },
+      {
+        "name": "OAS1"
+      },
+      {
+        "name": "MX1"
+      },
+      {
+        "name": "IFNA10"
+      },
+      {
+        "name": "IFNA4"
+      },
+      {
+        "name": "IFNA17"
+      },
+      {
+        "name": "IFNL1"
+      },
+      {
+        "name": "ISG15"
+      },
+      {
+        "name": "IFNA1"
+      },
+      {
+        "name": "IFNA6"
+      },
+      {
+        "name": "IFNL3"
+      },
+      {
+        "name": "IFNL4"
+      },
+      {
+        "name": "IFNL2"
+      },
+      {
+        "name": "IFNA5"
+      },
+      {
+        "name": "CD80"
+      },
+      {
+        "name": "CD163"
+      },
+      {
+        "name": "SIGLEC1"
+      },
+      {
+        "name": "MARCO"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "ITGAM"
+      },
+      {
+        "name": "CD86"
+      },
+      {
+        "name": "LYVE1"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "GAPDH"
+      },
+      {
+        "name": "COL4A1"
+      },
+      {
+        "name": "COL4A2"
+      },
+      {
+        "name": "NID1"
+      },
+      {
+        "name": "NID2"
+      },
+      {
+        "name": "HSPG2"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "CD169"
+      },
+      {
+        "name": "CD206"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "CD8"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "genes related to immune system regulation"
+      },
+      {
+        "name": "genes related to metabolic processes"
+      },
+      {
+        "name": "genes related to mitochondrial activity"
+      },
+      {
+        "name": "NID1"
+      },
+      {
+        "name": "HDC"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "PROC"
+      },
+      {
+        "name": "APOB"
+      },
+      {
+        "name": "F9"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "VCL"
+      },
+      {
+        "name": "KRT2"
+      },
+      {
+        "name": "JUP"
+      },
+      {
+        "name": "APOA1"
+      },
+      {
+        "name": "LYZ"
+      },
+      {
+        "name": "FLNA"
+      },
+      {
+        "name": "ALDOA"
+      },
+      {
+        "name": "IGHV3−15"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "CA2"
+      },
+      {
+        "name": "ADAMTS4"
+      },
+      {
+        "name": "MMP3"
+      },
+      {
+        "name": "ANGPTL7"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "CD68"
+      },
+      {
+        "name": "SIGLEC1"
+      },
+      {
+        "name": "CD163"
+      },
+      {
+        "name": "LYVE1"
+      },
+      {
+        "name": "CD86"
+      },
+      {
+        "name": "ITGAM"
+      },
+      {
+        "name": "C D169"
+      },
+      {
+        "name": "type I and III interferon related genes"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C1QA"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "SARS-CoV-2 E gene"
+      },
+      {
+        "name": "anti–nuclear matrix protein-2 (anti-NXP2)"
+      },
+      {
+        "name": "anti–transcriptional intermediary factor 1γ (anti-TIF1γ)"
+      },
+      {
+        "name": "anti–melanoma differentiation-associated gene 5 (anti-MDA5)"
+      },
+      {
+        "name": "anti–signal recognition particle"
+      },
+      {
+        "name": "hg19"
+      },
+      {
+        "name": "GAPDH"
+      },
+      {
+        "name": "COL4A1"
+      },
+      {
+        "name": "COL4A2"
+      },
+      {
+        "name": "NID1"
+      },
+      {
+        "name": "NID2"
+      },
+      {
+        "name": "HSPG2"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "complement system"
+      },
+      {
+        "name": "complement and coagulation cascade"
+      },
+      {
+        "name": "Metascape pathway enrichment analysis"
+      },
+      {
+        "name": "complement pathway"
+      },
+      {
+        "name": "type I interferon related genes"
+      },
+      {
+        "name": "type III interferon related genes"
+      },
+      {
+        "name": "complement cascade"
+      },
+      {
+        "name": "coagulation cascade"
+      },
+      {
+        "name": "complement pathway"
+      },
+      {
+        "name": "regulation of leukocyte activation"
+      },
+      {
+        "name": "positive regulation of cell motility"
+      },
+      {
+        "name": "vasculature development"
+      },
+      {
+        "name": "positive regulation of locomotion"
+      },
+      {
+        "name": "cell–cell adhesion"
+      },
+      {
+        "name": "inflammatory response"
+      },
+      {
+        "name": "NABA Matrisome associated"
+      },
+      {
+        "name": "chemotaxis"
+      },
+      {
+        "name": "blood vessel development"
+      },
+      {
+        "name": "extracellular matrix organization"
+      },
+      {
+        "name": "NABA Proteoglycans"
+      },
+      {
+        "name": "mitochondrion organization"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "regulation of carbohydrate biosynthetic process"
+      },
+      {
+        "name": "complement pathway"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "mitochondria"
+      },
+      {
+        "name": "cell respiration"
+      },
+      {
+        "name": "complement cascade"
+      },
+      {
+        "name": "coagulation cascade"
+      },
+      {
+        "name": "complement pathway"
+      },
+      {
+        "name": "type I interferon related pathway"
+      },
+      {
+        "name": "type III interferon related pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "lidocaine"
+      },
+      {
+        "name": "High-Capacity cDNA Archive Kit"
+      },
+      {
+        "name": "Trizol"
+      },
+      {
+        "name": "NEBNext Ultra II Directional RNA Library Prep Kit"
+      },
+      {
+        "name": "TaqMan® Gene Exp Assay"
+      },
+      {
+        "name": "DirectZol kit"
+      },
+      {
+        "name": "Applied Biosystems™ QuantStudio™ 6"
+      },
+      {
+        "name": "Flex Real-Time PCR System"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Post-COVID syndrome"
+      },
+      {
+        "name": "Post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "Post-infectious syndrome"
+      },
+      {
+        "name": "Microangiopathy"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "Post-acute sequelae of SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "inflammatory myopathy"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "pericarditis"
+      },
+      {
+        "name": "dilated cardiomyopathy"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Post-COVID Syndrome"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Myalgic encephalomyelitis/chronic fatigue syndrome"
+      },
+      {
+        "name": "Post-COVID syndrome"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "PCS"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "pericyte processes"
+      },
+      {
+        "name": "Type-2b-fiber atrophy"
+      },
+      {
+        "name": "PCS"
+      },
+      {
+        "name": "PCS"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "Post-COVID Syndrome (PCS)"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "SARS-CoV-2 pandemic"
+      },
+      {
+        "name": "post-viral syndromes"
+      },
+      {
+        "name": "PCS"
+      },
+      {
+        "name": "idiopathic inflammatory myopathies"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "musculoskeletal diseases"
+      },
+      {
+        "name": "systemic diseases"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "immune-mediated myopathy"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "ME/CSF"
+      },
+      {
+        "name": "PCS (Post-Concussion Syndrome)"
+      },
+      {
+        "name": "HDC (Healthy Control)"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "muscular fatigue"
+      },
+      {
+        "name": "exercise intolerance"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection (PCS)"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "primary biliary cholangitis"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "inflammatory disease"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "mitochondriopathy"
+      },
+      {
+        "name": "type-2b atrophy"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "myositis"
+      },
+      {
+        "name": "PCS"
+      },
+      {
+        "name": "HDC"
+      },
+      {
+        "name": "2BA"
+      },
+      {
+        "name": "COVID"
+      }
+    ]
+  }
+}

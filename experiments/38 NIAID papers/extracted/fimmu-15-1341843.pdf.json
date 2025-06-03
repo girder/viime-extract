@@ -1,0 +1,736 @@
+{
+  "meta": {
+    "title": "Metabolomic and immune alterations in long COVID patients with chronic fatigue syndrome",
+    "journal": "Frontiers in Immunology",
+    "year": 2024,
+    "volume": "15",
+    "pubmed_id": null,
+    "doi_id": "10.3389/fimmu.2024.1341843",
+    "authors": [
+      {
+        "firstname": "Suguru",
+        "middle_initial": null,
+        "surname": "Saito",
+        "affiliation": "Karolinska Institutet (KI), Sweden"
+      },
+      {
+        "firstname": "Shima",
+        "middle_initial": null,
+        "surname": "Shahbaz",
+        "affiliation": "Karolinska Institutet (KI), Sweden"
+      },
+      {
+        "firstname": "Xian",
+        "middle_initial": null,
+        "surname": "Luo",
+        "affiliation": "Department of Chemistry, University of Alberta, Edmonton, AB, Canada"
+      },
+      {
+        "firstname": "Mohammed",
+        "middle_initial": null,
+        "surname": "Osman",
+        "affiliation": "Department of Medicine, Division of Rheumatology, Edmonton, AB, Canada"
+      },
+      {
+        "firstname": "Desiree",
+        "middle_initial": null,
+        "surname": "Redmond",
+        "affiliation": "Department of Medicine, Division of Rheumatology, Edmonton, AB, Canada"
+      },
+      {
+        "firstname": "Jan Willem",
+        "middle_initial": "Cohen",
+        "surname": "Tervaert",
+        "affiliation": "Department of Medicine, Division of Rheumatology, Edmonton, AB, Canada"
+      },
+      {
+        "firstname": "Liang",
+        "middle_initial": null,
+        "surname": "Li",
+        "affiliation": "Department of Chemistry, University of Alberta, Edmonton, AB, Canada"
+      },
+      {
+        "firstname": "Shokrollah",
+        "middle_initial": null,
+        "surname": "Elahi",
+        "affiliation": "School of Dentistry, Division of Foundational Sciences, Edmonton, AB, Canada"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "aspartate"
+      },
+      {
+        "name": "uracil"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "dehydroalanine"
+      },
+      {
+        "name": "thymine"
+      },
+      {
+        "name": "porphobilinogen"
+      },
+      {
+        "name": "5-Aminolevulinate"
+      },
+      {
+        "name": "cysteate"
+      },
+      {
+        "name": "putrescine"
+      },
+      {
+        "name": "4-Aminobutyraldehyde"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "Formyl-5-"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "4-Aminobutanoate"
+      },
+      {
+        "name": "carnosine"
+      },
+      {
+        "name": "thymine"
+      },
+      {
+        "name": "porphobilinogen"
+      },
+      {
+        "name": "homogentisate"
+      },
+      {
+        "name": "uridine"
+      },
+      {
+        "name": "thymine"
+      },
+      {
+        "name": "carnosine"
+      },
+      {
+        "name": "theophylline"
+      },
+      {
+        "name": "aspartate"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "xanthine"
+      },
+      {
+        "name": "ascorbate"
+      },
+      {
+        "name": "Cys-Gly"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "5-hydroxykynurenine"
+      },
+      {
+        "name": "Guanidinobutanoate"
+      },
+      {
+        "name": "Cys-Gly"
+      },
+      {
+        "name": "5-Aminolevulinate"
+      },
+      {
+        "name": "pyridoxine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "asparagine"
+      },
+      {
+        "name": "N-Formimino-glutamate"
+      },
+      {
+        "name": "putrescine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "2-Aminomuconate"
+      },
+      {
+        "name": "5-Aminolevulinate"
+      },
+      {
+        "name": "cysteate"
+      },
+      {
+        "name": "putrescine"
+      },
+      {
+        "name": "4-Aminobutyraldehyde"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "Formyl-5-hydroxykynurenamine"
+      },
+      {
+        "name": "5-Hydroxykynurenine"
+      },
+      {
+        "name": "2-Aminomuconate"
+      },
+      {
+        "name": "xanthine"
+      },
+      {
+        "name": "aspartate"
+      },
+      {
+        "name": "asparagine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "N-formimino-glutamate"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "ethanolamine phosphate"
+      },
+      {
+        "name": "4-Aminobutanoate"
+      },
+      {
+        "name": "3-hydroxyanthranilate"
+      },
+      {
+        "name": "porphobilinogen"
+      },
+      {
+        "name": "ATP"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "pyrimidodiazepine"
+      },
+      {
+        "name": "xanthine"
+      },
+      {
+        "name": "ascorbate"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "5-hydroxykynurenine"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "aspartate"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "ATP"
+      },
+      {
+        "name": "ATP"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "Xanthine"
+      },
+      {
+        "name": "hypoxanthine"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypotaurine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "L/D-aspartate"
+      },
+      {
+        "name": "serine amino acids"
+      },
+      {
+        "name": "glutathione"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "ATP"
+      },
+      {
+        "name": "fumarate"
+      },
+      {
+        "name": "succinate"
+      },
+      {
+        "name": "malate"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "serine"
+      },
+      {
+        "name": "ATP"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "solubleCD14"
+      },
+      {
+        "name": "hypoxia-inducible factor-1"
+      },
+      {
+        "name": "CaSR"
+      },
+      {
+        "name": "arginase-I"
+      },
+      {
+        "name": "arginase-II"
+      },
+      {
+        "name": "IL-1a"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "SAA"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-1b"
+      },
+      {
+        "name": "sCD14"
+      },
+      {
+        "name": "IL-1a"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "SAA"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-1b"
+      },
+      {
+        "name": "Flt-1"
+      },
+      {
+        "name": "soluble CD14"
+      },
+      {
+        "name": "CaSR"
+      },
+      {
+        "name": "IL-1"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "SAA"
+      },
+      {
+        "name": "Flt-1"
+      },
+      {
+        "name": "sCD14"
+      },
+      {
+        "name": "CaSR antibody"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "methylenetetrahydrofolate reductase (MTHFR)"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "metabolomic pathways"
+      },
+      {
+        "name": "blood-brain barrier"
+      },
+      {
+        "name": "metabolic pathway"
+      },
+      {
+        "name": "vitamin B metabolism"
+      },
+      {
+        "name": "glutathione metabolism"
+      },
+      {
+        "name": "metabolic pathways"
+      },
+      {
+        "name": "metabolism pathways"
+      },
+      {
+        "name": "glutamine metabolism"
+      },
+      {
+        "name": "nitrogen metabolism"
+      },
+      {
+        "name": "butanoate metabolism"
+      },
+      {
+        "name": "cysteine metabolism"
+      },
+      {
+        "name": "methionine metabolism"
+      },
+      {
+        "name": "taurine metabolism"
+      },
+      {
+        "name": "glutathione metabolism"
+      },
+      {
+        "name": "purinergic system"
+      },
+      {
+        "name": "tryptophan-kynurenine"
+      },
+      {
+        "name": "Xanthine/hypoxanthine"
+      },
+      {
+        "name": "taurine pathway"
+      },
+      {
+        "name": "taurine pathway"
+      },
+      {
+        "name": "glycolytic pathway"
+      },
+      {
+        "name": "mitochondria pathway"
+      },
+      {
+        "name": "Tricarboxylic Acid Cycle (TCA cycle)"
+      }
+    ],
+    "mentioned_drugs": [],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "myalgic encephalomyelitis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "coronavirus disease 2019"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "idiopathic ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Chronic Fatigue Syndrome (CFS)"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "myalgic encephalomyelitis"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "systemic autoimmune rheumatic diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "hypoparathyroidism"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Parkinson’s disease"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "major depressive disorder"
+      },
+      {
+        "name": "anxiety disorder"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC syndrome"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC (Liver Cirrhosis)"
+      },
+      {
+        "name": "ME/CFS (Myalgic Encephalomyelitis/Chronic Fatigue Syndrome)"
+      },
+      {
+        "name": "acute COVID-19 disease"
+      },
+      {
+        "name": "hypoparathyroidism"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      }
+    ]
+  }
+}

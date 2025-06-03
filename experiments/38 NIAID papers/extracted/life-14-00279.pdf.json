@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "title": "The Role of Furin in the Pathogenesis of COVID-19-Associated Neurological Disorders",
+    "journal": "Life",
+    "year": 2024,
+    "volume": "14",
+    "pubmed_id": null,
+    "doi_id": "10.3390/life14020279",
+    "authors": [
+      {
+        "firstname": "Gunel",
+        "middle_initial": null,
+        "surname": "Ayyubova",
+        "affiliation": "Department of Cytology, Embryology and Histology, Azerbaijan Medical University, Baku AZ1022, Azerbaijan"
+      },
+      {
+        "firstname": "Sergiy G.",
+        "middle_initial": null,
+        "surname": "Gychka",
+        "affiliation": "Department of Pathological Anatomy, Bogomolets National Medical University, 01601 Kyiv, Ukraine"
+      },
+      {
+        "firstname": "Sofia I.",
+        "middle_initial": null,
+        "surname": "Nikolaienko",
+        "affiliation": "Department of Pathological Anatomy, Bogomolets National Medical University, 01601 Kyiv, Ukraine"
+      },
+      {
+        "firstname": "Fada A.",
+        "middle_initial": null,
+        "surname": "Alghenaim",
+        "affiliation": "Department of Pharmacology and Physiology, Georgetown University Medical Center, Washington, DC 20007, USA"
+      },
+      {
+        "firstname": "Tadahisa",
+        "middle_initial": null,
+        "surname": "Teramoto",
+        "affiliation": "Department of Microbiology and Immunology, Georgetown University Medical Center, Washington, DC 20007, USA"
+      },
+      {
+        "firstname": "Nataliia V.",
+        "middle_initial": null,
+        "surname": "Shults",
+        "affiliation": "Department of Biology, Georgetown University, Washington, DC 20007, USA"
+      },
+      {
+        "firstname": "Yuichiro J.",
+        "middle_initial": null,
+        "surname": "Suzuki",
+        "affiliation": "Department of Pharmacology and Physiology, Georgetown University Medical Center, Washington, DC 20007, USA"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Angiotensin II"
+      },
+      {
+        "name": "Angiotensin 1–7"
+      },
+      {
+        "name": "angiotensin II"
+      },
+      {
+        "name": "AngII"
+      },
+      {
+        "name": "Ang1–7"
+      },
+      {
+        "name": "nitric oxide"
+      },
+      {
+        "name": "prostaglandins"
+      },
+      {
+        "name": "Ang II"
+      },
+      {
+        "name": "Ang1–7"
+      },
+      {
+        "name": "Ang1–9"
+      },
+      {
+        "name": "AngII"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "S1 protein"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "furin protease"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "S1 subunit protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "furin protease"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ACE"
+      },
+      {
+        "name": "AngII receptor type 1 (AT1R)"
+      },
+      {
+        "name": "AngII receptor type 2 (AT2R)"
+      },
+      {
+        "name": "Mas receptor"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "furin protease"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "furin protease"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "S1 subunit"
+      },
+      {
+        "name": "S2 subunit"
+      },
+      {
+        "name": "furin protease"
+      },
+      {
+        "name": "nucleocapsid antigens"
+      },
+      {
+        "name": "SARS-CoV-2 S1 protein"
+      },
+      {
+        "name": "nucleocapsid protein"
+      },
+      {
+        "name": "S1 spike protein"
+      },
+      {
+        "name": "S1 subunit protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "MDM2"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "SARS-CoV spike protein"
+      },
+      {
+        "name": "GFP-tagged ACE2"
+      },
+      {
+        "name": "MDM2"
+      },
+      {
+        "name": "ACCE22"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "S1 protein"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "Enzyme2MonoclonalAntibody"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ACE"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "Tau"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "S1 protein"
+      },
+      {
+        "name": "Tau"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "Tau"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "AXL receptor tyrosine kinase"
+      },
+      {
+        "name": "neuropilin-1"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "S1 protein"
+      },
+      {
+        "name": "AXL receptor tyrosine kinase"
+      },
+      {
+        "name": "neuropilin 1"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "ACE2"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "Renin–angiotensin–aldosterone system"
+      },
+      {
+        "name": "furin-dependent cleavage of the spike protein"
+      },
+      {
+        "name": "ACE/AngII/AT1R axis"
+      },
+      {
+        "name": "ACE/AngII/AngII receptor type 2 (AT2R)"
+      },
+      {
+        "name": "ACE2/Ang1–7/Mas receptor"
+      },
+      {
+        "name": "clathrin-mediated endocytosis"
+      },
+      {
+        "name": "blood-brain barrier"
+      },
+      {
+        "name": "proteolytic activation"
+      },
+      {
+        "name": "Alzheimer’s disease pathology"
+      },
+      {
+        "name": "signaling pathway"
+      },
+      {
+        "name": "Toll-like receptor 4"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "medications that inhibit the renin–angiotensin system"
+      },
+      {
+        "name": "losartan"
+      },
+      {
+        "name": "losartan"
+      },
+      {
+        "name": "furin inhibitors"
+      },
+      {
+        "name": "losartan"
+      },
+      {
+        "name": "losartan"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Cerebrovascular diseases"
+      },
+      {
+        "name": "Demyelinating pathologies"
+      },
+      {
+        "name": "Encephalopathy"
+      },
+      {
+        "name": "Stroke"
+      },
+      {
+        "name": "Neurological disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19-Associated Neurological Disorders"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dementia"
+      },
+      {
+        "name": "neurological disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "neurological disorders"
+      },
+      {
+        "name": "neurodegenerative diseases"
+      },
+      {
+        "name": "COVID-19 associated neurological disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer's disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute lung failure"
+      },
+      {
+        "name": "Alzheimer's disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "severe acute respiratory syndrome (SARS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Alzheimer's disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection"
+      }
+    ]
+  }
+}

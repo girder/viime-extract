@@ -1,0 +1,2342 @@
+{
+  "meta": {
+    "title": "Multi-omic analysis reveals enriched pathways associated with COVID-19 and COVID-19 severity",
+    "journal": "PLOS ONE",
+    "year": 2022,
+    "volume": "17",
+    "pubmed_id": null,
+    "doi_id": "10.1371/journal.pone.0267047",
+    "authors": [
+      {
+        "firstname": "Danika",
+        "middle_initial": null,
+        "surname": "Lipman",
+        "affiliation": "Department of Mathematics and Statistics, University of Calgary, Calgary, Alberta, Canada"
+      },
+      {
+        "firstname": "Sandra E.",
+        "middle_initial": "S",
+        "surname": "Safo",
+        "affiliation": "Division of Biostatistics, University of Minnesota, Minneapolis, Minnesota, United States of America"
+      },
+      {
+        "firstname": "Thierry",
+        "middle_initial": null,
+        "surname": "Chekouo",
+        "affiliation": "Department of Biochemistry and Molecular Biology, University of Calgary, Calgary, AB, Canada"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "molecules from metabolomics analysis"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "unknown molecules from metabolomics"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "myo-inositol"
+      },
+      {
+        "name": "vitamin C"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "dTMP"
+      },
+      {
+        "name": "Sucrose"
+      },
+      {
+        "name": "Myo-inositol"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "ST32:5"
+      },
+      {
+        "name": "O10"
+      },
+      {
+        "name": "ST24:4"
+      },
+      {
+        "name": "O6"
+      },
+      {
+        "name": "Vitamin A"
+      },
+      {
+        "name": "Retinoate"
+      },
+      {
+        "name": "cholesterol esters"
+      },
+      {
+        "name": "HexCer36:2;O2"
+      },
+      {
+        "name": "HexCer40:2;O2"
+      },
+      {
+        "name": "HexCer44:0;O2"
+      },
+      {
+        "name": "SPBP18:1;O2"
+      },
+      {
+        "name": "CE.18.0"
+      },
+      {
+        "name": "Myo-inositol"
+      },
+      {
+        "name": "sucrose"
+      },
+      {
+        "name": "uric acid"
+      },
+      {
+        "name": "salicylic acid"
+      },
+      {
+        "name": "L-kynurenine"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "lipid PA34:2"
+      },
+      {
+        "name": "Quinolinic acid 2TMS derivative"
+      },
+      {
+        "name": "HexCer36:2;O2"
+      },
+      {
+        "name": "HexCer40:2;O2"
+      },
+      {
+        "name": "HexCer44:0;O2"
+      },
+      {
+        "name": "SPBP18:1;O2"
+      },
+      {
+        "name": "CE.18.0"
+      },
+      {
+        "name": "Metab(1)"
+      },
+      {
+        "name": "Metab(2)"
+      },
+      {
+        "name": "Lipid metabolism"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "264 proteins"
+      },
+      {
+        "name": "Polo-Like Kinase"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C4B"
+      },
+      {
+        "name": "CSF1R"
+      },
+      {
+        "name": "HSPD1"
+      },
+      {
+        "name": "LUM"
+      },
+      {
+        "name": "TTR"
+      },
+      {
+        "name": "PLTP"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "CKM"
+      },
+      {
+        "name": "C4A/C4B"
+      },
+      {
+        "name": "CSF1R"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "HSPD1"
+      },
+      {
+        "name": "LGALS3BP"
+      },
+      {
+        "name": "LUM"
+      },
+      {
+        "name": "PLTP"
+      },
+      {
+        "name": "TTR"
+      },
+      {
+        "name": "CKM"
+      },
+      {
+        "name": "CRTAC1"
+      },
+      {
+        "name": "SFTPB"
+      },
+      {
+        "name": "APMAP"
+      },
+      {
+        "name": "IGHV1-2"
+      },
+      {
+        "name": "LCP1"
+      },
+      {
+        "name": "IGKV2-30"
+      },
+      {
+        "name": "IGLV3-1"
+      },
+      {
+        "name": "H3C15"
+      },
+      {
+        "name": "LXR"
+      },
+      {
+        "name": "RXR"
+      },
+      {
+        "name": "FXR"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "CDC45"
+      },
+      {
+        "name": "CDC6"
+      },
+      {
+        "name": "TYMS"
+      },
+      {
+        "name": "CCNB1"
+      },
+      {
+        "name": "OBSL1"
+      },
+      {
+        "name": "CDC25C"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "DIAPH3"
+      },
+      {
+        "name": "GINS2"
+      },
+      {
+        "name": "MCM10"
+      },
+      {
+        "name": "PBK"
+      },
+      {
+        "name": "FHL2"
+      },
+      {
+        "name": "HFD-45"
+      },
+      {
+        "name": "69 molecules"
+      },
+      {
+        "name": "PCYOX1"
+      },
+      {
+        "name": "PON3"
+      },
+      {
+        "name": "AGT"
+      },
+      {
+        "name": "APOA2"
+      },
+      {
+        "name": "APOD"
+      },
+      {
+        "name": "APOF"
+      },
+      {
+        "name": "APOM"
+      },
+      {
+        "name": "C4A/C4B"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "HP"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SPOD"
+      },
+      {
+        "name": "COL18A1"
+      },
+      {
+        "name": "HLA-A"
+      },
+      {
+        "name": "HLA-C"
+      },
+      {
+        "name": "MASP1"
+      },
+      {
+        "name": "AGT"
+      },
+      {
+        "name": "APOA2"
+      },
+      {
+        "name": "ANPEP"
+      },
+      {
+        "name": "APOM"
+      },
+      {
+        "name": "ACSL6"
+      },
+      {
+        "name": "B4GALT1"
+      },
+      {
+        "name": "C4A/C4B"
+      },
+      {
+        "name": "CHI3L1"
+      },
+      {
+        "name": "CFHR1"
+      },
+      {
+        "name": "CTSD"
+      },
+      {
+        "name": "CD5L"
+      },
+      {
+        "name": "FCGR3A/FCGR3B"
+      },
+      {
+        "name": "HBA1/HBA2"
+      },
+      {
+        "name": "HBB"
+      },
+      {
+        "name": "HLA-A"
+      },
+      {
+        "name": "HLA-C"
+      },
+      {
+        "name": "HP"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "IGKV1D-8"
+      },
+      {
+        "name": "JCHAIN"
+      },
+      {
+        "name": "LTA4H"
+      },
+      {
+        "name": "LCP1"
+      },
+      {
+        "name": "MRC1"
+      },
+      {
+        "name": "PPBP"
+      },
+      {
+        "name": "PSMA5"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SPP2"
+      },
+      {
+        "name": "TIMP1"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "TNXB"
+      },
+      {
+        "name": "THBS4"
+      },
+      {
+        "name": "VNN1"
+      },
+      {
+        "name": "IGHV1OR15-1"
+      },
+      {
+        "name": "IGHV2-70"
+      },
+      {
+        "name": "IGLC7"
+      },
+      {
+        "name": "IGLV1-44"
+      },
+      {
+        "name": "MASP1"
+      },
+      {
+        "name": "APOD"
+      },
+      {
+        "name": "H2BC15"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "COL18A1"
+      },
+      {
+        "name": "FBLN5"
+      },
+      {
+        "name": "SFTPB"
+      },
+      {
+        "name": "PROZTIMP1"
+      },
+      {
+        "name": "ANGPTL3"
+      },
+      {
+        "name": "APOC4-APOC2"
+      },
+      {
+        "name": "CHL1"
+      },
+      {
+        "name": "GNPTG"
+      },
+      {
+        "name": "C17orf97"
+      },
+      {
+        "name": "CNR1"
+      },
+      {
+        "name": "CXXC4"
+      },
+      {
+        "name": "DNAAF1"
+      },
+      {
+        "name": "EPAS1"
+      },
+      {
+        "name": "GOLGA8T"
+      },
+      {
+        "name": "HEPHL1"
+      },
+      {
+        "name": "LRGUK"
+      },
+      {
+        "name": "MEIS3"
+      },
+      {
+        "name": "MFAP4"
+      },
+      {
+        "name": "MYO5B"
+      },
+      {
+        "name": "NECAB2"
+      },
+      {
+        "name": "NFIB"
+      },
+      {
+        "name": "OR52N4"
+      },
+      {
+        "name": "PRSS50"
+      },
+      {
+        "name": "RBP5"
+      },
+      {
+        "name": "RIPK4"
+      },
+      {
+        "name": "RNASE2"
+      },
+      {
+        "name": "SEZ6L"
+      },
+      {
+        "name": "SPATA20"
+      },
+      {
+        "name": "TMEM52B"
+      },
+      {
+        "name": "UGT2B11"
+      },
+      {
+        "name": "ZNF221"
+      },
+      {
+        "name": "THOP1"
+      },
+      {
+        "name": "proteins associated with disease severity"
+      },
+      {
+        "name": "fibrinogen"
+      },
+      {
+        "name": "hemoglobin"
+      },
+      {
+        "name": "FBLN5"
+      },
+      {
+        "name": "FCGR3A"
+      },
+      {
+        "name": "FCGR3B"
+      },
+      {
+        "name": "GNPTG"
+      },
+      {
+        "name": "HBA1"
+      },
+      {
+        "name": "HBA2"
+      },
+      {
+        "name": "HBB"
+      },
+      {
+        "name": "HLA-A"
+      },
+      {
+        "name": "HLA-C"
+      },
+      {
+        "name": "HP"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "IGFBP7"
+      },
+      {
+        "name": "MRC1"
+      },
+      {
+        "name": "PROZ"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SFTPB"
+      },
+      {
+        "name": "TIMP1"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "TNXB"
+      },
+      {
+        "name": "ANPEP"
+      },
+      {
+        "name": "B4GALT1"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C4B"
+      },
+      {
+        "name": "CHI3L1"
+      },
+      {
+        "name": "CTSD"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "JCHAIN"
+      },
+      {
+        "name": "LTA4H"
+      },
+      {
+        "name": "PPBP"
+      },
+      {
+        "name": "PSMA5"
+      },
+      {
+        "name": "SPARCL1"
+      },
+      {
+        "name": "SPP2"
+      },
+      {
+        "name": "VNN1"
+      },
+      {
+        "name": "AGT"
+      },
+      {
+        "name": "ANGPTL3"
+      },
+      {
+        "name": "APOD"
+      },
+      {
+        "name": "CFHR1"
+      },
+      {
+        "name": "CHL1"
+      },
+      {
+        "name": "COL18A1"
+      },
+      {
+        "name": "FBLN5"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "IGHV1OR15-1"
+      },
+      {
+        "name": "IGHV2-70"
+      },
+      {
+        "name": "IGLC7"
+      },
+      {
+        "name": "IGLV1-44"
+      },
+      {
+        "name": "LCP1"
+      },
+      {
+        "name": "MASP1"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "WARS1"
+      },
+      {
+        "name": "APOA2"
+      },
+      {
+        "name": "CCT6A"
+      },
+      {
+        "name": "CNDP1"
+      },
+      {
+        "name": "PCYOX1"
+      },
+      {
+        "name": "64 proteins associated with COVID-19 severity"
+      },
+      {
+        "name": "APBA1"
+      },
+      {
+        "name": "C8B"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXXC4"
+      },
+      {
+        "name": "ITGB4"
+      },
+      {
+        "name": "LRGUK"
+      },
+      {
+        "name": "MADCAM1"
+      },
+      {
+        "name": "NFIB"
+      },
+      {
+        "name": "PI3"
+      },
+      {
+        "name": "RIPK4"
+      },
+      {
+        "name": "RNASE2"
+      },
+      {
+        "name": "SPATA20"
+      },
+      {
+        "name": "SYNDIG1L"
+      },
+      {
+        "name": "UGT2B11"
+      },
+      {
+        "name": "GOLGA8T"
+      },
+      {
+        "name": "IP3"
+      },
+      {
+        "name": "SPARCL1"
+      },
+      {
+        "name": "SPP2"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "WARS1"
+      },
+      {
+        "name": "AGT"
+      },
+      {
+        "name": "APOA2"
+      },
+      {
+        "name": "APOD"
+      },
+      {
+        "name": "APOF"
+      },
+      {
+        "name": "APOM"
+      },
+      {
+        "name": "PCYOX1"
+      },
+      {
+        "name": "PON3"
+      },
+      {
+        "name": "ICAM1"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "MBL2"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SERPINE1"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "APOF"
+      },
+      {
+        "name": "B4GALT1"
+      },
+      {
+        "name": "CD163"
+      },
+      {
+        "name": "CD5L"
+      },
+      {
+        "name": "CHI3L1"
+      },
+      {
+        "name": "CHL1"
+      },
+      {
+        "name": "COL6A1"
+      },
+      {
+        "name": "DBH"
+      },
+      {
+        "name": "DEFA1"
+      },
+      {
+        "name": "FBLN5"
+      },
+      {
+        "name": "GNPTG"
+      },
+      {
+        "name": "HBA1/HBA2"
+      },
+      {
+        "name": "HBB"
+      },
+      {
+        "name": "HLA-C"
+      },
+      {
+        "name": "HSPD1"
+      },
+      {
+        "name": "ICAM1"
+      },
+      {
+        "name": "IGFBP7"
+      },
+      {
+        "name": "IGKV1D-8"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "JCHAIN"
+      },
+      {
+        "name": "LTA4H"
+      },
+      {
+        "name": "MBL2"
+      },
+      {
+        "name": "MCAM"
+      },
+      {
+        "name": "MRC1"
+      },
+      {
+        "name": "NCAM1"
+      },
+      {
+        "name": "NID1"
+      },
+      {
+        "name": "OLFM1"
+      },
+      {
+        "name": "OIT3"
+      },
+      {
+        "name": "PCYOX1"
+      },
+      {
+        "name": "PIGR"
+      },
+      {
+        "name": "PON3"
+      },
+      {
+        "name": "PPBP"
+      },
+      {
+        "name": "PROZ"
+      },
+      {
+        "name": "PVR"
+      },
+      {
+        "name": "PYGL"
+      },
+      {
+        "name": "PZP"
+      },
+      {
+        "name": "SERPINE1"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SFTPB"
+      },
+      {
+        "name": "SPARC"
+      },
+      {
+        "name": "SPARCL1"
+      },
+      {
+        "name": "TKT"
+      },
+      {
+        "name": "THBS4"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "TNXB"
+      },
+      {
+        "name": "TUBB"
+      },
+      {
+        "name": "WARS1"
+      },
+      {
+        "name": "ZSWIM9"
+      },
+      {
+        "name": "LXR"
+      },
+      {
+        "name": "RXR"
+      },
+      {
+        "name": "FXR"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "ACSL6"
+      },
+      {
+        "name": "AGT"
+      },
+      {
+        "name": "APOA2"
+      },
+      {
+        "name": "APOM"
+      },
+      {
+        "name": "B4GALT1"
+      },
+      {
+        "name": "CD163"
+      },
+      {
+        "name": "CHI3L1"
+      },
+      {
+        "name": "DEFA1"
+      },
+      {
+        "name": "HBA1/HBA2"
+      },
+      {
+        "name": "HBB"
+      },
+      {
+        "name": "HLA-C"
+      },
+      {
+        "name": "HSPD1"
+      },
+      {
+        "name": "ICAM1"
+      },
+      {
+        "name": "IGKV1D-8"
+      },
+      {
+        "name": "IGHV1OR15-1"
+      },
+      {
+        "name": "IGKV1-12"
+      },
+      {
+        "name": "IGLC7"
+      },
+      {
+        "name": "ITIH3"
+      },
+      {
+        "name": "JCHAIN"
+      },
+      {
+        "name": "LTA4H"
+      },
+      {
+        "name": "MBL2"
+      },
+      {
+        "name": "MCAM"
+      },
+      {
+        "name": "MRC1"
+      },
+      {
+        "name": "PIGR"
+      },
+      {
+        "name": "PPBP"
+      },
+      {
+        "name": "PVR"
+      },
+      {
+        "name": "PYGL"
+      },
+      {
+        "name": "SERPINA3"
+      },
+      {
+        "name": "SERPINE1"
+      },
+      {
+        "name": "SPARC"
+      },
+      {
+        "name": "SPP2"
+      },
+      {
+        "name": "THBS4"
+      },
+      {
+        "name": "TNC"
+      },
+      {
+        "name": "TNXB"
+      },
+      {
+        "name": "TUBB"
+      },
+      {
+        "name": "APOD"
+      },
+      {
+        "name": "APOC4-APC2"
+      },
+      {
+        "name": "CHL1"
+      },
+      {
+        "name": "COL6A1"
+      },
+      {
+        "name": "FBLN5"
+      },
+      {
+        "name": "GNPTG"
+      },
+      {
+        "name": "IGFBP7"
+      },
+      {
+        "name": "SFTPB"
+      },
+      {
+        "name": "TKT"
+      },
+      {
+        "name": "NCAM1"
+      },
+      {
+        "name": "OIT3"
+      },
+      {
+        "name": "OLFM1"
+      },
+      {
+        "name": "PZP"
+      },
+      {
+        "name": "SPARCL1"
+      },
+      {
+        "name": "WARS1"
+      },
+      {
+        "name": "ZSWIM9"
+      },
+      {
+        "name": "DBH"
+      },
+      {
+        "name": "CD5L"
+      },
+      {
+        "name": "CD247"
+      },
+      {
+        "name": "CD3D"
+      },
+      {
+        "name": "CD3E"
+      },
+      {
+        "name": "CD3G"
+      },
+      {
+        "name": "CD8A"
+      },
+      {
+        "name": "GATA3"
+      },
+      {
+        "name": "NFATC2"
+      },
+      {
+        "name": "PRKCQ"
+      },
+      {
+        "name": "TBX21"
+      },
+      {
+        "name": "TGFBR3"
+      },
+      {
+        "name": "FYN"
+      },
+      {
+        "name": "KLRC4-KLRK1/KLRK1"
+      },
+      {
+        "name": "LCK"
+      },
+      {
+        "name": "NCR3"
+      },
+      {
+        "name": "PLCG1"
+      },
+      {
+        "name": "SH2D1A"
+      },
+      {
+        "name": "SKAP1"
+      },
+      {
+        "name": "Prot(1)"
+      },
+      {
+        "name": "Prot(2)"
+      },
+      {
+        "name": "CACNA2D2"
+      },
+      {
+        "name": "CAMK4"
+      },
+      {
+        "name": "ITPR3"
+      },
+      {
+        "name": "MPRIP"
+      },
+      {
+        "name": "PRKACB"
+      },
+      {
+        "name": "SLC4A10"
+      },
+      {
+        "name": "ABLIM1"
+      },
+      {
+        "name": "CCL4"
+      },
+      {
+        "name": "RRAS2"
+      },
+      {
+        "name": "AKAP5"
+      },
+      {
+        "name": "BCL2"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "genes"
+      },
+      {
+        "name": "5800 genes"
+      },
+      {
+        "name": "16 stable genes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "16 genes associated with COVID-19"
+      },
+      {
+        "name": "C4A"
+      },
+      {
+        "name": "C4B"
+      },
+      {
+        "name": "CSF1R"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "HSPD1"
+      },
+      {
+        "name": "LUM"
+      },
+      {
+        "name": "TTR"
+      },
+      {
+        "name": "PLTP"
+      },
+      {
+        "name": "HRG"
+      },
+      {
+        "name": "CKM"
+      },
+      {
+        "name": "CDC45"
+      },
+      {
+        "name": "CDC6"
+      },
+      {
+        "name": "TYMS"
+      },
+      {
+        "name": "CCNB1"
+      },
+      {
+        "name": "OBSL1"
+      },
+      {
+        "name": "CDC25C"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "DIAPH3"
+      },
+      {
+        "name": "GINS2"
+      },
+      {
+        "name": "MCM10"
+      },
+      {
+        "name": "PBK"
+      },
+      {
+        "name": "FHL2"
+      },
+      {
+        "name": "25 genes"
+      },
+      {
+        "name": "THOP1"
+      },
+      {
+        "name": "C17orf97"
+      },
+      {
+        "name": "CNR1"
+      },
+      {
+        "name": "CXXC4"
+      },
+      {
+        "name": "DNAAF1"
+      },
+      {
+        "name": "EPAS1"
+      },
+      {
+        "name": "GOLGA8T"
+      },
+      {
+        "name": "HEPHL1"
+      },
+      {
+        "name": "LRGUK"
+      },
+      {
+        "name": "MEIS3"
+      },
+      {
+        "name": "MFAP4"
+      },
+      {
+        "name": "MYO5B"
+      },
+      {
+        "name": "NECAB2"
+      },
+      {
+        "name": "NFIB"
+      },
+      {
+        "name": "OR52N4"
+      },
+      {
+        "name": "PRSS50"
+      },
+      {
+        "name": "RBP5"
+      },
+      {
+        "name": "RIPK4"
+      },
+      {
+        "name": "RNASE2"
+      },
+      {
+        "name": "SEZ6L"
+      },
+      {
+        "name": "SPATA20"
+      },
+      {
+        "name": "TMEM52B"
+      },
+      {
+        "name": "UGT2B11"
+      },
+      {
+        "name": "ZNF221"
+      },
+      {
+        "name": "HFD-45"
+      },
+      {
+        "name": "17 genes associated with COVID-19 severity"
+      },
+      {
+        "name": "Genes(1)"
+      },
+      {
+        "name": "Genes(2)"
+      },
+      {
+        "name": "Genes(1)"
+      },
+      {
+        "name": "Genes(2)"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "lipid transport system"
+      },
+      {
+        "name": "complement activation"
+      },
+      {
+        "name": "neutrophil activation"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "inflammatory response"
+      },
+      {
+        "name": "vitamin absorption"
+      },
+      {
+        "name": "cholesterol metabolism"
+      },
+      {
+        "name": "pathways associated with COVID-19"
+      },
+      {
+        "name": "Ingenuity Pathway Analysis"
+      },
+      {
+        "name": "Lipid Pathway Enrichment Analysis"
+      },
+      {
+        "name": "COVID-19 status"
+      },
+      {
+        "name": "disease severity"
+      },
+      {
+        "name": "COVID-19 severity"
+      },
+      {
+        "name": "Polo-Like Kinase pathway"
+      },
+      {
+        "name": "ATM-signaling pathway"
+      },
+      {
+        "name": "cell cycle regulation"
+      },
+      {
+        "name": "G2/M DNA damage checkpoint regulation"
+      },
+      {
+        "name": "control of chromosomal replication"
+      },
+      {
+        "name": "mitotic roles of Polo-Like Kinase pathway"
+      },
+      {
+        "name": "ATM-signaling pathway"
+      },
+      {
+        "name": "LXR/RXR activation pathway"
+      },
+      {
+        "name": "FXR/RXR activation pathway"
+      },
+      {
+        "name": "acute phase response signaling pathway"
+      },
+      {
+        "name": "pathways associated with COVID-19 status"
+      },
+      {
+        "name": "LXR/RXR pathway"
+      },
+      {
+        "name": "FXR/RXR pathway"
+      },
+      {
+        "name": "acute phase response signaling pathway"
+      },
+      {
+        "name": "Cell Cycle: G2/M DNA Damage Checkpoint, Mitotic Roles of Polo-Like Kinase & ATM Signaling"
+      },
+      {
+        "name": "Cell Cycle Control of Chromosomal Replication"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "Acute Phase Response"
+      },
+      {
+        "name": "Type I Diabetes Mellitus"
+      },
+      {
+        "name": "Creatine-phosphate Biosynthesis"
+      },
+      {
+        "name": "Neurological Disease"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "Metabolic Disease"
+      },
+      {
+        "name": "Psychological Disorders"
+      },
+      {
+        "name": "Inflammatory Response"
+      },
+      {
+        "name": "Cellular Movement"
+      },
+      {
+        "name": "Protein Synthesis"
+      },
+      {
+        "name": "Cellular Compromise"
+      },
+      {
+        "name": "Cell Death and Survival"
+      },
+      {
+        "name": "Cellular Development"
+      },
+      {
+        "name": "LXR/RXR activation"
+      },
+      {
+        "name": "FXR/RXR activation"
+      },
+      {
+        "name": "acute phase response signalling"
+      },
+      {
+        "name": "diabetes mellitus signalling"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "Acute Phase Response Signalling"
+      },
+      {
+        "name": "Type I Diabetes Mellitus Signaling"
+      },
+      {
+        "name": "cholesterol metabolism"
+      },
+      {
+        "name": "fat digestion and absorption"
+      },
+      {
+        "name": "vitamin digestion and absorption"
+      },
+      {
+        "name": "ovarian steroidogenesis"
+      },
+      {
+        "name": "Cell Cycle: G2/M DNA Damage Checkpoint Regulation"
+      },
+      {
+        "name": "Cell Cycle Control of Chromosomal Replication"
+      },
+      {
+        "name": "Mitotic Roles of Polo-Like Kinase"
+      },
+      {
+        "name": "ATM Signaling"
+      },
+      {
+        "name": "dTMP De Novo Biosynthesis"
+      },
+      {
+        "name": "Myo-inositol Biosynthesis"
+      },
+      {
+        "name": "Sucrose Degradation V"
+      },
+      {
+        "name": "D-myoinositol (1,4,5)-triphosphate Degradation"
+      },
+      {
+        "name": "Superpathway of D-myoinositol (1,4,5)-triphosphate Metabolism"
+      },
+      {
+        "name": "D-myoinositol (1,4,5)-triphosphate Biosynthesis"
+      },
+      {
+        "name": "Fat digestion and absorption"
+      },
+      {
+        "name": "Cholesterol metabolism"
+      },
+      {
+        "name": "Basal cell carcinoma"
+      },
+      {
+        "name": "Vitamin digestion and absorption"
+      },
+      {
+        "name": "Ovarian steroidogenesis"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "inflammatory response"
+      },
+      {
+        "name": "Cell Cycle"
+      },
+      {
+        "name": "Airway Inflammation in Asthma"
+      },
+      {
+        "name": "Cholesterol Metabolism"
+      },
+      {
+        "name": "Ovarian Steroidogenesis"
+      },
+      {
+        "name": "Vitamin Digestion and Absorption"
+      },
+      {
+        "name": "Fat Digestion and Absorption"
+      },
+      {
+        "name": "Vitamin A Metabolism"
+      },
+      {
+        "name": "Visual Cycle"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "Acute Phase Response Signalling"
+      },
+      {
+        "name": "Atherosclerosis Signalling"
+      },
+      {
+        "name": "Neuroprotective Role of THOP1"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "Acute Phase Response Signalling"
+      },
+      {
+        "name": "Atherosclerosis Signalling"
+      },
+      {
+        "name": "Neuroprotective Role of THOP1 in Alzheimer's Disease"
+      },
+      {
+        "name": "Retinoate Biosynthesis II"
+      },
+      {
+        "name": "The Visual Cycle"
+      },
+      {
+        "name": "Thyroid Hormone Metabolism II"
+      },
+      {
+        "name": "Airway Inflammation in Asthma"
+      },
+      {
+        "name": "Retinoate Biosynthesis I"
+      },
+      {
+        "name": "FXR/RXR pathway"
+      },
+      {
+        "name": "LXR/RXR pathway"
+      },
+      {
+        "name": "acute phase response signalling pathway"
+      },
+      {
+        "name": "atherosclerosis signalling pathway"
+      },
+      {
+        "name": "cholesterol metabolism"
+      },
+      {
+        "name": "neuroprotective role of THOP1"
+      },
+      {
+        "name": "pathways associated with COVID-19"
+      },
+      {
+        "name": "known pathways"
+      },
+      {
+        "name": "LIPEA pathways"
+      },
+      {
+        "name": "Sphingolipid metabolism"
+      },
+      {
+        "name": "airway inflammation in asthma pathway"
+      },
+      {
+        "name": "thyroid hormone metabolism II pathway"
+      },
+      {
+        "name": "airway inflammation in asthma pathway"
+      },
+      {
+        "name": "thyroid hormone metabolism II pathway"
+      },
+      {
+        "name": "Sphingolipid metabolism"
+      },
+      {
+        "name": "Fat digestion and absorption"
+      },
+      {
+        "name": "Cholesterol metabolism"
+      },
+      {
+        "name": "Sphingolipid signaling pathway"
+      },
+      {
+        "name": "Basal cell carcinoma"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "Agranulocyte Adhesion and Diapedesis"
+      },
+      {
+        "name": "enriched pathways"
+      },
+      {
+        "name": "Myo-inositol Biosynthesis"
+      },
+      {
+        "name": "D-myo-inositol(1,4,5)-triphosphate Degradation"
+      },
+      {
+        "name": "Urate Biosynthesis/Inosine 5’-phosphate Degradation"
+      },
+      {
+        "name": "Superpathway of D-myo-inositol(1,4,5)-triphosphate Metabolism"
+      },
+      {
+        "name": "Sucrose Degradation V"
+      },
+      {
+        "name": "sphingolipid metabolism"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "Agranulocyte Adhesion and Diapedesis"
+      },
+      {
+        "name": "Pathogenesis of Multiple Sclerosis"
+      },
+      {
+        "name": "Agranulocyte Adhesion and Diapedesis"
+      },
+      {
+        "name": "Thyroid Hormone Metabolism II"
+      },
+      {
+        "name": "Airway Inflammation in Asthma"
+      },
+      {
+        "name": "Complement System"
+      },
+      {
+        "name": "LXR/RXR Activation"
+      },
+      {
+        "name": "FXR/RXR Activation"
+      },
+      {
+        "name": "Atherosclerosis Signalling"
+      },
+      {
+        "name": "Acute Phase Response Signalling"
+      },
+      {
+        "name": "Maturity Onset of Young"
+      },
+      {
+        "name": "Diabetes Signaling (MODY)"
+      },
+      {
+        "name": "COVID-19 severity"
+      },
+      {
+        "name": "FXR/RXR activation"
+      },
+      {
+        "name": "LXR/RXR activation"
+      },
+      {
+        "name": "MODY signaling pathway"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "ferroptosis"
+      },
+      {
+        "name": "LXR/RXR Activation/FXR/RXR Activation"
+      },
+      {
+        "name": "Atherosclerosis Signalling"
+      },
+      {
+        "name": "Acute Phase Response Signalling"
+      },
+      {
+        "name": "Maturity Onset Diabetes of Young (MODY) Signalling"
+      },
+      {
+        "name": "lipidomics"
+      },
+      {
+        "name": "cell cycle"
+      },
+      {
+        "name": "Sphingolipid metabolism"
+      },
+      {
+        "name": "Fat digestion and absorption"
+      },
+      {
+        "name": "Cholesterol metabolism"
+      },
+      {
+        "name": "Sphingolipid signaling pathway"
+      },
+      {
+        "name": "Basal cell carcinoma"
+      },
+      {
+        "name": "TH1 Pathway"
+      },
+      {
+        "name": "TH1 and TH2 Activation Pathway"
+      },
+      {
+        "name": "TH2 Pathway"
+      },
+      {
+        "name": "Natural Killer Cell Signalling"
+      },
+      {
+        "name": "T-Cell Receptor Signalling"
+      },
+      {
+        "name": "Cellular Effects of Sildenafil"
+      },
+      {
+        "name": "Netrin Signaling"
+      },
+      {
+        "name": "Chemokine Signaling"
+      },
+      {
+        "name": "Role of NFAT in Cardiac Hypertrophy"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "COVID-19 treatment"
+      },
+      {
+        "name": "Sildenafil"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome (ARDS)"
+      },
+      {
+        "name": "severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neurological disease"
+      },
+      {
+        "name": "ischemic strokes"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "infectious disease"
+      },
+      {
+        "name": "antimicrobial response"
+      },
+      {
+        "name": "neurological disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Connective Tissue Disorders"
+      },
+      {
+        "name": "Developmental Disorder"
+      },
+      {
+        "name": "Gastrointestinal Disease"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "Skeletal and Muscular Disorders"
+      },
+      {
+        "name": "Cell Cycle"
+      },
+      {
+        "name": "DNA Replication, Recombination, and Repair"
+      },
+      {
+        "name": "Cell-To-Cell Signalling and Interaction"
+      },
+      {
+        "name": "Cell Death and Survival"
+      },
+      {
+        "name": "Post-Translational Modification"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Antimicrobial Response"
+      },
+      {
+        "name": "Dermatological Diseases and Conditions"
+      },
+      {
+        "name": "Hereditary Disorder"
+      },
+      {
+        "name": "Infectious Diseases"
+      },
+      {
+        "name": "Neurological Disease"
+      },
+      {
+        "name": "Small Molecule Biochemistry"
+      },
+      {
+        "name": "Cell Cycle"
+      },
+      {
+        "name": "Cell Morphology"
+      },
+      {
+        "name": "Cellular Compromise"
+      },
+      {
+        "name": "Cellular Assembly and Organization"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Asthma"
+      },
+      {
+        "name": "Respiratory Disease"
+      },
+      {
+        "name": "Alzheimer's Disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer's Disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Inflammatory Response"
+      },
+      {
+        "name": "Infectious Diseases"
+      },
+      {
+        "name": "Endocrine System Disorders"
+      },
+      {
+        "name": "Gastrointestinal Disease"
+      },
+      {
+        "name": "Metabolic Disease"
+      },
+      {
+        "name": "Cancer"
+      },
+      {
+        "name": "Connective Tissue Disorders"
+      },
+      {
+        "name": "Dermatological Diseases and Conditions"
+      },
+      {
+        "name": "Developmental Disorder"
+      },
+      {
+        "name": "Endocrine System Disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "atherosclerosis"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Multiple Sclerosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Cardiovascular Disease"
+      },
+      {
+        "name": "Endocrine System Disorders"
+      },
+      {
+        "name": "Hematological Disease"
+      },
+      {
+        "name": "Metabolic Disease"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "Cell Death and Survival"
+      },
+      {
+        "name": "Cellular Compromise"
+      },
+      {
+        "name": "Carbohydrate Metabolism"
+      },
+      {
+        "name": "Cell-To-Cell Signaling and Interaction"
+      },
+      {
+        "name": "Cell Morphology"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dermatological diseases and conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Dermatological Diseases and Conditions"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "Renal and Urological Disease"
+      },
+      {
+        "name": "Connective Tissue Disorders"
+      },
+      {
+        "name": "Developmental Disorder"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Basal cell carcinoma"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neurological conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Inflammatory Response"
+      },
+      {
+        "name": "Infectious Diseases"
+      },
+      {
+        "name": "Metabolic Disease"
+      },
+      {
+        "name": "Neurological Disease"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "Gastrointestinal Disease"
+      },
+      {
+        "name": "Organismal Injury and Abnormalities"
+      },
+      {
+        "name": "Cancer"
+      },
+      {
+        "name": "Hematological Disease"
+      },
+      {
+        "name": "Immunological disease"
+      },
+      {
+        "name": "Cellular Compromise"
+      },
+      {
+        "name": "Cellular Movement"
+      },
+      {
+        "name": "Cellular Function and Maintenance"
+      },
+      {
+        "name": "Cell-To-Cell Signalling and Interaction"
+      },
+      {
+        "name": "Protein Synthesis"
+      },
+      {
+        "name": "Inflammatory Response"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dermatological conditions"
+      },
+      {
+        "name": "neurological conditions"
+      },
+      {
+        "name": "Gastrointestinal Disease"
+      },
+      {
+        "name": "Inflammatory Response"
+      },
+      {
+        "name": "Dermatological Disease and Conditions"
+      },
+      {
+        "name": "Cell Death and Survival"
+      },
+      {
+        "name": "Cell-To-Cell Signalling and Interaction"
+      },
+      {
+        "name": "Cellular Growth and Proliferation"
+      },
+      {
+        "name": "Cellular Development"
+      }
+    ]
+  }
+}

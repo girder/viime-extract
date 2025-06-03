@@ -1,0 +1,451 @@
+{
+  "meta": {
+    "title": "Gastrointestinal symptoms of long COVID-19 related to the ectopic colonization of specific bacteria that move between the upper and lower alimentary tract and alterations in serum metabolites",
+    "journal": "BMC Medicine",
+    "year": 2023,
+    "volume": "21",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s12916-023-02972-x",
+    "authors": [
+      {
+        "firstname": "Deyu",
+        "middle_initial": null,
+        "surname": "Zhang",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Siyuan",
+        "middle_initial": null,
+        "surname": "Weng",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Chuanchao",
+        "middle_initial": null,
+        "surname": "Xia",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Yuqing",
+        "middle_initial": null,
+        "surname": "Ren",
+        "affiliation": "3"
+      },
+      {
+        "firstname": "Zaoqu",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Yudi",
+        "middle_initial": null,
+        "surname": "Xu",
+        "affiliation": "4"
+      },
+      {
+        "firstname": "Xiaoli",
+        "middle_initial": null,
+        "surname": "Yang",
+        "affiliation": "5"
+      },
+      {
+        "firstname": "Ruhao",
+        "middle_initial": null,
+        "surname": "Wu",
+        "affiliation": "3"
+      },
+      {
+        "firstname": "Lisi",
+        "middle_initial": null,
+        "surname": "Peng",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Liqi",
+        "middle_initial": null,
+        "surname": "Sun",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Jiaqi",
+        "middle_initial": null,
+        "surname": "Zhu",
+        "affiliation": "6"
+      },
+      {
+        "firstname": "Xuesong",
+        "middle_initial": null,
+        "surname": "Liang",
+        "affiliation": "7"
+      },
+      {
+        "firstname": "Yin",
+        "middle_initial": null,
+        "surname": "Jia",
+        "affiliation": "8"
+      },
+      {
+        "firstname": "Huaizhou",
+        "middle_initial": null,
+        "surname": "Wang",
+        "affiliation": "8"
+      },
+      {
+        "firstname": "Qian",
+        "middle_initial": null,
+        "surname": "Chen",
+        "affiliation": "9"
+      },
+      {
+        "firstname": "Dongtian",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "10"
+      },
+      {
+        "firstname": "Yi",
+        "middle_initial": null,
+        "surname": "Chen",
+        "affiliation": "7"
+      },
+      {
+        "firstname": "Honglei",
+        "middle_initial": null,
+        "surname": "Guo",
+        "affiliation": "7"
+      },
+      {
+        "firstname": "Xinwei",
+        "middle_initial": null,
+        "surname": "Han",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Zhendong",
+        "middle_initial": null,
+        "surname": "Jin",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Cui",
+        "middle_initial": null,
+        "surname": "Chen",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Xia",
+        "middle_initial": null,
+        "surname": "Yang",
+        "affiliation": "11"
+      },
+      {
+        "firstname": "Zhaoshen",
+        "middle_initial": null,
+        "surname": "Li",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Haojie",
+        "middle_initial": null,
+        "surname": "Huang",
+        "affiliation": "1"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "4-chlorophenylacetic acid"
+      },
+      {
+        "name": "5-sulfoxymethylfurfural"
+      },
+      {
+        "name": "estradiol valerate"
+      },
+      {
+        "name": "butyric acid"
+      },
+      {
+        "name": "Amino acid metabolism"
+      },
+      {
+        "name": "Biosynthesis of other secondary metabolites"
+      },
+      {
+        "name": "Glycan biosynthesis and metabolism"
+      },
+      {
+        "name": "TG (triglyceride)"
+      },
+      {
+        "name": "Class II metabolites"
+      },
+      {
+        "name": "4-chlorophenylacetic acid"
+      },
+      {
+        "name": "5-sulfoxymethylfurfural"
+      },
+      {
+        "name": "estradiol valerate"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "T4 DNA ligase"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "gut-lung axis"
+      },
+      {
+        "name": "Digestive system"
+      },
+      {
+        "name": "Lipid metabolism"
+      },
+      {
+        "name": "Metabolism of other amino acids"
+      },
+      {
+        "name": "Metabolism of cofactors and vitamins"
+      },
+      {
+        "name": "Amino acid metabolism"
+      },
+      {
+        "name": "Carbohydrate metabolism"
+      },
+      {
+        "name": "immune system"
+      },
+      {
+        "name": "infectious disease"
+      },
+      {
+        "name": "Amino acid metabolism"
+      },
+      {
+        "name": "Biosynthesis of other secondary metabolites"
+      },
+      {
+        "name": "Glycan biosynthesis and metabolism"
+      },
+      {
+        "name": "Digestive system"
+      },
+      {
+        "name": "KEGG functions"
+      },
+      {
+        "name": "KEGG functions"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "CanSino Vac"
+      },
+      {
+        "name": "Sinovac"
+      },
+      {
+        "name": "CoronaVac"
+      },
+      {
+        "name": "Clostridium butyricum tablets"
+      },
+      {
+        "name": "Compound vitamin B tablets"
+      },
+      {
+        "name": "Niuhuangjiedu tablets"
+      },
+      {
+        "name": "Pinaverium bromide tablets"
+      },
+      {
+        "name": "QIAamp® Fast DNA Stool Mini Kit"
+      },
+      {
+        "name": "NanoDrop2000"
+      },
+      {
+        "name": "Agencourt AMPure XP"
+      },
+      {
+        "name": "BcgI"
+      },
+      {
+        "name": "Phusion high-fidelity DNA polymerase"
+      },
+      {
+        "name": "QIAamp® Fast DNA Stool Mini Kit"
+      },
+      {
+        "name": "Exion-LCAD"
+      },
+      {
+        "name": "QTRAP"
+      },
+      {
+        "name": "Waters Acquity UPLC HSS T3"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes mellitus"
+      },
+      {
+        "name": "Hyperlipidaemia"
+      },
+      {
+        "name": "Long COVID-19"
+      },
+      {
+        "name": "post-COVID-19 syndrome"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "intestinal inflammation"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes mellitus"
+      },
+      {
+        "name": "Hyperlipidaemia"
+      },
+      {
+        "name": "Long COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes mellitus"
+      },
+      {
+        "name": "Hyperlipidemia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "mild disease"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "GI-related long COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "mild COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "GI symptoms"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "GI-related long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "GI long COVID-19 symptoms"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      }
+    ]
+  }
+}

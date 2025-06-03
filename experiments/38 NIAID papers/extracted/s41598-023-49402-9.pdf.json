@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "title": "A pilot study on the immune cell proteome of long COVID patients shows changes to physiological pathways similar to those in myalgic encephalomyelitis/chronic fatigue syndrome",
+    "journal": "Scientific Reports",
+    "year": 2023,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41598-023-49402-9",
+    "authors": [
+      {
+        "firstname": "Katie",
+        "middle_initial": null,
+        "surname": "Peppercorn",
+        "affiliation": "Division of Health Sciences, Department of Biochemistry, School of Biomedical Sciences, University of Otago, Dunedin 9016, New Zealand"
+      },
+      {
+        "firstname": "Christina D.",
+        "middle_initial": null,
+        "surname": "Edgar",
+        "affiliation": "Division of Health Sciences, Department of Biochemistry, School of Biomedical Sciences, University of Otago, Dunedin 9016, New Zealand"
+      },
+      {
+        "firstname": "Torsten",
+        "middle_initial": null,
+        "surname": "Kleffmann",
+        "affiliation": "Division of Health Sciences, Department of Biochemistry, School of Biomedical Sciences, University of Otago, Dunedin 9016, New Zealand"
+      },
+      {
+        "firstname": "Warren P.",
+        "middle_initial": null,
+        "surname": "Tate",
+        "affiliation": "Division of Health Sciences, Department of Biochemistry, School of Biomedical Sciences, University of Otago, Dunedin 9016, New Zealand"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "plasmalogens"
+      },
+      {
+        "name": "tris(2-carboxyethyl) phosphine"
+      },
+      {
+        "name": "triethylammonium bicarbonate"
+      },
+      {
+        "name": "sodium dodecyl sulphate"
+      },
+      {
+        "name": "DMSO"
+      },
+      {
+        "name": "cysteines"
+      },
+      {
+        "name": "benzonase"
+      },
+      {
+        "name": "Glutamate"
+      },
+      {
+        "name": "L-lactate"
+      },
+      {
+        "name": "Serine"
+      },
+      {
+        "name": "Vitamin"
+      },
+      {
+        "name": "Pyruvate"
+      },
+      {
+        "name": "ROS"
+      },
+      {
+        "name": "GSH"
+      },
+      {
+        "name": "Xenobiotic"
+      },
+      {
+        "name": "Thiosulfate"
+      },
+      {
+        "name": "Prostaglandin E"
+      },
+      {
+        "name": "Cholesterol"
+      },
+      {
+        "name": "Bile acid"
+      },
+      {
+        "name": "Estradiol"
+      },
+      {
+        "name": "ADP-sugar"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "PBMC proteins"
+      },
+      {
+        "name": "immune functions"
+      },
+      {
+        "name": "mitochondrial functions"
+      },
+      {
+        "name": "differentially regulated proteins"
+      },
+      {
+        "name": "proteins involved with the immune response"
+      },
+      {
+        "name": "proteins involved with gene expression"
+      },
+      {
+        "name": "proteins involved with mitochondrial function"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "differentially regulated proteins"
+      },
+      {
+        "name": "B2M"
+      },
+      {
+        "name": "BCL2"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "GFM1"
+      },
+      {
+        "name": "HLA-DRB1"
+      },
+      {
+        "name": "HNRNPM"
+      },
+      {
+        "name": "LCK"
+      },
+      {
+        "name": "NMP1"
+      },
+      {
+        "name": "NRAS"
+      },
+      {
+        "name": "PLCG2"
+      },
+      {
+        "name": "PSMB9"
+      },
+      {
+        "name": "SNRPB"
+      },
+      {
+        "name": "SNRPD1"
+      },
+      {
+        "name": "SYK"
+      },
+      {
+        "name": "TLR2"
+      },
+      {
+        "name": "UBQLN2"
+      },
+      {
+        "name": "DAP12"
+      },
+      {
+        "name": "AP2S1"
+      },
+      {
+        "name": "ATP6V1G1"
+      },
+      {
+        "name": "B2M"
+      },
+      {
+        "name": "BCL2"
+      },
+      {
+        "name": "CD300LF"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "DOK3"
+      },
+      {
+        "name": "DYNC1I2"
+      },
+      {
+        "name": "FGR"
+      },
+      {
+        "name": "GMFG"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "HLA-DRB1"
+      },
+      {
+        "name": "HLA-E"
+      },
+      {
+        "name": "IRF5"
+      },
+      {
+        "name": "KPNA3"
+      },
+      {
+        "name": "LCK"
+      },
+      {
+        "name": "MAPK9"
+      },
+      {
+        "name": "MNDA"
+      },
+      {
+        "name": "NDUFC2"
+      },
+      {
+        "name": "NRAS"
+      },
+      {
+        "name": "NUP93"
+      },
+      {
+        "name": "PAFAH1B2"
+      },
+      {
+        "name": "PLCG2"
+      },
+      {
+        "name": "POLR2H"
+      },
+      {
+        "name": "PSMB9"
+      },
+      {
+        "name": "PSMF1"
+      },
+      {
+        "name": "PTGES2"
+      },
+      {
+        "name": "RAB6A"
+      },
+      {
+        "name": "RAF1"
+      },
+      {
+        "name": "RIPK1"
+      },
+      {
+        "name": "SERPINB10"
+      },
+      {
+        "name": "SYK"
+      },
+      {
+        "name": "TIMP1"
+      },
+      {
+        "name": "TLR2"
+      },
+      {
+        "name": "TRIM22"
+      },
+      {
+        "name": "TRIP12"
+      },
+      {
+        "name": "UBA3"
+      },
+      {
+        "name": "RIPK1"
+      },
+      {
+        "name": "TLR2"
+      },
+      {
+        "name": "MAN2A1"
+      },
+      {
+        "name": "CSNK1A1"
+      },
+      {
+        "name": "NPM1"
+      },
+      {
+        "name": "SNRPD1"
+      },
+      {
+        "name": "NUP93"
+      },
+      {
+        "name": "SYK"
+      },
+      {
+        "name": "HLA-E"
+      },
+      {
+        "name": "RBBP7"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "SNRPB"
+      },
+      {
+        "name": "CHMP2A"
+      },
+      {
+        "name": "AP2S1"
+      },
+      {
+        "name": "PTGES3"
+      },
+      {
+        "name": "PLCG2"
+      },
+      {
+        "name": "B2M"
+      },
+      {
+        "name": "MHC class 1b"
+      },
+      {
+        "name": "CD4 receptor"
+      },
+      {
+        "name": "NKC"
+      },
+      {
+        "name": "mitochondrial cluster of 13 proteins"
+      },
+      {
+        "name": "21 of the 162 proteins"
+      },
+      {
+        "name": "small six protein cluster of mitochondrial proteins"
+      },
+      {
+        "name": "16 up-regulated mitochondrial proteins"
+      },
+      {
+        "name": "5 down-regulated mitochondrial proteins"
+      },
+      {
+        "name": "proteins associated with the mitochondrion"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "C16orf54"
+      },
+      {
+        "name": "S100A4"
+      },
+      {
+        "name": "GMFB"
+      },
+      {
+        "name": "GFMG"
+      },
+      {
+        "name": "346 differentially regulated proteins"
+      },
+      {
+        "name": "63 proteins involved with the immune system"
+      },
+      {
+        "name": "20 proteins associated with immune system process"
+      },
+      {
+        "name": "119 proteins associated with Translation"
+      },
+      {
+        "name": "119 proteins associated with RNA metabolism"
+      },
+      {
+        "name": "119 proteins associated with Protein metabolism"
+      },
+      {
+        "name": "119 proteins associated with Cellular responses to stress"
+      },
+      {
+        "name": "13 proteins associated with the mitochondria"
+      },
+      {
+        "name": "12 proteins associated with vesicle-mediated transport"
+      },
+      {
+        "name": "HLA proteins"
+      },
+      {
+        "name": "HLA-B"
+      },
+      {
+        "name": "HLA-E"
+      },
+      {
+        "name": "HLA-DRB1"
+      },
+      {
+        "name": "HLA-A"
+      },
+      {
+        "name": "HLA-DQB1"
+      },
+      {
+        "name": "HLA-DPB1"
+      },
+      {
+        "name": "mitochondrial proteins"
+      },
+      {
+        "name": "dnaJ homolog subfamily B member 11 precursor"
+      },
+      {
+        "name": "major histocompatibility complex, class I, B precursor"
+      },
+      {
+        "name": "tropomyosin alpha-1 chain"
+      },
+      {
+        "name": "guanylate cyclase soluble subunit alpha-3"
+      },
+      {
+        "name": "thiosulfate sulfurtransferase"
+      },
+      {
+        "name": "platelet-activating factor acetylhydrolase IB subunit beta"
+      },
+      {
+        "name": "proteasome subunit beta type-9 proprotein"
+      },
+      {
+        "name": "translation machinery-associated protein 7"
+      },
+      {
+        "name": "60S ribosomal protein L28"
+      },
+      {
+        "name": "peroxiredoxin-2"
+      },
+      {
+        "name": "rho GDP-dissociation inhibitor 2"
+      },
+      {
+        "name": "transmembrane protein C16orf54"
+      },
+      {
+        "name": "mitochondrial fission 1 protein"
+      },
+      {
+        "name": "RNA-binding protein Raly"
+      },
+      {
+        "name": "nucleophosmin"
+      },
+      {
+        "name": "protein S100-A4"
+      },
+      {
+        "name": "HLA class I histocompatibility antigen, alpha chain E precursor"
+      },
+      {
+        "name": "glia maturation factor gamma"
+      },
+      {
+        "name": "glia maturation factor beta"
+      },
+      {
+        "name": "phostensin"
+      },
+      {
+        "name": "sphingosine-1-phosphate lyase 1"
+      },
+      {
+        "name": "inositol-3-phosphate synthase 1"
+      },
+      {
+        "name": "Peroxiredoxin-2 (PRDX2)"
+      },
+      {
+        "name": "PSMB9 (proteasome subunit beta type-9 proprotein)"
+      },
+      {
+        "name": "PTRH2"
+      },
+      {
+        "name": "CRYZ"
+      },
+      {
+        "name": "HLA-E"
+      },
+      {
+        "name": "CD5"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "CD84"
+      },
+      {
+        "name": "CD300LF"
+      },
+      {
+        "name": "PBMCs"
+      },
+      {
+        "name": "FBS proteins"
+      },
+      {
+        "name": "Glutaminase"
+      },
+      {
+        "name": "L-lactate dihydrog. B chain"
+      },
+      {
+        "name": "Sideroflexin-1"
+      },
+      {
+        "name": "Pyruvate dehydrogenase phosphatase regulatory subunit"
+      },
+      {
+        "name": "Dihydrolipoyllysine-residue acetyltransferase"
+      },
+      {
+        "name": "Peroxiredoxin-2"
+      },
+      {
+        "name": "Mycophenolic acid acyl-glucuronide esterase"
+      },
+      {
+        "name": "Thiosulfate sulfurtransferase"
+      },
+      {
+        "name": "Prostaglandin E synthase 2"
+      },
+      {
+        "name": "Estradiol 17-beta-dehydrogenase 8"
+      },
+      {
+        "name": "ADP-sugar pyrophosphatase"
+      },
+      {
+        "name": "Pentatricopeptide repeat domain-containing protein 3"
+      },
+      {
+        "name": "Seryl-tRNA synthetase 2, mitochondrial"
+      },
+      {
+        "name": "Isoleucyl-tRNA synthetase 2, mitochondrial precursor"
+      },
+      {
+        "name": "Elongation factor G, mitochondrial"
+      },
+      {
+        "name": "Apoptosis regulator Bcl-2"
+      },
+      {
+        "name": "Mitochondrial fission 1 protein"
+      },
+      {
+        "name": "NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4"
+      },
+      {
+        "name": "NADH dehydrogenase [ubiquinone] 1 subunit C2"
+      },
+      {
+        "name": "Peptidyl-tRNA hydrolase 2, mitochondrial"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "spliceosome"
+      },
+      {
+        "name": "transcription"
+      },
+      {
+        "name": "HLA genes"
+      },
+      {
+        "name": "PRDX2"
+      },
+      {
+        "name": "PSMB9"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "immune system processes"
+      },
+      {
+        "name": "molecular pathways"
+      },
+      {
+        "name": "immune response/inflammatory pathways"
+      },
+      {
+        "name": "Immune System"
+      },
+      {
+        "name": "Reactome (HSA-168256)"
+      },
+      {
+        "name": "Immune System"
+      },
+      {
+        "name": "HSA-168256"
+      },
+      {
+        "name": "Cytokine Signaling in Immune system"
+      },
+      {
+        "name": "Natural killer cell mediated cytotoxicity"
+      },
+      {
+        "name": "Epstein–Barr virus infection"
+      },
+      {
+        "name": "gene expression"
+      },
+      {
+        "name": "RNA splicing"
+      },
+      {
+        "name": "RNA Polymerase II Transcription"
+      },
+      {
+        "name": "Reactome pathways"
+      },
+      {
+        "name": "Immune System"
+      },
+      {
+        "name": "Innate Immune System"
+      },
+      {
+        "name": "Cytokine Signaling in Immune system"
+      },
+      {
+        "name": "DAP12 interactions"
+      },
+      {
+        "name": "Infectious disease"
+      },
+      {
+        "name": "SARS-CoV Infections"
+      },
+      {
+        "name": "Natural killer cell mediated cytotoxicity"
+      },
+      {
+        "name": "Fc epsilon RI signaling pathway"
+      },
+      {
+        "name": "Epstein-Barr virus infection"
+      },
+      {
+        "name": "Human immunodeficiency virus 1 infection"
+      },
+      {
+        "name": "antigen processing and presentation exogenous peptide antigen via MHC class 1b"
+      },
+      {
+        "name": "protection from NKC mediated cytotoxicity"
+      },
+      {
+        "name": "immune system process—platelet activation, signalling and aggregation"
+      },
+      {
+        "name": "gene expression and metabolism—translation, RNA metabolism, protein metabolism and cellular response to stress"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "vesicle-mediated transport"
+      },
+      {
+        "name": "Gene Ontology (GO) aspect of Cellular Compartment"
+      },
+      {
+        "name": "KEGG pathways"
+      },
+      {
+        "name": "Reactome pathways"
+      },
+      {
+        "name": "Reactome HSA-168256"
+      },
+      {
+        "name": "Reactome HSA-983170"
+      },
+      {
+        "name": "Reactome HSA-1280215"
+      },
+      {
+        "name": "Reactome HSA-76002E"
+      },
+      {
+        "name": "Reactome HSA-72766"
+      },
+      {
+        "name": "Reactome HSA-8953854"
+      },
+      {
+        "name": "Reactome HSA-392499"
+      },
+      {
+        "name": "Reactome HSA-2262752"
+      },
+      {
+        "name": "pathways"
+      },
+      {
+        "name": "mitochondrial metabolism"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "Reactome"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "biochemical pathways"
+      },
+      {
+        "name": "inflammatory pathways"
+      },
+      {
+        "name": "Glutamate metabolism"
+      },
+      {
+        "name": "Glyoxylate metabolism"
+      },
+      {
+        "name": "Serine and Vitamin metabolism"
+      },
+      {
+        "name": "Pyruvate metabolism"
+      },
+      {
+        "name": "ROS and GSH metabolism"
+      },
+      {
+        "name": "Xenobiotic metabolism"
+      },
+      {
+        "name": "Sulfur metabolism"
+      },
+      {
+        "name": "Eicosanoid metabolism"
+      },
+      {
+        "name": "Cholesterol, bile acid, steroid synthesis"
+      },
+      {
+        "name": "Nucleotide synthesis and processing"
+      },
+      {
+        "name": "Mitochondrial ribosome"
+      },
+      {
+        "name": "mt-tRNA synthetases"
+      },
+      {
+        "name": "Translation factors"
+      },
+      {
+        "name": "Apoptosis"
+      },
+      {
+        "name": "Fission"
+      },
+      {
+        "name": "OXPHOS assembly factors"
+      },
+      {
+        "name": "OXPHOS subunits"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "small molecule drugs"
+      },
+      {
+        "name": "iodoacetamide"
+      },
+      {
+        "name": "Mycophenolic acid"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "dysautonomia"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-COV-2"
+      },
+      {
+        "name": "Epstein-Barr virus"
+      },
+      {
+        "name": "HIV infections"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "post-viral fatigue syndrome"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "LC"
+      }
+    ]
+  }
+}

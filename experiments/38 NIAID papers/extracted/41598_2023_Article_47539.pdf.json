@@ -1,0 +1,712 @@
+{
+  "meta": {
+    "title": "Dysregulations in hemostasis, metabolism, immune response, and angiogenesis in post‑acute COVID‑19 syndrome with and without postural orthostatic tachycardia syndrome: a multi‑omic profiling study",
+    "journal": "Scientific Reports",
+    "year": 2023,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41598-023-47539-1",
+    "authors": [
+      {
+        "firstname": "Ali",
+        "middle_initial": null,
+        "surname": "Mahdi",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "Allan",
+        "middle_initial": null,
+        "surname": "Zhao",
+        "affiliation": "Department of Physiology and Pharmacology, Karolinska Institutet, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Emelie",
+        "middle_initial": null,
+        "surname": "Fredengren",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "Artur",
+        "middle_initial": null,
+        "surname": "Fedorowski",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "Frieder",
+        "middle_initial": null,
+        "surname": "Braunschweig",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "Malin",
+        "middle_initial": null,
+        "surname": "Nygren‑Bonnier",
+        "affiliation": "Division of Physiotherapy, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Michael",
+        "middle_initial": null,
+        "surname": "Runold",
+        "affiliation": "Department of Respiratory Medicine and Allergy, Karolinska University Hospital, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Judith",
+        "middle_initial": null,
+        "surname": "Bruchfeld",
+        "affiliation": "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Jannike",
+        "middle_initial": null,
+        "surname": "Nickander",
+        "affiliation": "Department of Clinical Physiology, Karolinska University Hospital, and Karolinska Institutet, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Qiaolin",
+        "middle_initial": null,
+        "surname": "Deng",
+        "affiliation": "Department of Physiology and Pharmacology, Karolinska Institutet, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Antonio",
+        "middle_initial": null,
+        "surname": "Checa",
+        "affiliation": "Unit of Integrative Metabolomics, Institute of Environmental Medicine, Karolinska Institute, Stockholm, Sweden."
+      },
+      {
+        "firstname": "Liyew",
+        "middle_initial": null,
+        "surname": "Desta",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "John",
+        "middle_initial": null,
+        "surname": "Pernow",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      },
+      {
+        "firstname": "Marcus",
+        "middle_initial": null,
+        "surname": "Ståhlberg",
+        "affiliation": "Department of Medicine; Solna, Karolinska Institute, 171 77 Stockholm, Sweden."
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "GlcCer"
+      },
+      {
+        "name": "GalCer"
+      },
+      {
+        "name": "sphingosine (d18:1)"
+      },
+      {
+        "name": "sphingosine (d16:1)"
+      },
+      {
+        "name": "sphingosine 1-phosphate (S1P)"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "S1P"
+      },
+      {
+        "name": "S1P"
+      },
+      {
+        "name": "Cer(d18:1/16:0)"
+      },
+      {
+        "name": "Cer(d18:1/18:0)"
+      },
+      {
+        "name": "Cer(d18:1/24:1)"
+      },
+      {
+        "name": "Cer(d18:1/24:0)"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "sphingosine-1-phosphate"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "molecular lipid species"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "cardiometabolic proteins"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "chemokines"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "cardiometabolic proteins"
+      },
+      {
+        "name": "cardiometabolic plasma proteins"
+      },
+      {
+        "name": "proinflammatory cytokines"
+      },
+      {
+        "name": "chemokines"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "chemokines"
+      },
+      {
+        "name": "204 proteins"
+      },
+      {
+        "name": "201 proteins"
+      },
+      {
+        "name": "Caspase 3"
+      },
+      {
+        "name": "DIABLO"
+      },
+      {
+        "name": "vascular endothelial growth factor-A"
+      },
+      {
+        "name": "epidermal growth factor"
+      },
+      {
+        "name": "SERPINE1"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "Caspase 3"
+      },
+      {
+        "name": "DIABLO"
+      },
+      {
+        "name": "pro-inflammatory proteins"
+      },
+      {
+        "name": "pro-inflammatory proteins"
+      },
+      {
+        "name": "CCL8"
+      },
+      {
+        "name": "CCL13"
+      },
+      {
+        "name": "CXCL11"
+      },
+      {
+        "name": "VEGF-A"
+      },
+      {
+        "name": "EGF"
+      },
+      {
+        "name": "TNFSF12"
+      },
+      {
+        "name": "PDGF-A"
+      },
+      {
+        "name": "dysregulated proteins"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "endothelial nitric oxide synthase"
+      },
+      {
+        "name": "S1PR1"
+      },
+      {
+        "name": "interferon-inducible T cell alpha chemoattractant (I-TAC)"
+      },
+      {
+        "name": "antiplasmin"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "C-C Motif chemokine 8"
+      },
+      {
+        "name": "PDGFR-alpha"
+      },
+      {
+        "name": "PDGFR-beta"
+      },
+      {
+        "name": "TWEAK"
+      },
+      {
+        "name": "Fn14"
+      },
+      {
+        "name": "G protein-coupled receptors"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "hemostasis/coagulation"
+      },
+      {
+        "name": "metabolism"
+      },
+      {
+        "name": "immune responses"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "key signaling pathways"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "inflammation"
+      },
+      {
+        "name": "immune system-related signaling"
+      },
+      {
+        "name": "metabolism"
+      },
+      {
+        "name": "hemostasis"
+      },
+      {
+        "name": "inflammation"
+      },
+      {
+        "name": "amino acid metabolism"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "coagulation pathways"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "hemostasis"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "hemostasis"
+      },
+      {
+        "name": "T-cell proliferation"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "angiotensin II-induced hypertension"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "atherosclerotic plaque inflammation"
+      },
+      {
+        "name": "sphingolipid metabolism and signaling"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "ammonium formate"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "ivabradine"
+      },
+      {
+        "name": "SSRI"
+      },
+      {
+        "name": "Ivabradine"
+      },
+      {
+        "name": "β-blockers"
+      },
+      {
+        "name": "Ca2+ channel blockers"
+      },
+      {
+        "name": "SSRI"
+      },
+      {
+        "name": "Inhalation steroids"
+      },
+      {
+        "name": "Sedative and hypnotics"
+      },
+      {
+        "name": "anti-viral treatment"
+      },
+      {
+        "name": "anti-inflammatory therapies"
+      },
+      {
+        "name": "immunotherapies"
+      },
+      {
+        "name": "anticoagulants"
+      },
+      {
+        "name": "Sulodexide"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiovascular complications"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "autoimmune disease"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "immunosuppressive treatment"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "PACS-POTS"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "healthy controls"
+      },
+      {
+        "name": "encephalomyelitis/chronic fatigue syndrome"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes mellitus"
+      },
+      {
+        "name": "Asthma"
+      },
+      {
+        "name": "Depression/anxiety/clinical burnout"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "EDS"
+      },
+      {
+        "name": "Hypothyroidism"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "microvascular dysfunction (MVD)"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19"
+      },
+      {
+        "name": "cardiovascular autonomic dysfunction"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Long-COVID syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "chronic fatigue"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome"
+      },
+      {
+        "name": "long-COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID syndrome"
+      },
+      {
+        "name": "Dysautonomia"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "liver disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID/post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "vascular dysfunction"
+      },
+      {
+        "name": "postural orthostatic tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "coronary artery disease"
+      },
+      {
+        "name": "acute coronary syndromes"
+      },
+      {
+        "name": "thromboembolism"
+      },
+      {
+        "name": "hypercoagulopathy"
+      },
+      {
+        "name": "antiphospholipid syndrome"
+      }
+    ]
+  }
+}

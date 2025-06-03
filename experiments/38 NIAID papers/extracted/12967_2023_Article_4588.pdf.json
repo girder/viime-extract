@@ -1,0 +1,914 @@
+{
+  "meta": {
+    "title": "Genetic risk factors for severe and fatigue dominant long COVID and commonalities with ME/CFS identified by combinatorial analysis",
+    "journal": "Journal of Translational Medicine",
+    "year": 2023,
+    "volume": "21",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s12967-023-04588-4",
+    "authors": [
+      {
+        "firstname": "Krystyna",
+        "middle_initial": null,
+        "surname": "Taylor",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Matthew",
+        "middle_initial": null,
+        "surname": "Pearson",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Sayoni",
+        "middle_initial": null,
+        "surname": "Das",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Jason",
+        "middle_initial": null,
+        "surname": "Sardell",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Karolina",
+        "middle_initial": null,
+        "surname": "Chocian",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Steve",
+        "middle_initial": null,
+        "surname": "Gardner",
+        "affiliation": "1"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "D-2-hydroxyglutarate"
+      },
+      {
+        "name": "alpha-ketoglutarate"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "eosinophil"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "D2HGDH"
+      },
+      {
+        "name": "GUCY1A2"
+      },
+      {
+        "name": "PCSK2"
+      },
+      {
+        "name": "CCDC146"
+      },
+      {
+        "name": "PGPEP1"
+      },
+      {
+        "name": "ANKRD6"
+      },
+      {
+        "name": "LYRM2"
+      },
+      {
+        "name": "POR"
+      },
+      {
+        "name": "RRBP1"
+      },
+      {
+        "name": "SPTBN5"
+      },
+      {
+        "name": "TNIK"
+      },
+      {
+        "name": "TNS1"
+      },
+      {
+        "name": "TPST1"
+      },
+      {
+        "name": "ADIPOQ"
+      },
+      {
+        "name": "NOL4"
+      },
+      {
+        "name": "PDE6C"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Transcription factor, v-ets avian erythroblastosis virus E26 oncogene homolog 1"
+      },
+      {
+        "name": "Glypican 6"
+      },
+      {
+        "name": "Guanylate cyclase 1, soluble, alpha 2"
+      },
+      {
+        "name": "Membrane-associated ring finder, E3 ubiquitin protein ligase"
+      },
+      {
+        "name": "SRY (sex determining region Y)-box 5"
+      },
+      {
+        "name": "Teneurin transmembrane protein 3"
+      },
+      {
+        "name": "Toll-like receptor 4"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Cholesteryl ester transfer protein"
+      },
+      {
+        "name": "Complexin 4"
+      },
+      {
+        "name": "GTPase, deleted in liver cancer 1"
+      },
+      {
+        "name": "Down syndrome cell adhesion molecule"
+      },
+      {
+        "name": "Novel protein"
+      },
+      {
+        "name": "Uncharacterized protein"
+      },
+      {
+        "name": "Transcription factor, v-ets avian erythroblastosis virus E26 oncogene homolog 1"
+      },
+      {
+        "name": "Membrane-associated ring finger, ubiquitin protein ligase"
+      },
+      {
+        "name": "Nucleolar protein 4"
+      },
+      {
+        "name": "Phosphodiesterase 6C, cGMP-specific"
+      },
+      {
+        "name": "Pyroglutamyl-peptidase I"
+      },
+      {
+        "name": "Sorting nexin 9"
+      },
+      {
+        "name": "Toll-like receptor 4"
+      },
+      {
+        "name": "ATP-binding cassette"
+      },
+      {
+        "name": "Acyl-coA thioesterase"
+      },
+      {
+        "name": "Ankyrin repeat domain 6"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "SARS-CoV-2 Spike protein"
+      },
+      {
+        "name": "NK cell"
+      },
+      {
+        "name": "c-Jun N-terminal kinase (JNK)"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "genetic variants"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "FOXP4"
+      },
+      {
+        "name": "SNP"
+      },
+      {
+        "name": "GRCh38"
+      },
+      {
+        "name": "critical SNP"
+      },
+      {
+        "name": "interacting SNP"
+      },
+      {
+        "name": "SNPs"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "SNPs"
+      },
+      {
+        "name": "genes"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Severe and Fatigue"
+      },
+      {
+        "name": "AC005005.1"
+      },
+      {
+        "name": "D2HGDH"
+      },
+      {
+        "name": "GUCY1A2"
+      },
+      {
+        "name": "PCSK2"
+      },
+      {
+        "name": "CCDC146"
+      },
+      {
+        "name": "PGPEP1"
+      },
+      {
+        "name": "ADIPOQ"
+      },
+      {
+        "name": "CLOCK"
+      },
+      {
+        "name": "SLC15A4"
+      },
+      {
+        "name": "GPC5"
+      },
+      {
+        "name": "ATP9A"
+      },
+      {
+        "name": "INSR"
+      },
+      {
+        "name": "USP6NL"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "ADIPOQ"
+      },
+      {
+        "name": "DLC1"
+      },
+      {
+        "name": "NOL4"
+      },
+      {
+        "name": "PDE6C"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "ADIPOQ"
+      },
+      {
+        "name": "APCDD1"
+      },
+      {
+        "name": "ETS1"
+      },
+      {
+        "name": "GPC6"
+      },
+      {
+        "name": "GUCY1A2"
+      },
+      {
+        "name": "MARCH8"
+      },
+      {
+        "name": "SOX5"
+      },
+      {
+        "name": "TENM3"
+      },
+      {
+        "name": "ADIPOQ"
+      },
+      {
+        "name": "C1orf50"
+      },
+      {
+        "name": "CETP"
+      },
+      {
+        "name": "CPLX4"
+      },
+      {
+        "name": "DLC1"
+      },
+      {
+        "name": "DSCAML1"
+      },
+      {
+        "name": "ENSG00000283580"
+      },
+      {
+        "name": "ENSG00000285082"
+      },
+      {
+        "name": "ETS1"
+      },
+      {
+        "name": "MARCH8"
+      },
+      {
+        "name": "NOL4"
+      },
+      {
+        "name": "PDE6C"
+      },
+      {
+        "name": "PGPEP1"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "ABCA9"
+      },
+      {
+        "name": "ACOT12"
+      },
+      {
+        "name": "ANKRD6"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "ALS"
+      },
+      {
+        "name": "SNX9"
+      },
+      {
+        "name": "KLF15"
+      },
+      {
+        "name": "RYR3"
+      },
+      {
+        "name": "DLC1"
+      },
+      {
+        "name": "TLR4"
+      },
+      {
+        "name": "genes"
+      },
+      {
+        "name": "ATP9A"
+      },
+      {
+        "name": "INSR"
+      },
+      {
+        "name": "SLC15A4"
+      },
+      {
+        "name": "ATP9A"
+      },
+      {
+        "name": "INSR"
+      },
+      {
+        "name": "CLOCK"
+      },
+      {
+        "name": "SLC15A4"
+      },
+      {
+        "name": "GPC5"
+      },
+      {
+        "name": "NLGN1"
+      },
+      {
+        "name": "long COVID"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "biological mechanisms"
+      },
+      {
+        "name": "myeloid differentiation"
+      },
+      {
+        "name": "macrophage foam cells"
+      },
+      {
+        "name": "MAPK/JNK signaling"
+      },
+      {
+        "name": "pathophysiological mechanisms"
+      },
+      {
+        "name": "biological processes"
+      },
+      {
+        "name": "MAPK signaling"
+      },
+      {
+        "name": "oxidative stress pathway"
+      },
+      {
+        "name": "cellular respiration"
+      },
+      {
+        "name": "myeloid differentiation"
+      },
+      {
+        "name": "macrophage foam cells"
+      },
+      {
+        "name": "lipid signaling"
+      },
+      {
+        "name": "JNK/MAPK signaling cascades"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "biological processes"
+      },
+      {
+        "name": "foam cell differentiation"
+      },
+      {
+        "name": "coagulation pathways"
+      },
+      {
+        "name": "MAPK signaling cascades"
+      },
+      {
+        "name": "JNK signaling pathway"
+      },
+      {
+        "name": "Type 2 diabetes-related signaling pathways"
+      },
+      {
+        "name": "macrophage foam cell differentiation"
+      },
+      {
+        "name": "SARS-CoV-2 host response"
+      },
+      {
+        "name": "circadian rhythm"
+      },
+      {
+        "name": "pathways associated with mental or behavioral disease"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "TLR4 antagonists"
+      },
+      {
+        "name": "Paridiprubart"
+      },
+      {
+        "name": "TLR4 antagonists"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "cardiovascular issues"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "cancers"
+      },
+      {
+        "name": "rare genetic disorders"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "neurological disorders"
+      },
+      {
+        "name": "cardiometabolic diseases"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Post-acute sequelae of COVID-19"
+      },
+      {
+        "name": "Post-Covid"
+      },
+      {
+        "name": "Post-acute COVID syndrome"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "severe COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic diseases"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "neurological diseases"
+      },
+      {
+        "name": "metabolic diseases"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Asthma"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "Coronary artery disease"
+      },
+      {
+        "name": "Chronic fatigue syndrome"
+      },
+      {
+        "name": "Diabetes type 1"
+      },
+      {
+        "name": "Diabetes type 2"
+      },
+      {
+        "name": "Heart attack"
+      },
+      {
+        "name": "Irritable bowel syndrome"
+      },
+      {
+        "name": "Kidney disease"
+      },
+      {
+        "name": "Liver disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "anxiety or panic attacks"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "asthma"
+      },
+      {
+        "name": "eczema"
+      },
+      {
+        "name": "migraines"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "postural tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "disease"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "neurodegenerative disorders"
+      },
+      {
+        "name": "mental disorders"
+      },
+      {
+        "name": "behavioural disorders"
+      },
+      {
+        "name": "cardiovascular diseases"
+      },
+      {
+        "name": "gastrointestinal diseases"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "metabolic diseases"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "neurodegenerative disease"
+      },
+      {
+        "name": "mental or behavioral disease"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "gastrointestinal disease"
+      },
+      {
+        "name": "autoimmune disease"
+      },
+      {
+        "name": "metabolic disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Severe COVID-19"
+      },
+      {
+        "name": "Fatigue"
+      },
+      {
+        "name": "Severe COVID-19"
+      },
+      {
+        "name": "Fatigue"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Acute Respiratory Distress Syndrome"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "severe acute COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "metabolic diseases"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "systemic lupus erythematosus"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "acute respiratory distress syndrome (ARDS)"
+      },
+      {
+        "name": "atherosclerosis"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "major depressive disorder"
+      },
+      {
+        "name": "anxiety disorder"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "POTS"
+      }
+    ]
+  }
+}

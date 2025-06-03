@@ -1,0 +1,1478 @@
+{
+  "meta": {
+    "title": "Blood–brain barrier disruption and sustained systemic inflammation in individuals with long COVID-associated cognitive impairment",
+    "journal": "Nature Neuroscience",
+    "year": 2024,
+    "volume": "27",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41593-024-01576-9",
+    "authors": [
+      {
+        "firstname": "Chris",
+        "middle_initial": null,
+        "surname": "Greene",
+        "affiliation": "Smurfit Institute of Genetics, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Ruairi",
+        "middle_initial": null,
+        "surname": "Connolly",
+        "affiliation": "Department of Neurology, Health Care Centre, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Declan",
+        "middle_initial": null,
+        "surname": "Brennan",
+        "affiliation": "Department of Neurology, Health Care Centre, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Aoife",
+        "middle_initial": null,
+        "surname": "Laffan",
+        "affiliation": "Department of Neurology, Health Care Centre, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Eoin",
+        "middle_initial": "O’Keeffe",
+        "surname": "O’Keeffe",
+        "affiliation": "Smurfit Institute of Genetics, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Lilia",
+        "middle_initial": null,
+        "surname": "Zaporojan",
+        "affiliation": "Department of Neurology, Health Care Centre, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Jeffrey",
+        "middle_initial": "O’Callaghan",
+        "surname": "O’Callaghan",
+        "affiliation": "Smurfit Institute of Genetics, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Bennett",
+        "middle_initial": null,
+        "surname": "Thomson",
+        "affiliation": "Smurfit Institute of Genetics, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Emma",
+        "middle_initial": null,
+        "surname": "Connolly",
+        "affiliation": "The Irish Longitudinal Study on Ageing, School of Medicine, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Ruth",
+        "middle_initial": null,
+        "surname": "Argue",
+        "affiliation": "Clinical Research Facility, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "James F. M.",
+        "middle_initial": null,
+        "surname": "Meaney",
+        "affiliation": "Thomas Mitchell Centre for Advanced Medical Imaging (CAMI), St. James’s Hospital & Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Ignacio",
+        "middle_initial": null,
+        "surname": "Martin-Loeches",
+        "affiliation": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organization, Trinity Centre for Health Sciences, St James’s University Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Aideen",
+        "middle_initial": null,
+        "surname": "Long",
+        "affiliation": "Trinity Translational Medicine Institute, Trinity College Dublin, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Cliona",
+        "middle_initial": "Ni Cheallaigh",
+        "surname": "Ni Cheallaigh",
+        "affiliation": "Trinity Translational Medicine Institute, Trinity College Dublin, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Niall",
+        "middle_initial": null,
+        "surname": "Conlon",
+        "affiliation": "Department of Immunology, St James’s Hospital, Dublin, Ireland"
+      },
+      {
+        "firstname": "Colin P.",
+        "middle_initial": null,
+        "surname": "Doherty",
+        "affiliation": "Academic Unit of Neurology, Biomedical Sciences Institute, Trinity College Dublin, Dublin, Ireland"
+      },
+      {
+        "firstname": "Matthew",
+        "middle_initial": null,
+        "surname": "Campbell",
+        "affiliation": "FutureNeuro, Science Foundation Ireland Research Centre for Chronic and Rare Neurological Diseases, Royal College of Surgeons in Ireland, University of Medicine and Health Sciences, Dublin, Ireland"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "tumor necrosis factor (TNF)"
+      },
+      {
+        "name": "interleukin-6 (IL-6)"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "plasma protein S"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "PAI-1"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "etylanA"
+      },
+      {
+        "name": "vitamin A"
+      },
+      {
+        "name": "Q-albumin"
+      },
+      {
+        "name": "dimethyl-sulfoxide"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "interferon-γ"
+      },
+      {
+        "name": "interleukin-6"
+      },
+      {
+        "name": "interleukin-1β"
+      },
+      {
+        "name": "interleukin-1RA"
+      },
+      {
+        "name": "interleukin-8"
+      },
+      {
+        "name": "10 kDa interferon"
+      },
+      {
+        "name": "interleukin-1RA"
+      },
+      {
+        "name": "interleukin-8"
+      },
+      {
+        "name": "gamma-induced protein (IP-10)"
+      },
+      {
+        "name": "granulocyte colony-stimulating factor (G-CSF)"
+      },
+      {
+        "name": "granulocyte-macrophage colony-stimulating factor (GM-CSF)"
+      },
+      {
+        "name": "plasminogen activator inhibitor-1 (PAI-1)"
+      },
+      {
+        "name": "protein C"
+      },
+      {
+        "name": "protein S"
+      },
+      {
+        "name": "Von Willebrand factor (vWF)"
+      },
+      {
+        "name": "factor IX"
+      },
+      {
+        "name": "intercellular adhesion molecule 1 (ICAM-1)"
+      },
+      {
+        "name": "vascular cell adhesion protein 1 (VCAM-1)"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "basic fibroblast growth factor (bFGF)"
+      },
+      {
+        "name": "interleukin-13 (IL-13)"
+      },
+      {
+        "name": "monocyte chemoattractant protein-1 (MCP-1)"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "Factor IX"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "ECM-1"
+      },
+      {
+        "name": "PAI1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "BDNF"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "MIP-1α"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "bFGF"
+      },
+      {
+        "name": "Eotaxin"
+      },
+      {
+        "name": "IL-1B"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "IL-5"
+      },
+      {
+        "name": "IL-1RA"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "MIP-1β"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "MIP-1β"
+      },
+      {
+        "name": "BDNF"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "MIP-1α"
+      },
+      {
+        "name": "PAI1"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "bFGF"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "Streptavidin-phycoerythrin"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "IL-1B"
+      },
+      {
+        "name": "Eotaxin"
+      },
+      {
+        "name": "bFGF"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "MIP-1α"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "IL-12p20"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "IL-9"
+      },
+      {
+        "name": "BDNF"
+      },
+      {
+        "name": "TGFβ"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "Factor IX"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "IL-1RA"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "bFGF"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "PF4V1"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "TGFβ"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "ICAM1"
+      },
+      {
+        "name": "VCAM1"
+      },
+      {
+        "name": "S protein"
+      },
+      {
+        "name": "S1 spike protein"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "PAI1"
+      },
+      {
+        "name": "ECM-1"
+      },
+      {
+        "name": "UCHL1"
+      },
+      {
+        "name": "MIP-1β"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "IL-1RA"
+      },
+      {
+        "name": "IL-5"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "IL-1B"
+      },
+      {
+        "name": "Eotaxin"
+      },
+      {
+        "name": "bFGF"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "PDGF-BB"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "PF4V1"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "SELP"
+      },
+      {
+        "name": "PER1"
+      },
+      {
+        "name": "NR1D2"
+      },
+      {
+        "name": "RORA"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "F13A1"
+      },
+      {
+        "name": "PROS1"
+      },
+      {
+        "name": "F2R"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "PF4V1"
+      },
+      {
+        "name": "SELP"
+      },
+      {
+        "name": "VCL"
+      },
+      {
+        "name": "CLU"
+      },
+      {
+        "name": "ZNF394"
+      },
+      {
+        "name": "MED20"
+      },
+      {
+        "name": "SNX1"
+      },
+      {
+        "name": "SNHG5"
+      },
+      {
+        "name": "DHRS9"
+      },
+      {
+        "name": "WAKMAR2"
+      },
+      {
+        "name": "PIK3R1"
+      },
+      {
+        "name": "PDE4D"
+      },
+      {
+        "name": "SNAI1"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "TGFβ"
+      },
+      {
+        "name": "ZFP36L2"
+      },
+      {
+        "name": "ATG16L1"
+      },
+      {
+        "name": "ATG2A"
+      },
+      {
+        "name": "S protein"
+      },
+      {
+        "name": "extracellular vimentin"
+      },
+      {
+        "name": "Neuropilin-1"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "Claudin-5"
+      },
+      {
+        "name": "S100B"
+      },
+      {
+        "name": "SARS CoV-2 S1 protein"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "S100B"
+      },
+      {
+        "name": "SARS-CoV-2 spike protein"
+      },
+      {
+        "name": "transforming growth factor-β"
+      },
+      {
+        "name": "NEMO"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "Biotin-Antibody Cocktail"
+      },
+      {
+        "name": "streptavidin-phycoerythrin"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "PECAM-1"
+      },
+      {
+        "name": "β-actin"
+      },
+      {
+        "name": "MitoTracker Orange"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "TGFβ"
+      },
+      {
+        "name": "Phospho-Tau"
+      },
+      {
+        "name": "human tissue factor"
+      },
+      {
+        "name": "human D-dimer"
+      },
+      {
+        "name": "human plasminogen activator inhibitor-1"
+      },
+      {
+        "name": "human UCH-L1"
+      },
+      {
+        "name": "human VCAM-1"
+      },
+      {
+        "name": "human ICAM-1"
+      },
+      {
+        "name": "human ECM-1"
+      },
+      {
+        "name": "human VEGF"
+      },
+      {
+        "name": "human BDNF"
+      },
+      {
+        "name": "Recombinant SARS-CoV-2 Spike S1 Subunit"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "PAI-1"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "sVCAM1"
+      },
+      {
+        "name": "sICAM-1"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "BDNF"
+      },
+      {
+        "name": "IL-9"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "10 kDa interferon gamma-induced protein"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "Factor IX"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "Tissue Factor"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "PAI-1"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "S100β"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "IL-1B"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "Factor IX"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "Protein S"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "D-dimer"
+      },
+      {
+        "name": "PAI-1"
+      },
+      {
+        "name": "VCAM-1"
+      },
+      {
+        "name": "Tissue Factor"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "VCAM1"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "TGFB1"
+      },
+      {
+        "name": "MCP1"
+      },
+      {
+        "name": "SNAI1"
+      },
+      {
+        "name": "GFbeta"
+      },
+      {
+        "name": "GFAP"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "PRDM1"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "SMAD3"
+      },
+      {
+        "name": "SNAI1"
+      },
+      {
+        "name": "SMURF1"
+      },
+      {
+        "name": "HES1"
+      },
+      {
+        "name": "DLL1"
+      },
+      {
+        "name": "HIF1A"
+      },
+      {
+        "name": "PF4V1"
+      },
+      {
+        "name": "PF4"
+      },
+      {
+        "name": "TREML1"
+      },
+      {
+        "name": "F13A1"
+      },
+      {
+        "name": "GP1BA"
+      },
+      {
+        "name": "GP1BB"
+      },
+      {
+        "name": "RUNX3"
+      },
+      {
+        "name": "IFNG"
+      },
+      {
+        "name": "TNFSF9"
+      },
+      {
+        "name": "WASL"
+      },
+      {
+        "name": "ID2"
+      },
+      {
+        "name": "TNFAIP3"
+      },
+      {
+        "name": "RORA"
+      },
+      {
+        "name": "PER1"
+      },
+      {
+        "name": "NRIP1"
+      },
+      {
+        "name": "IGKV1–12"
+      },
+      {
+        "name": "IGKV1–17"
+      },
+      {
+        "name": "CX3CR1"
+      },
+      {
+        "name": "FCGR1BP"
+      },
+      {
+        "name": "HDAC9"
+      },
+      {
+        "name": "CD180"
+      },
+      {
+        "name": "MNDA"
+      },
+      {
+        "name": "DEGs"
+      },
+      {
+        "name": "DGAT2"
+      },
+      {
+        "name": "DHRS9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "IL6R"
+      },
+      {
+        "name": "PRDM1"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "gene expression"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "GSE251849"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "Regulation of leukocyte differentiation"
+      },
+      {
+        "name": "T cell differentiation"
+      },
+      {
+        "name": "Regulation of lymphocyte differentiation"
+      },
+      {
+        "name": "Heat generation"
+      },
+      {
+        "name": "Lymphocyte differentiation"
+      },
+      {
+        "name": "Mononuclear cell differentiation"
+      },
+      {
+        "name": "Regulation of hemopoiesis"
+      },
+      {
+        "name": "Regulation of heat generation"
+      },
+      {
+        "name": "Coagulation"
+      },
+      {
+        "name": "Blood coagulation"
+      },
+      {
+        "name": "Hemostasis"
+      },
+      {
+        "name": "Platelet activation"
+      },
+      {
+        "name": "TGFβ signaling"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "coagulation pathway"
+      },
+      {
+        "name": "T cell differentiation and activation"
+      },
+      {
+        "name": "negative regulation of the immune response"
+      },
+      {
+        "name": "circadian regulation of gene expression"
+      },
+      {
+        "name": "immunoglobulin production"
+      },
+      {
+        "name": "adaptive immune response"
+      },
+      {
+        "name": "B cell activation"
+      },
+      {
+        "name": "coagulation system"
+      },
+      {
+        "name": "T cell differentiation"
+      },
+      {
+        "name": "T cell activation"
+      },
+      {
+        "name": "Complement activation, classical pathway"
+      },
+      {
+        "name": "Membrane invagination"
+      },
+      {
+        "name": "Plasma membrane invagination"
+      },
+      {
+        "name": "Phagocytosis, recognition"
+      },
+      {
+        "name": "Immunoglobulin production"
+      },
+      {
+        "name": "Regulation of leukocyte differentiation"
+      },
+      {
+        "name": "T cell differentiation"
+      },
+      {
+        "name": "functional pathways of the human olfactory system"
+      },
+      {
+        "name": "TGFβ signaling"
+      },
+      {
+        "name": "biological processes subontology"
+      },
+      {
+        "name": "Gene Ontology"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "protease inhibitor"
+      },
+      {
+        "name": "gadobenate dimeglumine"
+      },
+      {
+        "name": "F1635"
+      },
+      {
+        "name": "E.Z.N.A. Total RNA Kit I"
+      },
+      {
+        "name": "SMART-Seq v4 Ultra Low Input RNA Kit"
+      },
+      {
+        "name": "Nextera XT DNA Library Preparation Kit"
+      },
+      {
+        "name": "Cutadapt"
+      },
+      {
+        "name": "Trim Galore"
+      },
+      {
+        "name": "RSEM"
+      },
+      {
+        "name": "tximport"
+      },
+      {
+        "name": "DESeq2"
+      },
+      {
+        "name": "GATK"
+      },
+      {
+        "name": "COVID-directed medication"
+      },
+      {
+        "name": "Alexa Fluor™ 488"
+      },
+      {
+        "name": "MitoTracker™ Orange"
+      },
+      {
+        "name": "ICAM-1 Monoclonal Antibody (1A29)"
+      },
+      {
+        "name": "TGF-beta-1 Antibody"
+      },
+      {
+        "name": "Anti GFAP monoclonal antibody"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome (ARDS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute COVID-induced brain fog"
+      },
+      {
+        "name": "neurological complications"
+      },
+      {
+        "name": "encephalopathy"
+      },
+      {
+        "name": "encephalitis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "anosmia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "epilepsy"
+      },
+      {
+        "name": "traumatic brain injury"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "anosmia"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "bipolar disorder"
+      },
+      {
+        "name": "systemic lupus erythematosus"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "coronavirus disease 2019 (COVID-19)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "postconcussive syndrome"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "traumatic brain injury"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "bipolar disorder"
+      },
+      {
+        "name": "systemic lupus erythematosus"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "epilepsy"
+      },
+      {
+        "name": "brain trauma"
+      },
+      {
+        "name": "neuropsychiatric disorder"
+      },
+      {
+        "name": "mild cognitive impairment"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "coronavirus disease (COVID-19)"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "anosmia"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "brain fog"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Brain Fog"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      }
+    ]
+  }
+}

@@ -59,8 +59,12 @@ def load_chebi_database(file: Path):
 @cli.command()
 @click.argument("metabolite_names_txt")
 @click.argument("chebi_database")
-@click.option("--measure")
-def name_to_chebi(metabolite_names_txt, chebi_database, measure="dice"):
+@click.option("--measure", default="dice", show_default=True)
+@click.option("--top-k", default=3, type=int, show_default=True)
+@click.option("--id-only", is_flag=True)
+def name_to_chebi(
+    metabolite_names_txt, chebi_database, measure="dice", top_k=3, id_only=False
+):
     metabolite_names_txt = Path(metabolite_names_txt)
     chebi_database = Path(chebi_database)
 
@@ -82,18 +86,20 @@ def name_to_chebi(metabolite_names_txt, chebi_database, measure="dice"):
 
         candidates = [heapq.heappop(heap) for _ in range(len(heap))][::-1]
         if len(candidates) == 0:
-            top_3 = "-"
+            print(f"{name}\t-")
             continue
         else:
-            # take the top 3
-            top_3 = "\t".join(
-                f"{chebi_name} {chebi_id}"
-                for score, chebi_name, chebi_id in candidates[:3]
-            )
-            top_score, top_name, top_chebi_id = candidates[0]
+            if id_only:
+                top_k_str = "\t".join(
+                    f"{chebi_id}" for score, chebi_name, chebi_id in candidates[:top_k]
+                )
+            else:
+                top_k_str = "\t".join(
+                    f"{chebi_name} {chebi_id}"
+                    for score, chebi_name, chebi_id in candidates[:top_k]
+                )
 
-        # print(f"{name}\t{top_3}")
-        print(f"{name}\t{top_name}\t{top_score}")
+        print(f"{name}\t{top_k_str}")
 
 
 @cli.command()

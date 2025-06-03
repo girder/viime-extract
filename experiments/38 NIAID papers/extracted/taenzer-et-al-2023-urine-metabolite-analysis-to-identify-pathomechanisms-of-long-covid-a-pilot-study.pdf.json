@@ -1,0 +1,772 @@
+{
+  "meta": {
+    "title": "Urine Metabolite Analysis to Identify Pathomechanisms of Long COVID: A Pilot Study",
+    "journal": "International Journal of Tryptophan Research",
+    "year": 2023,
+    "volume": "16",
+    "pubmed_id": null,
+    "doi_id": "10.1177/11786469231220781",
+    "authors": [
+      {
+        "firstname": "Maja",
+        "middle_initial": null,
+        "surname": "Taenzer",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Judith",
+        "middle_initial": "L",
+        "surname": "Löffler-Ragg",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Andrea",
+        "middle_initial": null,
+        "surname": "Schroll",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Pablo",
+        "middle_initial": null,
+        "surname": "Monfort-Lanzas",
+        "affiliation": "Institute of Medical Biochemistry, Biocenter, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Sabine",
+        "middle_initial": null,
+        "surname": "Engl",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Günter",
+        "middle_initial": null,
+        "surname": "Weiss",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Natascha",
+        "middle_initial": null,
+        "surname": "Brigo",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      },
+      {
+        "firstname": "Katharina",
+        "middle_initial": null,
+        "surname": "Kurz",
+        "affiliation": "Department of Internal Medicine II, Medical University of Innsbruck, Innsbruck, Austria."
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "gamma-aminobutyric acid (GABA)"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "catecholamines"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "gamma-aminobutyric acid (GABA)"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "catecholamines"
+      },
+      {
+        "name": "nicotinamide adenine dinucleotide (NAD)"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "niacin"
+      },
+      {
+        "name": "nicotinamide"
+      },
+      {
+        "name": "nicotinamide adenine dinucleotide"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "quinolonic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "nicotinic acid"
+      },
+      {
+        "name": "nicotinamide adenine dinucleotide"
+      },
+      {
+        "name": "cystathionine"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "noradrenaline"
+      },
+      {
+        "name": "adrenaline"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "gamma-aminobutyric acid"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "nicotinic acid"
+      },
+      {
+        "name": "methylmalonic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "Dopamine"
+      },
+      {
+        "name": "Serotonin"
+      },
+      {
+        "name": "GABA"
+      },
+      {
+        "name": "Glutamate"
+      },
+      {
+        "name": "Nicotinic acid"
+      },
+      {
+        "name": "NAD"
+      },
+      {
+        "name": "Cystathionine"
+      },
+      {
+        "name": "Methylmalonic acid"
+      },
+      {
+        "name": "Phenylalanine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "noradrenaline"
+      },
+      {
+        "name": "nicotinic acid"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "Creatinine"
+      },
+      {
+        "name": "Noradrenaline"
+      },
+      {
+        "name": "Cystathionine"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Kynurenic acid"
+      },
+      {
+        "name": "Quinolinic acid"
+      },
+      {
+        "name": "Nicotinic acid"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "GABA"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Kynurenic acid"
+      },
+      {
+        "name": "Quinolinic acid"
+      },
+      {
+        "name": "Neopterin"
+      },
+      {
+        "name": "Nicotinic acid"
+      },
+      {
+        "name": "SAM to SAH ratio"
+      },
+      {
+        "name": "3-OH-Kynurenine"
+      },
+      {
+        "name": "Kynurenine/Tryptophan"
+      },
+      {
+        "name": "Kynurenine-3-monooxygenase"
+      },
+      {
+        "name": "Phenylalanine"
+      },
+      {
+        "name": "Tyrosine"
+      },
+      {
+        "name": "Methylmalonic acid"
+      },
+      {
+        "name": "Noradrenaline"
+      },
+      {
+        "name": "nicotinic acid"
+      },
+      {
+        "name": "NAD"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "noradrenaline"
+      },
+      {
+        "name": "adrenaline"
+      },
+      {
+        "name": "GABA"
+      },
+      {
+        "name": "Glutamate"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3-OH kynurenine"
+      },
+      {
+        "name": "nicotinic acid"
+      },
+      {
+        "name": "NAD"
+      },
+      {
+        "name": "noradrenaline"
+      },
+      {
+        "name": "neopterin"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "NAD"
+      },
+      {
+        "name": "methylmalonic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "OH-kynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "nicotinamide"
+      },
+      {
+        "name": "dopamine"
+      },
+      {
+        "name": "catecholamines"
+      },
+      {
+        "name": "GABA"
+      },
+      {
+        "name": "3-OH-kynurenine"
+      },
+      {
+        "name": "picolinic acid"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "kynurenine 3-monooxygenase (KMO)"
+      },
+      {
+        "name": "kynurenine-3-monooxygenase"
+      },
+      {
+        "name": "kynurenine-3-monooxygenase (KMO)"
+      },
+      {
+        "name": "Catechol-O-methyltransferase (COMT)"
+      },
+      {
+        "name": "catechol-o-methytransferase (COMT)"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "IFN-gamma mediated pathway"
+      },
+      {
+        "name": "tryptophan pathway"
+      },
+      {
+        "name": "phenylalanine pathway"
+      },
+      {
+        "name": "IFN-γ-induced metabolic pathways"
+      },
+      {
+        "name": "IFN-γ-induced metabolic pathways"
+      },
+      {
+        "name": "tryptophan catabolism"
+      },
+      {
+        "name": "catecholamine formation"
+      },
+      {
+        "name": "IFN-γ-induced metabolic pathways"
+      },
+      {
+        "name": "IFN-γ-induced metabolic pathways"
+      },
+      {
+        "name": "IFN- mediated pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "vitamin B"
+      },
+      {
+        "name": "coenzyme Q10"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "phenylketonuria"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Crohn’s disease"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "neurodegenerative diseases"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "EBV-infection"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "HIV-infection"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+      },
+      {
+        "name": "myalgic encephalomyelitis"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "somatic stress disorders"
+      },
+      {
+        "name": "postural tachycardia syndrome"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long-COVID (LC)"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "PTSD"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "PTSD"
+      },
+      {
+        "name": "Chronic Fatigue Syndrome (CFS)"
+      },
+      {
+        "name": "sleep disorder"
+      },
+      {
+        "name": "Autonomic nervous system dysfunction"
+      },
+      {
+        "name": "Neurological symptoms"
+      },
+      {
+        "name": "Intestinal disorders"
+      },
+      {
+        "name": "Bladder disorders"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "neuroendocrine dysfunction"
+      },
+      {
+        "name": "immunological impairment"
+      },
+      {
+        "name": "Liver Cirrhosis (LC)"
+      },
+      {
+        "name": "Autonomic Dysfunction"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "post-infectious fatigue"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "major depression"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "acute central nervous system infections"
+      }
+    ]
+  }
+}

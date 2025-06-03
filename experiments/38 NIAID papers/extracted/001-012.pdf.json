@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "title": "Serum proteomic profiling reveals potential inflammatory biomarkers in long-COVID patients: a comparative analysis with healthy controls",
+    "journal": "European Review for Medical and Pharmacological Sciences",
+    "year": 2023,
+    "volume": "27",
+    "pubmed_id": null,
+    "doi_id": null,
+    "authors": [
+      {
+        "firstname": "M.C.",
+        "middle_initial": null,
+        "surname": "MEDORI",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "K.",
+        "middle_initial": null,
+        "surname": "DHULI",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "S.",
+        "middle_initial": null,
+        "surname": "TEZZELE",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "C.",
+        "middle_initial": null,
+        "surname": "MICHELETTI",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "P.E.",
+        "middle_initial": null,
+        "surname": "MALTESE",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "S.",
+        "middle_initial": null,
+        "surname": "CECCHIN",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      },
+      {
+        "firstname": "G.",
+        "middle_initial": null,
+        "surname": "BONETTI",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy; Department of Pharmaceutical Sciences, University of Perugia, Perugia, Italy"
+      },
+      {
+        "firstname": "F.",
+        "middle_initial": null,
+        "surname": "FIORETTI",
+        "affiliation": "Department of Medical and Surgical Specialities, Radiological Sciences and Public Health, University and Spedali Civili of Brescia, Brescia, Italy"
+      },
+      {
+        "firstname": "A.",
+        "middle_initial": null,
+        "surname": "CALZONI",
+        "affiliation": "Department of Medical and Surgical Specialities, Radiological Sciences and Public Health, University and Spedali Civili of Brescia, Brescia, Italy"
+      },
+      {
+        "firstname": "A.",
+        "middle_initial": null,
+        "surname": "PRADERIO",
+        "affiliation": "Department of Medical and Surgical Specialities, Radiological Sciences and Public Health, University and Spedali Civili of Brescia, Brescia, Italy"
+      },
+      {
+        "firstname": "M.G.",
+        "middle_initial": null,
+        "surname": "DE ANGELIS",
+        "affiliation": "Department of Medical and Surgical Specialities, Radiological Sciences and Public Health, University and Spedali Civili of Brescia, Brescia, Italy"
+      },
+      {
+        "firstname": "G.",
+        "middle_initial": null,
+        "surname": "ARABIA",
+        "affiliation": "Department of Medical and Surgical Specialties, Cardiology Unit, Radiological Sciences and Public Health, University of Brescia, Brescia, Italy"
+      },
+      {
+        "firstname": "K.",
+        "middle_initial": null,
+        "surname": "DONATO",
+        "affiliation": "MAGI EUREGIO, Bolzano, Italy"
+      },
+      {
+        "firstname": "L.",
+        "middle_initial": null,
+        "surname": "LORUSSO",
+        "affiliation": "UOC Neurology and Stroke Unit, ASST Lecco, Merate, Italy"
+      },
+      {
+        "firstname": "P.",
+        "middle_initial": null,
+        "surname": "MANGANOTTI",
+        "affiliation": "Clinical Unit of Neurology, Department of Medicine, Surgery and Health Sciences, Cattinara University Hospital ASUGI, University of Trieste, Trieste, Italy"
+      },
+      {
+        "firstname": "E.",
+        "middle_initial": null,
+        "surname": "CAPELLI",
+        "affiliation": "Department of Earth and Environmental Sciences and Centre for Health Technologies, University of Pavia, Pavia, Italy"
+      },
+      {
+        "firstname": "S.",
+        "middle_initial": null,
+        "surname": "CRISTONI",
+        "affiliation": "ISB Ion Source & Biotechnologies srl, Italy, Bresso, Milano, Italy"
+      },
+      {
+        "firstname": "S.",
+        "middle_initial": null,
+        "surname": "NODARI",
+        "affiliation": "Department of Pharmaceutical Sciences, University of Perugia, Perugia, Italy"
+      },
+      {
+        "firstname": "M.",
+        "middle_initial": null,
+        "surname": "BERTELLI",
+        "affiliation": "MAGI’S LAB, Rovereto, Trento, Italy"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Arachidonate"
+      },
+      {
+        "name": "Arachidonate 5-Lipoxygenase"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "serum proteome"
+      },
+      {
+        "name": "Sirtuin 1"
+      },
+      {
+        "name": "Natriuretic Peptide B"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Arachidonate 5-Lipoxygenase"
+      },
+      {
+        "name": "Anterior Gradient 2 Protein"
+      },
+      {
+        "name": "Halo Peptide ES-C18"
+      },
+      {
+        "name": "SANIST"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Endothelin Converting Enzyme 1"
+      },
+      {
+        "name": "Interferon Induced Transmembrane Protein 1"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Prostaglandin-Endoperoxide Synthase 2"
+      },
+      {
+        "name": "Pirin"
+      },
+      {
+        "name": "Prostaglandin Reductase 1"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "5-Lipoxygenase"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Endothelin-2"
+      },
+      {
+        "name": "antithrombin"
+      },
+      {
+        "name": "Sirtuin 1"
+      },
+      {
+        "name": "Natriuretic Peptide B"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Arachidonate 5-Lipoxygenase"
+      },
+      {
+        "name": "Anterior Gradient 2 Protein"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Endothelin Converting Enzyme 1"
+      },
+      {
+        "name": "Interferon Induced Transmembrane Protein 1"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Prostaglandin-Endoperoxide Synthase 2"
+      },
+      {
+        "name": "Pirin"
+      },
+      {
+        "name": "Prostaglandin Reductase 1"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Sirtuin-1"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Natriuretic Peptide B"
+      },
+      {
+        "name": "Endothelin Converting Enzyme 1"
+      },
+      {
+        "name": "Anterior Gradient 2 Protein"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Interferon Induced Transmembrane Protein 1"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Prostaglandin-Endoperoxide Synthase 2"
+      },
+      {
+        "name": "Pirin"
+      },
+      {
+        "name": "Prostaglandin Reductase 1"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "Interferon-Induced Transmembrane Protein 3"
+      },
+      {
+        "name": "Glucocorticoid Receptor"
+      },
+      {
+        "name": "Antithrombin"
+      },
+      {
+        "name": "Arachidonate 5-Lipoxygenase"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Sirtuin-1"
+      },
+      {
+        "name": "pirin"
+      },
+      {
+        "name": "Coenzyme Q2"
+      },
+      {
+        "name": "Translocase Inner Mitochondrial Membrane 50"
+      },
+      {
+        "name": "Adenosine Monophosphate Deaminase 1"
+      },
+      {
+        "name": "Interferon Induced Transmembrane Protein 1"
+      },
+      {
+        "name": "Angiotensin I Converting Enzyme"
+      },
+      {
+        "name": "Organic Cation Transporter 1"
+      },
+      {
+        "name": "Sirtuin 1"
+      },
+      {
+        "name": "Adiponectin"
+      },
+      {
+        "name": "Contactin 2"
+      },
+      {
+        "name": "Prostaglandin-Endoperoxide Synthase 2"
+      },
+      {
+        "name": "Anterior Gradient 2, Protein"
+      },
+      {
+        "name": "Translocase Inner Mitochondrial Membrane 23"
+      },
+      {
+        "name": "Pirin"
+      },
+      {
+        "name": "DNA Topoisomerase III Beta"
+      },
+      {
+        "name": "Endothelin-2"
+      },
+      {
+        "name": "Endothelin Converting Enzyme 1"
+      },
+      {
+        "name": "Carnitine Palmitoyltransferase 2"
+      },
+      {
+        "name": "Tumor Necrosis Factor-Alpha"
+      },
+      {
+        "name": "Transmembrane Serine Protease 2"
+      },
+      {
+        "name": "Dipeptidyl Peptidase 4"
+      },
+      {
+        "name": "VWF-Cleaving Protease"
+      },
+      {
+        "name": "Alpha-1 Antitrypsin"
+      },
+      {
+        "name": "Von Willebrand Factor"
+      },
+      {
+        "name": "Cystatin C"
+      },
+      {
+        "name": "Prostaglandin Reductase 1"
+      },
+      {
+        "name": "Growth Differentiation Factor 15"
+      },
+      {
+        "name": "PPARgamma Coactivator"
+      },
+      {
+        "name": "Mannose Binding Lectin 2"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Glucocorticoid Receptor"
+      },
+      {
+        "name": "Natriuretic Peptide B"
+      },
+      {
+        "name": "Antithrombin"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "inflammatory pathways"
+      },
+      {
+        "name": "arachidonic metabolization"
+      },
+      {
+        "name": "arachidonic pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Glucocorticoid receptor"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "multisystem inflammatory syndrome"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "myalgic encephalomyelitis"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "long-COVID syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID syndrome"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID syndrome"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "insomnia"
+      },
+      {
+        "name": "anxiety"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "dyspnea"
+      },
+      {
+        "name": "memory deficit"
+      },
+      {
+        "name": "tremors"
+      },
+      {
+        "name": "hair loss"
+      },
+      {
+        "name": "asthenia"
+      },
+      {
+        "name": "concentration deficit"
+      },
+      {
+        "name": "muscle aches"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "myocarditis"
+      },
+      {
+        "name": "pericarditis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Heart failure"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "SARS-COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      }
+    ]
+  }
+}

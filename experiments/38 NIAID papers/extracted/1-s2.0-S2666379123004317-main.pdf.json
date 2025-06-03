@@ -1,0 +1,1157 @@
+{
+  "meta": {
+    "title": "Sequential multi-omics analysis identifies clinical phenotypes and predictive biomarkers for long COVID",
+    "journal": "Cell Reports Medicine",
+    "year": 2023,
+    "volume": "4",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.xcrm.2023.101254",
+    "authors": [
+      {
+        "firstname": "Kaiming",
+        "middle_initial": null,
+        "surname": "Wang",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "firstname": "Mobin",
+        "middle_initial": null,
+        "surname": "Khoramjoo",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "firstname": "Karthik",
+        "middle_initial": null,
+        "surname": "Srinivasan",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "S.",
+        "surname": "Wishart",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "firstname": "Vinay",
+        "middle_initial": null,
+        "surname": "Prasad",
+        "affiliation": "University of Alberta"
+      },
+      {
+        "firstname": "Gavin",
+        "middle_initial": "Y.",
+        "surname": "Oudit",
+        "affiliation": "University of Alberta"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "tricarboxylic acid (TCA)"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "metabolome"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "Alanine, aspartate & glutamate metabolism"
+      },
+      {
+        "name": "Arginine biosynthesis"
+      },
+      {
+        "name": "D-Glutamine & D-Glutamate metabolism"
+      },
+      {
+        "name": "Arginine & proline metabolism"
+      },
+      {
+        "name": "Taurine & hypotaurine metabolism"
+      },
+      {
+        "name": "Citrate cycle (TCA cycle)"
+      },
+      {
+        "name": "Pyruvate metabolism"
+      },
+      {
+        "name": "Ubiquinone & other terpenoid-quinone biosynthesis"
+      },
+      {
+        "name": "2-oxoglutaric acid"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "allantoin"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "4-hydroxyproline"
+      },
+      {
+        "name": "2-hydroxyisobutyric acid"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "serotonin"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "malate"
+      },
+      {
+        "name": "cis-aconitate"
+      },
+      {
+        "name": "2-oxoglutaric acid"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "valeric acid"
+      },
+      {
+        "name": "short-chain fatty acids"
+      },
+      {
+        "name": "trimethylamine N-oxide (TMAO)"
+      },
+      {
+        "name": "phenylacetylglutamine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "cysteine"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "Trimethylamine N-oxide (TMAO)"
+      },
+      {
+        "name": "phenylacetylglutamine"
+      },
+      {
+        "name": "L-methionine"
+      },
+      {
+        "name": "L-cystathionine"
+      },
+      {
+        "name": "alpha-aminobutyric acid"
+      },
+      {
+        "name": "Methionine"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "2-aminoadipic acid"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "TMAO"
+      },
+      {
+        "name": "phenylacetylglutamine"
+      },
+      {
+        "name": "L-Isoleucine"
+      },
+      {
+        "name": "Short-Chain Fatty Acid"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "TMAO"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "Asymmetric dimethylarginine"
+      },
+      {
+        "name": "Spermidine"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "2-Amino-adipic acid"
+      },
+      {
+        "name": "guanidinoacetic acid"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "ammonium acetate"
+      },
+      {
+        "name": "methanol"
+      },
+      {
+        "name": "3-nitrophenylhydrazine"
+      },
+      {
+        "name": "butylated hydroxytoluene"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "amino acid derivatives"
+      },
+      {
+        "name": "biogenic amines"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "cholesterol esters"
+      },
+      {
+        "name": "diacylglycerols"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "glycerophospholipids"
+      },
+      {
+        "name": "sphingomyelins"
+      },
+      {
+        "name": "triacylglycerols"
+      },
+      {
+        "name": "organic acids"
+      },
+      {
+        "name": "nucleotides"
+      },
+      {
+        "name": "nucleosides"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "angiotensin-converting enzyme 2"
+      },
+      {
+        "name": "interleukin-1 beta"
+      },
+      {
+        "name": "interleukin-6"
+      },
+      {
+        "name": "tumor necrosis factor"
+      },
+      {
+        "name": "proteome"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "thrombospondin-1"
+      },
+      {
+        "name": "soluble CD40"
+      },
+      {
+        "name": "Interleukin-10"
+      },
+      {
+        "name": "IGFBP"
+      },
+      {
+        "name": "P-selectin"
+      },
+      {
+        "name": "thrombospondin-1"
+      },
+      {
+        "name": "fibronectin"
+      },
+      {
+        "name": "coagulation factor XIII"
+      },
+      {
+        "name": "thrombospondin-1"
+      },
+      {
+        "name": "sCD40L"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "lipopolysaccharide-binding proteins"
+      },
+      {
+        "name": "platelet endothelial cell adhesion molecule 1"
+      },
+      {
+        "name": "thrombospondin-1"
+      },
+      {
+        "name": "fibroblast growth factor 2"
+      },
+      {
+        "name": "vascular endothelial growth factor-A"
+      },
+      {
+        "name": "plasma cystatin C"
+      },
+      {
+        "name": "neutrophil gelatinase-associated lipocalin"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "differentially expressed proteins"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "epidermal growth factor (EGF)"
+      },
+      {
+        "name": "TGF-b"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "MCP-3 (CCL7)"
+      },
+      {
+        "name": "IL-22"
+      },
+      {
+        "name": "PD-1"
+      },
+      {
+        "name": "TIM-3"
+      },
+      {
+        "name": "PD-L1"
+      },
+      {
+        "name": "IL-1b"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CXCL1"
+      },
+      {
+        "name": "IL-7"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "IL-22"
+      },
+      {
+        "name": "CSF3"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "UCP1"
+      },
+      {
+        "name": "PPAR⍺"
+      },
+      {
+        "name": "PCC-1⍺"
+      },
+      {
+        "name": "ACE (Angiotensin-Converting Enzyme)"
+      },
+      {
+        "name": "Thrombospondin-1"
+      },
+      {
+        "name": "EGFR"
+      },
+      {
+        "name": "Tim-3"
+      },
+      {
+        "name": "PD-1"
+      },
+      {
+        "name": "endothelial nitric-oxide synthase"
+      },
+      {
+        "name": "Akt1"
+      },
+      {
+        "name": "Amphiregulin"
+      },
+      {
+        "name": "Transforming Growth Factor Beta"
+      },
+      {
+        "name": "Bovine Serum Albumin"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "sCD40L"
+      },
+      {
+        "name": "EGF"
+      },
+      {
+        "name": "Eotaxin"
+      },
+      {
+        "name": "FGF-2"
+      },
+      {
+        "name": "FLT-3 Ligand"
+      },
+      {
+        "name": "Fractalkine"
+      },
+      {
+        "name": "G-CSF"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "GROa"
+      },
+      {
+        "name": "IFN-a2"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "IL-1a"
+      },
+      {
+        "name": "IL-1b"
+      },
+      {
+        "name": "IL-1RA"
+      },
+      {
+        "name": "IL-2"
+      },
+      {
+        "name": "IL-3"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "IL-5"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-7"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "IL-9"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-12(p40)"
+      },
+      {
+        "name": "IL-12(p70)"
+      },
+      {
+        "name": "IL-13"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "IL-17A"
+      },
+      {
+        "name": "IL-17E/IL-25"
+      },
+      {
+        "name": "IL-17F"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "IL-22"
+      },
+      {
+        "name": "IL-27"
+      },
+      {
+        "name": "IP-10"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "MCP-3"
+      },
+      {
+        "name": "M-CSF"
+      },
+      {
+        "name": "MDC"
+      },
+      {
+        "name": "MIG/CXCL9"
+      },
+      {
+        "name": "MIP-1a"
+      },
+      {
+        "name": "MIP-1b"
+      },
+      {
+        "name": "PDGF-AA"
+      },
+      {
+        "name": "PDGF-AB/BB"
+      },
+      {
+        "name": "RANTES"
+      },
+      {
+        "name": "TGFa"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "TNF-b"
+      },
+      {
+        "name": "VEGF-A"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "NFIL3"
+      },
+      {
+        "name": "HIF1"
+      },
+      {
+        "name": "Tim-3"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-27"
+      },
+      {
+        "name": "NFIL3"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "inflammation"
+      },
+      {
+        "name": "platelet degranulation"
+      },
+      {
+        "name": "metabolic perturbations"
+      },
+      {
+        "name": "therapeutic pathways"
+      },
+      {
+        "name": "TGF-b"
+      },
+      {
+        "name": "SARS-CoV-2 signaling pathway"
+      },
+      {
+        "name": "inflammatory response"
+      },
+      {
+        "name": "Platelet degranulation"
+      },
+      {
+        "name": "regulation of IGF Activity by IGFBP"
+      },
+      {
+        "name": "Complement system"
+      },
+      {
+        "name": "Pluripotent stem cell differentiation pathway"
+      },
+      {
+        "name": "Oxidative stress response"
+      },
+      {
+        "name": "sirtuin 6"
+      },
+      {
+        "name": "glucose-6-phosphate dehydrogenase"
+      },
+      {
+        "name": "arginine biosynthesis"
+      },
+      {
+        "name": "glutamate metabolism"
+      },
+      {
+        "name": "sphingolipid metabolism"
+      },
+      {
+        "name": "IL-1 pathway"
+      },
+      {
+        "name": "TNF pathway"
+      },
+      {
+        "name": "IL-6 pathway"
+      },
+      {
+        "name": "toll-like receptor 3 signaling"
+      },
+      {
+        "name": "cell migration and growth factor signaling pathways"
+      },
+      {
+        "name": "arginine biosynthesis"
+      },
+      {
+        "name": "cysteine metabolism"
+      },
+      {
+        "name": "methionine metabolism"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "inflammatory signaling"
+      },
+      {
+        "name": "cellular signaling"
+      },
+      {
+        "name": "metabolic pathways"
+      },
+      {
+        "name": "metabolic pathways"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "Ingenuity Pathway Analysis (IPA)"
+      },
+      {
+        "name": "HIF-1⍺ pathway"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "convalescence"
+      },
+      {
+        "name": "metabolicalterations"
+      },
+      {
+        "name": "Ingenuity Pathway Analysis (IPA)"
+      },
+      {
+        "name": "GO terms"
+      },
+      {
+        "name": "EGF signaling pathway"
+      },
+      {
+        "name": "arginine biosynthesis"
+      },
+      {
+        "name": "cysteine and methionine metabolism"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "methionine pathway"
+      },
+      {
+        "name": "IL-27 signaling"
+      },
+      {
+        "name": "taurine pathway"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "TGF-beta1"
+      },
+      {
+        "name": "Biosynthesis in Gut Microbiome"
+      },
+      {
+        "name": "cGAS-STING pathway"
+      },
+      {
+        "name": "mitochondrial dynamics"
+      },
+      {
+        "name": "oxidative stress"
+      },
+      {
+        "name": "Ingenuity Pathway Analysis"
+      },
+      {
+        "name": "Ingenuity Pathway Analysis (IPA)"
+      },
+      {
+        "name": "metabolomic pathways"
+      },
+      {
+        "name": "Gene Ontology (GO) terms"
+      },
+      {
+        "name": "Ingenuity pathway analysis (IPA)"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Dexamethasone"
+      },
+      {
+        "name": "Antibiotic"
+      },
+      {
+        "name": "Tocilizumab"
+      },
+      {
+        "name": "Remdesivir"
+      },
+      {
+        "name": "dexamethasone"
+      },
+      {
+        "name": "antibiotics"
+      },
+      {
+        "name": "tocilizumab"
+      },
+      {
+        "name": "remdesivir"
+      },
+      {
+        "name": "monoclonal antibodies"
+      },
+      {
+        "name": "corticosteroids"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "TPCK-treated trypsin"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "dexamethasone"
+      },
+      {
+        "name": "antibiotics"
+      },
+      {
+        "name": "tocilizumab"
+      },
+      {
+        "name": "remdesivir"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "acute SARS-CoV-2 infection"
+      },
+      {
+        "name": "post-acute COVID-19 symptoms"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "Post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "Diabetes"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "COPD"
+      },
+      {
+        "name": "CKD"
+      },
+      {
+        "name": "CVD"
+      },
+      {
+        "name": "Cancer"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "Malaria"
+      },
+      {
+        "name": "acute SARS-CoV-2 infection"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "PASC (Post-Acute Sequelae of SARS-CoV-2 infection)"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "Post-Acute Sequelae of SARS-CoV-2 infection (PASC)"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "severe SARS-CoV-2 infection"
+      },
+      {
+        "name": "PASC symptoms"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "PASC (Post-Acute Sequelae of SARS-CoV-2 infection)"
+      },
+      {
+        "name": "thromboembolic disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "glutamine deficiency"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Post-Acute Sequelae of COVID-19"
+      },
+      {
+        "name": "Chronic Kidney Disease"
+      },
+      {
+        "name": "Depression"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Cardiovascular Disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Post-Acute Sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "cachectic cancer"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "dilated cardiomyopathy"
+      },
+      {
+        "name": "systolic heart failure"
+      },
+      {
+        "name": "iron-overload"
+      },
+      {
+        "name": "deficiency as a driver of aging"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Post-Acute Sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "PASC (Post-Acute Sequelae of SARS-CoV-2 infection)"
+      }
+    ]
+  }
+}

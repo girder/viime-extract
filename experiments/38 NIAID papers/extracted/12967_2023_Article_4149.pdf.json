@@ -1,0 +1,892 @@
+{
+  "meta": {
+    "title": "Plasma proteome of Long-COVID patients indicates HIF-mediated vasculo-proliferative disease with impact on brain and heart function",
+    "journal": "Journal of Translational Medicine",
+    "year": 2023,
+    "volume": "21(1)",
+    "pubmed_id": null,
+    "doi_id": "10.1186/s12967-023-04149-9",
+    "authors": [
+      {
+        "firstname": "Cristiana",
+        "middle_initial": null,
+        "surname": "Iosef",
+        "affiliation": "1"
+      },
+      {
+        "firstname": "Michael J.",
+        "middle_initial": null,
+        "surname": "Knauer",
+        "affiliation": "2"
+      },
+      {
+        "firstname": "Michael",
+        "middle_initial": null,
+        "surname": "Nicholson",
+        "affiliation": "3"
+      },
+      {
+        "firstname": "Logan R.",
+        "middle_initial": null,
+        "surname": "Van Nynatten",
+        "affiliation": "3"
+      },
+      {
+        "firstname": "Gediminas",
+        "middle_initial": null,
+        "surname": "Cepinskas",
+        "affiliation": "4,5"
+      },
+      {
+        "firstname": "Sorin",
+        "middle_initial": null,
+        "surname": "Draghici",
+        "affiliation": "6,10,11"
+      },
+      {
+        "firstname": "Victor K. M.",
+        "middle_initial": null,
+        "surname": "Han",
+        "affiliation": "1,7"
+      },
+      {
+        "firstname": "Douglas D.",
+        "middle_initial": null,
+        "surname": "Fraser",
+        "affiliation": "1,4,7,8,9"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [],
+    "mentioned_proteins": [
+      {
+        "name": "angiopoietin-1"
+      },
+      {
+        "name": "vascular-endothelial growth factor-A"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "citrullinated histone 3"
+      },
+      {
+        "name": "elastase"
+      },
+      {
+        "name": "transforming growth factor-β1"
+      },
+      {
+        "name": "tumor necrosis factor-α"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "MMP1"
+      },
+      {
+        "name": "VEGF-A"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "Histone H3"
+      },
+      {
+        "name": "Neutrophil Elastase"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "NCAM1"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "3072 plasma proteins"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "ANGPT2"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "SLP76"
+      },
+      {
+        "name": "PAK1"
+      },
+      {
+        "name": "MEK1"
+      },
+      {
+        "name": "MEK2"
+      },
+      {
+        "name": "ERK1"
+      },
+      {
+        "name": "ERK2"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "VAV1"
+      },
+      {
+        "name": "ITGB2"
+      },
+      {
+        "name": "ITGAM"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "MMP9"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "CD177"
+      },
+      {
+        "name": "HLA-DR"
+      },
+      {
+        "name": "ITGAM"
+      },
+      {
+        "name": "ITGB2"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "PXN"
+      },
+      {
+        "name": "SRC"
+      },
+      {
+        "name": "NOS3"
+      },
+      {
+        "name": "HSPB1"
+      },
+      {
+        "name": "Flt1"
+      },
+      {
+        "name": "AKT"
+      },
+      {
+        "name": "MAPK"
+      },
+      {
+        "name": "elastase"
+      },
+      {
+        "name": "citrullinated histone H3"
+      },
+      {
+        "name": "TGFβ1"
+      },
+      {
+        "name": "EP/p300"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "elastase"
+      },
+      {
+        "name": "histone H3"
+      },
+      {
+        "name": "TGFβ1"
+      },
+      {
+        "name": "TGFBR2"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "glucocorticoid receptor (GR)"
+      },
+      {
+        "name": "EP/p300"
+      },
+      {
+        "name": "phospholipase (PLC1)"
+      },
+      {
+        "name": "phospholipase (PLCγ)"
+      },
+      {
+        "name": "CAS1"
+      },
+      {
+        "name": "PDA4"
+      },
+      {
+        "name": "NFkB"
+      },
+      {
+        "name": "CR1"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "SLPG"
+      },
+      {
+        "name": "HIF"
+      },
+      {
+        "name": "SMAD1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "HIF1α"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "GAPDH"
+      },
+      {
+        "name": "ENO1"
+      },
+      {
+        "name": "BCL2"
+      },
+      {
+        "name": "IGFBP-6"
+      },
+      {
+        "name": "IGFBPL1"
+      },
+      {
+        "name": "TIMP1"
+      },
+      {
+        "name": "CD18"
+      },
+      {
+        "name": "Integrin β2"
+      },
+      {
+        "name": "ITGB2"
+      },
+      {
+        "name": "HIF"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "KIAA0319"
+      },
+      {
+        "name": "IROR1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "STAT3"
+      },
+      {
+        "name": "ANGPT"
+      },
+      {
+        "name": "FLT1"
+      },
+      {
+        "name": "TFRC"
+      },
+      {
+        "name": "HMOX1"
+      },
+      {
+        "name": "BCL2"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "EGF"
+      },
+      {
+        "name": "eNOS"
+      },
+      {
+        "name": "GAPDH"
+      },
+      {
+        "name": "ENO1"
+      },
+      {
+        "name": "IGF"
+      },
+      {
+        "name": "IGFBP4"
+      },
+      {
+        "name": "IGFBP-6"
+      },
+      {
+        "name": "IGFBPL1"
+      },
+      {
+        "name": "EPO"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "TEK/Tie receptor"
+      },
+      {
+        "name": "HIF"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "APP"
+      },
+      {
+        "name": "Tau protein"
+      },
+      {
+        "name": "Amyloid Precursor Protein (APP/Presenilin)"
+      },
+      {
+        "name": "integrins"
+      },
+      {
+        "name": "fibronection"
+      },
+      {
+        "name": "filamin"
+      },
+      {
+        "name": "CCL5"
+      },
+      {
+        "name": "amyloid precursor protein (APP)"
+      },
+      {
+        "name": "JAM2"
+      },
+      {
+        "name": "SNAPIN"
+      },
+      {
+        "name": "S100A14"
+      },
+      {
+        "name": "IROR1"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "elastase"
+      },
+      {
+        "name": "citrullinated histone H3"
+      },
+      {
+        "name": "MMP7"
+      },
+      {
+        "name": "TNFα"
+      },
+      {
+        "name": "ANGPT1"
+      },
+      {
+        "name": "VEGFA"
+      },
+      {
+        "name": "TGFβ1"
+      },
+      {
+        "name": "EP/p300"
+      },
+      {
+        "name": "HIF-1"
+      },
+      {
+        "name": "VEGFR1/Flt1"
+      },
+      {
+        "name": "PTK2/FAK"
+      },
+      {
+        "name": "MAPK1/ERK2"
+      },
+      {
+        "name": "MAPK3/ERK1"
+      },
+      {
+        "name": "PDGF"
+      },
+      {
+        "name": "EGF"
+      },
+      {
+        "name": "IGF"
+      },
+      {
+        "name": "IL-1"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "MCP1"
+      },
+      {
+        "name": "sTNFRII"
+      },
+      {
+        "name": "APP"
+      },
+      {
+        "name": "HEBP1"
+      },
+      {
+        "name": "MNDA"
+      },
+      {
+        "name": "FPRL2"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "KLRK1"
+      },
+      {
+        "name": "KLRD1"
+      },
+      {
+        "name": "IFNγ"
+      },
+      {
+        "name": "IL-22"
+      },
+      {
+        "name": "NCR1"
+      },
+      {
+        "name": "KIT"
+      },
+      {
+        "name": "HIF-1"
+      },
+      {
+        "name": "KCNH2"
+      },
+      {
+        "name": "KIAA0319"
+      },
+      {
+        "name": "APP"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "hypoxia inducible factor 1"
+      },
+      {
+        "name": "vascular inflammation"
+      },
+      {
+        "name": "tumor necrosis factor-α driven pathways"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "immune recognition"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "PANTHER Classification System"
+      },
+      {
+        "name": "GSEA, Gene Set Enrichment Analysis"
+      },
+      {
+        "name": "NK-cell signaling"
+      },
+      {
+        "name": "ANGPT/VEGF axis"
+      },
+      {
+        "name": "TNFα signaling"
+      },
+      {
+        "name": "NK-cell signaling"
+      },
+      {
+        "name": "TNF signaling"
+      },
+      {
+        "name": "NK cell cytotoxic pathways"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "VEGFA pathway"
+      },
+      {
+        "name": "TNF signaling"
+      },
+      {
+        "name": "TGFβ1 signaling pathway"
+      },
+      {
+        "name": "TGFβ signaling pathway"
+      },
+      {
+        "name": "TGFβ1 pathway"
+      },
+      {
+        "name": "TGFβ1 signaling pathway"
+      },
+      {
+        "name": "NET pathways"
+      },
+      {
+        "name": "HIF-1-signaling pathway"
+      },
+      {
+        "name": "WNT-signaling"
+      },
+      {
+        "name": "proliferative signaling pathways"
+      },
+      {
+        "name": "VEGF"
+      },
+      {
+        "name": "insulin-like growth factor system (IGF)"
+      },
+      {
+        "name": "HIF signaling"
+      },
+      {
+        "name": "KEGG cancer pathways"
+      },
+      {
+        "name": "vascular development"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "MAPK regulatory pathways"
+      },
+      {
+        "name": "Neurodegeneration"
+      },
+      {
+        "name": "Alzheimer Disease"
+      },
+      {
+        "name": "HIF-1α pathway"
+      },
+      {
+        "name": "MAPK regulatory modules"
+      },
+      {
+        "name": "HIF-1 pathways"
+      },
+      {
+        "name": "VEGFA, HIF and TNFα signaling pathways"
+      },
+      {
+        "name": "integrin signaling"
+      },
+      {
+        "name": "FAK-related apoptosis pathways"
+      },
+      {
+        "name": "PI3K/AKT"
+      },
+      {
+        "name": "NF-κB"
+      },
+      {
+        "name": "HIF"
+      },
+      {
+        "name": "RAS-ERK-MEK"
+      },
+      {
+        "name": "JAK-STAT"
+      },
+      {
+        "name": "TGFβ-SMAD"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "re-purposed drugs"
+      },
+      {
+        "name": "Lecanemab"
+      },
+      {
+        "name": "Bepranemab"
+      },
+      {
+        "name": "FPR2 agonists"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "lung problems"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "autoimmune disease"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Endothelial Injury"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "severe COVID-19"
+      },
+      {
+        "name": "mild COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ischemic stroke"
+      },
+      {
+        "name": "hemorrhagic stroke"
+      },
+      {
+        "name": "cognition disorders"
+      },
+      {
+        "name": "memory disorders"
+      },
+      {
+        "name": "peripheral nervous system disorders"
+      },
+      {
+        "name": "episodic disorders"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cardiometabolic dysfunction"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "vascular disease"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Alzheimer Disease"
+      },
+      {
+        "name": "Alzheimer disease"
+      },
+      {
+        "name": "migraine"
+      },
+      {
+        "name": "seizures"
+      },
+      {
+        "name": "Guillain–Barré syndrome"
+      },
+      {
+        "name": "encephalitis"
+      },
+      {
+        "name": "encephalopathy"
+      },
+      {
+        "name": "Alzheimer disease"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Alzheimer disease"
+      },
+      {
+        "name": "cerebro-arterial amyloidosis"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "myocarditis"
+      }
+    ]
+  }
+}

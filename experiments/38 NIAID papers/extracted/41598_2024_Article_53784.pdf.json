@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Gut microbiota composition is altered in postural orthostatic tachycardia syndrome and post‑acute COVID‑19 syndrome",
+    "journal": "Scientific Reports",
+    "year": 2024,
+    "volume": "14",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41598-024-53784-9",
+    "authors": [
+      {
+        "firstname": "Viktor",
+        "middle_initial": null,
+        "surname": "Hamrefors",
+        "affiliation": "Department of Clinical Sciences, Lund University, Malmö, Sweden"
+      },
+      {
+        "firstname": "Fredrik",
+        "middle_initial": null,
+        "surname": "Kahn",
+        "affiliation": "Department of Infection Medicine, Skåne University Hospital, Malmö, Sweden"
+      },
+      {
+        "firstname": "Madlene",
+        "middle_initial": null,
+        "surname": "Holmqvist",
+        "affiliation": "Department of Infection Medicine, Skåne University Hospital, Malmö, Sweden"
+      },
+      {
+        "firstname": "Katherine",
+        "middle_initial": null,
+        "surname": "Carlson",
+        "affiliation": "Department of Infection Medicine, Skåne University Hospital, Malmö, Sweden"
+      },
+      {
+        "firstname": "Roosa",
+        "middle_initial": null,
+        "surname": "Varjus",
+        "affiliation": "Clinical Microbiomics, Symbion, Copenhagen, Denmark"
+      },
+      {
+        "firstname": "Alexander",
+        "middle_initial": null,
+        "surname": "Gudjonsson",
+        "affiliation": "Clinical Microbiomics, Symbion, Copenhagen, Denmark"
+      },
+      {
+        "firstname": "Artur",
+        "middle_initial": null,
+        "surname": "Fedorowski",
+        "affiliation": "Department of Cardiology, Karolinska University Hospital, Stockholm, Sweden"
+      },
+      {
+        "firstname": "Bodil",
+        "middle_initial": null,
+        "surname": "Ohlsson",
+        "affiliation": "Department of Internal Medicine, Skåne University Hospital, Malmö, Sweden"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "short-chain fatty acids (SCFAs)"
+      },
+      {
+        "name": "nitric oxide"
+      },
+      {
+        "name": "gamma-aminobutyric acid"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "Toll like receptor-2"
+      },
+      {
+        "name": "glial-derived neurotrophic factors"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "KO"
+      },
+      {
+        "name": "HG04"
+      },
+      {
+        "name": "signature gene"
+      },
+      {
+        "name": "MGS signature genes"
+      },
+      {
+        "name": "genes"
+      },
+      {
+        "name": "signature gene counts"
+      },
+      {
+        "name": "genes that encode the proteins/enzymes"
+      },
+      {
+        "name": "KO"
+      },
+      {
+        "name": "MGS"
+      },
+      {
+        "name": "KEGG orthology"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "microbiota-gut-brain axis"
+      },
+      {
+        "name": "Gut Metabolic Modules (GMMs)"
+      },
+      {
+        "name": "KEGG modules"
+      },
+      {
+        "name": "functional potential profiles based on KOs"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "toll-like receptors"
+      },
+      {
+        "name": "KEGG module"
+      },
+      {
+        "name": "hypothalamic–pituitary–adrenal (HPA) axis"
+      },
+      {
+        "name": "brain-adipocyte-gut network"
+      },
+      {
+        "name": "gut microbiota to the brain axis"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Quant-iT dsDNA BR Assay Kit"
+      },
+      {
+        "name": "Celero EZ DNA -seq Core Module Kit"
+      },
+      {
+        "name": "NuQuant NGS Library Quantification Module"
+      },
+      {
+        "name": "probiotics"
+      },
+      {
+        "name": "drugs"
+      },
+      {
+        "name": "probiotics"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome (POTS)"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PACS)"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "autonomic neuropathy"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "Irritable Bowel Syndrome"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "IBS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "Irritable Bowel Syndrome"
+      },
+      {
+        "name": "Post-Acute COVID-19 Syndrome"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome (POTS)"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PACS)"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome (POTS)"
+      },
+      {
+        "name": "Post-Acute COVID-19 Syndrome (PACS)"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome (POTS)"
+      },
+      {
+        "name": "autonomic neuropathy"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "Irritable Bowel Syndrome (IBS)"
+      },
+      {
+        "name": "Postural Orthostatic Tachycardia Syndrome (POTS)"
+      },
+      {
+        "name": "Fatigue"
+      },
+      {
+        "name": "Bloating"
+      },
+      {
+        "name": "POTS"
+      },
+      {
+        "name": "PACS"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PACS)"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "myalgic encephalomyelitis (ME)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Postural orthostatic tachycardia syndrome (POTS)"
+      },
+      {
+        "name": "Gut Dysbiosis"
+      },
+      {
+        "name": "Neurological diseases"
+      },
+      {
+        "name": "Type 2 diabetes mellitus"
+      },
+      {
+        "name": "Post-COVID-19 condition"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Irritable Bowel Syndrome"
+      },
+      {
+        "name": "prediabetes"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "irritable bowel syndrome"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "autism"
+      },
+      {
+        "name": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "myalgic encephalomyelitis"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "depression"
+      }
+    ]
+  }
+}

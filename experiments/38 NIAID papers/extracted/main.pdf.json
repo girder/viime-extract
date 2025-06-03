@@ -1,0 +1,791 @@
+{
+  "meta": {
+    "title": "Prolonged indoleamine 2,3-dioxygenase-2 activity and associated cellular stress in post-acute sequelae of SARS-CoV-2 infection",
+    "journal": "eBioMedicine",
+    "year": 2023,
+    "volume": "94",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.ebiom.2023.104729",
+    "authors": [
+      {
+        "firstname": "Lihui",
+        "middle_initial": null,
+        "surname": "Guo",
+        "affiliation": "Department Experimental Immunology, Amsterdam Infection and Immunity Center, Amsterdam University Medical Centers (UMC), location Academic Medical Center (AMC), University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Brent",
+        "middle_initial": null,
+        "surname": "Appelman",
+        "affiliation": "Center for Experimental and Molecular Medicine, Amsterdam UMC, Amsterdam Institute for Infection and Immunity, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Kirsten",
+        "middle_initial": null,
+        "surname": "Mooij-Kalverda",
+        "affiliation": "Department Pulmonary Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Riekelt H.",
+        "middle_initial": "H.",
+        "surname": "Houtkooper",
+        "affiliation": "Laboratory Genetic Metabolic Diseases, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Michel",
+        "middle_initial": "van",
+        "surname": "Weeghel",
+        "affiliation": "Laboratory Genetic Metabolic Diseases, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Frédéric M.",
+        "middle_initial": null,
+        "surname": "Vaz",
+        "affiliation": "Core Facility Metabolomics, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Annemiek",
+        "middle_initial": null,
+        "surname": "Dijkhuis",
+        "affiliation": "Department Experimental Immunology, Amsterdam Infection and Immunity Center, Amsterdam University Medical Centers (UMC), location Academic Medical Center (AMC), University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Tamara",
+        "middle_initial": null,
+        "surname": "Dekker",
+        "affiliation": "Department Experimental Immunology, Amsterdam Infection and Immunity Center, Amsterdam University Medical Centers (UMC), location Academic Medical Center (AMC), University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Barbara S.",
+        "middle_initial": "S.",
+        "surname": "Smids",
+        "affiliation": "Department Experimental Immunology, Amsterdam Infection and Immunity Center, Amsterdam University Medical Centers (UMC), location Academic Medical Center (AMC), University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Jan Willem",
+        "middle_initial": null,
+        "surname": "Duitman",
+        "affiliation": "Department Pulmonary Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Marianna",
+        "middle_initial": null,
+        "surname": "Bugiani",
+        "affiliation": "Department of Pathology, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Paul",
+        "middle_initial": null,
+        "surname": "Brinkman",
+        "affiliation": "Department Pulmonary Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Jonne J.",
+        "middle_initial": "J.",
+        "surname": "Sikkens",
+        "affiliation": "Department Pulmonary Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "H.A. Ayesha",
+        "middle_initial": "A.",
+        "surname": "Lavell",
+        "affiliation": "Department of Internal Medicine, Amsterdam UMC, Vrije Universiteit Amsterdam, Amsterdam Institute for Infection and Immunity, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Rob C.I.",
+        "middle_initial": "I.",
+        "surname": "Wüst",
+        "affiliation": "Laboratory for Myology, Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam, Amsterdam Movement Sciences, Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "Michèle",
+        "middle_initial": "van",
+        "surname": "Vugt",
+        "affiliation": "Division of Infectious Diseases, Department of Internal Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      },
+      {
+        "firstname": "René",
+        "middle_initial": null,
+        "surname": "Lutter",
+        "affiliation": "Department Pulmonary Medicine, Amsterdam UMC, location AMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "indoleamine 2,3-dioxygenase-2"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "3-hydroxyanthranilic acid"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "3OH-kynurenine"
+      },
+      {
+        "name": "formylkynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3OH-kynurenine"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "adenosine-15N-monophosphate"
+      },
+      {
+        "name": "adenosine-15N-triphosphate"
+      },
+      {
+        "name": "β-mercaptoethanol"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenine metabolites"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3OH-kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "D-alanine"
+      },
+      {
+        "name": "D-arginine"
+      },
+      {
+        "name": "aspartic acid"
+      },
+      {
+        "name": "D-carnitine"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "13C-citrulline"
+      },
+      {
+        "name": "13C-fructose-1,6-diphosphate"
+      },
+      {
+        "name": "guanosine-15N-monophosphate"
+      },
+      {
+        "name": "guanosine-15N-triphosphate"
+      },
+      {
+        "name": "13C-glucose"
+      },
+      {
+        "name": "13C-glucose-6-phosphate"
+      },
+      {
+        "name": "D-glutamic acid"
+      },
+      {
+        "name": "D-glutamine"
+      },
+      {
+        "name": "13C-isoleucine"
+      },
+      {
+        "name": "D-leucine"
+      },
+      {
+        "name": "D-lysine"
+      },
+      {
+        "name": "D-methionine"
+      },
+      {
+        "name": "D-ornithine"
+      },
+      {
+        "name": "D-phenylalanine"
+      },
+      {
+        "name": "D-proline"
+      },
+      {
+        "name": "13C-pyruvate"
+      },
+      {
+        "name": "D-serine"
+      },
+      {
+        "name": "D-tryptophan"
+      },
+      {
+        "name": "D-tyrosine"
+      },
+      {
+        "name": "D-valine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "nicotinamide riboside"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "acetyl-CoA"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "anthranilic acid"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "nicotinamide riboside"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "quininic acid"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "cysteine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "cystine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3OH-anthranilic acid"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "3-hydroxykynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "3OH-kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "cysteine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "cystine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "indoleamine 2,3-dioxygenase 2 (IDO2)"
+      },
+      {
+        "name": "indoleamine 2,3-dioxygenase 1 (IDO1)"
+      },
+      {
+        "name": "aryl hydrocarbon receptor (AHR)"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "L3CB"
+      },
+      {
+        "name": "cleaved-caspase 3"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "caspase 3"
+      },
+      {
+        "name": "LC3b"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "AHR"
+      },
+      {
+        "name": "AHRR"
+      },
+      {
+        "name": "IDO2"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO1"
+      },
+      {
+        "name": "IDO"
+      },
+      {
+        "name": "IDO2"
+      },
+      {
+        "name": "IDO2"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "AHR-IDO2-kynurenine pathway"
+      },
+      {
+        "name": "AHR-IDO2 pathway"
+      },
+      {
+        "name": "autophagy"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "Krebs cycle"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "glycolysis"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "pentose phosphate pathway"
+      },
+      {
+        "name": "NAD metabolism"
+      },
+      {
+        "name": "Krebs cycle"
+      },
+      {
+        "name": "phosphate pathway"
+      },
+      {
+        "name": "autophagy"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "autophagy"
+      },
+      {
+        "name": "mitochondrial functioning"
+      },
+      {
+        "name": "AHR activation"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "IDO2 pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "DMSO"
+      },
+      {
+        "name": "gentamycin"
+      },
+      {
+        "name": "ARH antagonist"
+      },
+      {
+        "name": "IK-175"
+      },
+      {
+        "name": "KYN-175"
+      },
+      {
+        "name": "oligomycin"
+      },
+      {
+        "name": "FCCP"
+      },
+      {
+        "name": "rotenone"
+      },
+      {
+        "name": "antimycin A"
+      },
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "DMSO"
+      },
+      {
+        "name": "AHR antagonist"
+      },
+      {
+        "name": "AHR antagonist"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+      },
+      {
+        "name": "Post-Acute Sequelae of SARS-CoV-2 infection (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequela of SARS-CoV-2 infection (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "status epilepticus"
+      },
+      {
+        "name": "symptomatic epilepsy"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "Covid-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cachexia"
+      },
+      {
+        "name": "sarcopenia"
+      }
+    ]
+  }
+}

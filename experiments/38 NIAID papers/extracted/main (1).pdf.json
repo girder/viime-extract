@@ -1,0 +1,1108 @@
+{
+  "meta": {
+    "title": "A multi-omics based anti-inflammatory immune signature characterizes long COVID-19 syndrome",
+    "journal": "iScience",
+    "year": 2023,
+    "volume": "26",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.isci.2022.105717",
+    "authors": [
+      {
+        "firstname": "Johannes",
+        "middle_initial": "J.",
+        "surname": "Kovarik",
+        "affiliation": "meduniwien.ac.at"
+      },
+      {
+        "firstname": "Andrea",
+        "middle_initial": null,
+        "surname": "Bileck",
+        "affiliation": "meduniwien.ac.at"
+      },
+      {
+        "firstname": "Gerhard",
+        "middle_initial": null,
+        "surname": "Hagn",
+        "affiliation": "meduniwien.ac.at"
+      },
+      {
+        "firstname": "Mariann",
+        "middle_initial": "G.",
+        "surname": "Gyo¨ngyo¨si",
+        "affiliation": "meduniwien.ac.at"
+      },
+      {
+        "firstname": "Klaus",
+        "middle_initial": "G.",
+        "surname": "Schmetterer",
+        "affiliation": "meduniwien.ac.at"
+      },
+      {
+        "firstname": "Christopher",
+        "middle_initial": null,
+        "surname": "Gerner",
+        "affiliation": "univie.ac.at"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypaphorine"
+      },
+      {
+        "name": "omega-3 fatty acids"
+      },
+      {
+        "name": "oxylipins"
+      },
+      {
+        "name": "Omega-3"
+      },
+      {
+        "name": "EPA"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "triglyceride"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "HDL"
+      },
+      {
+        "name": "LDL"
+      },
+      {
+        "name": "LP(a)"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "C18:1-acylcarnitine"
+      },
+      {
+        "name": "C3-acylcarnitine"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "eicosapentaenoic acid"
+      },
+      {
+        "name": "docosahexaenoic acid"
+      },
+      {
+        "name": "17-HDoHE"
+      },
+      {
+        "name": "13-OxoODE"
+      },
+      {
+        "name": "22-HDoHE"
+      },
+      {
+        "name": "trans-DHA"
+      },
+      {
+        "name": "hypaphorine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypoxanthine"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "HpODE"
+      },
+      {
+        "name": "12,13-DiHOME"
+      },
+      {
+        "name": "eicosanoids"
+      },
+      {
+        "name": "polyunsaturated fatty acids"
+      },
+      {
+        "name": "AA"
+      },
+      {
+        "name": "EPA"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "17-HDoHE"
+      },
+      {
+        "name": "22-HDoHE"
+      },
+      {
+        "name": "trans-DHA"
+      },
+      {
+        "name": "U3-fatty acids"
+      },
+      {
+        "name": "U6-fatty acids"
+      },
+      {
+        "name": "15-LOX product from linoleic acid"
+      },
+      {
+        "name": "13-OxoODE"
+      },
+      {
+        "name": "branched chain amino acids"
+      },
+      {
+        "name": "Val"
+      },
+      {
+        "name": "Trp Betaine"
+      },
+      {
+        "name": "triacylglycerols"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "valine"
+      },
+      {
+        "name": "leucine"
+      },
+      {
+        "name": "isoleucine"
+      },
+      {
+        "name": "carnitines"
+      },
+      {
+        "name": "hypoxanthine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypoxanthine"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "HpODE"
+      },
+      {
+        "name": "12,13-DiHOME"
+      },
+      {
+        "name": "arachidonic acid"
+      },
+      {
+        "name": "docosahexaenoic acid"
+      },
+      {
+        "name": "PGE2"
+      },
+      {
+        "name": "PGF2a"
+      },
+      {
+        "name": "TXB2"
+      },
+      {
+        "name": "HpODE"
+      },
+      {
+        "name": "12,13-DiHOME"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "hypaphorine"
+      },
+      {
+        "name": "hypoxanthine"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "hypaphorine"
+      },
+      {
+        "name": "serum cytokines"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "branched chain amino acids"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "triacylglycerols"
+      },
+      {
+        "name": "fatty acids"
+      },
+      {
+        "name": "oxidized phospholipids"
+      },
+      {
+        "name": "docosanoids"
+      },
+      {
+        "name": "docosahexaenoic acid"
+      },
+      {
+        "name": "oxidized lipid metabolites"
+      },
+      {
+        "name": "long-chain omega-3 fatty acids"
+      },
+      {
+        "name": "EPA"
+      },
+      {
+        "name": "DPA"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "lysophosphatidylcholine"
+      },
+      {
+        "name": "calcium"
+      },
+      {
+        "name": "Taurine"
+      },
+      {
+        "name": "trans-arachidonic acids"
+      },
+      {
+        "name": "13-Oxo-ODE"
+      },
+      {
+        "name": "Hypaphorine"
+      },
+      {
+        "name": "lipid oxidation"
+      },
+      {
+        "name": "Omega-3"
+      },
+      {
+        "name": "EPA"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "HDL"
+      },
+      {
+        "name": "LDL"
+      },
+      {
+        "name": "LP(a)"
+      },
+      {
+        "name": "12S-HETE-d8"
+      },
+      {
+        "name": "15S-HETE-d8"
+      },
+      {
+        "name": "5-Oxo-ETE-d7"
+      },
+      {
+        "name": "11,12-DiHETrE-d11"
+      },
+      {
+        "name": "PGE2-d4"
+      },
+      {
+        "name": "20-HETE-d6"
+      },
+      {
+        "name": "Omega-3"
+      },
+      {
+        "name": "EPA"
+      },
+      {
+        "name": "DHA"
+      },
+      {
+        "name": "12S-HETE-d8"
+      },
+      {
+        "name": "15S-HETE-d8"
+      },
+      {
+        "name": "5-Oxo-ETE-d7"
+      },
+      {
+        "name": "11,12-DiHETrE-d11"
+      },
+      {
+        "name": "PGE2-d4"
+      },
+      {
+        "name": "20-HETE-d6"
+      },
+      {
+        "name": "12S-HETE-d8"
+      },
+      {
+        "name": "15S-HETE-d8"
+      },
+      {
+        "name": "5-Oxo-ETE-d7"
+      },
+      {
+        "name": "11,12-DiHETrE-d11"
+      },
+      {
+        "name": "PGE2-d4"
+      },
+      {
+        "name": "20-HETE-d6"
+      },
+      {
+        "name": "eicosapentaenoic acid (EPA)"
+      },
+      {
+        "name": "docosahexaenoic acid (DHA)"
+      },
+      {
+        "name": "arachidonic acid (AA)"
+      },
+      {
+        "name": "dihomo-gamma-linolenic acid (DGLA)"
+      },
+      {
+        "name": "acylcarnithines"
+      },
+      {
+        "name": "alkaloid"
+      },
+      {
+        "name": "amine oxide"
+      },
+      {
+        "name": "amino acid related metabolite"
+      },
+      {
+        "name": "bile acids"
+      },
+      {
+        "name": "biogenic amines"
+      },
+      {
+        "name": "carboxylic acids"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "amino acid related metabolite"
+      },
+      {
+        "name": "bile acids"
+      },
+      {
+        "name": "biogenic amines"
+      },
+      {
+        "name": "carboxylic acids"
+      },
+      {
+        "name": "ceramides"
+      },
+      {
+        "name": "cholesteryl esters"
+      },
+      {
+        "name": "cresol"
+      },
+      {
+        "name": "diacylglycerols"
+      },
+      {
+        "name": "dihydroceramides"
+      },
+      {
+        "name": "fatty acids"
+      },
+      {
+        "name": "glycerophospholipids"
+      },
+      {
+        "name": "glycosylceramides"
+      },
+      {
+        "name": "hormones"
+      },
+      {
+        "name": "indole derivatives"
+      },
+      {
+        "name": "nucleobase related metabolites"
+      },
+      {
+        "name": "sphingolipids"
+      },
+      {
+        "name": "triacylglycerols"
+      },
+      {
+        "name": "hexoses"
+      },
+      {
+        "name": "vitamin/cofactor"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "anti-inflammatory molecules"
+      },
+      {
+        "name": "acute phase proteins"
+      },
+      {
+        "name": "macrophage-derived secreted proteins"
+      },
+      {
+        "name": "anti-N"
+      },
+      {
+        "name": "anti-S"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "MCP-1/CCL-2"
+      },
+      {
+        "name": "TNF-RII"
+      },
+      {
+        "name": "actin"
+      },
+      {
+        "name": "tubulin"
+      },
+      {
+        "name": "myosin-9"
+      },
+      {
+        "name": "profilin"
+      },
+      {
+        "name": "alpha-1-antitrypsin"
+      },
+      {
+        "name": "SERPINA5"
+      },
+      {
+        "name": "Biotinidase"
+      },
+      {
+        "name": "Vitamin D-binding protein"
+      },
+      {
+        "name": "SERPINF2"
+      },
+      {
+        "name": "soluble CD14"
+      },
+      {
+        "name": "ANG"
+      },
+      {
+        "name": "Proteoglycan 4"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "serum amyloid A"
+      },
+      {
+        "name": "serum amyloid P component"
+      },
+      {
+        "name": "fibrinogens"
+      },
+      {
+        "name": "orosomucoid"
+      },
+      {
+        "name": "alpha-2-macroglobulin"
+      },
+      {
+        "name": "phospholipase A2"
+      },
+      {
+        "name": "15-LOX"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "acute phase proteins"
+      },
+      {
+        "name": "oxylipins"
+      },
+      {
+        "name": "SERPINA5"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "Angiogenin (ANG)"
+      },
+      {
+        "name": "Proteoglycan-4 (PRG4)"
+      },
+      {
+        "name": "Biotinidase"
+      },
+      {
+        "name": "Vitamin D binding protein (GC)"
+      },
+      {
+        "name": "SERPINA1"
+      },
+      {
+        "name": "IL-1beta"
+      },
+      {
+        "name": "CCL1"
+      },
+      {
+        "name": "CXCL2"
+      },
+      {
+        "name": "CXCL5"
+      },
+      {
+        "name": "MMP9"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "TNFRSF1B"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "SERPINA5"
+      },
+      {
+        "name": "CCL18"
+      },
+      {
+        "name": "ANGPT4"
+      },
+      {
+        "name": "PLA2G4A"
+      },
+      {
+        "name": "PLIN2"
+      },
+      {
+        "name": "FABP4"
+      },
+      {
+        "name": "HMOX1"
+      },
+      {
+        "name": "COX2"
+      },
+      {
+        "name": "PTGS2"
+      },
+      {
+        "name": "calcium-independent phospholipase iPLA2"
+      },
+      {
+        "name": "SERPINA5"
+      },
+      {
+        "name": "anti-SARS-CoV-2 antibodies"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "Immunoglobulin"
+      },
+      {
+        "name": "Neutrophil"
+      },
+      {
+        "name": "heme oxygenase 1"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "furin"
+      },
+      {
+        "name": "Vitamin D3 binding protein"
+      },
+      {
+        "name": "Heme oxygenase-1"
+      },
+      {
+        "name": "PPAR-gamma"
+      },
+      {
+        "name": "angiogenin"
+      },
+      {
+        "name": "proteoglycan 4"
+      },
+      {
+        "name": "soluble CD14"
+      },
+      {
+        "name": "PPAR gamma"
+      },
+      {
+        "name": "Heme oxygenase-1"
+      },
+      {
+        "name": "Proteoglycan-4"
+      },
+      {
+        "name": "basigin"
+      },
+      {
+        "name": "Regulatory macrophages"
+      },
+      {
+        "name": "dendritic cells"
+      },
+      {
+        "name": "alternatively activated (M2) macrophages"
+      },
+      {
+        "name": "SARS-CoV-2 Spike protein"
+      },
+      {
+        "name": "Nucleocapsid Protein"
+      },
+      {
+        "name": "Cytokines"
+      },
+      {
+        "name": "Trypsin"
+      },
+      {
+        "name": "Lys-C"
+      },
+      {
+        "name": "plasma proteins"
+      },
+      {
+        "name": "macrophage cell lysates"
+      },
+      {
+        "name": "macrophage supernatants"
+      },
+      {
+        "name": "Protein"
+      },
+      {
+        "name": "M1-like macrophages"
+      },
+      {
+        "name": "M2-like macrophages"
+      },
+      {
+        "name": "Trypsin"
+      },
+      {
+        "name": "Lys-C"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "nitric oxide signaling"
+      },
+      {
+        "name": "inflammatory response"
+      },
+      {
+        "name": "PI3K/Akt/mTOR signaling pathway"
+      },
+      {
+        "name": "lipid metabolism"
+      },
+      {
+        "name": "eicosanoid pathway"
+      },
+      {
+        "name": "PI3K/Akt/mTOR"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Omega-3"
+      },
+      {
+        "name": "dexamethasone"
+      },
+      {
+        "name": "dexamethasone"
+      },
+      {
+        "name": "Omega-3"
+      },
+      {
+        "name": "Dithiothreitol (DTT)"
+      },
+      {
+        "name": "Iodoacetamide (IAA)"
+      },
+      {
+        "name": "Formic acid (FA)"
+      },
+      {
+        "name": "Trifluoroacetic acid"
+      },
+      {
+        "name": "Phorbol 12-myristate 13-acetate (PMA)"
+      },
+      {
+        "name": "Lipopolysaccharides from Escherichia coli"
+      },
+      {
+        "name": "Vaxzevria"
+      },
+      {
+        "name": "Comirnaty"
+      },
+      {
+        "name": "EtOH"
+      },
+      {
+        "name": "formic acid (FA)"
+      },
+      {
+        "name": "Phenyl isothiocyanate"
+      },
+      {
+        "name": "Phorbol 12-myristate 13-acetate (PMA)"
+      },
+      {
+        "name": "Lipopolysaccharides from Escherichia coli 055:B5"
+      },
+      {
+        "name": "PMA"
+      },
+      {
+        "name": "M-CSF"
+      },
+      {
+        "name": "IL-4"
+      },
+      {
+        "name": "MxP Quant 500 Kit"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID-19 syndrome"
+      },
+      {
+        "name": "long COVID-19 syndrome"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PACS)"
+      },
+      {
+        "name": "long COVID-19 syndrome (LCS)"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "Middle East Respiratory Syndrome (MERS)"
+      },
+      {
+        "name": "Severe Acute Respiratory Syndrome (SARS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "autoimmune pathologies"
+      },
+      {
+        "name": "Long COVID Syndrome (LCS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19 syndrome"
+      },
+      {
+        "name": "Asthma bronchiale"
+      },
+      {
+        "name": "Multiple sclerosis"
+      },
+      {
+        "name": "Autoimmune thyroiditis"
+      },
+      {
+        "name": "Atopic dermatitis"
+      },
+      {
+        "name": "Psoriasis arthritis"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "long COVID-19 syndrome"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "acute COVID-19 infection"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "Long COVID Syndrome (LCS)"
+      },
+      {
+        "name": "long COVID-19 syndrome"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "Long COVID Syndrome (LCS)"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid Syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LCS"
+      },
+      {
+        "name": "Post-Viral Fatigue Syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID Syndrome (LCS)"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "Chronic Fatigue Syndrome (CFS)"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "atherosclerosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute ischemic stroke"
+      },
+      {
+        "name": "severe acute respiratory syndrome"
+      },
+      {
+        "name": "Middle East respiratory syndrome coronavirus"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "long-haul COVID"
+      },
+      {
+        "name": "high-grade ovarian cancer"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "inflammatory disease"
+      },
+      {
+        "name": "biotinidase deficiency"
+      },
+      {
+        "name": "medulloblastoma"
+      },
+      {
+        "name": "metastatic melanoma"
+      },
+      {
+        "name": "ferroptosis"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome"
+      },
+      {
+        "name": "inflammatory diseases"
+      },
+      {
+        "name": "Post-COVID-19 acute sarcopenia"
+      },
+      {
+        "name": "sepsis"
+      },
+      {
+        "name": "paroxysmal nocturnal hemoglobinuria"
+      },
+      {
+        "name": "Cognitive impairment"
+      },
+      {
+        "name": "chronic fatigue syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "post-infectious disorders"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "cardiovascular diseases"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "Long COVID Syndrome"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}

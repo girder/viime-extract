@@ -1,0 +1,860 @@
+{
+  "meta": {
+    "title": "Immuno-proteomic profiling reveals aberrant immune cell regulation in the airways of individuals with ongoing post-COVID-19 respiratory disease",
+    "journal": "Immunity",
+    "year": 2022,
+    "volume": "55",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.immuni.2022.01.017",
+    "authors": [
+      {
+        "firstname": "Bavithra",
+        "middle_initial": null,
+        "surname": "Vijayakumar",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "firstname": "Karim",
+        "middle_initial": null,
+        "surname": "Boustani",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "firstname": "Patricia",
+        "middle_initial": "P.",
+        "surname": "Ogger",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "firstname": "Pallav",
+        "middle_initial": "L.",
+        "surname": "Shah",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "firstname": "Clare",
+        "middle_initial": "M.",
+        "surname": "Lloyd",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "firstname": "James",
+        "middle_initial": "A.",
+        "surname": "Harker",
+        "affiliation": "Imperial College London"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "lactate dehydrogenase (LDH)"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "Albumin"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "CXCL8"
+      },
+      {
+        "name": "CCL2"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "DPP4"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "apoptosis-associated proteins"
+      },
+      {
+        "name": "tissue repair proteins"
+      },
+      {
+        "name": "epithelial injury proteins"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "activated CD8+"
+      },
+      {
+        "name": "activated CD4+"
+      },
+      {
+        "name": "Trm cells"
+      },
+      {
+        "name": "proteins associated with ongoing cell death"
+      },
+      {
+        "name": "proteins associated with loss of barrier integrity"
+      },
+      {
+        "name": "proteins associated with immune cell recruitment"
+      },
+      {
+        "name": "CD56+CD3- (NK, natural killer)"
+      },
+      {
+        "name": "CD56+CD3+ (NKT)"
+      },
+      {
+        "name": "22 proteins"
+      },
+      {
+        "name": "5 most significantly differentially abundant proteins"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "CXCL11"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "albumin"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "CASP3"
+      },
+      {
+        "name": "EPCAM"
+      },
+      {
+        "name": "MB"
+      },
+      {
+        "name": "complement component C1q receptor (CD93)"
+      },
+      {
+        "name": "cartilage oligomeric matrix protein (COMP)"
+      },
+      {
+        "name": "insulin-like growth factor-binding protein 3 (IGFBP3)"
+      },
+      {
+        "name": "interleukin-1-receptor-type 2 (IL1R2)"
+      },
+      {
+        "name": "LYVE1"
+      },
+      {
+        "name": "MMP2 (72 kDa type IV collagenase)"
+      },
+      {
+        "name": "neural cell adhesion molecule 1 (NCAM1)"
+      },
+      {
+        "name": "L-selectin (SELL)"
+      },
+      {
+        "name": "tyrosine-protein kinase receptor Tie-1 (TIE1)"
+      },
+      {
+        "name": "Tenascin-X (TNXB)"
+      },
+      {
+        "name": "Vasorin (VASN)"
+      },
+      {
+        "name": "CCR7"
+      },
+      {
+        "name": "CCL19"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL11"
+      },
+      {
+        "name": "TRAIL (TNFSF10)"
+      },
+      {
+        "name": "BAFF (TNFSF13B)"
+      },
+      {
+        "name": "SH2D1A (SLAM associated protein)"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "caspase-3"
+      },
+      {
+        "name": "epithelial cell adhesion molecule"
+      },
+      {
+        "name": "F3"
+      },
+      {
+        "name": "myoglobin"
+      },
+      {
+        "name": "IL-1 receptor antagonist protein"
+      },
+      {
+        "name": "keratin-19"
+      },
+      {
+        "name": "transforming growth factor A"
+      },
+      {
+        "name": "complement component C1q receptor"
+      },
+      {
+        "name": "cartilage oligomeric matrix protein"
+      },
+      {
+        "name": "insulin-like growth factor"
+      },
+      {
+        "name": "thyroxine-binding globulin"
+      },
+      {
+        "name": "dipeptidyl peptidase 4"
+      },
+      {
+        "name": "plasma serine protease inhibitor"
+      },
+      {
+        "name": "kallikrein-related peptidase-6"
+      },
+      {
+        "name": "lymphatic vessel endothelial hyaluronic acid receptor 1"
+      },
+      {
+        "name": "amphiregulin"
+      },
+      {
+        "name": "factor 3"
+      },
+      {
+        "name": "Fms-related tyrosine kinase 3 ligand"
+      },
+      {
+        "name": "glutaminyl-peptide cyclotransferase"
+      },
+      {
+        "name": "metalloproteinase-3"
+      },
+      {
+        "name": "Proto-oncogene tyrosine-protein kinase Src"
+      },
+      {
+        "name": "CD8a"
+      },
+      {
+        "name": "CASP3"
+      },
+      {
+        "name": "EPCAM"
+      },
+      {
+        "name": "MB"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "spike protein"
+      },
+      {
+        "name": "CD69"
+      },
+      {
+        "name": "CD103"
+      },
+      {
+        "name": "IFN"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "TNF"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "IL-1RN"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "MMP-3"
+      },
+      {
+        "name": "AREG"
+      },
+      {
+        "name": "EPCAM"
+      },
+      {
+        "name": "KRT19"
+      },
+      {
+        "name": "CASP3"
+      },
+      {
+        "name": "TGFA"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "LDH"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CXCL10"
+      },
+      {
+        "name": "CXCL11"
+      },
+      {
+        "name": "IL-7"
+      },
+      {
+        "name": "SARS-CoV-2 RBD-specific antibody"
+      },
+      {
+        "name": "pro-inflammatory chemokines"
+      },
+      {
+        "name": "ADAMTS4"
+      },
+      {
+        "name": "transferrin receptor CD71"
+      },
+      {
+        "name": "ADAMTS4"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "transferrin receptor CD71"
+      },
+      {
+        "name": "osteopontin"
+      },
+      {
+        "name": "Matrix metalloproteinase 3"
+      },
+      {
+        "name": "GM-CSF"
+      },
+      {
+        "name": "CD8 T cells"
+      },
+      {
+        "name": "CD69"
+      },
+      {
+        "name": "CD8"
+      },
+      {
+        "name": "CD45RA"
+      },
+      {
+        "name": "CD11c"
+      },
+      {
+        "name": "CD56"
+      },
+      {
+        "name": "CD3"
+      },
+      {
+        "name": "IgD"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "CD25"
+      },
+      {
+        "name": "CD20"
+      },
+      {
+        "name": "CD127"
+      },
+      {
+        "name": "HLA-DR"
+      },
+      {
+        "name": "CD28"
+      },
+      {
+        "name": "CD38"
+      },
+      {
+        "name": "CD15"
+      },
+      {
+        "name": "CD279"
+      },
+      {
+        "name": "CD206"
+      },
+      {
+        "name": "CD45"
+      },
+      {
+        "name": "CXCR5"
+      },
+      {
+        "name": "CD169"
+      },
+      {
+        "name": "CD4"
+      },
+      {
+        "name": "CD161"
+      },
+      {
+        "name": "CD27"
+      },
+      {
+        "name": "Siglec8"
+      },
+      {
+        "name": "CD86"
+      },
+      {
+        "name": "Anti-HumanCD86"
+      },
+      {
+        "name": "Anti-HumanCD141"
+      },
+      {
+        "name": "Anti-HumanTCRg/d"
+      },
+      {
+        "name": "Anti-HumanTCRa/b"
+      },
+      {
+        "name": "Anti-HumanCD11b"
+      },
+      {
+        "name": "Anti-HumanCD123"
+      },
+      {
+        "name": "Anti-HumanCRTH2"
+      },
+      {
+        "name": "Anti-HumanCD14"
+      },
+      {
+        "name": "Anti-HumanCD1c"
+      },
+      {
+        "name": "Anti-HumanCD103"
+      },
+      {
+        "name": "Anti-HumanCD45"
+      },
+      {
+        "name": "Anti-HumanSiglec8"
+      },
+      {
+        "name": "Anti-HumanCD19"
+      },
+      {
+        "name": "Anti-HumanCD4"
+      },
+      {
+        "name": "Anti-HumanCD117"
+      },
+      {
+        "name": "Anti-HumanCD14"
+      },
+      {
+        "name": "Anti-HumanCD16"
+      },
+      {
+        "name": "Anti-HumanCD177"
+      },
+      {
+        "name": "Anti-HumanSiglec8"
+      },
+      {
+        "name": "Anti-HumanCD56"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "AREG"
+      },
+      {
+        "name": "LDLR"
+      },
+      {
+        "name": "FLT3LG"
+      },
+      {
+        "name": "SERPINA7"
+      },
+      {
+        "name": "DPP4"
+      },
+      {
+        "name": "SERPINA5"
+      },
+      {
+        "name": "KLK6"
+      },
+      {
+        "name": "LYVE1"
+      },
+      {
+        "name": "AREG"
+      },
+      {
+        "name": "FLT3LG"
+      },
+      {
+        "name": "QPCT"
+      },
+      {
+        "name": "MMP3"
+      },
+      {
+        "name": "SRC"
+      },
+      {
+        "name": "IL1A"
+      },
+      {
+        "name": "IL1RN"
+      },
+      {
+        "name": "CXCR3"
+      },
+      {
+        "name": "Dipeptidyl peptidase 4"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "extracellular matrix (ECM) dysregulation"
+      },
+      {
+        "name": "CXCR3 signaling pathway"
+      },
+      {
+        "name": "respiratory pathology"
+      },
+      {
+        "name": "leukocyte activation"
+      },
+      {
+        "name": "regulation of cell death"
+      },
+      {
+        "name": "response to injury"
+      },
+      {
+        "name": "response to wounding"
+      },
+      {
+        "name": "immune protection and immune pathology by CD8(+) T-cell responses to influenza infection"
+      },
+      {
+        "name": "distinct developmental pathways from blood monocytes generate human lung macrophage diversity"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "antifibrotics"
+      },
+      {
+        "name": "corticosteroids"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "post-COVID-19 respiratory disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "post-COVID-19 respiratory disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19 respiratory abnormalities"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "respiratory disease"
+      },
+      {
+        "name": "post-COVID-19 respiratory disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "IAV infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Influenza A virus (IAV)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "MERS"
+      },
+      {
+        "name": "post-COVID-19 syndrome"
+      },
+      {
+        "name": "chronic lung disease"
+      },
+      {
+        "name": "organizing pneumonia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COPD"
+      },
+      {
+        "name": "Interstitial Lung Diseases (ILDs)"
+      },
+      {
+        "name": "Fibrotic Lung Disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "organizing pneumonia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "hypersensitivity pneumonitis"
+      },
+      {
+        "name": "idiopathic pulmonary fibrosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "idiopathic pulmonary fibrosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "severe COVID-19 pneumonia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "MERS-CoV"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "viral pneumonitis"
+      },
+      {
+        "name": "idiopathic pulmonary fibrosis"
+      },
+      {
+        "name": "severe COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "lung fibrosis"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "interstitial lung disease"
+      }
+    ]
+  }
+}

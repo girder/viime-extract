@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "title": "Host Genetic Variants Linked to COVID-19 Neurological Complications and Susceptibility in Young Adults—A Preliminary Analysis",
+    "journal": "Journal of Personalized Medicine",
+    "year": 2023,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.3390/jpm13010123",
+    "authors": [
+      {
+        "firstname": "Anastasiya",
+        "middle_initial": null,
+        "surname": "Kazantseva",
+        "affiliation": "Institute of Biochemistry and Genetics—Subdivision of the Ufa Federal Research Centre of the Russian Academy of Sciences, 450054 Ufa, Russia"
+      },
+      {
+        "firstname": "Renata",
+        "middle_initial": null,
+        "surname": "Enikeeva",
+        "affiliation": "Institute of Biochemistry and Genetics—Subdivision of the Ufa Federal Research Centre of the Russian Academy of Sciences, 450054 Ufa, Russia"
+      },
+      {
+        "firstname": "Zalina",
+        "middle_initial": null,
+        "surname": "Takhirova",
+        "affiliation": "Laboratory of Neurocognitive Genomics, Department of Genetics and Fundamental Medicine, Ufa University of Science and Technology, 450076 Ufa, Russia"
+      },
+      {
+        "firstname": "Yuliya",
+        "middle_initial": null,
+        "surname": "Davydova",
+        "affiliation": "Institute of Biochemistry and Genetics—Subdivision of the Ufa Federal Research Centre of the Russian Academy of Sciences, 450054 Ufa, Russia"
+      },
+      {
+        "firstname": "Rustam",
+        "middle_initial": null,
+        "surname": "Mustafin",
+        "affiliation": "Department of Medical Genetics and Fundamental Medicine, Bashkir State Medical University, 450008 Ufa, Russia"
+      },
+      {
+        "firstname": "Sergey",
+        "middle_initial": null,
+        "surname": "Malykh",
+        "affiliation": "Psychological Institute, Russian Academy of Education, 125009 Moscow, Russia"
+      },
+      {
+        "firstname": "Alexandra",
+        "middle_initial": null,
+        "surname": "Karunas",
+        "affiliation": "Institute of Biochemistry and Genetics—Subdivision of the Ufa Federal Research Centre of the Russian Academy of Sciences, 450054 Ufa, Russia"
+      },
+      {
+        "firstname": "Alexander",
+        "middle_initial": null,
+        "surname": "Kanapin",
+        "affiliation": "Centrefor Computational Biology, Peter the Great St. Petersburg Polytechnic University, 195251 St. Petersburg, Russia"
+      },
+      {
+        "firstname": "Elza",
+        "middle_initial": null,
+        "surname": "Khusnutdinova",
+        "affiliation": "Institute of Biochemistry and Genetics—Subdivision of the Ufa Federal Research Centre of the Russian Academy of Sciences, 450054 Ufa, Russia"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [],
+    "mentioned_proteins": [
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "CCHCR1"
+      },
+      {
+        "name": "NOTCH4"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "MUC5B"
+      },
+      {
+        "name": "OAS1"
+      },
+      {
+        "name": "OAS3"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "DPP9"
+      },
+      {
+        "name": "TYK2"
+      },
+      {
+        "name": "KEAP1"
+      },
+      {
+        "name": "APOE"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "liver X receptor beta"
+      },
+      {
+        "name": "SARS-CoV-2 spike (S) protein"
+      },
+      {
+        "name": "Furin"
+      },
+      {
+        "name": "TMPRSS2"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "ApoE"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "SMRR1"
+      },
+      {
+        "name": "TYK2"
+      },
+      {
+        "name": "DPP9"
+      },
+      {
+        "name": "IFNAR2"
+      },
+      {
+        "name": "IVNS1ABP"
+      },
+      {
+        "name": "SWT1"
+      },
+      {
+        "name": "MYH14"
+      },
+      {
+        "name": "SETX"
+      },
+      {
+        "name": "ATXN1"
+      },
+      {
+        "name": "SCN11A"
+      },
+      {
+        "name": "ACE2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "rs1894401"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "MUC5B"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "KEAP1"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "SMRR1"
+      },
+      {
+        "name": "IVNS1ABP"
+      },
+      {
+        "name": "LZTFL1"
+      },
+      {
+        "name": "HLA-G"
+      },
+      {
+        "name": "CCHCR1"
+      },
+      {
+        "name": "NOTCH4"
+      },
+      {
+        "name": "OAS1"
+      },
+      {
+        "name": "OAS3"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "DPP9"
+      },
+      {
+        "name": "TYK2"
+      },
+      {
+        "name": "APOE"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "SMRR1"
+      },
+      {
+        "name": "IVNS1ABP"
+      },
+      {
+        "name": "LZTFL1"
+      },
+      {
+        "name": "HLA-G"
+      },
+      {
+        "name": "CCHCR1"
+      },
+      {
+        "name": "CCHCR1"
+      },
+      {
+        "name": "NOTCH4"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "MUC5B"
+      },
+      {
+        "name": "OAS1"
+      },
+      {
+        "name": "OAS3"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "DPP9"
+      },
+      {
+        "name": "TYK2"
+      },
+      {
+        "name": "KEAP1"
+      },
+      {
+        "name": "APOE"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "FYCO1"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "ApoE"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "NR1H2"
+      },
+      {
+        "name": "TMPRSS2"
+      },
+      {
+        "name": "SLC6A20"
+      },
+      {
+        "name": "FURIN"
+      },
+      {
+        "name": "DNA"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "cholesterol homeostasis"
+      }
+    ],
+    "mentioned_drugs": [],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neurological complications"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "coronavirus disease 2019"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dementia"
+      },
+      {
+        "name": "mental health problems"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "dementia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "neurological symptoms"
+      },
+      {
+        "name": "anosmia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "PTSD"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "affective disorders"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "multiple sclerosis"
+      },
+      {
+        "name": "Alzheimer's disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer's Disease (AD)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "insomnia"
+      },
+      {
+        "name": "ADHD"
+      },
+      {
+        "name": "familial multiple sclerosis"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "dementia"
+      },
+      {
+        "name": "familial multiple sclerosis"
+      }
+    ]
+  }
+}

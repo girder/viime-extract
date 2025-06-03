@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Assessment of tryptophan and kynurenine as prognostic markers in patients with SARS-CoV-2",
+    "journal": "Clinica Chimica Acta",
+    "year": 2022,
+    "volume": "525",
+    "pubmed_id": null,
+    "doi_id": "10.1016/j.cca.2021.12.005",
+    "authors": [
+      {
+        "firstname": "Simon",
+        "middle_initial": "M.",
+        "surname": "Michaelis",
+        "affiliation": "Institute of Clinical Chemistry and Laboratory Medicine, General Hospital Hochsteiermark, Vordernberger Straße 42, 8700 Leoben, Austria"
+      },
+      {
+        "firstname": "Sieglinde",
+        "middle_initial": null,
+        "surname": "Zelzer",
+        "affiliation": "Clinical Institute of Medical and Chemical Laboratory Diagnostics, Medical University of Graz, Auenbruggerplatz 15, 8036 Graz, Austria"
+      },
+      {
+        "firstname": "Wolfgang J.",
+        "middle_initial": null,
+        "surname": "Schnedl",
+        "affiliation": "Practice for General Internal Medicine, Dr.-Theodor-Ko¨rner-Straße 19b, 8600 Bruck/Mur, Austria"
+      },
+      {
+        "firstname": "Andreas",
+        "middle_initial": null,
+        "surname": "Baranyi",
+        "affiliation": "Department of Psychiatry and Psychotherapeutic Medicine, Medical University of Graz, Auenbruggerplatz 31, 8036 Graz, Austria"
+      },
+      {
+        "firstname": "Andreas",
+        "middle_initial": null,
+        "surname": "Meinitzer",
+        "affiliation": "Clinical Institute of Medical and Chemical Laboratory Diagnostics, Medical University of Graz, Auenbruggerplatz 15, 8036 Graz, Austria"
+      },
+      {
+        "firstname": "Dietmar",
+        "middle_initial": null,
+        "surname": "Enko",
+        "affiliation": "Clinical Institute of Medical and Chemical Laboratory Diagnostics, Medical University of Graz, Auenbruggerplatz 15, 8036 Graz, Austria"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenins"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "D-Dimer"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "KYN/TRP ratio"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "D-Dimer"
+      },
+      {
+        "name": "Tryptophan"
+      },
+      {
+        "name": "Kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "3-hydroxykynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "xanthurenic acid"
+      },
+      {
+        "name": "3-hydroxyanthranilic acid"
+      },
+      {
+        "name": "picolinic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "N-formyl-kynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenines"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenic acid"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "3-hydroxykynurenine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "fatty acids"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "Procalcitonin"
+      },
+      {
+        "name": "Interleukin-6"
+      },
+      {
+        "name": "indolamine-pyrrole 2,3-dioxygenase (IDO)"
+      },
+      {
+        "name": "Interleukin-6 (IL-6)"
+      },
+      {
+        "name": "C-reactive protein"
+      },
+      {
+        "name": "procalcitonin"
+      },
+      {
+        "name": "interleukin-6"
+      },
+      {
+        "name": "Interleukin-6"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "procalcitonin"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "indolamin-2,3-dioxygenase (IDO)"
+      },
+      {
+        "name": "IL-6"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "Indolamine-pyrrole 2,3-dioxygenase pathway"
+      },
+      {
+        "name": "Kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "tryptophan-kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "Tryptophan breakdown pathway"
+      }
+    ],
+    "mentioned_drugs": [],
+    "mentioned_diseases": [
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "SARS-CoV-2 infections"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "bipolar mania"
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "title": "Neuro-PASC is characterized by enhanced CD4+ and diminished CD8+ T cell responses to SARS-CoV-2 Nucleocapsid protein",
+    "journal": "Frontiers in Immunology",
+    "year": 2023,
+    "volume": "14",
+    "pubmed_id": null,
+    "doi_id": "10.3389/fimmu.2023.1155770",
+    "authors": [
+      {
+        "firstname": "Lavanya",
+        "middle_initial": "Visvabharathy",
+        "surname": "Visvabharathy",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Barbara",
+        "middle_initial": "A.",
+        "surname": "Hanson",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Zachary",
+        "middle_initial": "S.",
+        "surname": "Orban",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Patrick",
+        "middle_initial": "H.",
+        "surname": "Lim",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Nicole",
+        "middle_initial": "M.",
+        "surname": "Palacio",
+        "affiliation": "Department of Microbiology-Immunology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Millenia",
+        "middle_initial": "Jimenez",
+        "surname": "Jimenez",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Jeffrey",
+        "middle_initial": "R.",
+        "surname": "Clark",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Edith",
+        "middle_initial": "L.",
+        "surname": "Graham",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Eric",
+        "middle_initial": "M.",
+        "surname": "Liotta",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "George",
+        "middle_initial": "T.",
+        "surname": "Tachas",
+        "affiliation": "Drug Discovery & Patents, Antisense Therapeutics Ltd., Melbourne, VIC, Australia"
+      },
+      {
+        "firstname": "Pablo",
+        "middle_initial": "Penaloza-MacMaster",
+        "surname": "Penaloza-MacMaster",
+        "affiliation": "Department of Microbiology-Immunology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      },
+      {
+        "firstname": "Igor",
+        "middle_initial": "J.",
+        "surname": "Koralnik",
+        "affiliation": "Ken and Ruth Davee Department of Neurology, Feinberg School of Medicine, Northwestern University, Chicago, IL, United States"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "CCL11"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "Nucleocapsid protein"
+      },
+      {
+        "name": "SARS-CoV-2 Nucleocapsid protein"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "Nucleocapsid"
+      },
+      {
+        "name": "Spike (S) Protein"
+      },
+      {
+        "name": "Nucleocapsid (N) Protein"
+      },
+      {
+        "name": "Membrane (M) Protein"
+      },
+      {
+        "name": "SARS-CoV-2 RBD"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "H1 Haemagglutinin"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "alkaline phosphatase"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "Nucleocapsid"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-6R"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "immunoregulatory proteins"
+      },
+      {
+        "name": "TASOR antiviral pathway-associated proteins"
+      },
+      {
+        "name": "structural proteins of SARS-CoV-2"
+      },
+      {
+        "name": "SARS-CoV-2 nucleocapsid protein"
+      },
+      {
+        "name": "Nprotein"
+      },
+      {
+        "name": "Haemagglutinin"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "M protein"
+      },
+      {
+        "name": "S protein"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-6 receptor b (IL-6Rb)"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "granzyme"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "SARS-CoV-2 Spike protein"
+      },
+      {
+        "name": "N antigens"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "Nucleocapsid protein"
+      },
+      {
+        "name": "METTL3"
+      },
+      {
+        "name": "CDH1 (E-cadherin)"
+      },
+      {
+        "name": "SIGLEC7"
+      },
+      {
+        "name": "MICA"
+      },
+      {
+        "name": "H2BC12"
+      },
+      {
+        "name": "METTL3"
+      },
+      {
+        "name": "MAP4K1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "N protein"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "NCR1"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "nucleocapsid gene"
+      },
+      {
+        "name": "TRBV"
+      },
+      {
+        "name": "TRBJ"
+      },
+      {
+        "name": "TCR b gene"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "hallmark"
+      },
+      {
+        "name": "curated"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "reactome gene sets"
+      },
+      {
+        "name": "immunoregulatory"
+      },
+      {
+        "name": "TASOR antiviral"
+      },
+      {
+        "name": "immunoregulatory pathway"
+      },
+      {
+        "name": "pro-inflammatory pathway"
+      },
+      {
+        "name": "antiviral pathway"
+      },
+      {
+        "name": "TASOR pathway"
+      },
+      {
+        "name": "immunoregulatory pathway"
+      },
+      {
+        "name": "antiviral pathway"
+      },
+      {
+        "name": "TASOR pathway"
+      },
+      {
+        "name": "immunoregulatory pathway"
+      },
+      {
+        "name": "antiviral pathways"
+      },
+      {
+        "name": "immunoregulatory pathways"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Pfizer BNT162B2"
+      },
+      {
+        "name": "Moderna mRNA-1273"
+      },
+      {
+        "name": "sodium heparin"
+      },
+      {
+        "name": "NR-52394"
+      },
+      {
+        "name": "NR-52309"
+      },
+      {
+        "name": "NR-53507"
+      },
+      {
+        "name": "NR-51668"
+      },
+      {
+        "name": "recombinant human IL-15"
+      },
+      {
+        "name": "IL-15"
+      },
+      {
+        "name": "SARS-CoV-2 antiviral drugs"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "pneumonia"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Influenza"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "CC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "SARS-CoV-1"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "hepatocellular carcinoma"
+      },
+      {
+        "name": "Alzheimer’s disease"
+      },
+      {
+        "name": "myocardial infarction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "Neuro-PASC"
+      },
+      {
+        "name": "depression"
+      }
+    ]
+  }
+}

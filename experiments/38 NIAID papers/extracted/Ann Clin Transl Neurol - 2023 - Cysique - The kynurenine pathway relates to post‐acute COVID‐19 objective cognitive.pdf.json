@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "title": "The kynurenine pathway relates to post-acute COVID-19 objective cognitive impairment and PASC",
+    "journal": "Annals of Clinical and Translational Neurology",
+    "year": 2023,
+    "volume": "10",
+    "pubmed_id": null,
+    "doi_id": "10.1002/acn3.51825",
+    "authors": [
+      {
+        "firstname": "Lucette",
+        "middle_initial": "A.",
+        "surname": "Cysique",
+        "affiliation": "Peter Duncan Neuroscience Research Unit, St. Vincent’s Centre for Applied Medical Research, Darlinghurst, New South Wales, Australia"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "null",
+        "surname": "Jakabek",
+        "affiliation": "Neurology Department, St. Vincent’s Hospital, Darlinghurst, New South Wales, Australia"
+      },
+      {
+        "firstname": "Sophia",
+        "middle_initial": "G.",
+        "surname": "Bracken",
+        "affiliation": "School of Psychology, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Yasmin",
+        "middle_initial": "null",
+        "surname": "Allen-Davidian",
+        "affiliation": "School of Psychology, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Benjamin",
+        "middle_initial": "null",
+        "surname": "Heng",
+        "affiliation": "Macquarie Medical School, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Sharron",
+        "middle_initial": "null",
+        "surname": "Chow",
+        "affiliation": "Macquarie Medical School, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Mona",
+        "middle_initial": "null",
+        "surname": "Dehhaghi",
+        "affiliation": "Macquarie Medical School, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Ananda",
+        "middle_initial": "null",
+        "surname": "Staats Pires",
+        "affiliation": "Macquarie Medical School, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "R.",
+        "surname": "Darley",
+        "affiliation": "Faculty of Medicine, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Anthony",
+        "middle_initial": "null",
+        "surname": "Byrne",
+        "affiliation": "Faculty of Medicine, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Chansavath",
+        "middle_initial": "null",
+        "surname": "Phetsouphanh",
+        "affiliation": "Kirby Institute, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Anthony",
+        "middle_initial": "null",
+        "surname": "Kelleher",
+        "affiliation": "Kirby Institute, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Gregory",
+        "middle_initial": "J.",
+        "surname": "Dore",
+        "affiliation": "Kirby Institute, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Gail",
+        "middle_initial": "V.",
+        "surname": "Matthews",
+        "affiliation": "Kirby Institute, UNSW, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Gilles",
+        "middle_initial": "J.",
+        "surname": "Guillemin",
+        "affiliation": "Macquarie Medical School, Macquarie University, Sydney, New South Wales, Australia"
+      },
+      {
+        "firstname": "Bruce",
+        "middle_initial": "J.",
+        "surname": "Brew",
+        "affiliation": "Neurology Department, St. Vincent’s Hospital, Darlinghurst, New South Wales, Australia"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "3-hydroxyanthranilic acid"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "kynurenine/tryptophan ratio"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN/TRP ratio"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "AA"
+      },
+      {
+        "name": "3HAA"
+      },
+      {
+        "name": "3HK"
+      },
+      {
+        "name": "PIC"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "KYNA"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "3HAA"
+      },
+      {
+        "name": "3HK"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "PIC"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "AA"
+      },
+      {
+        "name": "3HAA"
+      },
+      {
+        "name": "3HK"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "3HAA"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "KYN"
+      },
+      {
+        "name": "TRP"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "quinolinic acid"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "QUIN"
+      },
+      {
+        "name": "QUIN"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "neurofilament light chain (NfL)"
+      },
+      {
+        "name": "glial fibrillary acidic protein (GFAP)"
+      },
+      {
+        "name": "S100b"
+      },
+      {
+        "name": "IFN-b"
+      },
+      {
+        "name": "IFN-b"
+      },
+      {
+        "name": "IFN-beta"
+      },
+      {
+        "name": "NfL"
+      },
+      {
+        "name": "GFAP"
+      },
+      {
+        "name": "S100b"
+      },
+      {
+        "name": "GMCSF"
+      },
+      {
+        "name": "IFN-beta"
+      },
+      {
+        "name": "IL6"
+      },
+      {
+        "name": "type I interferon"
+      },
+      {
+        "name": "Calcium/calmodulin-dependent protein kinase"
+      },
+      {
+        "name": "interferon regulatory factor 3"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway"
+      },
+      {
+        "name": "kynurenine pathway (KP)"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP neurotoxic pathway"
+      },
+      {
+        "name": "KP"
+      },
+      {
+        "name": "KP activation"
+      }
+    ],
+    "mentioned_drugs": [],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PASC)"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PASC)"
+      },
+      {
+        "name": "post-acute COVID-19-related cognitive impairment"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "acute disease severity"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "post-infective fatigue syndrome"
+      },
+      {
+        "name": "anxiety disorder"
+      },
+      {
+        "name": "major depressive disorder"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "NeuroCOVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "NeuroCOVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "myalgia"
+      },
+      {
+        "name": "chronic cardiac disease"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "chronic lung disease"
+      },
+      {
+        "name": "asthma"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "liver disease"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "HIV infection"
+      },
+      {
+        "name": "rheumatologic or autoimmune disorder"
+      },
+      {
+        "name": "obstructive sleep apnea"
+      },
+      {
+        "name": "Parkinson’s disease"
+      },
+      {
+        "name": "anxiety disorder"
+      },
+      {
+        "name": "major depressive disorder"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "cognitive impairment"
+      },
+      {
+        "name": "psychiatric conditions"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "acute COVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome (PASC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1061 @@
+{
+  "meta": {
+    "title": "Identification of a multi-omics factor predictive of long COVID in the IMPACC study",
+    "journal": "bioRxiv",
+    "year": 2025,
+    "volume": "preprint",
+    "pubmed_id": null,
+    "doi_id": "10.1101/2025.02.12.637926",
+    "authors": [
+      {
+        "firstname": "Gisela",
+        "middle_initial": null,
+        "surname": "Gabernet",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Jessica",
+        "middle_initial": null,
+        "surname": "Maciuch",
+        "affiliation": "Northwestern Feinberg School of Medicine, Chicago, IL 60611, USA"
+      },
+      {
+        "firstname": "Jeremy P.",
+        "middle_initial": null,
+        "surname": "Gygi",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "John F.",
+        "middle_initial": null,
+        "surname": "Moore",
+        "affiliation": "The University of Texas at Austin, Austin, TX 78712, USA"
+      },
+      {
+        "firstname": "Annmarie",
+        "middle_initial": null,
+        "surname": "Hoch",
+        "affiliation": "Clinical and Data Coordinating Center (CDCC), Precision Vaccines Program, Boston Children’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Caitlin",
+        "middle_initial": null,
+        "surname": "Syphurs",
+        "affiliation": "Clinical and Data Coordinating Center (CDCC), Precision Vaccines Program, Boston Children’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Tianyi",
+        "middle_initial": null,
+        "surname": "Chu",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Naresh Doni",
+        "middle_initial": "Jayavelu",
+        "surname": "",
+        "affiliation": "Benaroya Research Institute, University of Washington, Seattle, WA 98101, USA"
+      },
+      {
+        "firstname": "David B.",
+        "middle_initial": null,
+        "surname": "Corry",
+        "affiliation": "Baylor College of Medicine and the Center for Translational Research on Inflammatory Diseases, Houston, TX 77030, USA"
+      },
+      {
+        "firstname": "Farrah",
+        "middle_initial": null,
+        "surname": "Kheradmand",
+        "affiliation": "Baylor College of Medicine and the Center for Translational Research on Inflammatory Diseases, Houston, TX 77030, USA"
+      },
+      {
+        "firstname": "Lindsey R.",
+        "middle_initial": null,
+        "surname": "Baden",
+        "affiliation": "Brigham and Women’s Hospital, Harvard Medical School, Boston, MA 02115"
+      },
+      {
+        "firstname": "Rafick-Pierre",
+        "middle_initial": null,
+        "surname": "Sekaly",
+        "affiliation": "Case Western Reserve University and University Hospitals of Cleveland, Cleveland, OH 44106, USA"
+      },
+      {
+        "firstname": "Grace A.",
+        "middle_initial": null,
+        "surname": "McComsey",
+        "affiliation": "Drexel University, Tower Health Hospital, Philadelphia, PA 19104, USA"
+      },
+      {
+        "firstname": "Elias K.",
+        "middle_initial": null,
+        "surname": "Haddad",
+        "affiliation": "Drexel University, Tower Health Hospital, Philadelphia, PA 19104, USA"
+      },
+      {
+        "firstname": "Charles B.",
+        "middle_initial": null,
+        "surname": "Cairns",
+        "affiliation": "Emory School of Medicine, Atlanta, GA 30322, USA"
+      },
+      {
+        "firstname": "Nadine",
+        "middle_initial": null,
+        "surname": "Rouphael",
+        "affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA"
+      },
+      {
+        "firstname": "Ana",
+        "middle_initial": "Fernandez-Sesma",
+        "surname": "",
+        "affiliation": "Oklahoma University Health Sciences Center, Oklahoma City, OK 73104"
+      },
+      {
+        "firstname": "Viviana",
+        "middle_initial": null,
+        "surname": "Simon",
+        "affiliation": "Oregon Health & Science University, Portland, OR 97239, USA"
+      },
+      {
+        "firstname": "Jordan P.",
+        "middle_initial": null,
+        "surname": "Metcalf",
+        "affiliation": "Stanford University School of Medicine, Palo Alto, CA 94305, USA"
+      },
+      {
+        "firstname": "Nelson I",
+        "middle_initial": "Agudelo Higuita",
+        "surname": "",
+        "affiliation": "University of Arizona, Tucson AZ 85721, USA"
+      },
+      {
+        "firstname": "Catherine L.",
+        "middle_initial": null,
+        "surname": "Hough",
+        "affiliation": "David Geffen School of Medicine at the University of California Los Angeles, Los Angeles CA 90095, USA"
+      },
+      {
+        "firstname": "William B.",
+        "middle_initial": null,
+        "surname": "Messer",
+        "affiliation": "University of California San Francisco, San Francisco, CA 94115, USA"
+      },
+      {
+        "firstname": "Mark M.",
+        "middle_initial": null,
+        "surname": "Davis",
+        "affiliation": "University of Florida, Gainesville, FL 32611, USA"
+      },
+      {
+        "firstname": "Kari C.",
+        "middle_initial": null,
+        "surname": "Nadeau",
+        "affiliation": "Precision Vaccines Program, Boston Children’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Bali",
+        "middle_initial": null,
+        "surname": "Pulendran",
+        "affiliation": "Stanford University School of Medicine, Palo Alto, CA 94305, USA"
+      },
+      {
+        "firstname": "Monica",
+        "middle_initial": null,
+        "surname": "Kraft",
+        "affiliation": "University of Arizona, Tucson AZ 85721, USA"
+      },
+      {
+        "firstname": "Chris",
+        "middle_initial": null,
+        "surname": "Bime",
+        "affiliation": "David Geffen School of Medicine at the University of California Los Angeles, Los Angeles CA 90095, USA"
+      },
+      {
+        "firstname": "Elaine F.",
+        "middle_initial": null,
+        "surname": "Reed",
+        "affiliation": "University of California San Francisco, San Francisco, CA 94115, USA"
+      },
+      {
+        "firstname": "Joanna",
+        "middle_initial": null,
+        "surname": "Schaenman",
+        "affiliation": "University of California San Francisco, San Francisco, CA 94115, USA"
+      },
+      {
+        "firstname": "David J.",
+        "middle_initial": null,
+        "surname": "Erle",
+        "affiliation": "University of Florida, Gainesville, FL 32611, USA"
+      },
+      {
+        "firstname": "Carolyn S.",
+        "middle_initial": null,
+        "surname": "Calfee",
+        "affiliation": "University of California San Francisco, San Francisco, CA 94115, USA"
+      },
+      {
+        "firstname": "Mark A.",
+        "middle_initial": null,
+        "surname": "Atkinson",
+        "affiliation": "University of Florida, Gainesville, FL 32611, USA"
+      },
+      {
+        "firstname": "Scott C.",
+        "middle_initial": null,
+        "surname": "Brackenridge",
+        "affiliation": "University of Florida, Gainesville, FL 32611, USA"
+      },
+      {
+        "firstname": "Esther",
+        "middle_initial": null,
+        "surname": "Melamed",
+        "affiliation": "The University of Texas at Austin, Austin, TX 78712, USA"
+      },
+      {
+        "firstname": "Albert C.",
+        "middle_initial": null,
+        "surname": "Shaw",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "David A.",
+        "middle_initial": null,
+        "surname": "Hafler",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Al",
+        "middle_initial": "Ozonoff",
+        "surname": "",
+        "affiliation": "Clinical and Data Coordinating Center (CDCC), Precision Vaccines Program, Boston Children’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Steven E.",
+        "middle_initial": null,
+        "surname": "Bosinger",
+        "affiliation": "Emory School of Medicine, Atlanta, GA 30322, USA"
+      },
+      {
+        "firstname": "Walter",
+        "middle_initial": null,
+        "surname": "Eckalbar",
+        "affiliation": "University of California San Francisco, San Francisco, CA 94115, USA"
+      },
+      {
+        "firstname": "Holden T.",
+        "middle_initial": null,
+        "surname": "Maecker",
+        "affiliation": "Stanford University School of Medicine, Palo Alto, CA 94305, USA"
+      },
+      {
+        "firstname": "Seunghee",
+        "middle_initial": null,
+        "surname": "Kim-Schulze",
+        "affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA"
+      },
+      {
+        "firstname": "Hanno",
+        "middle_initial": null,
+        "surname": "Steen",
+        "affiliation": "La Jolla Institute for Immunology, La Jolla, CA 92037, USA"
+      },
+      {
+        "firstname": "Florian",
+        "middle_initial": null,
+        "surname": "Krammer",
+        "affiliation": "Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA"
+      },
+      {
+        "firstname": "Kerstin",
+        "middle_initial": null,
+        "surname": "Westendorf",
+        "affiliation": "La Jolla Institute for Immunology, La Jolla, CA 92037, USA"
+      },
+      {
+        "firstname": "Bjoern",
+        "middle_initial": null,
+        "surname": "Peters",
+        "affiliation": "La Jolla Institute for Immunology, La Jolla, CA 92037, USA"
+      },
+      {
+        "firstname": "Slim",
+        "middle_initial": null,
+        "surname": "Fourati",
+        "affiliation": "Northwestern Feinberg School of Medicine, Chicago, IL 60611, USA"
+      },
+      {
+        "firstname": "Matthew C.",
+        "middle_initial": null,
+        "surname": "Altman",
+        "affiliation": "Benaroya Research Institute, University of Washington, Seattle, WA 98101, USA"
+      },
+      {
+        "firstname": "Ofer",
+        "middle_initial": null,
+        "surname": "Levy",
+        "affiliation": "La Jolla Institute for Immunology, La Jolla, CA 92037, USA"
+      },
+      {
+        "firstname": "Kinga K.",
+        "middle_initial": null,
+        "surname": "Smolen",
+        "affiliation": "La Jolla Institute for Immunology, La Jolla, CA 92037, USA"
+      },
+      {
+        "firstname": "Ruth R.",
+        "middle_initial": null,
+        "surname": "Montgomery",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Joann",
+        "middle_initial": null,
+        "surname": "Diray-Arce",
+        "affiliation": "Clinical and Data Coordinating Center (CDCC), Precision Vaccines Program, Boston Children’s Hospital, Harvard Medical School, Boston, MA 02115, USA"
+      },
+      {
+        "firstname": "Steven H.",
+        "middle_initial": null,
+        "surname": "Kleinstein",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Leying",
+        "middle_initial": null,
+        "surname": "Guan",
+        "affiliation": "Yale School of Medicine, New Haven, CT 06511, USA"
+      },
+      {
+        "firstname": "Lauren I. R.",
+        "middle_initial": null,
+        "surname": "Ehrlich",
+        "affiliation": "The University of Texas at Austin, Austin, TX 78712, USA"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "androgenic steroids"
+      },
+      {
+        "name": "heme metabolism"
+      },
+      {
+        "name": "FGF21"
+      },
+      {
+        "name": "Serum SO"
+      },
+      {
+        "name": "setylanA"
+      },
+      {
+        "name": "androgenic steroids"
+      },
+      {
+        "name": "Phenylacetylglutamate"
+      },
+      {
+        "name": "Phenylacetylglutamine"
+      },
+      {
+        "name": "pregnenolone"
+      },
+      {
+        "name": "DHEA-S"
+      },
+      {
+        "name": "epiandrosterone sulfate"
+      },
+      {
+        "name": "androsterone sulfate"
+      },
+      {
+        "name": "5alpha-androstan-3beta,17beta-diol monosulfate (2)"
+      },
+      {
+        "name": "5alpha-androstan-3beta,17alpha-diol disulfate"
+      },
+      {
+        "name": "dehydroepiandrosterone sulfate (DHEA−S)"
+      },
+      {
+        "name": "epiandrosterone sulfate"
+      },
+      {
+        "name": "pregnenediol sulfate (C21H34O5S)"
+      },
+      {
+        "name": "androsterone sulfate"
+      },
+      {
+        "name": "pregnenetriol sulfate"
+      },
+      {
+        "name": "pregnenolone sulfate"
+      },
+      {
+        "name": "5alpha−androstan−3beta,17beta−diol monosulfate (2)"
+      },
+      {
+        "name": "androstenediol (3beta,17beta) disulfate (2)"
+      },
+      {
+        "name": "pregnen−diol disulfate"
+      },
+      {
+        "name": "5alpha−androstan−3beta,17alpha−diol disulfate"
+      },
+      {
+        "name": "androstenediol (3alpha, 17alpha) monosulfate (2)"
+      },
+      {
+        "name": "pregnenetriol disulfate"
+      },
+      {
+        "name": "phenylacetylglutamate"
+      },
+      {
+        "name": "phenylacetylglutamine"
+      },
+      {
+        "name": "androgenic steroids"
+      },
+      {
+        "name": "SPEAR analytes"
+      },
+      {
+        "name": "Androgenic Steroids"
+      },
+      {
+        "name": "SPEAR Analytes"
+      },
+      {
+        "name": "pregnenolone"
+      },
+      {
+        "name": "DHEA"
+      },
+      {
+        "name": "androsterone"
+      },
+      {
+        "name": "epiandrosterone"
+      },
+      {
+        "name": "5alpha-androstan-3beta,17beta-diol"
+      },
+      {
+        "name": "pregnenolone sulfate"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "DHEAS"
+      },
+      {
+        "name": "DHEA-S"
+      },
+      {
+        "name": "androstenediol (3alpha, 17alpha) monosulfate (2)"
+      },
+      {
+        "name": "androstenediol (3beta,17beta) disulfate (2)"
+      },
+      {
+        "name": "5alpha-androstan-3beta,17alpha-diol disulfate"
+      },
+      {
+        "name": "androsterone sulfate"
+      },
+      {
+        "name": "epiandrosterone sulfate"
+      },
+      {
+        "name": "FGF21"
+      },
+      {
+        "name": "heme"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "plasma proteins"
+      },
+      {
+        "name": "SARS-CoV-2 Spike protein"
+      },
+      {
+        "name": "DNER"
+      },
+      {
+        "name": "FGF23"
+      },
+      {
+        "name": "FGF21"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "TNFRSF11B"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "MMP10"
+      },
+      {
+        "name": "CSF1"
+      },
+      {
+        "name": "IL10RB"
+      },
+      {
+        "name": "LRG1"
+      },
+      {
+        "name": "oxysterol binding protein"
+      },
+      {
+        "name": "LRG1"
+      },
+      {
+        "name": "OSBP2"
+      },
+      {
+        "name": "TNFRSF11B"
+      },
+      {
+        "name": "FGF23"
+      },
+      {
+        "name": "MMP10"
+      },
+      {
+        "name": "TNFRSF9"
+      },
+      {
+        "name": "DNER"
+      },
+      {
+        "name": "IL10RB"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CSF1"
+      },
+      {
+        "name": "FGF21"
+      },
+      {
+        "name": "LRG1"
+      },
+      {
+        "name": "OSBP2"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "CD27"
+      },
+      {
+        "name": "CD8"
+      },
+      {
+        "name": "CD161"
+      },
+      {
+        "name": "CD4+ T cells"
+      },
+      {
+        "name": "CD8+ T cells"
+      },
+      {
+        "name": "conventional dendritic cells"
+      },
+      {
+        "name": "plasmacytoid dendritic cells"
+      },
+      {
+        "name": "eosinophils"
+      },
+      {
+        "name": "basophils"
+      },
+      {
+        "name": "CD56hi CD16low natural killer (NK) cells"
+      },
+      {
+        "name": "naïve CD4+ T cells"
+      },
+      {
+        "name": "central memory (TCM) CD4+ T cells"
+      },
+      {
+        "name": "effector memory (TEM) CD4+ T cells"
+      },
+      {
+        "name": "non-naïve regulatory T cells (Treg)"
+      },
+      {
+        "name": "activated CD4+ T cells"
+      },
+      {
+        "name": "naïve CD8+ T cells"
+      },
+      {
+        "name": "central memory (TCM) CD8+ T cells"
+      },
+      {
+        "name": "effector memory (TEM) CD8+ T cells"
+      },
+      {
+        "name": "Oxysterol Binding Protein 2"
+      },
+      {
+        "name": "CYP11A1"
+      },
+      {
+        "name": "CXCL9"
+      },
+      {
+        "name": "CSF1"
+      },
+      {
+        "name": "LRG1"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "cytokines"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "OSBP2"
+      },
+      {
+        "name": "OSBP2"
+      },
+      {
+        "name": "ORP4"
+      },
+      {
+        "name": "heme metabolism"
+      },
+      {
+        "name": "OSBP2"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "heme metabolism genes"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "heme metabolism"
+      },
+      {
+        "name": "COG"
+      },
+      {
+        "name": "PHY"
+      },
+      {
+        "name": "MLT"
+      },
+      {
+        "name": "Hallmark Heme Metabolism"
+      },
+      {
+        "name": "steroid hormone biosynthesis"
+      },
+      {
+        "name": "Hallmark Heme Metabolism"
+      },
+      {
+        "name": "androgenic steroids pathway"
+      },
+      {
+        "name": "Hallmark Heme Metabolism gene set"
+      },
+      {
+        "name": "heme metabolism"
+      },
+      {
+        "name": "androgenic steroid pathways"
+      },
+      {
+        "name": "Hallmark Heme Metabolism"
+      },
+      {
+        "name": "Heme Metabolism"
+      },
+      {
+        "name": "androgenic steroid pathway"
+      },
+      {
+        "name": "heme metabolism"
+      },
+      {
+        "name": "androgenic steroids pathway"
+      },
+      {
+        "name": "Hallmark Heme Metabolism"
+      },
+      {
+        "name": "Hallmark Heme Metabolism"
+      },
+      {
+        "name": "steroid hormone biosynthesis"
+      },
+      {
+        "name": "androgenic steroid pathway"
+      },
+      {
+        "name": "heme metabolism pathway"
+      },
+      {
+        "name": "androgenic steroids pathway"
+      },
+      {
+        "name": "IL-6/STAT3 pathway"
+      },
+      {
+        "name": "immune profiling"
+      },
+      {
+        "name": "androgenic steroids"
+      },
+      {
+        "name": "heme metabolism"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Merck"
+      },
+      {
+        "name": "Curevac"
+      },
+      {
+        "name": "Seqirus"
+      },
+      {
+        "name": "GSK"
+      },
+      {
+        "name": "Pfizer"
+      },
+      {
+        "name": "Sanofi"
+      },
+      {
+        "name": "Gritstone"
+      },
+      {
+        "name": "Avimex"
+      },
+      {
+        "name": "Dynavax"
+      },
+      {
+        "name": "GlaxoSmithKline"
+      },
+      {
+        "name": "Moderna"
+      },
+      {
+        "name": "Immorna"
+      },
+      {
+        "name": "Merck"
+      },
+      {
+        "name": "Sanofi"
+      },
+      {
+        "name": "Pfizer"
+      },
+      {
+        "name": "Vaccine Company"
+      },
+      {
+        "name": "Immorna"
+      },
+      {
+        "name": "Moderna"
+      },
+      {
+        "name": "Seqirus"
+      },
+      {
+        "name": "EMMES"
+      },
+      {
+        "name": "ICON"
+      },
+      {
+        "name": "BARDA"
+      },
+      {
+        "name": "CyanVan"
+      },
+      {
+        "name": "Imunon Micron"
+      },
+      {
+        "name": "Astra-Zeneca"
+      },
+      {
+        "name": "GSK"
+      },
+      {
+        "name": "Babson Diagnostics"
+      },
+      {
+        "name": "Genentech"
+      },
+      {
+        "name": "Horizon"
+      },
+      {
+        "name": "Teva"
+      },
+      {
+        "name": "Viela Bio"
+      },
+      {
+        "name": "Janssen"
+      },
+      {
+        "name": "Vasomune"
+      },
+      {
+        "name": "Gen1e Life Sciences"
+      },
+      {
+        "name": "NGMBio"
+      },
+      {
+        "name": "Cellenkos"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "autoimmunity"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "MIN"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "acute COVID-19 infection"
+      },
+      {
+        "name": "chronic inflammation"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "vascular inflammation"
+      },
+      {
+        "name": "thrombosis"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "chronic HIV"
+      },
+      {
+        "name": "hepatitis C"
+      },
+      {
+        "name": "anemia"
+      },
+      {
+        "name": "acute disease"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "Chronic Kidney Disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute disease"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "acute disease"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "MIN"
+      },
+      {
+        "name": "MIN"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "acute disease"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "LC"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "myalgic encephalomyelitis / chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "myalgic encephalomyelitis / chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "anemia of inflammation"
+      },
+      {
+        "name": "anemia of chronic disease"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "congestive heart failure"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "long COVID (LC)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID (LC)"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "asthma"
+      },
+      {
+        "name": "inflammatory lung disease"
+      },
+      {
+        "name": "Multiple Sclerosis"
+      }
+    ]
+  }
+}

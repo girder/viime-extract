@@ -1,0 +1,917 @@
+{
+  "meta": {
+    "title": "The plasma metabolome of long COVID patients two years after infection",
+    "journal": "Scientific Reports",
+    "year": 2023,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.1038/s41598-023-39049-x",
+    "authors": [
+      {
+        "firstname": "Yamilé",
+        "middle_initial": null,
+        "surname": "López‑Hernández",
+        "affiliation": "CONAHCyT-Metabolomics and Proteomics Laboratory, Academic Unit of Biological Sciences, Autonomous University of Zacatecas, 98000 Zacatecas, Mexico."
+      },
+      {
+        "firstname": "Joel",
+        "middle_initial": null,
+        "surname": "Monárrez‑Espino",
+        "affiliation": "Department of Health Research, Christus Muguerza del Parque Hospital – University of Monterrey, 31125 Chihuahua, Mexico."
+      },
+      {
+        "firstname": "David Alejandro",
+        "middle_initial": null,
+        "surname": "García López",
+        "affiliation": "Academic Unit of Biological Sciences, Autonomous University of Zacatecas, 98000 Zacatecas, Mexico."
+      },
+      {
+        "firstname": "Jiamin",
+        "middle_initial": null,
+        "surname": "Zheng",
+        "affiliation": "The Metabolomics Innovation Centre, University of Alberta, Edmonton, AB T6G 1C9, Canada."
+      },
+      {
+        "firstname": "Juan Carlos",
+        "middle_initial": null,
+        "surname": "Borrego",
+        "affiliation": "Departamento de Epidemiología, Hospital General de Zona #1 “Emilio Varela Luján”, Instituto Mexicano del Seguro Social, Zacatecas 98000, México."
+      },
+      {
+        "firstname": "Claudia",
+        "middle_initial": null,
+        "surname": "Torres‑Calzada",
+        "affiliation": "Department of Biological Sciences, University of Alberta, Edmonton, AB T6G 1C9, Canada."
+      },
+      {
+        "firstname": "José Pedro",
+        "middle_initial": null,
+        "surname": "Elizalde‑Díaz",
+        "affiliation": "Laboratory of Cell Communication & Extracellular Vesicles, Division of Basic Science, Instituto Nacional de Medicina Genómica, 14610 Ciudad de México, Mexico."
+      },
+      {
+        "firstname": "Rupasri",
+        "middle_initial": null,
+        "surname": "Mandal",
+        "affiliation": "The Metabolomics Innovation Centre, University of Alberta, Edmonton, AB T6G 1C9, Canada."
+      },
+      {
+        "firstname": "Mark",
+        "middle_initial": null,
+        "surname": "Berjanskii",
+        "affiliation": "The Metabolomics Innovation Centre, University of Alberta, Edmonton, AB T6G 1C9, Canada."
+      },
+      {
+        "firstname": "Eduardo",
+        "middle_initial": null,
+        "surname": "Martínez‑Martínez",
+        "affiliation": "Laboratory of Cell Communication & Extracellular Vesicles, Division of Basic Science, Instituto Nacional de Medicina Genómica, 14610 Ciudad de México, Mexico."
+      },
+      {
+        "firstname": "Jesús Adrián",
+        "middle_initial": null,
+        "surname": "López",
+        "affiliation": "MicroRNAs and Cancer Laboratory, Academic Unit of Biological Sciences, Autonomous University of Zacatecas, 98000 Zacatecas, Mexico."
+      },
+      {
+        "firstname": "David S.",
+        "middle_initial": null,
+        "surname": "Wishart",
+        "affiliation": "The Metabolomics Innovation Centre, University of Alberta, Edmonton, AB T6G 1C9, Canada."
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "phosphatidylcholines"
+      },
+      {
+        "name": "sphingomyelins"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "lactate/pyruvate ratio"
+      },
+      {
+        "name": "ornithine/citrulline ratio"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "lysoPC 14:0"
+      },
+      {
+        "name": "lysoPC 16:0"
+      },
+      {
+        "name": "lysoPC 16:1"
+      },
+      {
+        "name": "lysoPC 18:0"
+      },
+      {
+        "name": "LysoPC 17:0"
+      },
+      {
+        "name": "LysoPC 20:4"
+      },
+      {
+        "name": "SM(OH)22:1"
+      },
+      {
+        "name": "PC aa 32:2"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "glutamic acid"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "lysoPC 18:2"
+      },
+      {
+        "name": "lysoPCs"
+      },
+      {
+        "name": "SMs"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "glutamine/glutamate ratio"
+      },
+      {
+        "name": "C18:2"
+      },
+      {
+        "name": "C10:2"
+      },
+      {
+        "name": "C10:1"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "choline"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "pyruvic acid"
+      },
+      {
+        "name": "kynurenine/tryptophan ratio"
+      },
+      {
+        "name": "putrescine"
+      },
+      {
+        "name": "lysoPC 14:0"
+      },
+      {
+        "name": "lysoPC 16:0"
+      },
+      {
+        "name": "lysoPC 16:1"
+      },
+      {
+        "name": "ammonia"
+      },
+      {
+        "name": "urea"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "Glucose"
+      },
+      {
+        "name": "C10:2"
+      },
+      {
+        "name": "C18:1"
+      },
+      {
+        "name": "C10:1"
+      },
+      {
+        "name": "lysoPC 14:0"
+      },
+      {
+        "name": "lysoPC 16:1"
+      },
+      {
+        "name": "lysoPC 18:1"
+      },
+      {
+        "name": "PC ae 36:0"
+      },
+      {
+        "name": "uric acid"
+      },
+      {
+        "name": "C10"
+      },
+      {
+        "name": "pyruvic acid"
+      },
+      {
+        "name": "kynurenine/tryptophan ratio"
+      },
+      {
+        "name": "C18:2"
+      },
+      {
+        "name": "glutamic acid"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "SM(OH)14:0"
+      },
+      {
+        "name": "SM16:0"
+      },
+      {
+        "name": "SM(18:0)"
+      },
+      {
+        "name": "SM(OH)16:1"
+      },
+      {
+        "name": "SM(OH)24:1"
+      },
+      {
+        "name": "SM(18:1)"
+      },
+      {
+        "name": "SM(16:1)"
+      },
+      {
+        "name": "lysoPC 26:0"
+      },
+      {
+        "name": "lysoPC 26:1"
+      },
+      {
+        "name": "lysoPC 28:1"
+      },
+      {
+        "name": "lysoPC 28:0"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "butyric acid"
+      },
+      {
+        "name": "propionic acid"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "glutamine/glutamate ratio"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "putrescine"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "kynurenine"
+      },
+      {
+        "name": "tryptophan"
+      },
+      {
+        "name": "hippuric acid"
+      },
+      {
+        "name": "proline"
+      },
+      {
+        "name": "hydroxyproline"
+      },
+      {
+        "name": "trans-hydroxyproline"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "carnitine"
+      },
+      {
+        "name": "LysoPC 16:0"
+      },
+      {
+        "name": "LysoPC 17:0"
+      },
+      {
+        "name": "LysoPC 18:0"
+      },
+      {
+        "name": "LysoPC 20:4"
+      },
+      {
+        "name": "leptin"
+      },
+      {
+        "name": "taurine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "LysoPC 16:0"
+      },
+      {
+        "name": "LysoPC 17:0"
+      },
+      {
+        "name": "LysoPC 18:0"
+      },
+      {
+        "name": "LysoPC 20:4"
+      },
+      {
+        "name": "lysophosphatidylcholines"
+      },
+      {
+        "name": "phospholipid ethers"
+      },
+      {
+        "name": "PCs"
+      },
+      {
+        "name": "total cholesterol"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "VLDL"
+      },
+      {
+        "name": "HDL"
+      },
+      {
+        "name": "LDL"
+      },
+      {
+        "name": "Phenylalanine"
+      },
+      {
+        "name": "Beta-hydroxybutyric acid"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "Butyric acid"
+      },
+      {
+        "name": "propionic acid"
+      },
+      {
+        "name": "spermidine"
+      },
+      {
+        "name": "sphingomyelins"
+      },
+      {
+        "name": "triacylglycerols"
+      },
+      {
+        "name": "phosphatidylcholines"
+      },
+      {
+        "name": "prostaglandin E2"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "betaine"
+      },
+      {
+        "name": "adenosine"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "citrulline"
+      },
+      {
+        "name": "ammonia"
+      },
+      {
+        "name": "hexoses"
+      },
+      {
+        "name": "ammonia"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "N-acetylcysteine"
+      },
+      {
+        "name": "NAD+"
+      },
+      {
+        "name": "biogenic amines"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "organic acids"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "lipid-like compounds"
+      },
+      {
+        "name": "3-nitrophenylhydrazine (3-NPH)"
+      },
+      {
+        "name": "butylated hydroxytoluene"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "amino acid derivatives"
+      },
+      {
+        "name": "lipids"
+      },
+      {
+        "name": "acylcarnitines"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "organic acids"
+      },
+      {
+        "name": "biogenic amines"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "leptin"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "leptin"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "arginase-1"
+      },
+      {
+        "name": "protein phosphatase 6"
+      },
+      {
+        "name": "isotope-labeled internal standards"
+      },
+      {
+        "name": "IL-17"
+      },
+      {
+        "name": "leptin"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "arginase"
+      },
+      {
+        "name": "ornithine aminotransferase"
+      },
+      {
+        "name": "P5C reductase"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "phospholipids biosynthesis"
+      },
+      {
+        "name": "gluconeogenesis"
+      },
+      {
+        "name": "glucose-alanine cycle"
+      },
+      {
+        "name": "Warburg effect"
+      },
+      {
+        "name": "taurine and hypotaurine metabolism"
+      },
+      {
+        "name": "pyruvate metabolism"
+      },
+      {
+        "name": "glycine and serine metabolism"
+      },
+      {
+        "name": "urea cycle metabolism"
+      },
+      {
+        "name": "kynurenine/tryptophan metabolic pathway"
+      },
+      {
+        "name": "glutamate/P5C synthase pathway"
+      },
+      {
+        "name": "glutaminergic pathway"
+      },
+      {
+        "name": "β-oxidation of fatty acids"
+      },
+      {
+        "name": "tricarboxylic acid cycle"
+      },
+      {
+        "name": "signal transduction pathways"
+      },
+      {
+        "name": "urea cycle"
+      },
+      {
+        "name": "TCA cycle"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "remdesivir"
+      },
+      {
+        "name": "corticosteroids"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19 syndrome"
+      },
+      {
+        "name": "post-acute sequelae of COVID-19 (PACS)"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-viral syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "severe acute respiratory syndrome"
+      },
+      {
+        "name": "Middle East respiratory syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "spondylitis"
+      },
+      {
+        "name": "systemic sclerosis"
+      },
+      {
+        "name": "type I diabetes mellitus"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "ankylosing spondylitis"
+      },
+      {
+        "name": "systemic sclerosis"
+      },
+      {
+        "name": "type I diabetes mellitus"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "PASC"
+      },
+      {
+        "name": "collagen vascular diseases"
+      },
+      {
+        "name": "type 2 diabetes"
+      },
+      {
+        "name": "schizophrenia"
+      },
+      {
+        "name": "frontotemporal dementia"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "anosognosia"
+      },
+      {
+        "name": "chronic inflammatory diseases"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "inflammatory bowel disease"
+      },
+      {
+        "name": "multiple sclerosis"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "sepsis"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "inflammation-associated illnesses"
+      },
+      {
+        "name": "gut dysbiosis"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "post-COVID-19 condition"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "ME/CSF condition"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "post-COVID-19"
+      },
+      {
+        "name": "long COVID"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1718 @@
+{
+  "meta": {
+    "title": "Persistent complement dysregulation with signs of thromboinflammation in active Long Covid",
+    "journal": "Science",
+    "year": 2024,
+    "volume": "383",
+    "pubmed_id": null,
+    "doi_id": "10.1126/science.adg7942",
+    "authors": [
+      {
+        "firstname": "Carlo",
+        "middle_initial": null,
+        "surname": "Cervia-Hasler",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Sarah",
+        "middle_initial": "C.",
+        "surname": "Brüningk",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Tobias",
+        "middle_initial": null,
+        "surname": "Hoch",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Bowen",
+        "middle_initial": null,
+        "surname": "Fan",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Giulia",
+        "middle_initial": null,
+        "surname": "Muzio",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Ryan",
+        "middle_initial": "C.",
+        "surname": "Thompson",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Laura",
+        "middle_initial": null,
+        "surname": "Ceglarek",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Roman",
+        "middle_initial": null,
+        "surname": "Meledin",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Patrick",
+        "middle_initial": null,
+        "surname": "Westermann",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Marc",
+        "middle_initial": null,
+        "surname": "Emmenegger",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Patrick",
+        "middle_initial": null,
+        "surname": "Taeschler",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Yves",
+        "middle_initial": null,
+        "surname": "Zurbuchen",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Michele",
+        "middle_initial": null,
+        "surname": "Pons",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Dominik",
+        "middle_initial": null,
+        "surname": "Menges",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Tala",
+        "middle_initial": null,
+        "surname": "Ballouz",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Sara",
+        "middle_initial": null,
+        "surname": "Cervia-Hasler",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Sarah",
+        "middle_initial": null,
+        "surname": "Adamo",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Miriam",
+        "middle_initial": null,
+        "surname": "Merad",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Alexander",
+        "middle_initial": "W.",
+        "surname": "Charney",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Milo",
+        "middle_initial": null,
+        "surname": "Puhan",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Petter",
+        "middle_initial": null,
+        "surname": "Brodin",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Jakob",
+        "middle_initial": null,
+        "surname": "Nilsson",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Adriano",
+        "middle_initial": null,
+        "surname": "Aguzzi",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Miro",
+        "middle_initial": "E.",
+        "surname": "Raeber",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Christoph",
+        "middle_initial": "B.",
+        "surname": "Messner",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Noam",
+        "middle_initial": "D.",
+        "surname": "Beckmann",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Karsten",
+        "middle_initial": null,
+        "surname": "Borgwardt",
+        "affiliation": ""
+      },
+      {
+        "firstname": "Onur",
+        "middle_initial": null,
+        "surname": "Boyman",
+        "affiliation": ""
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "heme"
+      },
+      {
+        "name": "hemoglobin"
+      },
+      {
+        "name": "myoglobin"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "haptoglobin"
+      },
+      {
+        "name": "interleukin-6"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "pentraxin3"
+      },
+      {
+        "name": "serum amyloid A4"
+      },
+      {
+        "name": "heme"
+      },
+      {
+        "name": "dithiothreitol"
+      },
+      {
+        "name": "ammonium bicarbonate"
+      },
+      {
+        "name": "chloroacetamide"
+      },
+      {
+        "name": "ABC"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "activating protein"
+      },
+      {
+        "name": "complement system"
+      },
+      {
+        "name": "proteins"
+      },
+      {
+        "name": "ADAMTS13"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Thrombospondin-1"
+      },
+      {
+        "name": "Antithrombin III"
+      },
+      {
+        "name": "Thrombin"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "complement"
+      },
+      {
+        "name": "antibody"
+      },
+      {
+        "name": "immunoglobulin G"
+      },
+      {
+        "name": "human proteins"
+      },
+      {
+        "name": "serum proteins"
+      },
+      {
+        "name": "complement proteins"
+      },
+      {
+        "name": "thromboinflammatory proteins"
+      },
+      {
+        "name": "interferons"
+      },
+      {
+        "name": "immunoglobulin G3 (IgG3)"
+      },
+      {
+        "name": "6408 different proteins"
+      },
+      {
+        "name": "HSP90B1"
+      },
+      {
+        "name": "RELN"
+      },
+      {
+        "name": "IL3RA"
+      },
+      {
+        "name": "PAK3"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "complement component 7"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5b-7"
+      },
+      {
+        "name": "C5b-8"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "C5b"
+      },
+      {
+        "name": "C6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C8"
+      },
+      {
+        "name": "C9"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7 complex"
+      },
+      {
+        "name": "TCC"
+      },
+      {
+        "name": "MAC"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "pentraxins"
+      },
+      {
+        "name": "CILP2"
+      },
+      {
+        "name": "CLEC3B"
+      },
+      {
+        "name": "RPL12"
+      },
+      {
+        "name": "COL11A2"
+      },
+      {
+        "name": "KITLRRC59"
+      },
+      {
+        "name": "EPHA10"
+      },
+      {
+        "name": "GDF15"
+      },
+      {
+        "name": "CHIT1"
+      },
+      {
+        "name": "CDCP1"
+      },
+      {
+        "name": "KLLUM"
+      },
+      {
+        "name": "SFSTRP1"
+      },
+      {
+        "name": "D C5"
+      },
+      {
+        "name": "GPX3"
+      },
+      {
+        "name": "CRP"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "EDIL3"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "B4GALT2"
+      },
+      {
+        "name": "TF"
+      },
+      {
+        "name": "EMIL C I 1 N Q 3"
+      },
+      {
+        "name": "TNF1"
+      },
+      {
+        "name": "APO C H 7"
+      },
+      {
+        "name": "AP C O 2"
+      },
+      {
+        "name": "C1"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "C5b-8"
+      },
+      {
+        "name": "C5b-7"
+      },
+      {
+        "name": "C5b"
+      },
+      {
+        "name": "C6"
+      },
+      {
+        "name": "C8"
+      },
+      {
+        "name": "C9"
+      },
+      {
+        "name": "sC5b-9"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "sC5b-9"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "antithrombin III"
+      },
+      {
+        "name": "factor Ba"
+      },
+      {
+        "name": "factor XI"
+      },
+      {
+        "name": "fibrinogen beta"
+      },
+      {
+        "name": "protein C"
+      },
+      {
+        "name": "heparin cofactor II"
+      },
+      {
+        "name": "C3d"
+      },
+      {
+        "name": "complement C3d"
+      },
+      {
+        "name": "antithrombin III"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "factor B"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "S100-A8/A9"
+      },
+      {
+        "name": "thrombospondin-1 (TSP-1)"
+      },
+      {
+        "name": "thrombospondin-1"
+      },
+      {
+        "name": "von Willebrand factor"
+      },
+      {
+        "name": "factor I"
+      },
+      {
+        "name": "factor H"
+      },
+      {
+        "name": "C4-binding protein beta"
+      },
+      {
+        "name": "interleukin-6"
+      },
+      {
+        "name": "C3desArg"
+      },
+      {
+        "name": "C5a"
+      },
+      {
+        "name": "clusterin"
+      },
+      {
+        "name": "vitronectin"
+      },
+      {
+        "name": "PTX3"
+      },
+      {
+        "name": "Factor I"
+      },
+      {
+        "name": "Factor H"
+      },
+      {
+        "name": "C4BPB"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "C4d"
+      },
+      {
+        "name": "C3d"
+      },
+      {
+        "name": "Antithrombin III"
+      },
+      {
+        "name": "Factor B"
+      },
+      {
+        "name": "Antithrombin III"
+      },
+      {
+        "name": "Factor B"
+      },
+      {
+        "name": "C4d"
+      },
+      {
+        "name": "C3d"
+      },
+      {
+        "name": "Terminal complement complex"
+      },
+      {
+        "name": "IGLV5-45"
+      },
+      {
+        "name": "CFI"
+      },
+      {
+        "name": "IGHM"
+      },
+      {
+        "name": "CD5L"
+      },
+      {
+        "name": "SERPIN C"
+      },
+      {
+        "name": "C4BP"
+      },
+      {
+        "name": "SHBG"
+      },
+      {
+        "name": "IGHV3-74"
+      },
+      {
+        "name": "IGKV4-1"
+      },
+      {
+        "name": "CFF1"
+      },
+      {
+        "name": "BC1"
+      },
+      {
+        "name": "VHW"
+      },
+      {
+        "name": "FFGB"
+      },
+      {
+        "name": "PLG"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "ADAMTS13"
+      },
+      {
+        "name": "FVIII"
+      },
+      {
+        "name": "PAF-AH"
+      },
+      {
+        "name": "ApoB"
+      },
+      {
+        "name": "ApoA1"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "S100−A8/A9"
+      },
+      {
+        "name": "ICAM−1"
+      },
+      {
+        "name": "TSP−1"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "CD41"
+      },
+      {
+        "name": "IgG"
+      },
+      {
+        "name": "Antithrombin III"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "CXCL13"
+      },
+      {
+        "name": "plasmin"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "hemoglobin"
+      },
+      {
+        "name": "myoglobin"
+      },
+      {
+        "name": "haptoglobin"
+      },
+      {
+        "name": "von Willebrand factor (vWF)"
+      },
+      {
+        "name": "ADAMTS13"
+      },
+      {
+        "name": "ApoB"
+      },
+      {
+        "name": "ApoA1"
+      },
+      {
+        "name": "Tissue factor"
+      },
+      {
+        "name": "Fibrinogen α"
+      },
+      {
+        "name": "Fibrinogen γ"
+      },
+      {
+        "name": "Factor II"
+      },
+      {
+        "name": "Factor V"
+      },
+      {
+        "name": "Factor X"
+      },
+      {
+        "name": "Factor IX"
+      },
+      {
+        "name": "Factor XI"
+      },
+      {
+        "name": "Factor XII"
+      },
+      {
+        "name": "Factor B"
+      },
+      {
+        "name": "Factor C"
+      },
+      {
+        "name": "Factor H"
+      },
+      {
+        "name": "Factor I"
+      },
+      {
+        "name": "C1QB"
+      },
+      {
+        "name": "C1QC"
+      },
+      {
+        "name": "C1R"
+      },
+      {
+        "name": "C1S"
+      },
+      {
+        "name": "C1-Inhibitor"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "MASP1"
+      },
+      {
+        "name": "FCN2"
+      },
+      {
+        "name": "COLEC11"
+      },
+      {
+        "name": "Protein C"
+      },
+      {
+        "name": "Protein S1"
+      },
+      {
+        "name": "Protein Z"
+      },
+      {
+        "name": "Heparin cofactor II"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "CD11b"
+      },
+      {
+        "name": "CD36"
+      },
+      {
+        "name": "CD14"
+      },
+      {
+        "name": "CD16"
+      },
+      {
+        "name": "HLA-DR"
+      },
+      {
+        "name": "CCR2"
+      },
+      {
+        "name": "CD169"
+      },
+      {
+        "name": "CD38"
+      },
+      {
+        "name": "CD59"
+      },
+      {
+        "name": "CD55"
+      },
+      {
+        "name": "CD64"
+      },
+      {
+        "name": "CD41"
+      },
+      {
+        "name": "CD162"
+      },
+      {
+        "name": "CD41"
+      },
+      {
+        "name": "CD55"
+      },
+      {
+        "name": "IFITM3"
+      },
+      {
+        "name": "IL1B"
+      },
+      {
+        "name": "DUSP2"
+      },
+      {
+        "name": "G0S2"
+      },
+      {
+        "name": "NR4A1"
+      },
+      {
+        "name": "PPIF"
+      },
+      {
+        "name": "TMEM176B"
+      },
+      {
+        "name": "IFITM3"
+      },
+      {
+        "name": "TMEM176A"
+      },
+      {
+        "name": "RPS4Y1"
+      },
+      {
+        "name": "H1−4"
+      },
+      {
+        "name": "Large structural phosphoprotein (LSP)"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "Ba"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "NR4A1"
+      },
+      {
+        "name": "TAPBPL"
+      },
+      {
+        "name": "LILRA6"
+      },
+      {
+        "name": "C5bC6/C7 complexes"
+      },
+      {
+        "name": "vWF/ADAMTS13"
+      },
+      {
+        "name": "AMY1A"
+      },
+      {
+        "name": "PTX3"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "ADAMTS13"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "Hemopexin"
+      },
+      {
+        "name": "Haptoglobin"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5b-7"
+      },
+      {
+        "name": "C5b-8"
+      },
+      {
+        "name": "C5b-9"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "TSP-1"
+      },
+      {
+        "name": "ADAMTS13"
+      },
+      {
+        "name": "PAF-AH"
+      },
+      {
+        "name": "ApoA1"
+      },
+      {
+        "name": "ICAM-1"
+      },
+      {
+        "name": "thrombin"
+      },
+      {
+        "name": "thrombin-reactive site"
+      },
+      {
+        "name": "hemolytic process"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "TAPBPL"
+      },
+      {
+        "name": "IGHD"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "CPQ"
+      },
+      {
+        "name": "BIN1"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "PTX3"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "hemoglobin"
+      },
+      {
+        "name": "human C7 protein"
+      },
+      {
+        "name": "C7-specific autoantibodies"
+      },
+      {
+        "name": "HRP-linked rabbit anti-human anti-C7 antibody"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "HRP-conjugated goat anti-human IgG"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "antithrombin III"
+      },
+      {
+        "name": "factor Ba"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "sC5b-9"
+      },
+      {
+        "name": "CH50 Equivalent"
+      },
+      {
+        "name": "vWF"
+      },
+      {
+        "name": "complement proteins"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C5b"
+      },
+      {
+        "name": "C6"
+      },
+      {
+        "name": "C8"
+      },
+      {
+        "name": "C9"
+      },
+      {
+        "name": "anti-rabbit IgG"
+      },
+      {
+        "name": "anti-chemokine antibodies"
+      },
+      {
+        "name": "C5bC6"
+      },
+      {
+        "name": "C7"
+      },
+      {
+        "name": "C8"
+      },
+      {
+        "name": "C9"
+      },
+      {
+        "name": "bovine serum albumin"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "HSPG2"
+      },
+      {
+        "name": "Cd41"
+      },
+      {
+        "name": "IL1B"
+      },
+      {
+        "name": "NR4A1"
+      },
+      {
+        "name": "IGHD"
+      },
+      {
+        "name": "ABO"
+      },
+      {
+        "name": "CPQ"
+      },
+      {
+        "name": "BIN1"
+      },
+      {
+        "name": "GALP"
+      },
+      {
+        "name": "CORUA"
+      },
+      {
+        "name": "SERPINC1"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "complement-mediated thromboinflammation"
+      },
+      {
+        "name": "alternative complement pathway"
+      },
+      {
+        "name": "classical complement pathway"
+      },
+      {
+        "name": "Classical pathway"
+      },
+      {
+        "name": "Lectin pathway"
+      },
+      {
+        "name": "Alternative pathway"
+      },
+      {
+        "name": "classical complement pathway"
+      },
+      {
+        "name": "classical complement pathway"
+      },
+      {
+        "name": "alternative complement pathway"
+      },
+      {
+        "name": "Reactome pathways"
+      },
+      {
+        "name": "Classical pathway"
+      },
+      {
+        "name": "Lectin pathway"
+      },
+      {
+        "name": "Alternative pathway"
+      },
+      {
+        "name": "Terminal complex"
+      },
+      {
+        "name": "complement cascade"
+      },
+      {
+        "name": "regulation of complement cascade"
+      },
+      {
+        "name": "immune system"
+      },
+      {
+        "name": "classical pathway"
+      },
+      {
+        "name": "lectin pathway"
+      },
+      {
+        "name": "alternative pathway"
+      },
+      {
+        "name": "complement activation pathways"
+      },
+      {
+        "name": "alternative complement activation pathway"
+      },
+      {
+        "name": "Complement cascade"
+      },
+      {
+        "name": "Immune system"
+      },
+      {
+        "name": "Classical pathway"
+      },
+      {
+        "name": "Lectin pathway"
+      },
+      {
+        "name": "Alternative pathway"
+      },
+      {
+        "name": "Terminal complex"
+      },
+      {
+        "name": "activation pathway"
+      },
+      {
+        "name": "classical complement activation"
+      },
+      {
+        "name": "alternative complement activation"
+      },
+      {
+        "name": "lectin complement activation"
+      },
+      {
+        "name": "alternative pathway"
+      },
+      {
+        "name": "classical pathway"
+      },
+      {
+        "name": "lectin pathway"
+      },
+      {
+        "name": "lectin pathway"
+      },
+      {
+        "name": "Complement activation pathways"
+      },
+      {
+        "name": "Complement activation"
+      },
+      {
+        "name": "Coagulation factor Pathway"
+      },
+      {
+        "name": "Extrinsic Pathway"
+      },
+      {
+        "name": "classical complement pathway"
+      },
+      {
+        "name": "Coagulation factor Pathway"
+      },
+      {
+        "name": "Fibrinolysis"
+      },
+      {
+        "name": "Complement component Pathway"
+      },
+      {
+        "name": "Classical"
+      },
+      {
+        "name": "Lectin"
+      },
+      {
+        "name": "classical complement activation"
+      },
+      {
+        "name": "classical complement pathway"
+      },
+      {
+        "name": "alternative complement pathway"
+      },
+      {
+        "name": "complement activation"
+      },
+      {
+        "name": "intracellular mechanisms in SARS-CoV-2–infected host cells"
+      },
+      {
+        "name": "Complement pathway"
+      },
+      {
+        "name": "Lectin pathway"
+      },
+      {
+        "name": "complement system"
+      },
+      {
+        "name": "coagulation cascade"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Anti-CMV IgG"
+      },
+      {
+        "name": "Anti-EBV IgG"
+      },
+      {
+        "name": "remdesivir"
+      },
+      {
+        "name": "Anti-CMV"
+      },
+      {
+        "name": "Anti-EBV"
+      },
+      {
+        "name": "Antivirals targeting SARS-CoV-2"
+      },
+      {
+        "name": "Antivirals targeting herpesviruses"
+      },
+      {
+        "name": "ZombieUV"
+      },
+      {
+        "name": "TruStain"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cytomegalovirus"
+      },
+      {
+        "name": "Epstein-Barr virus"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "ME/CFS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Severe COVID-19"
+      },
+      {
+        "name": "Mild COVID-19"
+      },
+      {
+        "name": "Acute COVID-19"
+      },
+      {
+        "name": "6M-Long Covid"
+      },
+      {
+        "name": "No 6M-Long Covid"
+      },
+      {
+        "name": "Healthy controls"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "6M-Long Covid"
+      },
+      {
+        "name": "Acute COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "pneumonia"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Severe pneumonia"
+      },
+      {
+        "name": "Mild pneumonia"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Acute COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Severe pneumonia"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "pneumonia"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "cytomegalovirus"
+      },
+      {
+        "name": "herpesviruses"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Severe pneumonia"
+      },
+      {
+        "name": "Mild ARDS"
+      },
+      {
+        "name": "Moderate ARDS"
+      },
+      {
+        "name": "Mild illness"
+      },
+      {
+        "name": "Mild pneumonia"
+      },
+      {
+        "name": "Acute 6-month Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "CMV infection"
+      },
+      {
+        "name": "EBV infection"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "Acute COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Acute COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "thromboinflammation"
+      },
+      {
+        "name": "acute respiratory distress syndrome (ARDS)"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "pneumonia"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Thromboinflammation"
+      },
+      {
+        "name": "Chronic herpesvirus infection"
+      },
+      {
+        "name": "Post-infection syndrome"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "SARS-CoV-2 infection"
+      },
+      {
+        "name": "neurodegenerative diseases"
+      },
+      {
+        "name": "atypical hemolytic uremic syndrome"
+      },
+      {
+        "name": "paroxysmal nocturnal hemoglobinuria"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "post COVID-19 condition"
+      },
+      {
+        "name": "Covid"
+      },
+      {
+        "name": "Long Covid"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "SARS-CoV-2"
+      }
+    ]
+  }
+}

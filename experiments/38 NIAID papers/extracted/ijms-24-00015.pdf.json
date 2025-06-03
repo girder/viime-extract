@@ -1,0 +1,836 @@
+{
+  "meta": {
+    "title": "Iron Dyshomeostasis in COVID-19: Biomarkers Reveal a Functional Link to 5-Lipoxygenase Activation",
+    "journal": "International Journal of Molecular Sciences",
+    "year": 2023,
+    "volume": "24",
+    "pubmed_id": null,
+    "doi_id": "10.3390/ijms24010015",
+    "authors": [
+      {
+        "firstname": "Beatrice",
+        "middle_initial": null,
+        "surname": "Dufrusine",
+        "affiliation": "Department of Bioscience and Technology for Food Agriculture and Environment, University of Teramo, 64100 Teramo, Italy"
+      },
+      {
+        "firstname": "Silvia",
+        "middle_initial": null,
+        "surname": "Valentinuzzi",
+        "affiliation": "Department of Innovative Technologies in Medicine and Dentistry, University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Sandra",
+        "middle_initial": null,
+        "surname": "Bibbò",
+        "affiliation": "Center for Advanced Studies and Technology (CAST), University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Verena",
+        "middle_initial": null,
+        "surname": "Damiani",
+        "affiliation": "Center for Advanced Studies and Technology (CAST), University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Paola",
+        "middle_initial": null,
+        "surname": "Lanuti",
+        "affiliation": "Department of Medicine and Aging Science, “G.d’Annunzio” University of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Damiana",
+        "middle_initial": null,
+        "surname": "Pieragostino",
+        "affiliation": "Center for Advanced Studies and Technology (CAST), University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Piero",
+        "middle_initial": null,
+        "surname": "Del Boccio",
+        "affiliation": "Department of Pharmacy, University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Ersilia",
+        "middle_initial": null,
+        "surname": "D’Alessandro",
+        "affiliation": "Department of Innovative Technologies in Medicine and Dentistry, University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Alberto",
+        "middle_initial": null,
+        "surname": "Rabottini",
+        "affiliation": "Department of Innovative Technologies in Medicine and Dentistry, University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Alessandro",
+        "middle_initial": null,
+        "surname": "Berghella",
+        "affiliation": "Department of Bioscience and Technology for Food Agriculture and Environment, University of Teramo, 64100 Teramo, Italy"
+      },
+      {
+        "firstname": "Nerino",
+        "middle_initial": null,
+        "surname": "Allocati",
+        "affiliation": "Department of Innovative Technologies in Medicine and Dentistry, University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Katia",
+        "middle_initial": null,
+        "surname": "Falasca",
+        "affiliation": "Department of Medicine and Aging Science, “G.d’Annunzio” University of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Claudio",
+        "middle_initial": null,
+        "surname": "Ucciferri",
+        "affiliation": "Clinic of Infectious Diseases, S.S. Annunziata Hospital, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Francesco",
+        "middle_initial": null,
+        "surname": "Mucedola",
+        "affiliation": "Pneumology Department, “SS Annunziata” Hospital, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Marco",
+        "middle_initial": null,
+        "surname": "Di Perna",
+        "affiliation": "Pneumology Department, “SS Annunziata” Hospital, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Laura",
+        "middle_initial": null,
+        "surname": "Martino",
+        "affiliation": "Pneumology Department, “SS Annunziata” Hospital, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Jacopo",
+        "middle_initial": null,
+        "surname": "Vecchiet",
+        "affiliation": "Department of Medicine and Aging Science, “G.d’Annunzio” University of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Vincenzo",
+        "middle_initial": null,
+        "surname": "De Laurenzi",
+        "affiliation": "Center for Advanced Studies and Technology (CAST), University “G.d’Annunzio” of Chieti-Pescara, 66100 Chieti, Italy"
+      },
+      {
+        "firstname": "Enrico",
+        "middle_initial": null,
+        "surname": "Dainese",
+        "affiliation": "Department of Bioscience and Technology for Food Agriculture and Environment, University of Teramo, 64100 Teramo, Italy"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "leukotriene B4"
+      },
+      {
+        "name": "iron"
+      },
+      {
+        "name": "interleukin 6"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "LTB4"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "LTB4"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "iron"
+      },
+      {
+        "name": "free iron"
+      },
+      {
+        "name": "LTB4"
+      },
+      {
+        "name": "LTB4"
+      },
+      {
+        "name": "formic acid"
+      },
+      {
+        "name": "acetonitrile"
+      },
+      {
+        "name": "dithiothreitol"
+      },
+      {
+        "name": "urea"
+      },
+      {
+        "name": "tris base"
+      },
+      {
+        "name": "Triton X-100"
+      },
+      {
+        "name": "CHAPS"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "5-Lipoxygenase"
+      },
+      {
+        "name": "Ceruloplasmin"
+      },
+      {
+        "name": "ceruloplasmin"
+      },
+      {
+        "name": "transferrin"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "lipocalin 2"
+      },
+      {
+        "name": "superoxide dismutase 1"
+      },
+      {
+        "name": "5-lipoxygenase"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "transferrin"
+      },
+      {
+        "name": "ferroportin"
+      },
+      {
+        "name": "ceruloplasmin"
+      },
+      {
+        "name": "hepcidin"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "5-lipoxygenase (5-LOX)"
+      },
+      {
+        "name": "FPN"
+      },
+      {
+        "name": "ceruloplasmin"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "hemopexin"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "superoxide dismutase 1"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "HFE"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "HFE"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "LTF"
+      },
+      {
+        "name": "Erythrocyte Membrane Protein Band 4.2 (EPB42)"
+      },
+      {
+        "name": "TTC7A"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "Ferritin"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "CP"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "HpaFtE"
+      },
+      {
+        "name": "HoFnEe"
+      },
+      {
+        "name": "IL-1β"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "catalase"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "ferritin"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "Cp"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "HPX"
+      },
+      {
+        "name": "iron-related proteins"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "LTB4"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "5-LOX"
+      },
+      {
+        "name": "β-actin"
+      },
+      {
+        "name": "CP"
+      },
+      {
+        "name": "Tf"
+      },
+      {
+        "name": "LCN2"
+      },
+      {
+        "name": "SOD1"
+      },
+      {
+        "name": "HPX"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "5-lox"
+      },
+      {
+        "name": "5-LOX"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "pathogenesis of COVID-19"
+      },
+      {
+        "name": "iron-related metabolism"
+      },
+      {
+        "name": "redox homeostasis"
+      },
+      {
+        "name": "pCaOthVoIpDh-19"
+      },
+      {
+        "name": "TChOisVirIoDn-1b9a"
+      },
+      {
+        "name": "metabolism of hydrogen peroxide"
+      },
+      {
+        "name": "oxidative stress pathways"
+      },
+      {
+        "name": "ferroptosis"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "iron chelators"
+      },
+      {
+        "name": "deferoxamine"
+      },
+      {
+        "name": "deferiprone"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "chronic obstructive pulmonary disease"
+      },
+      {
+        "name": "cardiovascular disease"
+      },
+      {
+        "name": "type 2 diabetes mellitus"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "chronic kidney disease"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "MIS"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "diabetes mellitus II"
+      },
+      {
+        "name": "hereditary hemochromatosis"
+      },
+      {
+        "name": "hepatitis B"
+      },
+      {
+        "name": "hepatitis C"
+      },
+      {
+        "name": "HIV"
+      },
+      {
+        "name": "thalassemia"
+      },
+      {
+        "name": "malaria"
+      },
+      {
+        "name": "cancer"
+      },
+      {
+        "name": "auto-immune disease"
+      },
+      {
+        "name": "neurodegeneration"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Diabetes Mellitus II"
+      },
+      {
+        "name": "Hypothyroidism"
+      },
+      {
+        "name": "Cancer"
+      },
+      {
+        "name": "Chronic kidney disease"
+      },
+      {
+        "name": "Obesity"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "pulmonary disease"
+      },
+      {
+        "name": "respiratory disease"
+      },
+      {
+        "name": "hyperferritinemic syndromes"
+      },
+      {
+        "name": "macrophage activation syndrome"
+      },
+      {
+        "name": "Gaucher disease"
+      },
+      {
+        "name": "adult-onset Still’s disease"
+      },
+      {
+        "name": "rheumatoid arthritis"
+      },
+      {
+        "name": "catastrophic antiphospholipid syndrome"
+      },
+      {
+        "name": "influenza A"
+      },
+      {
+        "name": "Crimean–Congo hemorrhagic fever"
+      },
+      {
+        "name": "influenza A"
+      },
+      {
+        "name": "Crimean–Congo hemorrhagic fever"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "chronic pulmonary disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "lung inflammation"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "depression"
+      },
+      {
+        "name": "generalized anxiety disorder"
+      },
+      {
+        "name": "chronic fatigue"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "HIV"
+      },
+      {
+        "name": "H1N1"
+      },
+      {
+        "name": "HSV-1"
+      },
+      {
+        "name": "CMV"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "autoimmune diseases"
+      },
+      {
+        "name": "allergy"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "chronic infection"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-COVID"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}

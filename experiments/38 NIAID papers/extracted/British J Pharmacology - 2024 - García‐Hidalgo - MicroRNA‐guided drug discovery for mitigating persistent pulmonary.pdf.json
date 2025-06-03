@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "title": "MicroRNA-guided drug discovery for mitigating persistent pulmonary complications in critical COVID-19 survivors: A longitudinal pilot study",
+    "journal": "British Journal of Pharmacology",
+    "year": 2024,
+    "volume": "182",
+    "pubmed_id": null,
+    "doi_id": "10.1111/bph.16330",
+    "authors": [
+      {
+        "firstname": "María",
+        "middle_initial": "C.",
+        "surname": "García-Hidalgo",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Iván",
+        "middle_initial": "D.",
+        "surname": "Benítez",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Manel",
+        "middle_initial": "null",
+        "surname": "Perez-Pons",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Marta",
+        "middle_initial": "null",
+        "surname": "Molinero",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Thalía",
+        "middle_initial": "null",
+        "surname": "Belmonte",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Carlos",
+        "middle_initial": "Rodríguez-Muñoz",
+        "surname": "null",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "María",
+        "middle_initial": "null",
+        "surname": "Aguilà",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Sally",
+        "middle_initial": "null",
+        "surname": "Santisteve",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Gerard",
+        "middle_initial": "null",
+        "surname": "Torres",
+        "affiliation": "Group of Precision Medicine in Chronic Diseases, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Anna",
+        "middle_initial": "null",
+        "surname": "Moncusí-Moix",
+        "affiliation": "Group of Precision Medicine in Chronic Diseases, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Clara",
+        "middle_initial": "Gort-Paniello",
+        "surname": "null",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Rafael",
+        "middle_initial": "null",
+        "surname": "Peláez",
+        "affiliation": "Biomarkers and Molecular Signaling Group, Neurodegenerative Diseases Area Center for Biomedical Research of La Rioja, CIBIR, Logroño, Spain"
+      },
+      {
+        "firstname": "Ignacio",
+        "middle_initial": "M.",
+        "surname": "Larráyoz",
+        "affiliation": "Biomarkers and Molecular Signaling Group, Neurodegenerative Diseases Area Center for Biomedical Research of La Rioja, CIBIR, Logroño, Spain"
+      },
+      {
+        "firstname": "Jesús",
+        "middle_initial": "null",
+        "surname": "Caballero",
+        "affiliation": "Grup de Recerca Medicina Intensiva, Intensive Care Department Hospital Universitari Arnau de Vilanova, Lleida, Spain"
+      },
+      {
+        "firstname": "Carme",
+        "middle_initial": "null",
+        "surname": "Barberà",
+        "affiliation": "Intensive Care Department, University Hospital Santa María, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Estefania",
+        "middle_initial": "Nova-Lamperti",
+        "surname": "null",
+        "affiliation": "Molecular and Translational Immunology Laboratory, Department of Clinical Biochemistry and Immunology, Faculty of Pharmacy, Universidad de Concepción, Concepción, Chile"
+      },
+      {
+        "firstname": "Antoni",
+        "middle_initial": "null",
+        "surname": "Torres",
+        "affiliation": "Pneumology Department, Clinic Institute of Thorax (ICT), Hospital Clinic of Barcelona, Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), ICREA, University of Barcelona (UB), Barcelona, Spain"
+      },
+      {
+        "firstname": "Jessica",
+        "middle_initial": "null",
+        "surname": "González",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "Ferran",
+        "middle_initial": "null",
+        "surname": "Barbé",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      },
+      {
+        "firstname": "David",
+        "middle_initial": "de Gonzalo-Calvo",
+        "surname": "null",
+        "affiliation": "Translational Research in Respiratory Medicine, University Hospital Arnau de Vilanova and Santa Maria, IRB Lleida, Lleida, Spain"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [],
+    "mentioned_proteins": [
+      {
+        "name": "pleiotrophin"
+      },
+      {
+        "name": "kidney injury molecule 1"
+      },
+      {
+        "name": "protein"
+      },
+      {
+        "name": "miRNAs"
+      },
+      {
+        "name": "LASSO"
+      },
+      {
+        "name": "sPLS"
+      },
+      {
+        "name": "PPI"
+      },
+      {
+        "name": "Key protein targets"
+      },
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      },
+      {
+        "name": "PTN"
+      },
+      {
+        "name": "KIM1"
+      },
+      {
+        "name": "ITGA2"
+      },
+      {
+        "name": "microRNAs"
+      },
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      },
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      },
+      {
+        "name": "miRNAs"
+      },
+      {
+        "name": "miRNAs"
+      },
+      {
+        "name": "miRNA"
+      },
+      {
+        "name": "miR-39-3p"
+      },
+      {
+        "name": "miR-23a-3p"
+      },
+      {
+        "name": "miR-451a"
+      },
+      {
+        "name": "cel-miR-39-3p"
+      },
+      {
+        "name": "Ensembl Gene IDs"
+      },
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      },
+      {
+        "name": "1473 genes"
+      },
+      {
+        "name": "1473 genes"
+      },
+      {
+        "name": "miR-486-5p"
+      },
+      {
+        "name": "PXDN"
+      },
+      {
+        "name": "FAT1"
+      },
+      {
+        "name": "ITGA2"
+      },
+      {
+        "name": "MXRA7"
+      },
+      {
+        "name": "RNF187"
+      },
+      {
+        "name": "TMEM200A"
+      },
+      {
+        "name": "CHRM3"
+      },
+      {
+        "name": "NELL2"
+      },
+      {
+        "name": "RAI14"
+      },
+      {
+        "name": "SLC24A2"
+      },
+      {
+        "name": "PPP1R9A"
+      },
+      {
+        "name": "miR-9-5p"
+      },
+      {
+        "name": "miR-486-5p"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "inflammation"
+      },
+      {
+        "name": "angiogenesis"
+      },
+      {
+        "name": "cell senescence"
+      },
+      {
+        "name": "cell migration"
+      },
+      {
+        "name": "tissue repair"
+      },
+      {
+        "name": "mechanistic pathways"
+      },
+      {
+        "name": "mechanistic pathways"
+      },
+      {
+        "name": "miRNA biology"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "Kyoto Encyclopedia of Genes and Genomes (KEGG)"
+      },
+      {
+        "name": "Reactome"
+      },
+      {
+        "name": "KEGG pathways"
+      },
+      {
+        "name": "Reactome pathways"
+      },
+      {
+        "name": "GO processes"
+      },
+      {
+        "name": "focal adhesion"
+      },
+      {
+        "name": "signalling by MET and L1CAM interactions"
+      },
+      {
+        "name": "cell migration"
+      },
+      {
+        "name": "tissue repair"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "Reactome"
+      },
+      {
+        "name": "GO"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "anti-fibrotic agents"
+      },
+      {
+        "name": "miRNeasy Serum/Plasma Advanced kit"
+      },
+      {
+        "name": "Roche Diagnostics"
+      },
+      {
+        "name": "miRCURY LNA Universal RT microRNA PCR System"
+      },
+      {
+        "name": "miRCURY LNA RT Kit"
+      },
+      {
+        "name": "mechanical ventilation (IMV)"
+      },
+      {
+        "name": "FDA-approved drugs"
+      },
+      {
+        "name": "Hydroxychloroquine"
+      },
+      {
+        "name": "Tocilizumab"
+      },
+      {
+        "name": "Remdesivir"
+      },
+      {
+        "name": "Interferon beta"
+      },
+      {
+        "name": "Lopinavir/ritonavir"
+      },
+      {
+        "name": "Antibiotics"
+      },
+      {
+        "name": "Corticoids"
+      },
+      {
+        "name": "Anticoagulants"
+      },
+      {
+        "name": "clopidogrel"
+      },
+      {
+        "name": "aspirin"
+      },
+      {
+        "name": "clopidogrel"
+      },
+      {
+        "name": "aspirin"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute respiratory distress syndrome"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "post-acute COVID-19 syndrome"
+      },
+      {
+        "name": "post-COVID syndrome"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "persistent lung dysfunction"
+      },
+      {
+        "name": "lung dysfunction"
+      },
+      {
+        "name": "pulmonary lesions"
+      },
+      {
+        "name": "severe respiratory disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "respiratory conditions"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "lung diffusion impairment"
+      },
+      {
+        "name": "ARDS"
+      },
+      {
+        "name": "SARS-CoV-2"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "persistent lung diffusion impairment"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "lung diffusion impairment"
+      },
+      {
+        "name": "respiratory sequelae"
+      },
+      {
+        "name": "Bacterial pneumonia"
+      },
+      {
+        "name": "Pulmonary thromboembolism"
+      },
+      {
+        "name": "Bacteraemia"
+      },
+      {
+        "name": "Pulmonary dysfunction"
+      },
+      {
+        "name": "Hypertension"
+      },
+      {
+        "name": "Type II diabetes mellitus"
+      },
+      {
+        "name": "Obesity"
+      },
+      {
+        "name": "Cardiovascular disease"
+      },
+      {
+        "name": "Chronic lung disease"
+      },
+      {
+        "name": "Asthma"
+      },
+      {
+        "name": "Chronic kidney disease"
+      },
+      {
+        "name": "Bacteraemia"
+      },
+      {
+        "name": "Acute kidney injury"
+      },
+      {
+        "name": "Liver dysfunction"
+      },
+      {
+        "name": "Hyperglycaemia"
+      },
+      {
+        "name": "Infectious complication"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "persistent pulmonary dysfunction"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "lung dysfunction"
+      },
+      {
+        "name": "Pulmonary disease"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute lung injury"
+      },
+      {
+        "name": "pulmonary fibrosis"
+      },
+      {
+        "name": "acute respiratory infections"
+      }
+    ]
+  }
+}

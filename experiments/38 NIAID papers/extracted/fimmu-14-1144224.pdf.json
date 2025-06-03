@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "title": "Maintained imbalance of triglycerides, apolipoproteins, energy metabolites and cytokines in long-term COVID-19 syndrome patients",
+    "journal": "Frontiers in Immunology",
+    "year": 2023,
+    "volume": "14",
+    "pubmed_id": null,
+    "doi_id": "10.3389/fimmu.2023.1144224",
+    "authors": [
+      {
+        "firstname": "Georgy",
+        "middle_initial": null,
+        "surname": "Berezhnoy",
+        "affiliation": "Werner Siemens Imaging Center, Department of Preclinical Imaging and Radiopharmacy, University of Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Rosi",
+        "middle_initial": null,
+        "surname": "Bissinger",
+        "affiliation": "Division of Endocrinology, Diabetology and Nephrology, Department of Internal Medicine I, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Anna",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "Research Institute of Women’s Health, University of Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Claire",
+        "middle_initial": null,
+        "surname": "Cannet",
+        "affiliation": "Bruker BioSpin, Applied Industrial and Clinical Division, Ettlingen, Germany"
+      },
+      {
+        "firstname": "Hartmut",
+        "middle_initial": "H",
+        "surname": "Schäfer",
+        "affiliation": "Department of Internal Medicine I, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Katharina",
+        "middle_initial": null,
+        "surname": "Kienzle",
+        "affiliation": "Department of Internal Medicine I, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Michael",
+        "middle_initial": null,
+        "surname": "Bitzer",
+        "affiliation": "Center for Personalized Medicine, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Helene",
+        "middle_initial": "H",
+        "surname": "Häberle",
+        "affiliation": "Department of Anesthesiology and Intensive Care Medicine, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Siri",
+        "middle_initial": null,
+        "surname": "Göpel",
+        "affiliation": "Department of Internal Medicine I, University Hospital Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Christoph",
+        "middle_initial": "C",
+        "surname": "Trautwein",
+        "affiliation": "Institute of Medical Genetics and Applied Genomics, University of Tübingen, Tübingen, Germany"
+      },
+      {
+        "firstname": "Yogesh",
+        "middle_initial": null,
+        "surname": "Singh",
+        "affiliation": "Next Generation Sequencing (NGS) Competence Center Tübingen (NCCT), University of Tübingen, Tübingen, Germany"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "energy metabolites"
+      },
+      {
+        "name": "metabolites"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "3-hydroxybutyrate"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "cholesterol"
+      },
+      {
+        "name": "phospholipids"
+      },
+      {
+        "name": "arginine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "lactic acid"
+      },
+      {
+        "name": "amino acids"
+      },
+      {
+        "name": "serum metabolites"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "methionine"
+      },
+      {
+        "name": "alanine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "glycine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "glucose"
+      },
+      {
+        "name": "creatine"
+      },
+      {
+        "name": "3-hydroxybutyrate"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "formate"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "formate"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "lysine"
+      },
+      {
+        "name": "valine"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "VLDL"
+      },
+      {
+        "name": "phospholipids"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "ketone bodies"
+      },
+      {
+        "name": "succinate"
+      },
+      {
+        "name": "glycerol"
+      },
+      {
+        "name": "3-hydroxybutyrate"
+      },
+      {
+        "name": "acetoacetate"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "ornithine"
+      },
+      {
+        "name": "HDL cholesterol"
+      },
+      {
+        "name": "apolipoprotein B100"
+      },
+      {
+        "name": "2-aminobutyrate"
+      },
+      {
+        "name": "alanine"
+      },
+      {
+        "name": "threonine"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "tyrosine"
+      },
+      {
+        "name": "sarcosine"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "glycine"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "Gln/Glu ratio"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "phenylalanine"
+      },
+      {
+        "name": "formate"
+      },
+      {
+        "name": "acetoacetate"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "3-HB"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "glutamine"
+      },
+      {
+        "name": "acetate"
+      },
+      {
+        "name": "creatinine"
+      },
+      {
+        "name": "glutamate"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "creatine"
+      },
+      {
+        "name": "3-HB"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "histidine"
+      },
+      {
+        "name": "formate"
+      },
+      {
+        "name": "acetone"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "pyruvate"
+      },
+      {
+        "name": "pyruvic acid"
+      },
+      {
+        "name": "lactate"
+      },
+      {
+        "name": "citric acid"
+      },
+      {
+        "name": "citrate"
+      },
+      {
+        "name": "triglycerides"
+      },
+      {
+        "name": "HDL cholesterol"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "cytokines"
+      },
+      {
+        "name": "chemokines"
+      },
+      {
+        "name": "lipoproteins"
+      },
+      {
+        "name": "apolipoprotein A1"
+      },
+      {
+        "name": "apolipoprotein A2"
+      },
+      {
+        "name": "apolipoproteins Apo-A1"
+      },
+      {
+        "name": "apolipoproteins Apo-A2"
+      },
+      {
+        "name": "streptavidin-phycoerythrin"
+      },
+      {
+        "name": "IL-1b"
+      },
+      {
+        "name": "IFN-a2"
+      },
+      {
+        "name": "IFN-g"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "MCP-1 (CCL2)"
+      },
+      {
+        "name": "IL-6"
+      },
+      {
+        "name": "IL-8 (CXCL8)"
+      },
+      {
+        "name": "IL-10"
+      },
+      {
+        "name": "IL-12p70"
+      },
+      {
+        "name": "IL-17A"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "IL-23"
+      },
+      {
+        "name": "IL-33"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "Apo-A2"
+      },
+      {
+        "name": "apolipoprotein B100"
+      },
+      {
+        "name": "ApoA1"
+      },
+      {
+        "name": "Apo-A1"
+      },
+      {
+        "name": "IL-18"
+      },
+      {
+        "name": "TNF-a"
+      },
+      {
+        "name": "IL-23"
+      },
+      {
+        "name": "IL-8"
+      },
+      {
+        "name": "MCP-1"
+      },
+      {
+        "name": "apolipoprotein B100"
+      },
+      {
+        "name": "apolipoprotein A1"
+      },
+      {
+        "name": "apolipoprotein A2"
+      }
+    ],
+    "mentioned_genes": [],
+    "mentioned_pathways": [
+      {
+        "name": "glycolysis"
+      },
+      {
+        "name": "oxidative phosphorylation"
+      },
+      {
+        "name": "mTOR signaling"
+      },
+      {
+        "name": "glycolysis"
+      },
+      {
+        "name": "tricarboxylic acid cycle"
+      },
+      {
+        "name": "TCA cycle"
+      },
+      {
+        "name": "ketone bodies"
+      },
+      {
+        "name": "alanine/aspartate/glutamate metabolism"
+      },
+      {
+        "name": "glycolysis"
+      },
+      {
+        "name": "glycine/serine/threonine metabolism"
+      },
+      {
+        "name": "arginine/proline metabolism"
+      },
+      {
+        "name": "glycolysis"
+      },
+      {
+        "name": "gluconeogenesis"
+      },
+      {
+        "name": "Krebs cycle"
+      }
+    ],
+    "mentioned_drugs": [
+      {
+        "name": "Ferring Pharma"
+      }
+    ],
+    "mentioned_diseases": [
+      {
+        "name": "COVID-19 syndrome"
+      },
+      {
+        "name": "coronavirus disease 2019 (COVID-19)"
+      },
+      {
+        "name": "long-term COVID-19 syndrome (LTCS)"
+      },
+      {
+        "name": "long post-acute COVID-19 syndrome (PACS)"
+      },
+      {
+        "name": "long COVID-19"
+      },
+      {
+        "name": "Post-Acute COVID-19 syndrome"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "LTCS"
+      },
+      {
+        "name": "healthy controls"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID syndrome (LTCS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long-term COVID-19 syndrome (LTCS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LCTS"
+      },
+      {
+        "name": "HC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "Long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LTCS"
+      },
+      {
+        "name": "HC"
+      },
+      {
+        "name": "Acute"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LTCSpatients"
+      },
+      {
+        "name": "HC"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "LTCS"
+      },
+      {
+        "name": "acute COVID-19"
+      },
+      {
+        "name": "Recov"
+      },
+      {
+        "name": "Long COVID Syndrome (LTCS)"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "pulmonary arterial hypertension"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "obesity"
+      },
+      {
+        "name": "hypertension"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "pulmonary arterial hypertension"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "diabetes"
+      },
+      {
+        "name": "hypertension"
+      }
+    ]
+  }
+}

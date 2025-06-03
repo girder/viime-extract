@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "title": "Potential Biomarkers for Predicting the Risk of Developing Into Long COVID After COVID 19 Infection",
+    "journal": "Immunity, Inflammation and Disease",
+    "year": 2025,
+    "volume": "13",
+    "pubmed_id": null,
+    "doi_id": "10.1002/iid3.70137",
+    "authors": [
+      {
+        "firstname": "Zhiyong",
+        "middle_initial": null,
+        "surname": "Hou",
+        "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing, China"
+      },
+      {
+        "firstname": "YuMing",
+        "middle_initial": null,
+        "surname": "YuMing",
+        "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing, China"
+      },
+      {
+        "firstname": "Jun",
+        "middle_initial": null,
+        "surname": "Liu",
+        "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing, China"
+      },
+      {
+        "firstname": "Zhong",
+        "middle_initial": null,
+        "surname": "Wang",
+        "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing, China"
+      }
+    ]
+  },
+  "keywords": {
+    "mentioned_metabolites": [
+      {
+        "name": "IFN‐β"
+      },
+      {
+        "name": "IFN‐λ1"
+      },
+      {
+        "name": "IL‐1α"
+      },
+      {
+        "name": "IL‐6"
+      },
+      {
+        "name": "TNF‐α"
+      },
+      {
+        "name": "IP‐10"
+      }
+    ],
+    "mentioned_proteins": [
+      {
+        "name": "SARS-CoV-2 proteins"
+      },
+      {
+        "name": "IgG immunoglobulin complex"
+      },
+      {
+        "name": "primary lysosome"
+      },
+      {
+        "name": "immunoglobulin complex"
+      },
+      {
+        "name": "circulating IgA immunoglobulin complex"
+      },
+      {
+        "name": "COMP"
+      },
+      {
+        "name": "PLG"
+      },
+      {
+        "name": "TPM2"
+      },
+      {
+        "name": "TPM1"
+      },
+      {
+        "name": "APOA4"
+      },
+      {
+        "name": "LRP1"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "IGHG1"
+      },
+      {
+        "name": "OGFOD2"
+      },
+      {
+        "name": "SIL1"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "PDCD6IP"
+      },
+      {
+        "name": "TSG101"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "BRCA1"
+      },
+      {
+        "name": "NRF2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      }
+    ],
+    "mentioned_genes": [
+      {
+        "name": "DEGs (Differential Expression Genes)"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "EncyclopediaofGenesandGenomes"
+      },
+      {
+        "name": "DEGs"
+      },
+      {
+        "name": "DEMGs"
+      },
+      {
+        "name": "candidate genes"
+      },
+      {
+        "name": "DEGs"
+      },
+      {
+        "name": "hub genes"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "candidategenes"
+      },
+      {
+        "name": "CEP55"
+      },
+      {
+        "name": "CDCA2"
+      },
+      {
+        "name": "MELK"
+      },
+      {
+        "name": "DEPDC1B"
+      },
+      {
+        "name": "IGHG1"
+      },
+      {
+        "name": "OGFOD2"
+      },
+      {
+        "name": "SIL1"
+      }
+    ],
+    "mentioned_pathways": [
+      {
+        "name": "immune-correlated signaling pathways"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "Kyoto Encyclopedia of Genes and Genomes (KEGG)"
+      },
+      {
+        "name": "Gene Set Enrichment Analysis (GSEA)"
+      },
+      {
+        "name": "KEGG"
+      },
+      {
+        "name": "immuneresponse‐activatingsignalingpathways"
+      },
+      {
+        "name": "immuneresponse‐regulating signaling pathways"
+      },
+      {
+        "name": "defenseresponsetovirus"
+      },
+      {
+        "name": "innateimmuneresponseinmucosa"
+      },
+      {
+        "name": "regulationofresponse to cytokine stimulus"
+      },
+      {
+        "name": "NOD‐like receptor signaling"
+      },
+      {
+        "name": "neutrophil extracellular trap formation"
+      },
+      {
+        "name": "FcepsilonRIsignalingpathway"
+      },
+      {
+        "name": "FcgammaR‐mediated phagocytosis"
+      },
+      {
+        "name": "cAMP signaling pathway"
+      },
+      {
+        "name": "GO_INNATE_IMMUNE_RESPONSE"
+      },
+      {
+        "name": "GO_DEFENSE_RESPONSE_TO_OTHER_ORGANISM"
+      },
+      {
+        "name": "GO_IMMUNE_EFFECTOR_PROCESS"
+      },
+      {
+        "name": "GO_DEFENSE_RESPONSE"
+      },
+      {
+        "name": "GO_REGULATION_OF_IMMUNE_SYSTEM_PROCESS"
+      },
+      {
+        "name": "Gene Ontology (GO)"
+      },
+      {
+        "name": "Kyoto Encyclopedia of Genes and Genomes (KEGG)"
+      },
+      {
+        "name": "Gene ontology (GO)"
+      },
+      {
+        "name": "Kyoto Encyclopedia of Genes and Genomes (KEGG)"
+      },
+      {
+        "name": "Gene Set Enrichment Analysis (GSEA)"
+      },
+      {
+        "name": "immune-related signaling pathways"
+      },
+      {
+        "name": "inflammatory immunity"
+      },
+      {
+        "name": "cell cycle regulation"
+      },
+      {
+        "name": "apoptosis"
+      },
+      {
+        "name": "Wnt/β-catenin signaling pathway"
+      }
+    ],
+    "mentioned_drugs": [],
+    "mentioned_diseases": [
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID‐19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID‐19"
+      },
+      {
+        "name": "COVID‐19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "Epstein−Barr virus infection"
+      },
+      {
+        "name": "COVID‐19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "COVID-19"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "chronic fatigue syndrome (CFS)"
+      },
+      {
+        "name": "long COVID"
+      },
+      {
+        "name": "COVID-19"
+      }
+    ]
+  }
+}
