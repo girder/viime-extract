@@ -25,7 +25,7 @@ Once the extraction results are generated, use `ingest-to-csvs.py` to write out 
 uv run ingest-to-csvs.py output extracted/*.json
 ```
 
-To reformat the data:
+To reformat the data to a single CSV:
 
 ```bash
 # as CSV:

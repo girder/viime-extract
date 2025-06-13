@@ -1,0 +1,2887 @@
+{
+    "40093216": {
+        "mentioned_metabolites": [
+            {
+                "name": "S-adenosylmethionine (SAM)"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [
+            {
+                "name": "MTHFR"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "one-carbon metabolism"
+            },
+            {
+                "name": "methionine cycle"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-acute sequelae of SARS-CoV-2 (PASC)"
+            },
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "40088077": {
+        "mentioned_metabolites": [
+            {
+                "name": "glucose"
+            },
+            {
+                "name": "valine"
+            },
+            {
+                "name": "fatty acids (\u2550CH-CH2-CH\u2550)"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "pulmonary fibrotic sequelae"
+            }
+        ]
+    },
+    "40084919": {
+        "mentioned_metabolites": [
+            {
+                "name": "microbial-derived metabolite"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease (COVID-19)"
+            },
+            {
+                "name": "long COVID (LC)"
+            }
+        ]
+    },
+    "40038650": {
+        "mentioned_metabolites": [
+            {
+                "name": "glutathione"
+            },
+            {
+                "name": "alanine"
+            },
+            {
+                "name": "aspartate"
+            },
+            {
+                "name": "glutamate"
+            },
+            {
+                "name": "ascorbate"
+            },
+            {
+                "name": "aldarate"
+            },
+            {
+                "name": "arachidonoyl-EA"
+            },
+            {
+                "name": "1-O-(2r-hydroxy-pentadecyl)-sn-glycerol"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "heterogeneous nuclear ribonucleoprotein K (HNRNPK)"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "cytoskeletal organization"
+            },
+            {
+                "name": "glycolysis/gluconeogenesis"
+            },
+            {
+                "name": "gas transport"
+            },
+            {
+                "name": "adaptive immune responses"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "post-acute sequelae of coronavirus disease 2019 (COVID-19 (PASC))"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "40023939": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "lipid metabolism"
+            },
+            {
+                "name": "cell respiration"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "40003932": {
+        "mentioned_metabolites": [
+            {
+                "name": "arachidonic acid"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "ALOX5"
+            },
+            {
+                "name": "PTGS2"
+            },
+            {
+                "name": "CYP2C9"
+            },
+            {
+                "name": "PLA2G2A"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "arachidonic acid pathway"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "Geum japonicum var. chinense"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "pulmonary fibrosis"
+            },
+            {
+                "name": "coronavirus disease 2019"
+            }
+        ]
+    },
+    "39986310": {
+        "mentioned_metabolites": [
+            {
+                "name": "Neopterin"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "PTP1B"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "PTPN1"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "type I interferon (IFN) signalling"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "corticosteroids"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "type 1 IFN-driven autoinflammatory encephalopathy"
+            },
+            {
+                "name": "uncharacterised disease phenotypes"
+            }
+        ]
+    },
+    "39966402": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": null
+    },
+    "39940991": {
+        "mentioned_metabolites": [
+            {
+                "name": "beetroot juice"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "interleukin (IL)-1\u03b2"
+            },
+            {
+                "name": "IL-8"
+            },
+            {
+                "name": "tumor necrosis factor alpha"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "mitochondrial DNA (mtDNA)"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "electron transport chain"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "39934110": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": null
+    },
+    "39914235": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": null
+    },
+    "39902344": {
+        "mentioned_metabolites": [
+            {
+                "name": "lipid subspecies"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-COVID-19 syndrome"
+            }
+        ]
+    },
+    "39802657": {
+        "mentioned_metabolites": [
+            {
+                "name": "glycerophospholipids"
+            },
+            {
+                "name": "sphingolipid"
+            },
+            {
+                "name": "arachidonic acid"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "coagulation"
+            },
+            {
+                "name": "platelets"
+            },
+            {
+                "name": "complement cascade reactions"
+            },
+            {
+                "name": "GPCR cell signal transduction"
+            },
+            {
+                "name": "substance transport"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "39605478": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "IL-6"
+            },
+            {
+                "name": "CXCL10"
+            },
+            {
+                "name": "TNF"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "cellular replication genes"
+            }
+        ],
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Post-Acute Sequelae of COVID-19 (PASC)"
+            }
+        ]
+    },
+    "39599883": {
+        "mentioned_metabolites": [
+            {
+                "name": "glucose"
+            },
+            {
+                "name": "(CH3)3 choline-related metabolites"
+            },
+            {
+                "name": "2-hydroxybutyrate"
+            },
+            {
+                "name": "BCAA"
+            },
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "acetate"
+            },
+            {
+                "name": "creatine/creatinine"
+            },
+            {
+                "name": "phenylalanine"
+            },
+            {
+                "name": "histidine"
+            },
+            {
+                "name": "lysine"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "acute respiratory syndrome"
+            }
+        ]
+    },
+    "39599626": {
+        "mentioned_metabolites": [
+            {
+                "name": "L-DOPA"
+            },
+            {
+                "name": "butyrate"
+            },
+            {
+                "name": "lipoproteins"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [
+            {
+                "name": "Pro-Vi 5"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-acute COVID-19 disease"
+            },
+            {
+                "name": "severe COVID-19 disease"
+            },
+            {
+                "name": "mild COVID-19 disease"
+            }
+        ]
+    },
+    "39590834": {
+        "mentioned_metabolites": [
+            {
+                "name": "Calenduloside G methyl ester"
+            },
+            {
+                "name": "Gly Pro Lys"
+            },
+            {
+                "name": "Creatine"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID-19"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "39574606": {
+        "mentioned_metabolites": [
+            {
+                "name": "phenylalanine"
+            },
+            {
+                "name": "tryptophan"
+            },
+            {
+                "name": "glutamic acid"
+            },
+            {
+                "name": "indoleacetic acid"
+            },
+            {
+                "name": "carnosine"
+            },
+            {
+                "name": "cis-aconitic acid"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "acute viral pneumonia"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "39571342": {
+        "mentioned_metabolites": [
+            {
+                "name": "nitrate"
+            },
+            {
+                "name": "betalains"
+            },
+            {
+                "name": "nicotinate"
+            },
+            {
+                "name": "trimethylamine"
+            },
+            {
+                "name": "5,6-dihydroxyindole"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "interferon gamma"
+            },
+            {
+                "name": "macrophage inflammatory protein-1\u03b2"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "pathways involved in long COVID"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "beetroot juice"
+            },
+            {
+                "name": "placebo"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019"
+            },
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "39544193": {
+        "mentioned_metabolites": [
+            {
+                "name": "inosine"
+            },
+            {
+                "name": "succinate"
+            },
+            {
+                "name": "lactate"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "long COVID"
+            },
+            {
+                "name": "SARS-CoV-2 infection"
+            }
+        ]
+    },
+    "39520983": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "post-acute sequelae of COVID-19"
+            }
+        ]
+    },
+    "39354320": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID syndrome"
+            }
+        ]
+    },
+    "39314212": {
+        "mentioned_metabolites": [
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "glutamine"
+            },
+            {
+                "name": "alpha-Ketoglutaric acid"
+            },
+            {
+                "name": "LysoPC a C16:0"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Post-COVID-19 syndrome"
+            },
+            {
+                "name": "Long COVID"
+            }
+        ]
+    },
+    "39300427": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "arginine biosynthesis"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "39273608": {
+        "mentioned_metabolites": [
+            {
+                "name": "pyruvate"
+            },
+            {
+                "name": "pseudouridine"
+            },
+            {
+                "name": "cystine"
+            },
+            {
+                "name": "alpha tocopherol"
+            },
+            {
+                "name": "3-hydroxyisovaleric acid"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "interleukin-8 (IL-8)"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019 (COVID-19)"
+            },
+            {
+                "name": "post-acute COVID-19 syndrome (PACS)"
+            },
+            {
+                "name": "long COVID-19"
+            }
+        ]
+    },
+    "39201736": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "mitochondrial proteins"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "viral genes"
+            }
+        ],
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+            }
+        ]
+    },
+    "39063142": {
+        "mentioned_metabolites": [
+            {
+                "name": "lipid"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-COVID syndrome"
+            }
+        ]
+    },
+    "39027641": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "neurological conditions"
+            },
+            {
+                "name": "cancer"
+            },
+            {
+                "name": "metabolic diseases"
+            }
+        ]
+    },
+    "38961383": {
+        "mentioned_metabolites": [
+            {
+                "name": "citrulline"
+            },
+            {
+                "name": "ceramide (d18:1/18:0)"
+            },
+            {
+                "name": "methionine"
+            },
+            {
+                "name": "triglyceride TG(20:1_32:3)"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "viral meningitis"
+            },
+            {
+                "name": "encephalitis"
+            },
+            {
+                "name": "myelitis"
+            },
+            {
+                "name": "herpes simplex virus infection"
+            },
+            {
+                "name": "varicella zoster virus infection"
+            },
+            {
+                "name": "enterovirus infection"
+            },
+            {
+                "name": "tick-borne encephalitis virus infection"
+            },
+            {
+                "name": "aseptic neuroinflammation"
+            }
+        ]
+    },
+    "38837993": {
+        "mentioned_metabolites": [
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "tryptophan"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "post-COVID condition"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "38738317": {
+        "mentioned_metabolites": [
+            {
+                "name": "urea"
+            },
+            {
+                "name": "glucose"
+            },
+            {
+                "name": "amino acids"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "urea cycle"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "acute kidney injury"
+            }
+        ]
+    },
+    "38699316": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "post-acute sequelae of COVID-19"
+            },
+            {
+                "name": "Long COVID"
+            }
+        ]
+    },
+    "38678567": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "post-COVID condition"
+            }
+        ]
+    },
+    "38566450": {
+        "mentioned_metabolites": [
+            {
+                "name": "ceramide"
+            },
+            {
+                "name": "amino acids"
+            },
+            {
+                "name": "tricarboxylic acid (TCA)"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "38368647": {
+        "mentioned_metabolites": [
+            {
+                "name": "lysophosphatidylglycerols (LPGs)"
+            },
+            {
+                "name": "phosphatidylethanolamines (PEs)"
+            },
+            {
+                "name": "lysophosphatidylcholines (LPCs)"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "antimicrobial peptides (AMPs)"
+            }
+        ],
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "post-COVID conditions (PCC)"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "38338803": {
+        "mentioned_metabolites": [
+            {
+                "name": "amino acids"
+            },
+            {
+                "name": "glycoproteins"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID"
+            },
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+            }
+        ]
+    },
+    "38305629": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "Aldo-keto reductase 1C2"
+            },
+            {
+                "name": "viral spike protein"
+            },
+            {
+                "name": "vaccinal spike protein"
+            },
+            {
+                "name": "hydroxytyrosol"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "AKR1C2"
+            }
+        ],
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "non-syndromic primary lipedema"
+            },
+            {
+                "name": "anorexia nervosa"
+            },
+            {
+                "name": "autoimmune retinopathies"
+            },
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long-COVID syndrome"
+            }
+        ]
+    },
+    "38304426": {
+        "mentioned_metabolites": [
+            {
+                "name": "sarcosine"
+            },
+            {
+                "name": "serine"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "IL-1\u03b1"
+            },
+            {
+                "name": "IL-6"
+            },
+            {
+                "name": "TNF-\u03b1"
+            },
+            {
+                "name": "Flt-1"
+            },
+            {
+                "name": "sCD14"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "metabolomic pathways"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "long COVID"
+            },
+            {
+                "name": "myalgic encephalomyelitis"
+            },
+            {
+                "name": "chronic fatigue syndrome"
+            }
+        ]
+    },
+    "38177128": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "pathophysiology of post-exertional malaise"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "long COVID"
+            },
+            {
+                "name": "post-infectious diseases"
+            }
+        ]
+    },
+    "38144169": {
+        "mentioned_metabolites": [
+            {
+                "name": "tryptophan"
+            },
+            {
+                "name": "phenylalanine"
+            },
+            {
+                "name": "serotonin"
+            },
+            {
+                "name": "dopamine"
+            },
+            {
+                "name": "catecholamines"
+            },
+            {
+                "name": "kynurenine"
+            },
+            {
+                "name": "gamma-aminobutyric acid (GABA)"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "kynurenine 3-monooxygenase (KMO)"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "amino acid metabolism"
+            },
+            {
+                "name": "neurotransmitter synthesis"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Long COVID (LC)"
+            },
+            {
+                "name": "myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)"
+            }
+        ]
+    },
+    "38110483": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": [
+            {
+                "name": "hsa-miR146a-5p"
+            },
+            {
+                "name": "hsa-miR-126-3p"
+            },
+            {
+                "name": "hsa-miR-223-3p"
+            }
+        ],
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "38048423": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "lipid-related proteins"
+            },
+            {
+                "name": "innate immune response proteins"
+            },
+            {
+                "name": "vasoconstriction-related proteins"
+            },
+            {
+                "name": "eight proteins associated with FVC"
+            },
+            {
+                "name": "five proteins associated with DLCO"
+            }
+        ],
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "lipid-related pathways"
+            },
+            {
+                "name": "innate immunity pathways"
+            },
+            {
+                "name": "vascular regulation pathways"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "restrictive lung disease"
+            },
+            {
+                "name": "post-COVID-19 conditions"
+            }
+        ]
+    },
+    "37991964": {
+        "mentioned_metabolites": [
+            {
+                "name": "lactate"
+            },
+            {
+                "name": "fumaric acid"
+            },
+            {
+                "name": "symmetrical dimethylarginine"
+            },
+            {
+                "name": "asymmetric dimethylarginine"
+            },
+            {
+                "name": "adipic acid"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "Condition after COVID-19 unspecified"
+            },
+            {
+                "name": "Long COVID"
+            }
+        ]
+    },
+    "37981644": {
+        "mentioned_metabolites": [
+            {
+                "name": "sphingolipids"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "cardiometabolic proteins"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "hemostasis/coagulation"
+            },
+            {
+                "name": "metabolism"
+            },
+            {
+                "name": "immune responses"
+            },
+            {
+                "name": "angiogenesis"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "post-acute COVID-19 (PACS)"
+            },
+            {
+                "name": "postural orthostatic tachycardia syndrome (POTS)"
+            }
+        ]
+    },
+    "37938797": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "viral pathogenesis"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "37890487": {
+        "mentioned_metabolites": [
+            {
+                "name": "arginine"
+            },
+            {
+                "name": "methionine"
+            },
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "tricarboxylic acid (TCA)"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "cytokines"
+            },
+            {
+                "name": "proteome"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "arginine biosynthesis"
+            },
+            {
+                "name": "methionine metabolism"
+            },
+            {
+                "name": "taurine metabolism"
+            },
+            {
+                "name": "tricarboxylic acid (TCA) cycle"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID"
+            },
+            {
+                "name": "post-acute sequelae of COVID-19 (PASC)"
+            }
+        ]
+    },
+    "37861336": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "DCLK1"
+            }
+        ],
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "37858739": {
+        "mentioned_metabolites": [
+            {
+                "name": "sphinganine"
+            },
+            {
+                "name": "7,8-dihydropterin"
+            },
+            {
+                "name": "7,8-dihydroneopterin"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "ST1A1"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "sphingolipid metabolism"
+            },
+            {
+                "name": "steroid hormone biosynthesis"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "neurological post-acute sequelae of SARS-CoV-2"
+            },
+            {
+                "name": "inflammatory neurological diseases"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "37848036": {
+        "mentioned_metabolites": [
+            {
+                "name": "serotonin"
+            },
+            {
+                "name": "tryptophan"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Long COVID"
+            },
+            {
+                "name": "post-acute sequelae of COVID-19 (PASC)"
+            }
+        ]
+    },
+    "37528111": {
+        "mentioned_metabolites": [
+            {
+                "name": "lactic acid"
+            },
+            {
+                "name": "lactate/pyruvate ratio"
+            },
+            {
+                "name": "ornithine/citrulline ratio"
+            },
+            {
+                "name": "arginine"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "IL-17"
+            },
+            {
+                "name": "leptin"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "37512587": {
+        "mentioned_metabolites": [
+            {
+                "name": "Choline"
+            },
+            {
+                "name": "Serine"
+            },
+            {
+                "name": "Glycine"
+            },
+            {
+                "name": "Betaine"
+            },
+            {
+                "name": "Creatine"
+            },
+            {
+                "name": "Creatinine"
+            },
+            {
+                "name": "4-hydroxyproline"
+            },
+            {
+                "name": "Gluconic acid"
+            },
+            {
+                "name": "N-acetylserine"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Long COVID-19"
+            }
+        ]
+    },
+    "37511373": {
+        "mentioned_metabolites": [
+            {
+                "name": "hexosylceramides (HCER 16:0)"
+            },
+            {
+                "name": "hexosylceramides (HCER 20:0)"
+            },
+            {
+                "name": "hexosylceramides (HCER 24:1)"
+            },
+            {
+                "name": "hexosylceramides (HCER 26:0)"
+            },
+            {
+                "name": "hexosylceramides (HCER 26:1)"
+            },
+            {
+                "name": "phosphoethanolamines (PE.O 18:0/18:1)"
+            },
+            {
+                "name": "phosphoethanolamines (PE.P 16:0/18:1)"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "tryptophan-kynurenine pathway"
+            },
+            {
+                "name": "biogenic amine pathway"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Post-acute COVID-19 syndrome"
+            }
+        ]
+    },
+    "37506544": {
+        "mentioned_metabolites": [
+            {
+                "name": "tryptophan"
+            },
+            {
+                "name": "kynurenine metabolites"
+            },
+            {
+                "name": "Krebs cycle-related compounds"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "indoleamine 2,3-dioxygenase-2 (IDO2)"
+            },
+            {
+                "name": "indoleamine 2,3-dioxygenase-1 (IDO1)"
+            },
+            {
+                "name": "aryl hydrocarbon receptor (AHR)"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "autophagy"
+            },
+            {
+                "name": "apoptosis"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "AHR antagonist"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "Post-acute sequela of SARS-CoV-2 infection (PASC)"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "37468867": {
+        "mentioned_metabolites": [
+            {
+                "name": "4-chlorophenylacetic acid"
+            },
+            {
+                "name": "5-sulfoxymethylfurfural"
+            },
+            {
+                "name": "estradiol valerate"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Long COVID-19"
+            }
+        ]
+    },
+    "37457744": {
+        "mentioned_metabolites": [
+            {
+                "name": "eicosadienoic acid"
+            },
+            {
+                "name": "oleic acid"
+            },
+            {
+                "name": "palmitoyl carnitine"
+            },
+            {
+                "name": "nicotinamide"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "SIRT1"
+            },
+            {
+                "name": "NAMPT"
+            },
+            {
+                "name": "PARP 9"
+            },
+            {
+                "name": "PARP 10"
+            },
+            {
+                "name": "PARP 14"
+            },
+            {
+                "name": "CD38"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "NAPRT1"
+            },
+            {
+                "name": "NMNAT1"
+            },
+            {
+                "name": "NAMPT"
+            },
+            {
+                "name": "IDO1"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "NAD metabolism"
+            },
+            {
+                "name": "NAD pathways"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "nicotinamide riboside"
+            },
+            {
+                "name": "anti-NAMPT antibody"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Post-Acute Sequelae of COVID (PASC)"
+            }
+        ]
+    },
+    "37369825": {
+        "mentioned_metabolites": [
+            {
+                "name": "fatty acids"
+            },
+            {
+                "name": "cholesterol"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "SARS-CoV-2 infection"
+            },
+            {
+                "name": "Post-COVID Syndrome"
+            },
+            {
+                "name": "acute pneumonia"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "37368949": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019 (COVID-19)"
+            }
+        ]
+    },
+    "37228606": {
+        "mentioned_metabolites": [
+            {
+                "name": "lactate"
+            },
+            {
+                "name": "pyruvate"
+            },
+            {
+                "name": "histidine"
+            },
+            {
+                "name": "glutamine"
+            },
+            {
+                "name": "triglycerides"
+            },
+            {
+                "name": "phenylalanine"
+            },
+            {
+                "name": "3-hydroxybutyrate"
+            },
+            {
+                "name": "glucose"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "apolipoprotein A1"
+            },
+            {
+                "name": "apolipoprotein A2"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019"
+            },
+            {
+                "name": "long-term COVID-19 syndrome"
+            },
+            {
+                "name": "long post-acute COVID-19 syndrome"
+            },
+            {
+                "name": "acute COVID-19"
+            }
+        ]
+    },
+    "36982151": {
+        "mentioned_metabolites": [
+            {
+                "name": "l-arginine"
+            },
+            {
+                "name": "citrulline"
+            },
+            {
+                "name": "ornithine"
+            },
+            {
+                "name": "monomethyl-l-arginine (MMA)"
+            },
+            {
+                "name": "symmetric dimethylarginine (SDMA)"
+            },
+            {
+                "name": "asymmetric dimethylarginine (ADMA)"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "nitric oxide (NO) bioavailability"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "l-arginine"
+            },
+            {
+                "name": "vitamin C"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "36945569": {
+        "mentioned_metabolites": [
+            {
+                "name": "arginine"
+            },
+            {
+                "name": "serotonin"
+            },
+            {
+                "name": "dopamine"
+            },
+            {
+                "name": "glutamate"
+            },
+            {
+                "name": "GABA"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID"
+            },
+            {
+                "name": "post-COVID condition"
+            }
+        ]
+    },
+    "36936993": {
+        "mentioned_metabolites": [
+            {
+                "name": "sterols"
+            },
+            {
+                "name": "bile acids"
+            },
+            {
+                "name": "isoprenoids"
+            },
+            {
+                "name": "fatty esters"
+            },
+            {
+                "name": "phosphatidylcholines"
+            },
+            {
+                "name": "sphingomyelins"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "metabolic pathways"
+            },
+            {
+                "name": "cell signaling pathways"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-COVID syndrome"
+            }
+        ]
+    },
+    "36904195": {
+        "mentioned_metabolites": [
+            {
+                "name": "triglyceride"
+            },
+            {
+                "name": "glycated haemoglobin A1c"
+            },
+            {
+                "name": "ferritin"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID"
+            }
+        ]
+    },
+    "36876049": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": [
+            {
+                "name": "vaccination treatments"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36805272": {
+        "mentioned_metabolites": [
+            {
+                "name": "fatty acid biosynthesis"
+            },
+            {
+                "name": "phenylalanine metabolism"
+            },
+            {
+                "name": "306 metabolites"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "fatty acid biosynthesis"
+            },
+            {
+                "name": "phenylalanine metabolism"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "respiratory infectious diseases"
+            }
+        ]
+    },
+    "36775870": {
+        "mentioned_metabolites": [
+            {
+                "name": "arachidonic acid"
+            },
+            {
+                "name": "linolenic acid"
+            },
+            {
+                "name": "l-citrulline"
+            },
+            {
+                "name": "l-glutamine"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "arachidonic acid pathway"
+            },
+            {
+                "name": "arginine biosynthesis"
+            },
+            {
+                "name": "alanine metabolism"
+            },
+            {
+                "name": "aspartate metabolism"
+            },
+            {
+                "name": "glutamate metabolism"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36557244": {
+        "mentioned_metabolites": [
+            {
+                "name": "MCP-1"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36507225": {
+        "mentioned_metabolites": [
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "hypaphorine"
+            },
+            {
+                "name": "omega-3 fatty acids"
+            },
+            {
+                "name": "acylcarnitines"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "acute phase proteins"
+            },
+            {
+                "name": "macrophage-derived secreted proteins"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "long COVID-19 syndrome"
+            },
+            {
+                "name": "chronic fatigue syndrome"
+            }
+        ]
+    },
+    "36501014": {
+        "mentioned_metabolites": [
+            {
+                "name": "l-arginine"
+            },
+            {
+                "name": "liposomal vitamin C"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "Long COVID"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36357381": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "acute coronavirus disease 2019 (COVID-19)"
+            },
+            {
+                "name": "post-acute COVID-19 syndrome"
+            }
+        ]
+    },
+    "36355108": {
+        "mentioned_metabolites": [
+            {
+                "name": "lactate"
+            },
+            {
+                "name": "fatty acids"
+            },
+            {
+                "name": "pyruvate"
+            },
+            {
+                "name": "citrate"
+            },
+            {
+                "name": "succinate"
+            },
+            {
+                "name": "malate"
+            },
+            {
+                "name": "spermine"
+            },
+            {
+                "name": "taurine"
+            },
+            {
+                "name": "tryptophan"
+            },
+            {
+                "name": "kynurenine"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "post-acute sequelae of severe acute respiratory syndrome coronavirus infection"
+            },
+            {
+                "name": "acute coronavirus disease 2019"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36271419": {
+        "mentioned_metabolites": [
+            {
+                "name": "organic osmolytes"
+            },
+            {
+                "name": "amino acids"
+            },
+            {
+                "name": "glucose"
+            },
+            {
+                "name": "urea"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "protein degradation"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "acute kidney injury"
+            },
+            {
+                "name": "long COVID-19"
+            }
+        ]
+    },
+    "36206625": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "TSP2"
+            },
+            {
+                "name": "GDF15"
+            },
+            {
+                "name": "IGFBP7"
+            },
+            {
+                "name": "Pro-C3"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "angiogenic"
+            },
+            {
+                "name": "fibrotic"
+            }
+        ],
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "influenza A"
+            },
+            {
+                "name": "interstitial lung disease"
+            },
+            {
+                "name": "long-COVID"
+            }
+        ]
+    },
+    "36091834": {
+        "mentioned_metabolites": [
+            {
+                "name": "amino acids"
+            },
+            {
+                "name": "fatty acids"
+            },
+            {
+                "name": "glycerophospholipids"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "amino acid metabolism"
+            },
+            {
+                "name": "lipid metabolism"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "36065322": {
+        "mentioned_metabolites": [
+            {
+                "name": "itaconic acid"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "kynurenine pathway"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35943976": {
+        "mentioned_metabolites": [
+            {
+                "name": "glycylproline"
+            },
+            {
+                "name": "long-chain acylcarnitines"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "dipeptidyl peptidase 4 (DPP4)"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [
+            {
+                "name": "sitagliptin"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35891354": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "proteome"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "host genome"
+            },
+            {
+                "name": "viral genome"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "metabolome"
+            },
+            {
+                "name": "transcriptome"
+            },
+            {
+                "name": "microbiome"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Post COVID condition"
+            },
+            {
+                "name": "Long-COVID"
+            },
+            {
+                "name": "complex, non-infectious diseases"
+            }
+        ]
+    },
+    "35849572": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "bladder cancer"
+            }
+        ]
+    },
+    "35769168": {
+        "mentioned_metabolites": [
+            {
+                "name": "NAD+"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [
+            {
+                "name": "NAD+"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "post-acute COVID-19 syndrome (PACS)"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35422810": {
+        "mentioned_metabolites": [
+            {
+                "name": "oxoglutaric acid"
+            },
+            {
+                "name": "indoxyl"
+            },
+            {
+                "name": "phenylacetamide"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35288537": {
+        "mentioned_metabolites": [
+            {
+                "name": "metabolites"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "proteins"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "Gene Ontology"
+            },
+            {
+                "name": "Kyoto Encyclopedia of Genes and Genomes"
+            },
+            {
+                "name": "extracellular matrix"
+            },
+            {
+                "name": "immune response"
+            },
+            {
+                "name": "hemostasis"
+            },
+            {
+                "name": "lipid metabolism"
+            },
+            {
+                "name": "pulmonary fibrosis"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35227568": {
+        "mentioned_metabolites": [
+            {
+                "name": "eicosapentaenoic acid"
+            },
+            {
+                "name": "docosahexaenoic acid"
+            },
+            {
+                "name": "Resolvins"
+            },
+            {
+                "name": "Protectins"
+            },
+            {
+                "name": "Maresins"
+            },
+            {
+                "name": "cys-SPMs"
+            },
+            {
+                "name": "MCTRs"
+            },
+            {
+                "name": "PCTRs"
+            },
+            {
+                "name": "RCTRs"
+            },
+            {
+                "name": "resolvin E1"
+            },
+            {
+                "name": "resolvin E2"
+            },
+            {
+                "name": "resolvin E3"
+            },
+            {
+                "name": "resolvin E4"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "35216672": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "Post-acute sequelae of COVID-19"
+            },
+            {
+                "name": "type 2 diabetes"
+            },
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Epstein-Barr virus"
+            },
+            {
+                "name": "gastrointestinal PASC"
+            }
+        ]
+    },
+    "35096923": {
+        "mentioned_metabolites": [
+            {
+                "name": "Arginine"
+            },
+            {
+                "name": "Asparagine"
+            },
+            {
+                "name": "Lactate"
+            },
+            {
+                "name": "3-Hydroxyisobutirate"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "energy pathways"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "probiotic (OB)"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "Long COVID"
+            }
+        ]
+    },
+    "35043127": {
+        "mentioned_metabolites": [
+            {
+                "name": "plasmalogens"
+            },
+            {
+                "name": "phosphatidylcholines"
+            },
+            {
+                "name": "sphingomyelins"
+            },
+            {
+                "name": "choline"
+            },
+            {
+                "name": "ceramides"
+            },
+            {
+                "name": "carnitines"
+            },
+            {
+                "name": "long chain triglycerides"
+            },
+            {
+                "name": "hydroxy-eicosapentaenoic acid"
+            },
+            {
+                "name": "dicarboxylic acids"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "cytidine-5'-diphosphocholine pathway"
+            },
+            {
+                "name": "tricarboxylic acid cycle"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "myalgic encephalomyelitis/chronic fatigue syndrome"
+            },
+            {
+                "name": "post acute sequelae of SARS-CoV-2 infection (PASC)"
+            }
+        ]
+    },
+    "35014610": {
+        "mentioned_metabolites": [
+            {
+                "name": "N-acetylneuraminate"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "cardiac troponin I"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "cardiovascular complications (CVCs)"
+            }
+        ]
+    },
+    "34656797": {
+        "mentioned_metabolites": [
+            {
+                "name": "\u03b2-pseudouridine"
+            },
+            {
+                "name": "uridine"
+            },
+            {
+                "name": "2-(dimethylamino) guanosine"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "kynurenine pathway"
+            },
+            {
+                "name": "tryptophan metabolism"
+            },
+            {
+                "name": "vitamin B6 metabolism"
+            },
+            {
+                "name": "cysteine and methionine metabolism"
+            },
+            {
+                "name": "arginine biosynthesis"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease (COVID-19)"
+            }
+        ]
+    },
+    "34637685": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "34502454": {
+        "mentioned_metabolites": [
+            {
+                "name": "lactic acid"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "energy production"
+            },
+            {
+                "name": "amino acid metabolism"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "34330463": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            }
+        ]
+    },
+    "34193506": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": null,
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "post-acute sequelae of SARS-CoV-2 infection (PASC)"
+            }
+        ]
+    },
+    "34155207": {
+        "mentioned_metabolites": [
+            {
+                "name": "spermidine"
+            },
+            {
+                "name": "spermine"
+            }
+        ],
+        "mentioned_proteins": [
+            {
+                "name": "AKT1"
+            },
+            {
+                "name": "SKP2"
+            },
+            {
+                "name": "AMPK"
+            },
+            {
+                "name": "TSC2"
+            },
+            {
+                "name": "ULK1"
+            },
+            {
+                "name": "BECN1"
+            },
+            {
+                "name": "VPS34"
+            },
+            {
+                "name": "ATG14"
+            },
+            {
+                "name": "LC3B-II"
+            },
+            {
+                "name": "P62"
+            }
+        ],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "autophagy"
+            }
+        ],
+        "mentioned_drugs": [
+            {
+                "name": "MK-2206"
+            },
+            {
+                "name": "niclosamide"
+            }
+        ],
+        "mentioned_diseases": [
+            {
+                "name": "COVID-19"
+            },
+            {
+                "name": "long COVID-19"
+            }
+        ]
+    },
+    "33842517": {
+        "mentioned_metabolites": null,
+        "mentioned_proteins": [
+            {
+                "name": "target of rapamycin (TOR)"
+            }
+        ],
+        "mentioned_genes": [
+            {
+                "name": "pro-inflammatory gene"
+            }
+        ],
+        "mentioned_pathways": [
+            {
+                "name": "energy pathways"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "Ross River virus (RRV)"
+            },
+            {
+                "name": "Chikungunya virus (CHIK)"
+            },
+            {
+                "name": "post-viral fatigue syndromes"
+            },
+            {
+                "name": "Myalgic Encephalomyelitis (ME)"
+            },
+            {
+                "name": "long-COVID"
+            },
+            {
+                "name": "SARS-CoV-2"
+            }
+        ]
+    },
+    "33596592": {
+        "mentioned_metabolites": [
+            {
+                "name": "triacylglycerols"
+            },
+            {
+                "name": "phosphatidylcholines"
+            },
+            {
+                "name": "prostaglandin E2"
+            },
+            {
+                "name": "arginine"
+            },
+            {
+                "name": "betain"
+            },
+            {
+                "name": "adenosine"
+            }
+        ],
+        "mentioned_proteins": null,
+        "mentioned_genes": null,
+        "mentioned_pathways": [
+            {
+                "name": "amino acid metabolic pathway"
+            },
+            {
+                "name": "glycerophospholipid metabolic pathway"
+            }
+        ],
+        "mentioned_drugs": null,
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019 (COVID-19)"
+            }
+        ]
+    },
+    "33426872": {
+        "mentioned_metabolites": [
+            {
+                "name": "fatty acids"
+            },
+            {
+                "name": "amino acids"
+            }
+        ],
+        "mentioned_proteins": [],
+        "mentioned_genes": [],
+        "mentioned_pathways": [
+            {
+                "name": "immune response"
+            },
+            {
+                "name": "fatty acid metabolism"
+            },
+            {
+                "name": "amino acid metabolism"
+            }
+        ],
+        "mentioned_drugs": [],
+        "mentioned_diseases": [
+            {
+                "name": "coronavirus disease 2019"
+            },
+            {
+                "name": "COVID-19"
+            }
+        ]
+    }
+}
