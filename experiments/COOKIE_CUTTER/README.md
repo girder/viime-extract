@@ -1,3 +1,5 @@
+This README is structured for ingesting PubMed CSV exports.
+
 ## Processing
 
 Input file is called `{{ MY-INPUT-CSV.csv }}`.

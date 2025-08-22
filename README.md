@@ -16,7 +16,23 @@ You will need to have an OpenAI API key in order to use the notebooks and query 
 OPENAI_API_KEY=<YOUR OPENAI API KEY>
 ```
 
+## Experiment Setup
+
+1. Install `uv` (see: https://docs.astral.sh/uv/)
+2. Ensure that you can run `uv version` inside the `viime-extract` repo
+
 ## Experiment Running
+
+### Creating a new experiment
+
+1. Copy the `experiments/COOKIE_CUTTER` folder to `experiments/{{ MY EXPERIMENT NAME }}`
+2. Edit the experiment `README.md` with your input PubMed files
+
+### Experiment folders
+
+Refer to the README.md for how to run the experiments.
+
+### TOML files in `experiments/*.toml`
 
 Here is an example of running the extraction pipeline for all PDF files, using `run2.toml` configuration.
 
